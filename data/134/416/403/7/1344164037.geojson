@@ -1,0 +1,72 @@
+{
+  "id": 1344164037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.13049,40.04411,128.13049,40.04411",
+    "geom:latitude":40.04411,
+    "geom:longitude":128.13049,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yongdae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039154,
+    "gn:latitude":40.04411,
+    "gn:longitude":128.13049,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u014fngdae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reitai-ri",
+        "Y\u014fngdae-ri",
+        "\uc601\ub300\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039154
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e83ce131c813e9e37871008b1c5e9ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748003,
+            "locality_id":1344164037,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1344164037,
+    "wof:lastmodified":1537655153,
+    "wof:name":"Yongdae-ri",
+    "wof:parent_id":1108748003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.13048999999998,
+    40.04411,
+    128.13048999999998,
+    40.04411
+],
+  "geometry": {"coordinates":[128.13048999999998,40.04411],"type":"Point"}
+}

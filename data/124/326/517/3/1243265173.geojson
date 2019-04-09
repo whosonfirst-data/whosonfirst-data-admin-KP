@@ -1,0 +1,74 @@
+{
+  "id": 1243265173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.51528,39.41556,127.51528,39.41556",
+    "geom:latitude":39.41556,
+    "geom:longitude":127.51528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Taejodo",
+    "gn:country_code":"KP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868713,
+    "gn:latitude":39.41556,
+    "gn:longitude":127.51528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taej\u014fdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u014dk\u014d",
+        "Changhang",
+        "Kujang-ni",
+        "\ub300\uc800\ub3c4",
+        "Taej\u014fdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868713
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ae6a45b5a0986b33ee706e2cb13d7891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1243265173,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243265173,
+    "wof:lastmodified":1537654297,
+    "wof:name":"Taejodo",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.51528,
+    39.41556,
+    127.51528,
+    39.41556
+],
+  "geometry": {"coordinates":[127.51528,39.41556],"type":"Point"}
+}

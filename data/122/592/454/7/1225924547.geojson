@@ -1,0 +1,73 @@
+{
+  "id": 1225924547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.16917,39.88028,126.16917,39.88028",
+    "geom:latitude":39.88028,
+    "geom:longitude":126.16917,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Somil-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869780,
+    "gn:latitude":39.88028,
+    "gn:longitude":126.16917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Somil-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Somin-ni",
+        "Somin-dong",
+        "Somil-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869780
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ed2cfcef062cb0430402a80140461a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746979,
+            "locality_id":1225924547,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1225924547,
+    "wof:lastmodified":1537654348,
+    "wof:name":"Somil-li",
+    "wof:parent_id":1108746979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.16917,
+    39.88028,
+    126.16917,
+    39.88028
+],
+  "geometry": {"coordinates":[126.16916999999999,39.88028],"type":"Point"}
+}

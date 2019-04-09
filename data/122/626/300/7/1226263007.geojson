@@ -1,0 +1,72 @@
+{
+  "id": 1226263007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.2325,38.4425,126.2325,38.4425",
+    "geom:latitude":38.4425,
+    "geom:longitude":126.2325,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Komul-li",
+    "gn:country_code":"KP",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875721,
+    "gn:latitude":38.4425,
+    "gn:longitude":126.2325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u014fmul-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014fmun-ni",
+        "\uac70\ubb38\ub9ac",
+        "K\u014fmul-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875721
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1db11edde43905933e310392cb4aa24f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":1226263007,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226263007,
+    "wof:lastmodified":1537654644,
+    "wof:name":"Komul-li",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.2325,
+    38.4425,
+    126.2325,
+    38.4425
+],
+  "geometry": {"coordinates":[126.2325,38.4425],"type":"Point"}
+}

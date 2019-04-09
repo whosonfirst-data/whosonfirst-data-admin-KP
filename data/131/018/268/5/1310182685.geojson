@@ -1,0 +1,71 @@
+{
+  "id": 1310182685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.2425,40.56,125.2425,40.56",
+    "geom:latitude":40.56,
+    "geom:longitude":125.2425,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Koje-dong",
+    "gn:country_code":"KP",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043405,
+    "gn:latitude":40.56,
+    "gn:longitude":125.2425,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Koje-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\uc81c\ub3d9",
+        "Koje-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043405
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fba0e4d13df33b985f9ae67032eacc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747945,
+            "locality_id":1310182685,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1310182685,
+    "wof:lastmodified":1537655399,
+    "wof:name":"Koje-dong",
+    "wof:parent_id":1108747945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.2425,
+    40.56,
+    125.2425,
+    40.56
+],
+  "geometry": {"coordinates":[125.24250000000001,40.56],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293080709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.73722,39.24639,125.73722,39.24639",
+    "geom:latitude":39.24639,
+    "geom:longitude":125.73722,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Songi-ri",
+    "gn:country_code":"KP",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869542,
+    "gn:latitude":39.24639,
+    "gn:longitude":125.73722,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"S\u014fngi-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc131\uae30\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "S\u014fngi-ri",
+        "Seonggiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869542
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e38c370e69de4a0f9d4a41ed4d143959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1293080709,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1293080709,
+    "wof:lastmodified":1537654335,
+    "wof:name":"Songi-ri",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.73722,
+    39.24639000000001,
+    125.73722,
+    39.24639000000001
+],
+  "geometry": {"coordinates":[125.73721999999999,39.24639000000001],"type":"Point"}
+}

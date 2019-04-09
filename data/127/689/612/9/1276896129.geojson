@@ -1,0 +1,71 @@
+{
+  "id": 1276896129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.00722,37.91889,126.00722,37.91889",
+    "geom:latitude":37.91889,
+    "geom:longitude":126.00722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Poch'ol-li",
+    "gn:country_code":"KP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872573,
+    "gn:latitude":37.91889,
+    "gn:longitude":126.00722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Poch\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poch\u2019\u014fn-ni",
+        "Poch\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872573
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d19193ca53ad6841e1ca8f7959f7f328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1276896129,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276896129,
+    "wof:lastmodified":1537654489,
+    "wof:name":"Poch'ol-li",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.00722,
+    37.91889000000001,
+    126.00722,
+    37.91889000000001
+],
+  "geometry": {"coordinates":[126.00722,37.91889000000001],"type":"Point"}
+}

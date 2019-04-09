@@ -1,0 +1,71 @@
+{
+  "id": 1276569457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.55417,38.74778,127.55417,38.74778",
+    "geom:latitude":38.74778,
+    "geom:longitude":127.55417,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kach'ijae",
+    "gn:country_code":"KP",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882421,
+    "gn:latitude":38.74778,
+    "gn:longitude":127.55417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kach\u2019ijae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\uce58\uc7ac",
+        "Kach\u2019ijae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882421
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"528385119214c032220571331b089ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746887,
+            "locality_id":1276569457,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1276569457,
+    "wof:lastmodified":1537654879,
+    "wof:name":"Kach'ijae",
+    "wof:parent_id":1108746887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.55417,
+    38.74778,
+    127.55417,
+    38.74778
+],
+  "geometry": {"coordinates":[127.55417,38.74778],"type":"Point"}
+}

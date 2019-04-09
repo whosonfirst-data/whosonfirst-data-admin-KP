@@ -1,0 +1,67 @@
+{
+  "id": 1209211919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17861,38.25944,125.17861,38.25944",
+    "geom:latitude":38.25944,
+    "geom:longitude":125.17861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1930981,
+    "gn:latitude":38.25944,
+    "gn:longitude":125.17861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"O\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\uc751\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "O\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1930981
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7d1468751d87b3abc09ae68fddfca9e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209211919
+        }
+    ],
+    "wof:id":1209211919,
+    "wof:lastmodified":1537655060,
+    "wof:name":"Oung-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17861,
+    38.25944000000001,
+    125.17861,
+    38.25944000000001
+],
+  "geometry": {"coordinates":[125.17861000000001,38.25944000000001],"type":"Point"}
+}

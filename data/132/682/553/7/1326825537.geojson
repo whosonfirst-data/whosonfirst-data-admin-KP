@@ -1,0 +1,62 @@
+{
+  "id": 1326825537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.40833,39.33417,127.40833,39.33417",
+    "geom:latitude":39.33417,
+    "geom:longitude":127.40833,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Munch\u2019\u014fn-si",
+    "gn:asciiname":"Tongdae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952824,
+    "gn:latitude":39.33417,
+    "gn:longitude":127.40833,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Tongdae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952824
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"29bc313f4d5919522ecabb29b6beb001",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326825537,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326825537,
+    "wof:lastmodified":1537056044,
+    "wof:name":"Tongdae-ri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.40833,
+    39.33417,
+    127.40833,
+    39.33417
+],
+  "geometry": {"coordinates":[127.40833000000001,39.33417],"type":"Point"}
+}

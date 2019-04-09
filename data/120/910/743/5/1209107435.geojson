@@ -1,0 +1,66 @@
+{
+  "id": 1209107435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.20583,39.38529,127.20583,39.38529",
+    "geom:latitude":39.38529,
+    "geom:longitude":127.20583,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"Kow\u014fn-gun",
+    "gn:asciiname":"Kyoch'o-ri",
+    "gn:country_code":"KP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952964,
+    "gn:latitude":39.38529,
+    "gn:longitude":127.20583,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kyoch\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyoch\u2019o-ri",
+        "\uad50\ucd08\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952964
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7af9f9a8529578103a8a71be4bb87aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209107435
+        }
+    ],
+    "wof:id":1209107435,
+    "wof:lastmodified":1537655118,
+    "wof:name":"Kyoch'o-ri",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.20583,
+    39.38529000000001,
+    127.20583,
+    39.38529000000001
+],
+  "geometry": {"coordinates":[127.20583000000001,39.38529000000001],"type":"Point"}
+}

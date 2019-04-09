@@ -1,0 +1,73 @@
+{
+  "id": 1310211407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.85083,39.89417,127.85083,39.89417",
+    "geom:latitude":39.89417,
+    "geom:longitude":127.85083,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sep'o-ri",
+    "gn:country_code":"KP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870824,
+    "gn:latitude":39.89417,
+    "gn:longitude":127.85083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sep\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kan\u016dn\u2019gae",
+        "Sep\u2019o",
+        "\uc138\ud3ec\ub9ac",
+        "Sep\u2019o-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870824
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"db66699b19f7d393ad3dd1d7f12c66e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747955,
+            "locality_id":1310211407,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1310211407,
+    "wof:lastmodified":1537654400,
+    "wof:name":"Sep'o-ri",
+    "wof:parent_id":1108747955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.85083,
+    39.89417,
+    127.85083,
+    39.89417
+],
+  "geometry": {"coordinates":[127.85083,39.89417],"type":"Point"}
+}

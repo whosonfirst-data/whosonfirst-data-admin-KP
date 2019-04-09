@@ -1,0 +1,64 @@
+{
+  "id": 1209336375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.32917,38.14139,125.32917,38.14139",
+    "geom:latitude":38.14139,
+    "geom:longitude":125.32917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tangdong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868470,
+    "gn:latitude":38.14139,
+    "gn:longitude":125.32917,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tangdong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\ub3d9\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868470
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3c25a10fda52bf378170660cf8834c2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209336375
+        }
+    ],
+    "wof:id":1209336375,
+    "wof:lastmodified":1537654284,
+    "wof:name":"Tangdong-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.32917,
+    38.14139,
+    125.32917,
+    38.14139
+],
+  "geometry": {"coordinates":[125.32917,38.14139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310087929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.36528,39.16417,125.36528,39.16417",
+    "geom:latitude":39.16417,
+    "geom:longitude":125.36528,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hayongmyong-gol",
+    "gn:country_code":"KP",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6269649,
+    "gn:latitude":39.16417,
+    "gn:longitude":125.36528,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Hay\u014fngmy\u014fng-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6269649
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"aa572a0b8a745f37c019ecb19b4427d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747801,
+            "locality_id":1310087929,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1310087929,
+    "wof:lastmodified":1537020974,
+    "wof:name":"Hayongmyong-gol",
+    "wof:parent_id":1108747801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.36528,
+    39.16417,
+    125.36528,
+    39.16417
+],
+  "geometry": {"coordinates":[125.36528,39.16417],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327325851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.91583,38.2625,124.91583,38.2625",
+    "geom:latitude":38.2625,
+    "geom:longitude":124.91583,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Changy\u014fn-gun",
+    "gn:asciiname":"Haeal-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872949,
+    "gn:latitude":38.2625,
+    "gn:longitude":124.91583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haeal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paekch\u2019on-ni",
+        "Paekch\u2019ol-li",
+        "Paekch\u2019on",
+        "Haeal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872949
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"252bae70a89963747d3e621f0f6e2123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746917,
+            "locality_id":1327325851,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1327325851,
+    "wof:lastmodified":1537654508,
+    "wof:name":"Haeal-li",
+    "wof:parent_id":1108746917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.91583,
+    38.2625,
+    124.91583,
+    38.2625
+],
+  "geometry": {"coordinates":[124.91583,38.2625],"type":"Point"}
+}

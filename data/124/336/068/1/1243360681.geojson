@@ -1,0 +1,66 @@
+{
+  "id": 1243360681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.1375,37.985,125.1375,37.985",
+    "geom:latitude":37.985,
+    "geom:longitude":125.1375,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oebip'a-ri",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873362,
+    "gn:latitude":37.985,
+    "gn:longitude":125.1375,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oebip\u2019a-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc678\ube44\ud30c\ub9ac",
+        "Oebip\u2019a-dong",
+        "Oebip\u2019a-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873362
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"80dc59588155736c9623b2f60bbc5f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243360681,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243360681,
+    "wof:lastmodified":1537654528,
+    "wof:name":"Oebip'a-ri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.1375,
+    37.985,
+    125.1375,
+    37.985
+],
+  "geometry": {"coordinates":[125.1375,37.985],"type":"Point"}
+}

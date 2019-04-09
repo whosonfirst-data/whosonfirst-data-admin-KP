@@ -1,0 +1,71 @@
+{
+  "id": 1344234513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.45,40.04611,124.45,40.04611",
+    "geom:latitude":40.04611,
+    "geom:longitude":124.45,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nakch'ong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042636,
+    "gn:latitude":40.04611,
+    "gn:longitude":124.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nakch\u2019\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub77d\uccad\ub3d9",
+        "Nakch\u2019\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042636
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"dae8a2c64d262ca2d0987077f4a82604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747047,
+            "locality_id":1344234513,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1344234513,
+    "wof:lastmodified":1537655355,
+    "wof:name":"Nakch'ong-dong",
+    "wof:parent_id":1108747047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.45,
+    40.04611,
+    124.45,
+    40.04611
+],
+  "geometry": {"coordinates":[124.45,40.04611],"type":"Point"}
+}

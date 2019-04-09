@@ -1,0 +1,83 @@
+{
+  "id": 421201101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42028,38.35667,126.42028,38.35667",
+    "geom:latitude":38.35667,
+    "geom:longitude":126.42028,
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:kor_x_preferred":[
+        "\uc18d\uc0ac\ub3d9"
+    ],
+    "name:unk_x_variant":[
+        "Soksa-dong"
+    ],
+    "qs:gn_country":"KP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":6366214,
+    "qs:gn_pop":0,
+    "qs:name":"\uc18c\uc0ac\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uacbd\uae30\ub3c4",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":911189,
+    "qs:woe_adm0":23424868,
+    "qs:woe_id":28806791,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        1108747923,
+        85676603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366214,
+        "gp:id":28806791,
+        "qs:id":911189
+    },
+    "wof:country":"KP",
+    "wof:created":1459010051,
+    "wof:geomhash":"e7ec1a08c988447e0d567ea2963ff5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747923,
+            "locality_id":-1,
+            "neighbourhood_id":421201101,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":421201101,
+    "wof:lastmodified":1531858790,
+    "wof:name":"\uc18c\uc0ac\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42028,
+    38.35667,
+    126.42028,
+    38.35667
+],
+  "geometry": {"coordinates":[126.42028000000001,38.35667],"type":"Point"}
+}

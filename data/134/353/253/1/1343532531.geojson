@@ -1,0 +1,70 @@
+{
+  "id": 1343532531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.23389,41.13361,128.23389,41.13361",
+    "geom:latitude":41.13361,
+    "geom:longitude":128.23389,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yongsu-ri",
+    "gn:country_code":"KP",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2054465,
+    "gn:latitude":41.13361,
+    "gn:longitude":128.23389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongsu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc218\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2054465
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fab60bf6ffae8a913606b732c386ee54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746953,
+            "locality_id":1343532531,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1343532531,
+    "wof:lastmodified":1537655630,
+    "wof:name":"Yongsu-ri",
+    "wof:parent_id":1108746953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.23389,
+    41.13361,
+    128.23389,
+    41.13361
+],
+  "geometry": {"coordinates":[128.23389,41.13361],"type":"Point"}
+}

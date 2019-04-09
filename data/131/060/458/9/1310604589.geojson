@@ -1,0 +1,71 @@
+{
+  "id": 1310604589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.86917,41.76083,126.86917,41.76083",
+    "geom:latitude":41.76083,
+    "geom:longitude":126.86917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kyosang",
+    "gn:country_code":"KP",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302362,
+    "gn:latitude":41.76083,
+    "gn:longitude":126.86917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kyosang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad50\uc0c1",
+        "Kyosang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302362
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cae27b8b35c2eb3262f851be5709c239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747797,
+            "locality_id":1310604589,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1310604589,
+    "wof:lastmodified":1537655800,
+    "wof:name":"Kyosang",
+    "wof:parent_id":1108747797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.86917,
+    41.76083,
+    126.86917,
+    41.76083
+],
+  "geometry": {"coordinates":[126.86917,41.76083],"type":"Point"}
+}

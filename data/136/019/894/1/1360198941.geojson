@@ -1,0 +1,77 @@
+{
+  "id": 1360198941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.9,39.0,125.9,39.0",
+    "geom:latitude":39.0,
+    "geom:longitude":125.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sooryu-ri",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869303,
+    "gn:latitude":39.0,
+    "gn:longitude":125.9,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Sooryu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\uc624\ub958\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Sh\u014dgory\u016b",
+        "Sh\u014dgory\u016b-ri",
+        "Sooryu-ri",
+        "Sooryuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869303
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"28162b73d666cfb20dd4194c21f84483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1360198941,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1360198941,
+    "wof:lastmodified":1537654323,
+    "wof:name":"Sooryu-ri",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.9,
+    39.0,
+    125.9,
+    39.0
+],
+  "geometry": {"coordinates":[125.90000000000001,39.0],"type":"Point"}
+}

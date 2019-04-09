@@ -1,0 +1,71 @@
+{
+  "id": 1276320977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.63083,40.02,124.63083,40.02",
+    "geom:latitude":40.02,
+    "geom:longitude":124.63083,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ch'ema-dong",
+    "gn:country_code":"KP",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044989,
+    "gn:latitude":40.02,
+    "gn:longitude":124.63083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019ema-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uccb4\ub9c8\ub3d9",
+        "Ch\u2019ema-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044989
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8a7c885f1164dbca76fb75481369ab9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747047,
+            "locality_id":1276320977,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276320977,
+    "wof:lastmodified":1537655489,
+    "wof:name":"Ch'ema-dong",
+    "wof:parent_id":1108747047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.63083,
+    40.02,
+    124.63083,
+    40.02
+],
+  "geometry": {"coordinates":[124.63083,40.02],"type":"Point"}
+}

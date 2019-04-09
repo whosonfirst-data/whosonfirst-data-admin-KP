@@ -1,0 +1,72 @@
+{
+  "id": 1293797197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.67667,40.44417,125.67667,40.44417",
+    "geom:latitude":40.44417,
+    "geom:longitude":125.67667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kajung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043641,
+    "gn:latitude":40.44417,
+    "gn:longitude":125.67667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kajung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kajung-dong",
+        "\uac00\uc911\ub9ac",
+        "Kajung-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043641
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"488a0a42294155d3d9001c952c35e70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1293797197,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1293797197,
+    "wof:lastmodified":1537655411,
+    "wof:name":"Kajung-ni",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.67667,
+    40.44417,
+    125.67667,
+    40.44417
+],
+  "geometry": {"coordinates":[125.67667,40.44417],"type":"Point"}
+}

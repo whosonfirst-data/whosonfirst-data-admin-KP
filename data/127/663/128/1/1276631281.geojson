@@ -1,0 +1,67 @@
+{
+  "id": 1276631281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.4,42.38333,129.4,42.38333",
+    "geom:latitude":42.38333,
+    "geom:longitude":129.4,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Taejang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040154,
+    "gn:latitude":42.38333,
+    "gn:longitude":129.4,
+    "gn:modification_date":"2002-05-02",
+    "gn:name":"Taejang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040154
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5bb7ce7529436424108eb1768a1949e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746885,
+            "locality_id":1276631281,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1276631281,
+    "wof:lastmodified":1536875966,
+    "wof:name":"Taejang-dong",
+    "wof:parent_id":1108746885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.4,
+    42.38333,
+    129.4,
+    42.38333
+],
+  "geometry": {"coordinates":[129.40000000000001,42.38333],"type":"Point"}
+}

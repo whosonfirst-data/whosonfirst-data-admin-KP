@@ -1,0 +1,67 @@
+{
+  "id": 1293088377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.14444,39.99556,126.14444,39.99556",
+    "geom:latitude":39.99556,
+    "geom:longitude":126.14444,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Younhach'am",
+    "gn:country_code":"KP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947990,
+    "gn:latitude":39.99556,
+    "gn:longitude":126.14444,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Y\u014funhach\u2019am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947990
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"920266ba0b75c4b1a8378ef6d5f77202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746901,
+            "locality_id":1293088377,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1293088377,
+    "wof:lastmodified":1536864150,
+    "wof:name":"Younhach'am",
+    "wof:parent_id":1108746901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.14444,
+    39.99556,
+    126.14444,
+    39.99556
+],
+  "geometry": {"coordinates":[126.14444,39.99556],"type":"Point"}
+}

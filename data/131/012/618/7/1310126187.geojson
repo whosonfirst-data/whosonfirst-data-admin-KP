@@ -1,0 +1,67 @@
+{
+  "id": 1310126187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.81056,38.33944,125.81056,38.33944",
+    "geom:latitude":38.33944,
+    "geom:longitude":125.81056,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tungnyong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867530,
+    "gn:latitude":38.33944,
+    "gn:longitude":125.81056,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"T\u016dngnyong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867530
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d80f57792037eec0fc0243991f1561bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747217,
+            "locality_id":1310126187,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310126187,
+    "wof:lastmodified":1536966459,
+    "wof:name":"Tungnyong-dong",
+    "wof:parent_id":1108747217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.81056,
+    38.33944,
+    125.81056,
+    38.33944
+],
+  "geometry": {"coordinates":[125.81056,38.33944],"type":"Point"}
+}

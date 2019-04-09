@@ -1,0 +1,72 @@
+{
+  "id": 1327237869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.90056,40.79222,128.90056,40.79222",
+    "geom:latitude":40.79222,
+    "geom:longitude":128.90056,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"Tanch'\u014fn-si",
+    "gn:asciiname":"Kang-gol",
+    "gn:country_code":"KP",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055453,
+    "gn:latitude":40.79222,
+    "gn:longitude":128.90056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kang-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac15\uace8",
+        "Kang-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055453
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3b8570b45ac04cf0769c1bf050c0c7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1327237869,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1327237869,
+    "wof:lastmodified":1537655653,
+    "wof:name":"Kang-gol",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.90056,
+    40.79222,
+    128.90056,
+    40.79222
+],
+  "geometry": {"coordinates":[128.90056000000001,40.79222],"type":"Point"}
+}

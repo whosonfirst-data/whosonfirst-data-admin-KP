@@ -1,0 +1,67 @@
+{
+  "id": 1343256593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.49722,38.39556,125.49722,38.39556",
+    "geom:latitude":38.39556,
+    "geom:longitude":125.49722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tohwa-dong",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868206,
+    "gn:latitude":38.39556,
+    "gn:longitude":125.49722,
+    "gn:modification_date":"2002-02-19",
+    "gn:name":"Tohwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868206
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2e35e439faee9ab135f1f53321974872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746843,
+            "locality_id":1343256593,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1343256593,
+    "wof:lastmodified":1537038827,
+    "wof:name":"Tohwa-dong",
+    "wof:parent_id":1108746843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.49722,
+    38.39556,
+    125.49722,
+    38.39556
+],
+  "geometry": {"coordinates":[125.49722,38.39556],"type":"Point"}
+}

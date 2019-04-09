@@ -1,0 +1,65 @@
+{
+  "id": 1209424181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.84111,40.84139,125.84111,40.84139",
+    "geom:latitude":40.84139,
+    "geom:longitude":125.84111,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sangyang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055054,
+    "gn:latitude":40.84139,
+    "gn:longitude":125.84111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangyang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uc591\ub3d9",
+        "Sangyang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055054
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1fac9b4f360f1d1703621134cd0870e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209424181
+        }
+    ],
+    "wof:id":1209424181,
+    "wof:lastmodified":1537655641,
+    "wof:name":"Sangyang-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.84111,
+    40.84139,
+    125.84111,
+    40.84139
+],
+  "geometry": {"coordinates":[125.84111,40.84139],"type":"Point"}
+}

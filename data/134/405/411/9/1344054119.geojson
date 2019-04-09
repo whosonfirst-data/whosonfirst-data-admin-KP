@@ -1,0 +1,67 @@
+{
+  "id": 1344054119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.79889,38.24667,125.79889,38.24667",
+    "geom:latitude":38.24667,
+    "geom:longitude":125.79889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Undae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947341,
+    "gn:latitude":38.24667,
+    "gn:longitude":125.79889,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"Undae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947341
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4842b382fdb18abd7a8096a0f8b3efb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748009,
+            "locality_id":1344054119,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1344054119,
+    "wof:lastmodified":1536884221,
+    "wof:name":"Undae-ri",
+    "wof:parent_id":1108748009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.79889,
+    38.24667,
+    125.79889,
+    38.24667
+],
+  "geometry": {"coordinates":[125.79889,38.24667],"type":"Point"}
+}

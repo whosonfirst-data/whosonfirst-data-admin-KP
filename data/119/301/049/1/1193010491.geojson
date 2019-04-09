@@ -1,0 +1,67 @@
+{
+  "id": 1193010491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.97167,37.95278,125.97167,37.95278",
+    "geom:latitude":37.95278,
+    "geom:longitude":125.97167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Simp'yong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870760,
+    "gn:latitude":37.95278,
+    "gn:longitude":125.97167,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Simp\u2019y\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870760
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9994c7d7567c896cc214da2a2d8d06a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1193010491,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1193010491,
+    "wof:lastmodified":1536384012,
+    "wof:name":"Simp'yong-ni",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.97167,
+    37.95278,
+    125.97167,
+    37.95278
+],
+  "geometry": {"coordinates":[125.97167,37.95278],"type":"Point"}
+}

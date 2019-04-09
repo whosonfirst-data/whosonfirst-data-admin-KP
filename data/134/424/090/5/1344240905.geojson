@@ -1,0 +1,71 @@
+{
+  "id": 1344240905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.72167,38.99778,127.72167,38.99778",
+    "geom:latitude":38.99778,
+    "geom:longitude":127.72167,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hwangp'o-dong",
+    "gn:country_code":"KP",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876864,
+    "gn:latitude":38.99778,
+    "gn:longitude":127.72167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hwangp\u2019o-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud669\ud3ec\ub3d9",
+        "Hwangp\u2019o-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876864
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"61a2b1361dbd97cc06e2a9f2acbdfcb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747187,
+            "locality_id":1344240905,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1344240905,
+    "wof:lastmodified":1537654709,
+    "wof:name":"Hwangp'o-dong",
+    "wof:parent_id":1108747187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.72167,
+    38.99778,
+    127.72167,
+    38.99778
+],
+  "geometry": {"coordinates":[127.72167,38.99778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276323065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0625,38.43889,128.0625,38.43889",
+    "geom:latitude":38.43889,
+    "geom:longitude":128.0625,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hoejon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877172,
+    "gn:latitude":38.43889,
+    "gn:longitude":128.0625,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Hoej\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud68c\uc804\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Hoej\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877172
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fc1a5f60201c1991a78a3e18beee7f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747853,
+            "locality_id":1276323065,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1276323065,
+    "wof:lastmodified":1537654727,
+    "wof:name":"Hoejon-dong",
+    "wof:parent_id":1108747853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0625,
+    38.43889,
+    128.0625,
+    38.43889
+],
+  "geometry": {"coordinates":[128.0625,38.43889],"type":"Point"}
+}

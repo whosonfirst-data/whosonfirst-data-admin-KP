@@ -1,0 +1,75 @@
+{
+  "id": 1259670291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.68083,38.86806,125.68083,38.86806",
+    "geom:latitude":38.86806,
+    "geom:longitude":125.68083,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chiksangol",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878886,
+    "gn:latitude":38.86806,
+    "gn:longitude":125.68083,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Chiksangol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c1\uc0b0\uace8"
+    ],
+    "name:und_x_variant":[
+        "Chiksan-dong",
+        "Chiksangol",
+        "Jiksan-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878886
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a143a15a199e487de23ef03b13d3de3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1259670291,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1259670291,
+    "wof:lastmodified":1537654824,
+    "wof:name":"Chiksangol",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.68083,
+    38.86806,
+    125.68083,
+    38.86806
+],
+  "geometry": {"coordinates":[125.68083,38.86806],"type":"Point"}
+}

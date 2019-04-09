@@ -1,0 +1,67 @@
+{
+  "id": 1259653515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.30167,39.16056,125.30167,39.16056",
+    "geom:latitude":39.16056,
+    "geom:longitude":125.30167,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sinsong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6269644,
+    "gn:latitude":39.16056,
+    "gn:longitude":125.30167,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Sins\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6269644
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a1d4dc305059d3fa07a6352c295925ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747801,
+            "locality_id":1259653515,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1259653515,
+    "wof:lastmodified":1536611390,
+    "wof:name":"Sinsong-ni",
+    "wof:parent_id":1108747801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.30167,
+    39.16056,
+    125.30167,
+    39.16056
+],
+  "geometry": {"coordinates":[125.30167,39.16056],"type":"Point"}
+}

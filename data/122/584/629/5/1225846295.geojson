@@ -1,0 +1,76 @@
+{
+  "id": 1225846295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.99028,40.59833,128.99028,40.59833",
+    "geom:latitude":40.59833,
+    "geom:longitude":128.99028,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yongjam-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039081,
+    "gn:latitude":40.59833,
+    "gn:longitude":128.99028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongjam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yongsam-ni",
+        "Yongam-ni",
+        "Ry\u016bshin-ri",
+        "Ry\u016brei-ri",
+        "\ub8e1\uc7a0\ub9ac",
+        "Yongjam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039081
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cae0de6fd615c0e305105c2ec95f9aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1225846295,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1225846295,
+    "wof:lastmodified":1537655148,
+    "wof:name":"Yongjam-ni",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.99028,
+    40.59833,
+    128.99028,
+    40.59833
+],
+  "geometry": {"coordinates":[128.99028000000001,40.59833],"type":"Point"}
+}

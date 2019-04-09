@@ -1,0 +1,71 @@
+{
+  "id": 1276550979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.18917,40.18667,126.18917,40.18667",
+    "geom:latitude":40.18667,
+    "geom:longitude":126.18917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Il-tong",
+    "gn:country_code":"KP",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2054615,
+    "gn:latitude":40.18667,
+    "gn:longitude":126.18917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Il-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc77c\ub3d9",
+        "Il-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2054615
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f69717bee425855ca0a38c9ed75c10a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747761,
+            "locality_id":1276550979,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1276550979,
+    "wof:lastmodified":1537655632,
+    "wof:name":"Il-tong",
+    "wof:parent_id":1108747761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.18917,
+    40.18667,
+    126.18917,
+    40.18667
+],
+  "geometry": {"coordinates":[126.18917,40.18667],"type":"Point"}
+}

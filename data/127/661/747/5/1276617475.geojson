@@ -1,0 +1,70 @@
+{
+  "id": 1276617475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.92194,42.9075,129.92194,42.9075",
+    "geom:latitude":42.9075,
+    "geom:longitude":129.92194,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kajanggok",
+    "gn:country_code":"KP",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305651,
+    "gn:latitude":42.9075,
+    "gn:longitude":129.92194,
+    "gn:modification_date":"2006-12-03",
+    "gn:name":"Kajanggok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\uc7a5\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305651
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6c5d5196f3c7f182e4e77e523f803cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747901,
+            "locality_id":1276617475,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1276617475,
+    "wof:lastmodified":1537655838,
+    "wof:name":"Kajanggok",
+    "wof:parent_id":1108747901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.92193999999998,
+    42.9075,
+    129.92193999999998,
+    42.9075
+],
+  "geometry": {"coordinates":[129.92193999999998,42.9075],"type":"Point"}
+}

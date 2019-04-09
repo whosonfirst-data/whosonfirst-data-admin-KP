@@ -1,0 +1,67 @@
+{
+  "id": 1242856763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.18694,39.76806,126.18694,39.76806",
+    "geom:latitude":39.76806,
+    "geom:longitude":126.18694,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892369,
+    "gn:latitude":39.76806,
+    "gn:longitude":126.18694,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Chung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892369
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2fa102404599c84211d6abfac462c214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747191,
+            "locality_id":1242856763,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1242856763,
+    "wof:lastmodified":1536661613,
+    "wof:name":"Chung-ni",
+    "wof:parent_id":1108747191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.18694,
+    39.76806,
+    126.18694,
+    39.76806
+],
+  "geometry": {"coordinates":[126.18694000000001,39.76806],"type":"Point"}
+}

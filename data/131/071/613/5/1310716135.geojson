@@ -1,0 +1,70 @@
+{
+  "id": 1310716135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4,37.9,125.4,37.9",
+    "geom:latitude":37.9,
+    "geom:longitude":125.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"P'o-dong",
+    "gn:country_code":"KP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872570,
+    "gn:latitude":37.9,
+    "gn:longitude":125.4,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"P\u2019o-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3ec\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Kae-gol",
+        "P\u2019o-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872570
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d160a209e0a1c0048eea8a0fdd49011f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310716135,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310716135,
+    "wof:lastmodified":1537654488,
+    "wof:name":"P'o-dong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4,
+    37.9,
+    125.4,
+    37.9
+],
+  "geometry": {"coordinates":[125.40000000000001,37.9],"type":"Point"}
+}

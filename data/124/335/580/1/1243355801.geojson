@@ -1,0 +1,72 @@
+{
+  "id": 1243355801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.65167,37.93889,125.65167,37.93889",
+    "geom:latitude":37.93889,
+    "geom:longitude":125.65167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chunggye-dong",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877921,
+    "gn:latitude":37.93889,
+    "gn:longitude":125.65167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chunggye-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\uacc4\ub3d9",
+        "Chungge-dong",
+        "Chunggye-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877921
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"222207f932172419ad4c268d20613a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747817,
+            "locality_id":1243355801,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243355801,
+    "wof:lastmodified":1537654770,
+    "wof:name":"Chunggye-dong",
+    "wof:parent_id":1108747817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.65167,
+    37.93889,
+    125.65167,
+    37.93889
+],
+  "geometry": {"coordinates":[125.65167,37.93889],"type":"Point"}
+}

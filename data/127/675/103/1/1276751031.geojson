@@ -1,0 +1,74 @@
+{
+  "id": 1276751031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.08711,39.67581,125.08711,39.67581",
+    "geom:latitude":39.67581,
+    "geom:longitude":125.08711,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Namsal-li",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873704,
+    "gn:latitude":39.67581,
+    "gn:longitude":125.08711,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Namsal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\uc0b0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Namsan-ni",
+        "Namsal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873704
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"91a563f3ad7a1f5855df8b58c86a7606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1276751031,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276751031,
+    "wof:lastmodified":1537654544,
+    "wof:name":"Namsal-li",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.08711,
+    39.67581,
+    125.08711,
+    39.67581
+],
+  "geometry": {"coordinates":[125.08711,39.67581],"type":"Point"}
+}

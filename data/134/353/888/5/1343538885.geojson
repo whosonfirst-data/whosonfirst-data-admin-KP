@@ -1,0 +1,68 @@
+{
+  "id": 1343538885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.34417,39.91083,126.34417,39.91083",
+    "geom:latitude":39.91083,
+    "geom:longitude":126.34417,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"Kujang-gun",
+    "gn:asciiname":"Ch'olchuk-tong",
+    "gn:country_code":"KP",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948575,
+    "gn:latitude":39.91083,
+    "gn:longitude":126.34417,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Ch\u2019\u014flchuk-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948575
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cc089112c63c9d858c6a7a74add98aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746979,
+            "locality_id":1343538885,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1343538885,
+    "wof:lastmodified":1536631609,
+    "wof:name":"Ch'olchuk-tong",
+    "wof:parent_id":1108746979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.34417,
+    39.91083,
+    126.34417,
+    39.91083
+],
+  "geometry": {"coordinates":[126.34417000000001,39.91083],"type":"Point"}
+}

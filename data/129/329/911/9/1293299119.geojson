@@ -1,0 +1,77 @@
+{
+  "id": 1293299119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36861,39.79056,127.36861,39.79056",
+    "geom:latitude":39.79056,
+    "geom:longitude":127.36861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kuum-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875088,
+    "gn:latitude":39.79056,
+    "gn:longitude":127.36861,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Ku\u016dm-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadf8\uc74d\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fngp\u2019y\u014fng",
+        "Teishu",
+        "Teihei",
+        "Ku\u016dm-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875088
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"52e948db26c7bf53a54d9d15f6926fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747795,
+            "locality_id":1293299119,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293299119,
+    "wof:lastmodified":1537654607,
+    "wof:name":"Kuum-ni",
+    "wof:parent_id":1108747795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36861,
+    39.79056,
+    127.36861,
+    39.79056
+],
+  "geometry": {"coordinates":[127.36861,39.79056],"type":"Point"}
+}

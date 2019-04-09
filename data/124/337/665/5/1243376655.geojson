@@ -1,0 +1,74 @@
+{
+  "id": 1243376655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.76778,40.49889,126.76778,40.49889",
+    "geom:latitude":40.49889,
+    "geom:longitude":126.76778,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuryong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2052255,
+    "gn:latitude":40.49889,
+    "gn:longitude":126.76778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kuryong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub8e1\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "\uad6c\ub8e1\ub9ac",
+        "Kuryong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2052255
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f2590bc3a7fc53b45ae8dc4606e00e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747103,
+            "locality_id":1243376655,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1243376655,
+    "wof:lastmodified":1537655623,
+    "wof:name":"Kuryong-ni",
+    "wof:parent_id":1108747103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.76778,
+    40.49889,
+    126.76778,
+    40.49889
+],
+  "geometry": {"coordinates":[126.76778,40.49889],"type":"Point"}
+}

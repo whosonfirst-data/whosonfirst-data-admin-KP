@@ -1,0 +1,75 @@
+{
+  "id": 1225920845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.90009,38.89945,125.90009,38.89945",
+    "geom:latitude":38.89945,
+    "geom:longitude":125.90009,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kap'algol",
+    "gn:country_code":"KP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876069,
+    "gn:latitude":38.89945,
+    "gn:longitude":125.90009,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kap\u2019algol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Kap\u2019algol"
+    ],
+    "name:und_x_variant":[
+        "Kap\u2019al-tong",
+        "\uac00\ud314\uace8",
+        "Gapalgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876069
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"490596e66a43f137eba9a1ebf6aecf15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1225920845,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1225920845,
+    "wof:lastmodified":1537654664,
+    "wof:name":"Kap'algol",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.90009,
+    38.89945,
+    125.90009,
+    38.89945
+],
+  "geometry": {"coordinates":[125.90009000000001,38.89945],"type":"Point"}
+}

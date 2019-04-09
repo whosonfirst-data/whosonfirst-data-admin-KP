@@ -1,0 +1,65 @@
+{
+  "id": 1209180679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.58472,41.46139,129.58472,41.46139",
+    "geom:latitude":41.46139,
+    "geom:longitude":129.58472,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hwap'yong",
+    "gn:country_code":"KP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043881,
+    "gn:latitude":41.46139,
+    "gn:longitude":129.58472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hwap\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud654\ud3c9",
+        "Hwap\u2019y\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043881
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f9254dd70ab515ad597b3fb04ffa8712",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209180679
+        }
+    ],
+    "wof:id":1209180679,
+    "wof:lastmodified":1537655425,
+    "wof:name":"Hwap'yong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.58472,
+    41.46139,
+    129.58472,
+    41.46139
+],
+  "geometry": {"coordinates":[129.58472,41.46139],"type":"Point"}
+}

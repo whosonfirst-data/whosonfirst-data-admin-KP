@@ -1,0 +1,61 @@
+{
+  "id": 1326717661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.68333,39.53333,124.68333,39.53333",
+    "geom:latitude":39.53333,
+    "geom:longitude":124.68333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Naewangsa",
+    "gn:country_code":"KP",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873896,
+    "gn:latitude":39.53333,
+    "gn:longitude":124.68333,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Naewangsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873896
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3d4accb298f97ed1f1988d55c4e39841",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326717661,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326717661,
+    "wof:lastmodified":1536717130,
+    "wof:name":"Naewangsa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.68333,
+    39.53333,
+    124.68333,
+    39.53333
+],
+  "geometry": {"coordinates":[124.68333,39.53333],"type":"Point"}
+}

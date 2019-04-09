@@ -1,0 +1,67 @@
+{
+  "id": 1293779797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63194,38.365,126.63194,38.365",
+    "geom:latitude":38.365,
+    "geom:longitude":126.63194,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Won'ga-dong",
+    "gn:country_code":"KP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890996,
+    "gn:latitude":38.365,
+    "gn:longitude":126.63194,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"W\u014fn\u2019ga-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890996
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e74433f6076656e18bca5bdd8bdfb1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747189,
+            "locality_id":1293779797,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293779797,
+    "wof:lastmodified":1536861342,
+    "wof:name":"Won'ga-dong",
+    "wof:parent_id":1108747189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63194,
+    38.365,
+    126.63194,
+    38.365
+],
+  "geometry": {"coordinates":[126.63194,38.365],"type":"Point"}
+}

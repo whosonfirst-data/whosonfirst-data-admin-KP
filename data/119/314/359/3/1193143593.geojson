@@ -1,0 +1,72 @@
+{
+  "id": 1193143593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.55,40.55,128.55,40.55",
+    "geom:latitude":40.55,
+    "geom:longitude":128.55,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Maeng-dong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042954,
+    "gn:latitude":40.55,
+    "gn:longitude":128.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maeng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maeng-d\u014fk",
+        "Maeng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042954
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a689c88b47e45f083f6e8734c7799b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1193143593,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1193143593,
+    "wof:lastmodified":1537655374,
+    "wof:name":"Maeng-dong",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.55,
+    40.55,
+    128.55,
+    40.55
+],
+  "geometry": {"coordinates":[128.55000000000001,40.55],"type":"Point"}
+}

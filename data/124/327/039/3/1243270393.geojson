@@ -1,0 +1,68 @@
+{
+  "id": 1243270393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39417,39.50194,127.39417,39.50194",
+    "geom:latitude":39.50194,
+    "geom:longitude":127.39417,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"K\u016dmya-gun",
+    "gn:asciiname":"Ch'ilsongsan",
+    "gn:country_code":"KP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952621,
+    "gn:latitude":39.50194,
+    "gn:longitude":127.39417,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Ch\u2019ils\u014fngsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952621
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9de6699676e9a24e26dd30025ac76f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1243270393,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243270393,
+    "wof:lastmodified":1537056782,
+    "wof:name":"Ch'ilsongsan",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39417,
+    39.50194000000001,
+    127.39417,
+    39.50194000000001
+],
+  "geometry": {"coordinates":[127.39417,39.50194000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343531183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.19944,39.71167,126.19944,39.71167",
+    "geom:latitude":39.71167,
+    "geom:longitude":126.19944,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"T\u014fkch\u2019\u014fn-si",
+    "gn:asciiname":"Chagun-gol",
+    "gn:country_code":"KP",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892272,
+    "gn:latitude":39.71167,
+    "gn:longitude":126.19944,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Chag\u016dn-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892272
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8a6fe2272396752bdfee3d74ef1c26b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747191,
+            "locality_id":1343531183,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1343531183,
+    "wof:lastmodified":1536643629,
+    "wof:name":"Chagun-gol",
+    "wof:parent_id":1108747191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.19944,
+    39.71167,
+    126.19944,
+    39.71167
+],
+  "geometry": {"coordinates":[126.19944,39.71167],"type":"Point"}
+}

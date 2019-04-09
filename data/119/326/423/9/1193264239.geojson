@@ -1,0 +1,73 @@
+{
+  "id": 1193264239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51417,38.46028,126.51417,38.46028",
+    "geom:latitude":38.46028,
+    "geom:longitude":126.51417,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sojong-gol",
+    "gn:country_code":"KP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1902192,
+    "gn:latitude":38.46028,
+    "gn:longitude":126.51417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fj\u014fng-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uc815\uace8"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fj\u014fng-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1902192
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8f85a9128adb6f8f3edd2f3770688a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747999,
+            "locality_id":1193264239,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1193264239,
+    "wof:lastmodified":1537655032,
+    "wof:name":"Sojong-gol",
+    "wof:parent_id":1108747999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51417,
+    38.46028,
+    126.51417,
+    38.46028
+],
+  "geometry": {"coordinates":[126.51416999999999,38.46028],"type":"Point"}
+}

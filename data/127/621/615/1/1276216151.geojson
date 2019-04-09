@@ -1,0 +1,73 @@
+{
+  "id": 1276216151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69778,38.64167,126.69778,38.64167",
+    "geom:latitude":38.64167,
+    "geom:longitude":126.69778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hap'o",
+    "gn:country_code":"KP",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366698,
+    "gn:latitude":38.64167,
+    "gn:longitude":126.69778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hap\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ud3ec"
+    ],
+    "name:kor_x_variant":[
+        "Hap\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366698
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bfe1b7620727c731dee6bd314eaf9fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747045,
+            "locality_id":1276216151,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1276216151,
+    "wof:lastmodified":1537655889,
+    "wof:name":"Hap'o",
+    "wof:parent_id":1108747045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69778,
+    38.64167,
+    126.69778,
+    38.64167
+],
+  "geometry": {"coordinates":[126.69777999999999,38.64167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310614275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.86611,40.56778,125.86611,40.56778",
+    "geom:latitude":40.56778,
+    "geom:longitude":125.86611,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yongp'ung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282373,
+    "gn:latitude":40.56778,
+    "gn:longitude":125.86611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongp\u2019ung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub8e1\ud48d\ub9ac",
+        "Yongp\u2019ung-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282373
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"480b08a6e7efca6f03c7c499ceb04571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1310614275,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1310614275,
+    "wof:lastmodified":1537655771,
+    "wof:name":"Yongp'ung-ni",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.86611,
+    40.56778,
+    125.86611,
+    40.56778
+],
+  "geometry": {"coordinates":[125.86611000000001,40.56778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193039977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.16639,38.3225,125.16639,38.3225",
+    "geom:latitude":38.3225,
+    "geom:longitude":125.16639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yon'gyo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866017,
+    "gn:latitude":38.3225,
+    "gn:longitude":125.16639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u014fn\u2019gyo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5f0\uad50\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Y\u014fn\u2019gyo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866017
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d2e645e3101de27b31d5a699a428d49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748021,
+            "locality_id":1193039977,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1193039977,
+    "wof:lastmodified":1537654160,
+    "wof:name":"Yon'gyo-ri",
+    "wof:parent_id":1108748021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.16639,
+    38.3225,
+    125.16639,
+    38.3225
+],
+  "geometry": {"coordinates":[125.16639000000001,38.3225],"type":"Point"}
+}

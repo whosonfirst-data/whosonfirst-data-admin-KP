@@ -1,0 +1,71 @@
+{
+  "id": 1276338271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.87667,40.69,125.87667,40.69",
+    "geom:latitude":40.69,
+    "geom:longitude":125.87667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Huch'u-dong",
+    "gn:country_code":"KP",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282357,
+    "gn:latitude":40.69,
+    "gn:longitude":125.87667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Huch\u2019u-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud6c4\ucd94\ub3d9",
+        "Huch\u2019u-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282357
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c9b0a9acfa7fff1db95c3d0aa39b3a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747741,
+            "locality_id":1276338271,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1276338271,
+    "wof:lastmodified":1537655770,
+    "wof:name":"Huch'u-dong",
+    "wof:parent_id":1108747741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.87667,
+    40.69,
+    125.87667,
+    40.69
+],
+  "geometry": {"coordinates":[125.87667,40.69],"type":"Point"}
+}

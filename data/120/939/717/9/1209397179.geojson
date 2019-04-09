@@ -1,0 +1,61 @@
+{
+  "id": 1209397179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.39639,39.21611,125.39639,39.21611",
+    "geom:latitude":39.21611,
+    "geom:longitude":125.39639,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hansanmol",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889442,
+    "gn:latitude":39.21611,
+    "gn:longitude":125.39639,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Hansanmol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889442
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0b063679743b0203c4b6e744cc3f7b60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209397179
+        }
+    ],
+    "wof:id":1209397179,
+    "wof:lastmodified":1536288262,
+    "wof:name":"Hansanmol",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.39639,
+    39.21611,
+    125.39639,
+    39.21611
+],
+  "geometry": {"coordinates":[125.39639,39.21611],"type":"Point"}
+}

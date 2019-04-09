@@ -1,0 +1,76 @@
+{
+  "id": 1209702297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.70722,39.08389,125.70722,39.08389",
+    "geom:latitude":39.08389,
+    "geom:longitude":125.70722,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Yangjin-dong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866729,
+    "gn:latitude":39.08389,
+    "gn:longitude":125.70722,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Yangjin-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc9c4\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Yangji-dong",
+        "Yangjin-dong",
+        "Yangjindong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866729
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"13cedbe2dc756278a8c61faf27fd57f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1209702297,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1209702297,
+    "wof:lastmodified":1537654196,
+    "wof:name":"Yangjin-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.70722,
+    39.08389,
+    125.70722,
+    39.08389
+],
+  "geometry": {"coordinates":[125.70722000000001,39.08389],"type":"Point"}
+}

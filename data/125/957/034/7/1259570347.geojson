@@ -1,0 +1,71 @@
+{
+  "id": 1259570347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.21139,40.25944,125.21139,40.25944",
+    "geom:latitude":40.25944,
+    "geom:longitude":125.21139,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281884,
+    "gn:latitude":40.25944,
+    "gn:longitude":125.21139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud64d\ub3d9",
+        "Hong-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281884
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3ccbf9f0a3c821d27b9f44405e9fffe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748041,
+            "locality_id":1259570347,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259570347,
+    "wof:lastmodified":1537655756,
+    "wof:name":"Hong-dong",
+    "wof:parent_id":1108748041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.21139,
+    40.25944000000001,
+    125.21139,
+    40.25944000000001
+],
+  "geometry": {"coordinates":[125.21138999999999,40.25944000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242868133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.58,38.72361,127.58,38.72361",
+    "geom:latitude":38.72361,
+    "geom:longitude":127.58,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Munnaedong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882420,
+    "gn:latitude":38.72361,
+    "gn:longitude":127.58,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Munnaedong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb38\ub0b4\ub3d9\ub9ac",
+        "Munnaedong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882420
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1e3f58874d1e28403f3fb04e6db44d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746887,
+            "locality_id":1242868133,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1242868133,
+    "wof:lastmodified":1537654879,
+    "wof:name":"Munnaedong-ni",
+    "wof:parent_id":1108746887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.58,
+    38.72361,
+    127.58,
+    38.72361
+],
+  "geometry": {"coordinates":[127.58,38.72361],"type":"Point"}
+}

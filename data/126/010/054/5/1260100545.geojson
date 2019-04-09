@@ -1,0 +1,76 @@
+{
+  "id": 1260100545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67111,38.6625,126.67111,38.6625",
+    "geom:latitude":38.6625,
+    "geom:longitude":126.67111,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sahyol-li",
+    "gn:country_code":"KP",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871634,
+    "gn:latitude":38.6625,
+    "gn:longitude":126.67111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sahy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\ud604\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Sahy\u014fl-li"
+    ],
+    "name:und_x_variant":[
+        "Sahy\u014fn-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108746969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871634
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e8156d55eae3ba4e5109aa53186761f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746969,
+            "locality_id":1260100545,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1260100545,
+    "wof:lastmodified":1537654438,
+    "wof:name":"Sahyol-li",
+    "wof:parent_id":1108746969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67111,
+    38.6625,
+    126.67111,
+    38.6625
+],
+  "geometry": {"coordinates":[126.67111,38.6625],"type":"Point"}
+}

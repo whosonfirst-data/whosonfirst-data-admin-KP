@@ -1,0 +1,71 @@
+{
+  "id": 1310673557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.62944,39.72667,126.62944,39.72667",
+    "geom:latitude":39.72667,
+    "geom:longitude":126.62944,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kwangsang",
+    "gn:country_code":"KP",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892130,
+    "gn:latitude":39.72667,
+    "gn:longitude":126.62944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kwangsang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad11\uc0c1",
+        "Kwangsang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892130
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a8d610b11814995ba07872501105f6db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747005,
+            "locality_id":1310673557,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1310673557,
+    "wof:lastmodified":1537655013,
+    "wof:name":"Kwangsang",
+    "wof:parent_id":1108747005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.62944,
+    39.72667,
+    126.62944,
+    39.72667
+],
+  "geometry": {"coordinates":[126.62944,39.72667],"type":"Point"}
+}

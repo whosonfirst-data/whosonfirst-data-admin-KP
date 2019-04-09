@@ -1,0 +1,73 @@
+{
+  "id": 1326531171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.935,39.30111,126.935,39.30111",
+    "geom:latitude":39.30111,
+    "geom:longitude":126.935,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Taeyach'i",
+    "gn:country_code":"KP",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868566,
+    "gn:latitude":39.30111,
+    "gn:longitude":126.935,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taeyach\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc57c\uce58"
+    ],
+    "name:kor_x_variant":[
+        "Taeyach\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868566
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"28cd9cee1140a6eec202f9a27c2920f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748031,
+            "locality_id":1326531171,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1326531171,
+    "wof:lastmodified":1537654289,
+    "wof:name":"Taeyach'i",
+    "wof:parent_id":1108748031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.935,
+    39.30111,
+    126.935,
+    39.30111
+],
+  "geometry": {"coordinates":[126.935,39.30111],"type":"Point"}
+}

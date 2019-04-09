@@ -1,0 +1,71 @@
+{
+  "id": 1226543501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.43773,40.63549,126.43773,40.63549",
+    "geom:latitude":40.63549,
+    "geom:longitude":126.43773,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hangmu-rodongjagu",
+    "gn:country_code":"KP",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055320,
+    "gn:latitude":40.63549,
+    "gn:longitude":126.43773,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hangmu-rodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud559\ubb34\ub85c\ub3d9\uc790\uad6c",
+        "Hangmu-rodongjagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055320
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7565100d7b825d2a5500c4253d61df7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747789,
+            "locality_id":1226543501,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1226543501,
+    "wof:lastmodified":1537655647,
+    "wof:name":"Hangmu-rodongjagu",
+    "wof:parent_id":1108747789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.43773,
+    40.63549,
+    126.43773,
+    40.63549
+],
+  "geometry": {"coordinates":[126.43773,40.63549],"type":"Point"}
+}

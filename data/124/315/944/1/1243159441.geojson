@@ -1,0 +1,66 @@
+{
+  "id": 1243159441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.68333,39.63333,124.68333,39.63333",
+    "geom:latitude":39.63333,
+    "geom:longitude":124.68333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sonsa",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869315,
+    "gn:latitude":39.63333,
+    "gn:longitude":124.68333,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"S\u014fnsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "S\u014fnsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869315
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"702088aa9d9d637acf94f07d50d9c504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1243159441,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243159441,
+    "wof:lastmodified":1537654324,
+    "wof:name":"Sonsa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.68333,
+    39.63333,
+    124.68333,
+    39.63333
+],
+  "geometry": {"coordinates":[124.68333,39.63333],"type":"Point"}
+}

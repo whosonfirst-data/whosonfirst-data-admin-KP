@@ -1,0 +1,64 @@
+{
+  "id": 1209026845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.59556,38.5,126.59556,38.5",
+    "geom:latitude":38.5,
+    "geom:longitude":126.59556,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kijangnae",
+    "gn:country_code":"KP",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366235,
+    "gn:latitude":38.5,
+    "gn:longitude":126.59556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kijangnae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae30\uc7a5\ub0b4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366235
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"040b4f4418d3f3dcaed91c67d68f60d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209026845
+        }
+    ],
+    "wof:id":1209026845,
+    "wof:lastmodified":1537655870,
+    "wof:name":"Kijangnae",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.59556,
+    38.5,
+    126.59556,
+    38.5
+],
+  "geometry": {"coordinates":[126.59556000000001,38.5],"type":"Point"}
+}

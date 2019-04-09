@@ -1,0 +1,73 @@
+{
+  "id": 1276133261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.25,38.8,125.25,38.8",
+    "geom:latitude":38.8,
+    "geom:longitude":125.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Udung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867469,
+    "gn:latitude":38.8,
+    "gn:longitude":125.25,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Ud\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6b0\ub4f1\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ud\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108747027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867469
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"294fca33de13ae6b6fe48c5484266331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747027,
+            "locality_id":1276133261,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1276133261,
+    "wof:lastmodified":1537654233,
+    "wof:name":"Udung-ni",
+    "wof:parent_id":1108747027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.25,
+    38.8,
+    125.25,
+    38.8
+],
+  "geometry": {"coordinates":[125.25,38.8],"type":"Point"}
+}

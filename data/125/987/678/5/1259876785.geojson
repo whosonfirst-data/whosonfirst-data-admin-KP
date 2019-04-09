@@ -1,0 +1,67 @@
+{
+  "id": 1259876785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.41417,38.4925,125.41417,38.4925",
+    "geom:latitude":38.4925,
+    "geom:longitude":125.41417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"P'yongmun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871901,
+    "gn:latitude":38.4925,
+    "gn:longitude":125.41417,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"P\u2019y\u014fngmun-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871901
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"71bd0b3c819b0ee83ba32983cd96186a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747207,
+            "locality_id":1259876785,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259876785,
+    "wof:lastmodified":1536789310,
+    "wof:name":"P'yongmun-dong",
+    "wof:parent_id":1108747207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.41417,
+    38.4925,
+    125.41417,
+    38.4925
+],
+  "geometry": {"coordinates":[125.41417,38.4925],"type":"Point"}
+}

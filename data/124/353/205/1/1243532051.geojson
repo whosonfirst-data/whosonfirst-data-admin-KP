@@ -1,0 +1,77 @@
+{
+  "id": 1243532051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.83611,40.01389,125.83611,40.01389",
+    "geom:latitude":40.01389,
+    "geom:longitude":125.83611,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chilbalbi",
+    "gn:country_code":"KP",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042484,
+    "gn:latitude":40.01389,
+    "gn:longitude":125.83611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chilbalbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiribalp-tong",
+        "Idam-ni",
+        "Deit\u014d-d\u014d",
+        "Idap-tong",
+        "Chilbal-tong",
+        "\uc9c8\ubc1f\uc774",
+        "Nidam-ni",
+        "Chilbalbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042484
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7e75df0a3a0ef4027f4e8490e5508c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748089,
+            "locality_id":1243532051,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1243532051,
+    "wof:lastmodified":1537655346,
+    "wof:name":"Chilbalbi",
+    "wof:parent_id":1108748089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.83611,
+    40.01389,
+    125.83611,
+    40.01389
+],
+  "geometry": {"coordinates":[125.83611000000001,40.01389],"type":"Point"}
+}

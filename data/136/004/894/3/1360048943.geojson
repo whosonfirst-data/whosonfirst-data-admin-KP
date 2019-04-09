@@ -1,0 +1,71 @@
+{
+  "id": 1360048943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.29472,40.99333,129.29472,40.99333",
+    "geom:latitude":40.99333,
+    "geom:longitude":129.29472,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yanghach'on",
+    "gn:country_code":"KP",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6272418,
+    "gn:latitude":40.99333,
+    "gn:longitude":129.29472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yanghach\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc591\ud558\ucd0c",
+        "Yanghach\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6272418
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f1dac7427974b928c86cac30300b21a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746955,
+            "locality_id":1360048943,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1360048943,
+    "wof:lastmodified":1537655675,
+    "wof:name":"Yanghach'on",
+    "wof:parent_id":1108746955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.29471999999998,
+    40.99333,
+    129.29471999999998,
+    40.99333
+],
+  "geometry": {"coordinates":[129.29471999999998,40.99333],"type":"Point"}
+}

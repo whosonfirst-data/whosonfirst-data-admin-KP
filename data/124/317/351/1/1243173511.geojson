@@ -1,0 +1,72 @@
+{
+  "id": 1243173511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1,40.16952,128.1,40.16952",
+    "geom:latitude":40.16952,
+    "geom:longitude":128.1,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chungul-li",
+    "gn:country_code":"KP",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044387,
+    "gn:latitude":40.16952,
+    "gn:longitude":128.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chung\u016dl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung\u016dn-ni",
+        "\uc911\uc740\ub9ac",
+        "Chung\u016dl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044387
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1d362b30f1ece4187bb214f01de2f06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746889,
+            "locality_id":1243173511,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243173511,
+    "wof:lastmodified":1537655454,
+    "wof:name":"Chungul-li",
+    "wof:parent_id":1108746889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1,
+    40.16952,
+    128.1,
+    40.16952
+],
+  "geometry": {"coordinates":[128.09999999999999,40.16952],"type":"Point"}
+}

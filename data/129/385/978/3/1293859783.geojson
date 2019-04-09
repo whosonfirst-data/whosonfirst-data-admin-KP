@@ -1,0 +1,71 @@
+{
+  "id": 1293859783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.51333,41.31139,129.51333,41.31139",
+    "geom:latitude":41.31139,
+    "geom:longitude":129.51333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yongyangdongsubuk",
+    "gn:country_code":"KP",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2038966,
+    "gn:latitude":41.31139,
+    "gn:longitude":129.51333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongyangdongsubuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\uc591\ub3d9\uc218\ubd81",
+        "Yongyangdongsubuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038966
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8e3d6c374f64048d150d4d1e6f5b597e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747903,
+            "locality_id":1293859783,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1293859783,
+    "wof:lastmodified":1537655139,
+    "wof:name":"Yongyangdongsubuk",
+    "wof:parent_id":1108747903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.51333,
+    41.31139,
+    129.51333,
+    41.31139
+],
+  "geometry": {"coordinates":[129.51333,41.31139],"type":"Point"}
+}

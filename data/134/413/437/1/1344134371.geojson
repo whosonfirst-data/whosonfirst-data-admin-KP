@@ -1,0 +1,73 @@
+{
+  "id": 1344134371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.52778,40.22,124.52778,40.22",
+    "geom:latitude":40.22,
+    "geom:longitude":124.52778,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ojok-tong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042335,
+    "gn:latitude":40.22,
+    "gn:longitude":124.52778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u014ej\u014fk-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oj\u016dk-tong",
+        "\u014ej\u014fk-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042335,
+        "wk:page":"Ojok-tong"
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"26dab993db24cf0364f7bb08c6dc4248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747205,
+            "locality_id":1344134371,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1344134371,
+    "wof:lastmodified":1537655338,
+    "wof:name":"Ojok-tong",
+    "wof:parent_id":1108747205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.52778,
+    40.22,
+    124.52778,
+    40.22
+],
+  "geometry": {"coordinates":[124.52778000000001,40.22],"type":"Point"}
+}

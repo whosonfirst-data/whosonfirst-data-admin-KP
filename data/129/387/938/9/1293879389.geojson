@@ -1,0 +1,67 @@
+{
+  "id": 1293879389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.94111,38.47111,125.94111,38.47111",
+    "geom:latitude":38.47111,
+    "geom:longitude":125.94111,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kwandae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926235,
+    "gn:latitude":38.47111,
+    "gn:longitude":125.94111,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Kwandae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926235
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f4a86b91b32a9d4b2c1ea53fe6080c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747063,
+            "locality_id":1293879389,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293879389,
+    "wof:lastmodified":1536719653,
+    "wof:name":"Kwandae-ri",
+    "wof:parent_id":1108747063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.94111,
+    38.47111,
+    125.94111,
+    38.47111
+],
+  "geometry": {"coordinates":[125.94110999999999,38.47111],"type":"Point"}
+}

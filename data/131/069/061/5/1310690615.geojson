@@ -1,0 +1,73 @@
+{
+  "id": 1310690615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.09,38.87306,127.09,38.87306",
+    "geom:latitude":38.87306,
+    "geom:longitude":127.09,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Changjaedok",
+    "gn:country_code":"KP",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888820,
+    "gn:latitude":38.87306,
+    "gn:longitude":127.09,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Changjaed\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uc7ac\ub355"
+    ],
+    "name:und_x_variant":[
+        "Changjaed\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888820
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cafc5597f296a7e3d99070c86ea378b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747045,
+            "locality_id":1310690615,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1310690615,
+    "wof:lastmodified":1537654909,
+    "wof:name":"Changjaedok",
+    "wof:parent_id":1108747045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.09,
+    38.87306,
+    127.09,
+    38.87306
+],
+  "geometry": {"coordinates":[127.09,38.87306],"type":"Point"}
+}

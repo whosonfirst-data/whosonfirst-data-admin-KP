@@ -1,0 +1,71 @@
+{
+  "id": 1226318665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.62306,42.31806,129.62306,42.31806",
+    "geom:latitude":42.31806,
+    "geom:longitude":129.62306,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Oryu-ri",
+    "gn:country_code":"KP",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2038812,
+    "gn:latitude":42.31806,
+    "gn:longitude":129.62306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oryu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\ub958\ub9ac",
+        "Oryu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038812
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3c052f5fc013d2b2a7d863f4c9401f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747943,
+            "locality_id":1226318665,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1226318665,
+    "wof:lastmodified":1537655130,
+    "wof:name":"Oryu-ri",
+    "wof:parent_id":1108747943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.62306,
+    42.31806,
+    129.62306,
+    42.31806
+],
+  "geometry": {"coordinates":[129.62306000000001,42.31806],"type":"Point"}
+}

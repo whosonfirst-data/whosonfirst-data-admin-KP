@@ -1,0 +1,74 @@
+{
+  "id": 1259956519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.8675,38.83056,125.8675,38.83056",
+    "geom:latitude":38.83056,
+    "geom:longitude":125.8675,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pingjang-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872611,
+    "gn:latitude":38.83056,
+    "gn:longitude":125.8675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pingjang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hy\u014dsh\u014d",
+        "Hy\u014dsh\u014d-ri",
+        "\ube59\uc7a5\ub9ac",
+        "Pingjang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872611
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8f8e857d55fd539a0906f14972e9a975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1259956519,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1259956519,
+    "wof:lastmodified":1537654490,
+    "wof:name":"Pingjang-ni",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.8675,
+    38.83056,
+    125.8675,
+    38.83056
+],
+  "geometry": {"coordinates":[125.86750000000001,38.83056],"type":"Point"}
+}

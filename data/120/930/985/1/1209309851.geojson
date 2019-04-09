@@ -1,0 +1,64 @@
+{
+  "id": 1209309851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88389,38.58528,126.88389,38.58528",
+    "geom:latitude":38.58528,
+    "geom:longitude":126.88389,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kunji-ri",
+    "gn:country_code":"KP",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875221,
+    "gn:latitude":38.58528,
+    "gn:longitude":126.88389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kunji-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad70\uc9c0\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875221
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"841b9a59f996224004d2e0c4aec952bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209309851
+        }
+    ],
+    "wof:id":1209309851,
+    "wof:lastmodified":1537654616,
+    "wof:name":"Kunji-ri",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88389,
+    38.58528,
+    126.88389,
+    38.58528
+],
+  "geometry": {"coordinates":[126.88388999999999,38.58528],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276202149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.88806,42.96444,129.88806,42.96444",
+    "geom:latitude":42.96444,
+    "geom:longitude":129.88806,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"P'ungni-ri",
+    "gn:country_code":"KP",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041740,
+    "gn:latitude":42.96444,
+    "gn:longitude":129.88806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019ungni-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u014dri-d\u014d",
+        "P\u2019ungni-dong",
+        "P\u2019ungni-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041740
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"dae7f83b47461fa2123de8d3537e8e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747901,
+            "locality_id":1276202149,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1276202149,
+    "wof:lastmodified":1537655305,
+    "wof:name":"P'ungni-ri",
+    "wof:parent_id":1108747901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.88806,
+    42.96444,
+    129.88806,
+    42.96444
+],
+  "geometry": {"coordinates":[129.88806,42.96444],"type":"Point"}
+}

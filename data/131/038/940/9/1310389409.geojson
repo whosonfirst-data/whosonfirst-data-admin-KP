@@ -1,0 +1,71 @@
+{
+  "id": 1310389409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.95583,38.86639,127.95583,38.86639",
+    "geom:latitude":38.86639,
+    "geom:longitude":127.95583,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kasil-li",
+    "gn:country_code":"KP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1927271,
+    "gn:latitude":38.86639,
+    "gn:longitude":127.95583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kasil-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\uc2e0\ub9ac",
+        "Kasil-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1927271
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bc04962fefdf471aa2800d3ac535ca95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747187,
+            "locality_id":1310389409,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1310389409,
+    "wof:lastmodified":1537655052,
+    "wof:name":"Kasil-li",
+    "wof:parent_id":1108747187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.95583,
+    38.86639,
+    127.95583,
+    38.86639
+],
+  "geometry": {"coordinates":[127.95583000000001,38.86639],"type":"Point"}
+}

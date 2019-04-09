@@ -1,0 +1,71 @@
+{
+  "id": 1243532033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.38528,39.89806,124.38528,39.89806",
+    "geom:latitude":39.89806,
+    "geom:longitude":124.38528,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tokhung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868130,
+    "gn:latitude":39.89806,
+    "gn:longitude":124.38528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u014fkh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub355\ud765\ub9ac",
+        "T\u014fkh\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868130
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8478485061251461a48174f94cc0822e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748105,
+            "locality_id":1243532033,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1243532033,
+    "wof:lastmodified":1537654266,
+    "wof:name":"Tokhung-ni",
+    "wof:parent_id":1108748105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.38528,
+    39.89806,
+    124.38528,
+    39.89806
+],
+  "geometry": {"coordinates":[124.38527999999999,39.89806],"type":"Point"}
+}

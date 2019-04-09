@@ -1,0 +1,71 @@
+{
+  "id": 1193255877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.40028,40.0175,124.40028,40.0175",
+    "geom:latitude":40.0175,
+    "geom:longitude":124.40028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pukp'yong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041800,
+    "gn:latitude":40.0175,
+    "gn:longitude":124.40028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pukp\u2019y\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd81\ud3c9\ub3d9",
+        "Pukp\u2019y\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041800
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0daa87d525946a8db400e0a9696793df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748005,
+            "locality_id":1193255877,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1193255877,
+    "wof:lastmodified":1537655308,
+    "wof:name":"Pukp'yong-dong",
+    "wof:parent_id":1108748005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.40028,
+    40.0175,
+    124.40028,
+    40.0175
+],
+  "geometry": {"coordinates":[124.40028,40.0175],"type":"Point"}
+}

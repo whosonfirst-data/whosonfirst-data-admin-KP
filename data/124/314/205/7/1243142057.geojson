@@ -1,0 +1,74 @@
+{
+  "id": 1243142057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.48139,39.45167,126.48139,39.45167",
+    "geom:latitude":39.45167,
+    "geom:longitude":126.48139,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kaha-ri",
+    "gn:country_code":"KP",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876357,
+    "gn:latitude":39.45167,
+    "gn:longitude":126.48139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaha-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ud558\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Karaji",
+        "Kaha-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876357
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9632a35165b8e4b45e43b7c2add46838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747069,
+            "locality_id":1243142057,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1243142057,
+    "wof:lastmodified":1537654681,
+    "wof:name":"Kaha-ri",
+    "wof:parent_id":1108747069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.48139,
+    39.45167,
+    126.48139,
+    39.45167
+],
+  "geometry": {"coordinates":[126.48139,39.45167],"type":"Point"}
+}

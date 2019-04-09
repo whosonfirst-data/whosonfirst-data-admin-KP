@@ -1,0 +1,71 @@
+{
+  "id": 1259786993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.37639,40.46417,126.37639,40.46417",
+    "geom:latitude":40.46417,
+    "geom:longitude":126.37639,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chinp'yong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6280970,
+    "gn:latitude":40.46417,
+    "gn:longitude":126.37639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chinp\u2019y\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc9c4\ud3c9\ub3d9",
+        "Chinp\u2019y\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6280970
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1da0c9d73fc7e0d58867df67293cf252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747789,
+            "locality_id":1259786993,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1259786993,
+    "wof:lastmodified":1537655710,
+    "wof:name":"Chinp'yong-dong",
+    "wof:parent_id":1108747789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.37639,
+    40.46417,
+    126.37639,
+    40.46417
+],
+  "geometry": {"coordinates":[126.37639,40.46417],"type":"Point"}
+}

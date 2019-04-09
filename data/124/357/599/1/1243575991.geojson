@@ -1,0 +1,73 @@
+{
+  "id": 1243575991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.55028,38.32667,125.55028,38.32667",
+    "geom:latitude":38.32667,
+    "geom:longitude":125.55028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kusok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875109,
+    "gn:latitude":38.32667,
+    "gn:longitude":125.55028,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kus\u014fk-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc11d\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Kus\u014fk-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875109
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0e56a762619dc0d06c4c9353d02f4aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747123,
+            "locality_id":1243575991,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243575991,
+    "wof:lastmodified":1537654609,
+    "wof:name":"Kusok-tong",
+    "wof:parent_id":1108747123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.55028,
+    38.32667,
+    125.55028,
+    38.32667
+],
+  "geometry": {"coordinates":[125.55028,38.32667],"type":"Point"}
+}

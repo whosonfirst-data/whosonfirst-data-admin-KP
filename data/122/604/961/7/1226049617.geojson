@@ -1,0 +1,73 @@
+{
+  "id": 1226049617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95556,39.22444,126.95556,39.22444",
+    "geom:latitude":39.22444,
+    "geom:longitude":126.95556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sinjaeryong",
+    "gn:country_code":"KP",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367419,
+    "gn:latitude":39.22444,
+    "gn:longitude":126.95556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinjaery\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uc7ac\ub839"
+    ],
+    "name:kor_x_variant":[
+        "Sinjaery\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367419
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a29f2880fc3364ed5e0d90a6c69b0f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748031,
+            "locality_id":1226049617,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1226049617,
+    "wof:lastmodified":1537655917,
+    "wof:name":"Sinjaeryong",
+    "wof:parent_id":1108748031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95556,
+    39.22444,
+    126.95556,
+    39.22444
+],
+  "geometry": {"coordinates":[126.95556000000001,39.22444],"type":"Point"}
+}

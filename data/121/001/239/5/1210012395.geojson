@@ -1,0 +1,67 @@
+{
+  "id": 1210012395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.96833,38.45361,125.96833,38.45361",
+    "geom:latitude":38.45361,
+    "geom:longitude":125.96833,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Songju-gol",
+    "gn:country_code":"KP",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926268,
+    "gn:latitude":38.45361,
+    "gn:longitude":125.96833,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"S\u014fngju-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926268
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a955dded2eb59b3dbc6531deaa83218a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747093,
+            "locality_id":1210012395,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1210012395,
+    "wof:lastmodified":1536396611,
+    "wof:name":"Songju-gol",
+    "wof:parent_id":1108747093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.96833,
+    38.45361,
+    125.96833,
+    38.45361
+],
+  "geometry": {"coordinates":[125.96832999999999,38.45361],"type":"Point"}
+}

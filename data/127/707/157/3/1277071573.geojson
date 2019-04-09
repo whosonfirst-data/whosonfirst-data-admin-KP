@@ -1,0 +1,67 @@
+{
+  "id": 1277071573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.27889,38.11806,126.27889,38.11806",
+    "geom:latitude":38.11806,
+    "geom:longitude":126.27889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kwanbau",
+    "gn:country_code":"KP",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947657,
+    "gn:latitude":38.11806,
+    "gn:longitude":126.27889,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Kwanbau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947657
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"162282a301b707eba6bc46618ab15b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747061,
+            "locality_id":1277071573,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1277071573,
+    "wof:lastmodified":1536784234,
+    "wof:name":"Kwanbau",
+    "wof:parent_id":1108747061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.27889,
+    38.11806,
+    126.27889,
+    38.11806
+],
+  "geometry": {"coordinates":[126.27889,38.11806],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309800767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.46222,38.45139,125.46222,38.45139",
+    "geom:latitude":38.45139,
+    "geom:longitude":125.46222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Puch'omol",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872241,
+    "gn:latitude":38.45139,
+    "gn:longitude":125.46222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Puch\u2019\u014fmol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puru",
+        "Puch\u2019\u014fmoru",
+        "Puch\u2019\u014fmol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872241
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"02ecc2ff683ca6bef1428cfcd26b3cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746843,
+            "locality_id":1309800767,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1309800767,
+    "wof:lastmodified":1537654472,
+    "wof:name":"Puch'omol",
+    "wof:parent_id":1108746843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.46222,
+    38.45139,
+    125.46222,
+    38.45139
+],
+  "geometry": {"coordinates":[125.46222,38.45139],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310007229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34417,39.5475,127.34417,39.5475",
+    "geom:latitude":39.5475,
+    "geom:longitude":127.34417,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chiil-li",
+    "gn:country_code":"KP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878897,
+    "gn:latitude":39.5475,
+    "gn:longitude":127.34417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chiil-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chijin-ri",
+        "Chiin-ni",
+        "\uc9c0\uc778\ub9ac",
+        "Chiil-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878897
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b04beb2e3cb546dda25738f9d78d8ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747795,
+            "locality_id":1310007229,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1310007229,
+    "wof:lastmodified":1537654825,
+    "wof:name":"Chiil-li",
+    "wof:parent_id":1108747795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34417,
+    39.5475,
+    127.34417,
+    39.5475
+],
+  "geometry": {"coordinates":[127.34417000000001,39.5475],"type":"Point"}
+}

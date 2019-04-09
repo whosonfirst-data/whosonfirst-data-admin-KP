@@ -1,0 +1,73 @@
+{
+  "id": 1226030695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.67028,38.55694,125.67028,38.55694",
+    "geom:latitude":38.55694,
+    "geom:longitude":125.67028,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Myongch'o-dong",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1925816,
+    "gn:latitude":38.55694,
+    "gn:longitude":125.67028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"My\u014fngch\u2019o-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba85\ucd08\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "My\u014fngch\u2019o-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1925816
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e41a9287fb56b974a77122317f820ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747117,
+            "locality_id":1226030695,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226030695,
+    "wof:lastmodified":1537655038,
+    "wof:name":"Myongch'o-dong",
+    "wof:parent_id":1108747117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.67028,
+    38.55694,
+    125.67028,
+    38.55694
+],
+  "geometry": {"coordinates":[125.67028000000001,38.55694],"type":"Point"}
+}

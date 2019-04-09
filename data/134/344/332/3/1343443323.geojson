@@ -1,0 +1,67 @@
+{
+  "id": 1343443323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.35417,39.18194,125.35417,39.18194",
+    "geom:latitude":39.18194,
+    "geom:longitude":125.35417,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Soksam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6269641,
+    "gn:latitude":39.18194,
+    "gn:longitude":125.35417,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"S\u014fksam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6269641
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0aaa978883d804a9eac0b005674bd62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747801,
+            "locality_id":1343443323,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1343443323,
+    "wof:lastmodified":1536771553,
+    "wof:name":"Soksam-ni",
+    "wof:parent_id":1108747801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.35417,
+    39.18194,
+    125.35417,
+    39.18194
+],
+  "geometry": {"coordinates":[125.35417,39.18194],"type":"Point"}
+}

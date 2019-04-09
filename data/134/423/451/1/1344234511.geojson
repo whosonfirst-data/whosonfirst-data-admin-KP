@@ -1,0 +1,75 @@
+{
+  "id": 1344234511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.36111,39.57056,125.36111,39.57056",
+    "geom:latitude":39.57056,
+    "geom:longitude":125.36111,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kwallyong-mal",
+    "gn:country_code":"KP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875052,
+    "gn:latitude":39.57056,
+    "gn:longitude":125.36111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kwallyong-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\ub8e1\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Kwallyong-ni",
+        "Kwallyong-ma\u016dl",
+        "Kwallyong-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875052
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"497f008ff8fb1189b024ba0931f1af80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747213,
+            "locality_id":1344234511,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1344234511,
+    "wof:lastmodified":1537654605,
+    "wof:name":"Kwallyong-mal",
+    "wof:parent_id":1108747213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.36111,
+    39.57056,
+    125.36111,
+    39.57056
+],
+  "geometry": {"coordinates":[125.36111,39.57056],"type":"Point"}
+}

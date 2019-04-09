@@ -1,0 +1,67 @@
+{
+  "id": 1259803835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.77778,38.35667,126.77778,38.35667",
+    "geom:latitude":38.35667,
+    "geom:longitude":126.77778,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taegungt'o",
+    "gn:country_code":"KP",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931252,
+    "gn:latitude":38.35667,
+    "gn:longitude":126.77778,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Taegungt\u2019\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931252
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"08674101f0929515145bbd804a0f86b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747189,
+            "locality_id":1259803835,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1259803835,
+    "wof:lastmodified":1536893679,
+    "wof:name":"Taegungt'o",
+    "wof:parent_id":1108747189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.77778,
+    38.35667,
+    126.77778,
+    38.35667
+],
+  "geometry": {"coordinates":[126.77778000000001,38.35667],"type":"Point"}
+}

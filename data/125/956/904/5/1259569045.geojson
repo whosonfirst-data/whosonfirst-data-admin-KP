@@ -1,0 +1,72 @@
+{
+  "id": 1259569045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.6975,38.79611,125.6975,38.79611",
+    "geom:latitude":38.79611,
+    "geom:longitude":125.6975,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Samgap'o",
+    "gn:country_code":"KP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871513,
+    "gn:latitude":38.79611,
+    "gn:longitude":125.6975,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Samgap\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankaiho",
+        "Sangaiho",
+        "Samgap\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871513
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a206532a0a7609b12959bc89af5d71df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747765,
+            "locality_id":1259569045,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1259569045,
+    "wof:lastmodified":1537654433,
+    "wof:name":"Samgap'o",
+    "wof:parent_id":1108747765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.6975,
+    38.79611,
+    125.6975,
+    38.79611
+],
+  "geometry": {"coordinates":[125.69750000000001,38.79611],"type":"Point"}
+}

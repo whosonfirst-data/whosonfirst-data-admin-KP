@@ -1,0 +1,68 @@
+{
+  "id": 1327212849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.89222,40.90444,127.89222,40.90444",
+    "geom:latitude":40.90444,
+    "geom:longitude":127.89222,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"2041726",
+    "gn:asciiname":"Sinjonp'yong",
+    "gn:country_code":"KP",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055552,
+    "gn:latitude":40.90444,
+    "gn:longitude":127.89222,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Sinj\u014fnp\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055552
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1308610387db128364dabf27f46573c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747049,
+            "locality_id":1327212849,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1327212849,
+    "wof:lastmodified":1536997150,
+    "wof:name":"Sinjonp'yong",
+    "wof:parent_id":1108747049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.89222,
+    40.90444,
+    127.89222,
+    40.90444
+],
+  "geometry": {"coordinates":[127.89221999999999,40.90444],"type":"Point"}
+}

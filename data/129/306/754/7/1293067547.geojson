@@ -1,0 +1,71 @@
+{
+  "id": 1293067547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.39472,42.54444,130.39472,42.54444",
+    "geom:latitude":42.54444,
+    "geom:longitude":130.39472,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sangsam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041250,
+    "gn:latitude":42.54444,
+    "gn:longitude":130.39472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangsam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uc0bc\ub3d9",
+        "Sangsam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041250
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e5b0ed2ce698cee33cea9f840aa55abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746997,
+            "locality_id":1293067547,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1293067547,
+    "wof:lastmodified":1537655275,
+    "wof:name":"Sangsam-dong",
+    "wof:parent_id":1108746997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.39472,
+    42.54444,
+    130.39472,
+    42.54444
+],
+  "geometry": {"coordinates":[130.39472000000001,42.54444],"type":"Point"}
+}

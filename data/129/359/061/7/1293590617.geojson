@@ -1,0 +1,73 @@
+{
+  "id": 1293590617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97861,39.42639,126.97861,39.42639",
+    "geom:latitude":39.42639,
+    "geom:longitude":126.97861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tuuptogi",
+    "gn:country_code":"KP",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367085,
+    "gn:latitude":39.42639,
+    "gn:longitude":126.97861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tu\u016dpt\u014fgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\uc74d\ub355\uc774"
+    ],
+    "name:kor_x_variant":[
+        "Tu\u016dpt\u014fgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367085
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"723667d2db1e1df5fd04b61689bcb611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748031,
+            "locality_id":1293590617,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293590617,
+    "wof:lastmodified":1537655905,
+    "wof:name":"Tuuptogi",
+    "wof:parent_id":1108748031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97861,
+    39.42639000000001,
+    126.97861,
+    39.42639000000001
+],
+  "geometry": {"coordinates":[126.97861,39.42639000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276857811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.61361,38.88417,125.61361,38.88417",
+    "geom:latitude":38.88417,
+    "geom:longitude":125.61361,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taenae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868672,
+    "gn:latitude":38.88417,
+    "gn:longitude":125.61361,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Taenae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\ub0b4\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Daenaeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868672
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"47689be11cd8aff3e2c468d142e54db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747815,
+            "locality_id":1276857811,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276857811,
+    "wof:lastmodified":1537654294,
+    "wof:name":"Taenae-ri",
+    "wof:parent_id":1108747815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.61361,
+    38.88417000000001,
+    125.61361,
+    38.88417000000001
+],
+  "geometry": {"coordinates":[125.61360999999999,38.88417000000001],"type":"Point"}
+}

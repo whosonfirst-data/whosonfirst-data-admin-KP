@@ -1,0 +1,72 @@
+{
+  "id": 1310676929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.20472,42.86806,130.20472,42.86806",
+    "geom:latitude":42.86806,
+    "geom:longitude":130.20472,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sasu-ri",
+    "gn:country_code":"KP",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2041166,
+    "gn:latitude":42.86806,
+    "gn:longitude":130.20472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sasu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sasu-dong",
+        "\uc0ac\uc218\ub9ac",
+        "Sasu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041166
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d32020896960a7f52d2701530dc0db1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747003,
+            "locality_id":1310676929,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1310676929,
+    "wof:lastmodified":1537655269,
+    "wof:name":"Sasu-ri",
+    "wof:parent_id":1108747003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.20472,
+    42.86806,
+    130.20472,
+    42.86806
+],
+  "geometry": {"coordinates":[130.20472000000001,42.86806],"type":"Point"}
+}

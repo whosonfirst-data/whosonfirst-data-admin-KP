@@ -1,0 +1,71 @@
+{
+  "id": 1225858145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.95236,40.48268,126.95236,40.48268",
+    "geom:latitude":40.48268,
+    "geom:longitude":126.95236,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuksumul",
+    "gn:country_code":"KP",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281143,
+    "gn:latitude":40.48268,
+    "gn:longitude":126.95236,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kuksumul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6d\uc218\ubb3c",
+        "Kuksumul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281143
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7fd04af9d04ae24a92a8685e50b1059f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747103,
+            "locality_id":1225858145,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1225858145,
+    "wof:lastmodified":1537655719,
+    "wof:name":"Kuksumul",
+    "wof:parent_id":1108747103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.95236,
+    40.48268,
+    126.95236,
+    40.48268
+],
+  "geometry": {"coordinates":[126.95236,40.48268],"type":"Point"}
+}

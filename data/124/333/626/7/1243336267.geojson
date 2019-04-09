@@ -1,0 +1,73 @@
+{
+  "id": 1243336267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.55667,39.47083,126.55667,39.47083",
+    "geom:latitude":39.47083,
+    "geom:longitude":126.55667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ch'anggae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879242,
+    "gn:latitude":39.47083,
+    "gn:longitude":126.55667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019anggae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc3d\uac1c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019anggae-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879242
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6f0060f207e7cbffeb9df3ede0af23a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747005,
+            "locality_id":1243336267,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1243336267,
+    "wof:lastmodified":1537654845,
+    "wof:name":"Ch'anggae-ri",
+    "wof:parent_id":1108747005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.55667,
+    39.47083,
+    126.55667,
+    39.47083
+],
+  "geometry": {"coordinates":[126.55667,39.47083],"type":"Point"}
+}

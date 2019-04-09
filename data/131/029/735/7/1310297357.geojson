@@ -1,0 +1,73 @@
+{
+  "id": 1310297357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.45333,38.04611,125.45333,38.04611",
+    "geom:latitude":38.04611,
+    "geom:longitude":125.45333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Puldang",
+    "gn:country_code":"KP",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872132,
+    "gn:latitude":38.04611,
+    "gn:longitude":125.45333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Puldang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd88\ub2f9"
+    ],
+    "name:und_x_variant":[
+        "Pultang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872132
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a8f1a9609b193dd5b9b84eb8b409a108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747921,
+            "locality_id":1310297357,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310297357,
+    "wof:lastmodified":1537654467,
+    "wof:name":"Puldang",
+    "wof:parent_id":1108747921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.45333,
+    38.04611,
+    125.45333,
+    38.04611
+],
+  "geometry": {"coordinates":[125.45332999999999,38.04611],"type":"Point"}
+}

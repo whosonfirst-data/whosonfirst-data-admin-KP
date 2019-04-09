@@ -1,0 +1,70 @@
+{
+  "id": 1193039983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.15667,38.37083,125.15667,38.37083",
+    "geom:latitude":38.37083,
+    "geom:longitude":125.15667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tangyu",
+    "gn:country_code":"KP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868366,
+    "gn:latitude":38.37083,
+    "gn:longitude":125.15667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tangyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\uc720"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868366
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5979e33fc796d0f1e14afaff8df77f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747219,
+            "locality_id":1193039983,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1193039983,
+    "wof:lastmodified":1537654279,
+    "wof:name":"Tangyu",
+    "wof:parent_id":1108747219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.15667,
+    38.37083,
+    125.15667,
+    38.37083
+],
+  "geometry": {"coordinates":[125.15667000000001,38.37083],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343656465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.60889,38.11583,125.60889,38.11583",
+    "geom:latitude":38.11583,
+    "geom:longitude":125.60889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kumsan",
+    "gn:country_code":"KP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875328,
+    "gn:latitude":38.11583,
+    "gn:longitude":125.60889,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"K\u016dmsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uc0b0"
+    ],
+    "name:und_x_variant":[
+        "K\u016dmsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875328
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e83bddd0cd621fddc63d3596100564c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747743,
+            "locality_id":1343656465,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1343656465,
+    "wof:lastmodified":1537654623,
+    "wof:name":"Kumsan",
+    "wof:parent_id":1108747743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.60889,
+    38.11583,
+    125.60889,
+    38.11583
+],
+  "geometry": {"coordinates":[125.60889,38.11583],"type":"Point"}
+}

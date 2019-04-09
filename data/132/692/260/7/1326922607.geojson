@@ -1,0 +1,72 @@
+{
+  "id": 1326922607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.52944,38.1525,125.52944,38.1525",
+    "geom:latitude":38.1525,
+    "geom:longitude":125.52944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tohyol-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868198,
+    "gn:latitude":38.1525,
+    "gn:longitude":125.52944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tohy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tohy\u014fn-ni",
+        "Tohy\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868198
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"77c9e91411c5b5de826b65dbc49838c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747921,
+            "locality_id":1326922607,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1326922607,
+    "wof:lastmodified":1537654270,
+    "wof:name":"Tohyol-li",
+    "wof:parent_id":1108747921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.52944,
+    38.1525,
+    125.52944,
+    38.1525
+],
+  "geometry": {"coordinates":[125.52943999999999,38.1525],"type":"Point"}
+}

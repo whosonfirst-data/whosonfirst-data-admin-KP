@@ -1,0 +1,71 @@
+{
+  "id": 1259370163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.92028,40.11861,125.92028,40.11861",
+    "geom:latitude":40.11861,
+    "geom:longitude":125.92028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sokpang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040729,
+    "gn:latitude":40.11861,
+    "gn:longitude":125.92028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fkpang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11d\ubc29\ub3d9",
+        "S\u014fkpang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040729
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"38fa347b9fff695d4f8308ed738b15ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748089,
+            "locality_id":1259370163,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259370163,
+    "wof:lastmodified":1537655244,
+    "wof:name":"Sokpang-dong",
+    "wof:parent_id":1108748089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.92028,
+    40.11861,
+    125.92028,
+    40.11861
+],
+  "geometry": {"coordinates":[125.92028000000001,40.11861],"type":"Point"}
+}

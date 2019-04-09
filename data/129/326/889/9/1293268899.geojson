@@ -1,0 +1,72 @@
+{
+  "id": 1293268899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.81083,38.96694,125.81083,38.96694",
+    "geom:latitude":38.96694,
+    "geom:longitude":125.81083,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Im-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876596,
+    "gn:latitude":38.96694,
+    "gn:longitude":125.81083,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Im-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc784\ucd0c",
+        "Im-ch\u2019on",
+        "Imchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876596
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c477f9a0725457286f06602a3272cdc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1293268899,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1293268899,
+    "wof:lastmodified":1537654695,
+    "wof:name":"Im-ch'on",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.81083,
+    38.96694,
+    125.81083,
+    38.96694
+],
+  "geometry": {"coordinates":[125.81083,38.96694],"type":"Point"}
+}

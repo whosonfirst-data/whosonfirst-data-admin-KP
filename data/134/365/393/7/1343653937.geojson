@@ -1,0 +1,71 @@
+{
+  "id": 1343653937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.29278,37.74556,125.29278,37.74556",
+    "geom:latitude":37.74556,
+    "geom:longitude":125.29278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Haejang",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273501,
+    "gn:latitude":37.74556,
+    "gn:longitude":125.29278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haejang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud574\uc7a5",
+        "Haejang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273501
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0bc2ddf5b3a647ecfe68158f0a914403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1343653937,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1343653937,
+    "wof:lastmodified":1537655695,
+    "wof:name":"Haejang",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.29278,
+    37.74556,
+    125.29278,
+    37.74556
+],
+  "geometry": {"coordinates":[125.29277999999999,37.74556],"type":"Point"}
+}

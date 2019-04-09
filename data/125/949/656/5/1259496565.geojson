@@ -1,0 +1,72 @@
+{
+  "id": 1259496565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58083,40.7425,125.58083,40.7425",
+    "geom:latitude":40.7425,
+    "geom:longitude":125.58083,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Puksang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041794,
+    "gn:latitude":40.7425,
+    "gn:longitude":125.58083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Puksang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puksang-dong",
+        "\ubd81\uc0c1\ub9ac",
+        "Puksang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041794
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8aad81452dd84d86a9507627c935afd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747225,
+            "locality_id":1259496565,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1259496565,
+    "wof:lastmodified":1537655308,
+    "wof:name":"Puksang-ni",
+    "wof:parent_id":1108747225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58083,
+    40.7425,
+    125.58083,
+    40.7425
+],
+  "geometry": {"coordinates":[125.58083000000001,40.7425],"type":"Point"}
+}

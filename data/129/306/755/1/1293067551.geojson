@@ -1,0 +1,71 @@
+{
+  "id": 1293067551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.41278,40.88417,129.41278,40.88417",
+    "geom:latitude":40.88417,
+    "geom:longitude":129.41278,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sangdok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041343,
+    "gn:latitude":40.88417,
+    "gn:longitude":129.41278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangdok-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\ub3c5\ub3d9",
+        "Sangdok-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041343
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"31fa3978e8740b05b23a3eadf491da62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747015,
+            "locality_id":1293067551,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1293067551,
+    "wof:lastmodified":1537655281,
+    "wof:name":"Sangdok-tong",
+    "wof:parent_id":1108747015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.41278,
+    40.88417000000001,
+    129.41278,
+    40.88417000000001
+],
+  "geometry": {"coordinates":[129.41278,40.88417000000001],"type":"Point"}
+}

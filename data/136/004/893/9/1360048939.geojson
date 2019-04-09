@@ -1,0 +1,71 @@
+{
+  "id": 1360048939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.61667,41.31667,129.61667,41.31667",
+    "geom:latitude":41.31667,
+    "geom:longitude":129.61667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Homun'gol",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044072,
+    "gn:latitude":41.31667,
+    "gn:longitude":129.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Homun\u2019gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Homun\u2019gok",
+        "Homun\u2019gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044072
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4b5d3e5c4ecbbc559f43d9494b09d6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747903,
+            "locality_id":1360048939,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1360048939,
+    "wof:lastmodified":1537655435,
+    "wof:name":"Homun'gol",
+    "wof:parent_id":1108747903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.61667,
+    41.31667,
+    129.61667,
+    41.31667
+],
+  "geometry": {"coordinates":[129.61667,41.31667],"type":"Point"}
+}

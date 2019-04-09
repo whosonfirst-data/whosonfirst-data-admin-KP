@@ -1,0 +1,67 @@
+{
+  "id": 1226251875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.75611,40.81167,125.75611,40.81167",
+    "geom:latitude":40.81167,
+    "geom:longitude":125.75611,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kogae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049185,
+    "gn:latitude":40.81167,
+    "gn:longitude":125.75611,
+    "gn:modification_date":"2003-03-20",
+    "gn:name":"Kogae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049185
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"68065f24221279fd71d4039d5a39279b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747741,
+            "locality_id":1226251875,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1226251875,
+    "wof:lastmodified":1536925404,
+    "wof:name":"Kogae-dong",
+    "wof:parent_id":1108747741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.75611,
+    40.81167,
+    125.75611,
+    40.81167
+],
+  "geometry": {"coordinates":[125.75611000000001,40.81167],"type":"Point"}
+}

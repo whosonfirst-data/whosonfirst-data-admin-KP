@@ -1,0 +1,70 @@
+{
+  "id": 1276756563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.42972,38.6175,125.42972,38.6175",
+    "geom:latitude":38.6175,
+    "geom:longitude":125.42972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pudun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872237,
+    "gn:latitude":38.6175,
+    "gn:longitude":125.42972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pudun-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd80\ub454\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872237
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"942962395a241f946354d9c7cd760793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747207,
+            "locality_id":1276756563,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276756563,
+    "wof:lastmodified":1537654472,
+    "wof:name":"Pudun-dong",
+    "wof:parent_id":1108747207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.42972,
+    38.6175,
+    125.42972,
+    38.6175
+],
+  "geometry": {"coordinates":[125.42972,38.6175],"type":"Point"}
+}

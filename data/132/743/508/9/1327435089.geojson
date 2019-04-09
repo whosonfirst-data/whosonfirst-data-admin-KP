@@ -1,0 +1,71 @@
+{
+  "id": 1327435089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.15639,40.72889,126.15639,40.72889",
+    "geom:latitude":40.72889,
+    "geom:longitude":126.15639,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hanjang",
+    "gn:country_code":"KP",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282639,
+    "gn:latitude":40.72889,
+    "gn:longitude":126.15639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hanjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud55c\uc7a5",
+        "Hanjang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282639
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"069bef7af5dcac10a58d4e767f8e1266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747227,
+            "locality_id":1327435089,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1327435089,
+    "wof:lastmodified":1537655783,
+    "wof:name":"Hanjang",
+    "wof:parent_id":1108747227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.15639,
+    40.72889,
+    126.15639,
+    40.72889
+],
+  "geometry": {"coordinates":[126.15639,40.72889],"type":"Point"}
+}

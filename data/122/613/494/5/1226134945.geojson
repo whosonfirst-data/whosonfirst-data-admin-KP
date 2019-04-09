@@ -1,0 +1,67 @@
+{
+  "id": 1226134945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.66611,38.21056,125.66611,38.21056",
+    "geom:latitude":38.21056,
+    "geom:longitude":125.66611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saet'o",
+    "gn:country_code":"KP",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871693,
+    "gn:latitude":38.21056,
+    "gn:longitude":125.66611,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Saet\u2019\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871693
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"088a61bd27b6e1f51270edfc25ab0372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748009,
+            "locality_id":1226134945,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1226134945,
+    "wof:lastmodified":1537090116,
+    "wof:name":"Saet'o",
+    "wof:parent_id":1108748009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.66611,
+    38.21056,
+    125.66611,
+    38.21056
+],
+  "geometry": {"coordinates":[125.66611,38.21056],"type":"Point"}
+}

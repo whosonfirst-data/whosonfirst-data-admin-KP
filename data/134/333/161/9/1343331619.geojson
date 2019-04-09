@@ -1,0 +1,75 @@
+{
+  "id": 1343331619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.64694,39.20389,125.64694,39.20389",
+    "geom:latitude":39.20389,
+    "geom:longitude":125.64694,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Yongbongi-ri",
+    "gn:country_code":"KP",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889494,
+    "gn:latitude":39.20389,
+    "gn:longitude":125.64694,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Yongbongi-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ubd09\uc774\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Yongbuk-ni",
+        "Yongbongi-ri",
+        "Yongbongiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889494
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fca319a705d280121b43839a2ce8f65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1343331619,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1343331619,
+    "wof:lastmodified":1537654929,
+    "wof:name":"Yongbongi-ri",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.64694,
+    39.20389,
+    125.64694,
+    39.20389
+],
+  "geometry": {"coordinates":[125.64694,39.20389],"type":"Point"}
+}

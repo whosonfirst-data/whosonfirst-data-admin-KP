@@ -1,0 +1,71 @@
+{
+  "id": 1293777967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.15917,38.79417,127.15917,38.79417",
+    "geom:latitude":38.79417,
+    "geom:longitude":127.15917,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Manhang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6279223,
+    "gn:latitude":38.79417,
+    "gn:longitude":127.15917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Manhang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9cc\ud56d\ub9ac",
+        "Manhang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6279223
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1a43d20920d1dd9f9281257bc6bd8630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747045,
+            "locality_id":1293777967,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1293777967,
+    "wof:lastmodified":1537655709,
+    "wof:name":"Manhang-ni",
+    "wof:parent_id":1108747045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.15917,
+    38.79417,
+    127.15917,
+    38.79417
+],
+  "geometry": {"coordinates":[127.15917,38.79417],"type":"Point"}
+}

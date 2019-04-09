@@ -1,0 +1,71 @@
+{
+  "id": 1225846311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.88333,40.07722,127.88333,40.07722",
+    "geom:latitude":40.07722,
+    "geom:longitude":127.88333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"P'ungyang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302715,
+    "gn:latitude":40.07722,
+    "gn:longitude":127.88333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019ungyang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud48d\uc591\ub9ac",
+        "P\u2019ungyang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302715
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"042bef6b09c2ffddcdfdaaf4efdf2892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746889,
+            "locality_id":1225846311,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1225846311,
+    "wof:lastmodified":1537655819,
+    "wof:name":"P'ungyang-ni",
+    "wof:parent_id":1108746889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.88333,
+    40.07722,
+    127.88333,
+    40.07722
+],
+  "geometry": {"coordinates":[127.88333,40.07722],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276975375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.40583,38.89444,127.40583,38.89444",
+    "geom:latitude":38.89444,
+    "geom:longitude":127.40583,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sa-ri",
+    "gn:country_code":"KP",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888784,
+    "gn:latitude":38.89444,
+    "gn:longitude":127.40583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888784
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"249aa8f97855efb6e3b4679e5e5b0b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746973,
+            "locality_id":1276975375,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1276975375,
+    "wof:lastmodified":1537654907,
+    "wof:name":"Sa-ri",
+    "wof:parent_id":1108746973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.40583,
+    38.89444,
+    127.40583,
+    38.89444
+],
+  "geometry": {"coordinates":[127.40582999999999,38.89444],"type":"Point"}
+}

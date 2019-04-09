@@ -1,0 +1,71 @@
+{
+  "id": 1242850443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.085,40.60833,129.085,40.60833",
+    "geom:latitude":40.60833,
+    "geom:longitude":129.085,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chungyongch'on",
+    "gn:country_code":"KP",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6198717,
+    "gn:latitude":40.60833,
+    "gn:longitude":129.085,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chungyongch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\uc6a9\ucd0c",
+        "Chungyongch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6198717
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"87e7a6af55966706a9e16adc31de6bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746957,
+            "locality_id":1242850443,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1242850443,
+    "wof:lastmodified":1537655661,
+    "wof:name":"Chungyongch'on",
+    "wof:parent_id":1108746957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.085,
+    40.60833,
+    129.085,
+    40.60833
+],
+  "geometry": {"coordinates":[129.08500000000001,40.60833],"type":"Point"}
+}

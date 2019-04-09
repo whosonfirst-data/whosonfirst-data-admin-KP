@@ -1,0 +1,71 @@
+{
+  "id": 1343553523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.33167,37.91472,125.33167,37.91472",
+    "geom:latitude":37.91472,
+    "geom:longitude":125.33167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Wangsong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867149,
+    "gn:latitude":37.91472,
+    "gn:longitude":125.33167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wangs\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc655\uc131\ub3d9",
+        "Wangs\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867149
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"946a713ba7d362f9dec23bef460e5626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1343553523,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1343553523,
+    "wof:lastmodified":1537654217,
+    "wof:name":"Wangsong-dong",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.33167,
+    37.91472,
+    125.33167,
+    37.91472
+],
+  "geometry": {"coordinates":[125.33167,37.91472],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260087153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.49806,40.9875,127.49806,40.9875",
+    "geom:latitude":40.9875,
+    "geom:longitude":127.49806,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Korim",
+    "gn:country_code":"KP",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043327,
+    "gn:latitude":40.9875,
+    "gn:longitude":127.49806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u014frim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac70\ub9bc"
+    ],
+    "name:kor_x_variant":[
+        "K\u014frim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043327
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1087a2aa6d895c1aa920604293146dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747067,
+            "locality_id":1260087153,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1260087153,
+    "wof:lastmodified":1537655396,
+    "wof:name":"Korim",
+    "wof:parent_id":1108747067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.49806,
+    40.9875,
+    127.49806,
+    40.9875
+],
+  "geometry": {"coordinates":[127.49806,40.9875],"type":"Point"}
+}

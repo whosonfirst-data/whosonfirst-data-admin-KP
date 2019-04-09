@@ -1,0 +1,68 @@
+{
+  "id": 1260366009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.06389,42.0525,130.06389,42.0525",
+    "geom:latitude":42.0525,
+    "geom:longitude":130.06389,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kajin-dong",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043643,
+    "gn:latitude":42.0525,
+    "gn:longitude":130.06389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kajin-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chajin-dong",
+        "\uac00\uc9c4\ub3d9",
+        "Kajin-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043643
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0c1c41d8822f4d0938b3db3ed329a005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1260366009,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260366009,
+    "wof:lastmodified":1537655411,
+    "wof:name":"Kajin-dong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.06389,
+    42.0525,
+    130.06389,
+    42.0525
+],
+  "geometry": {"coordinates":[130.06388999999999,42.0525],"type":"Point"}
+}

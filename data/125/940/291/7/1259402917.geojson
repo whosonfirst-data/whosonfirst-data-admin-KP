@@ -1,0 +1,67 @@
+{
+  "id": 1259402917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17806,38.39389,126.17806,38.39389",
+    "geom:latitude":38.39389,
+    "geom:longitude":126.17806,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Malttongbaegi",
+    "gn:country_code":"KP",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948221,
+    "gn:latitude":38.39389,
+    "gn:longitude":126.17806,
+    "gn:modification_date":"2006-07-17",
+    "gn:name":"Malttongbaegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948221
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a05fb08481a58bf64af60ea0c63242d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":1259402917,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1259402917,
+    "wof:lastmodified":1536974006,
+    "wof:name":"Malttongbaegi",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17806000000002,
+    38.39389,
+    126.17806000000002,
+    38.39389
+],
+  "geometry": {"coordinates":[126.17806000000002,38.39389],"type":"Point"}
+}

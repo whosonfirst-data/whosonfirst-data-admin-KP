@@ -1,0 +1,67 @@
+{
+  "id": 1276788527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.08361,38.12667,126.08361,38.12667",
+    "geom:latitude":38.12667,
+    "geom:longitude":126.08361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hyongjeumul",
+    "gn:country_code":"KP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947769,
+    "gn:latitude":38.12667,
+    "gn:longitude":126.08361,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Hy\u014fngjeumul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947769
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"563201652e92af16799df06fa2bbd4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747061,
+            "locality_id":1276788527,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276788527,
+    "wof:lastmodified":1536666094,
+    "wof:name":"Hyongjeumul",
+    "wof:parent_id":1108747061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.08361,
+    38.12667,
+    126.08361,
+    38.12667
+],
+  "geometry": {"coordinates":[126.08360999999999,38.12667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243451397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.90583,38.22917,124.90583,38.22917",
+    "geom:latitude":38.22917,
+    "geom:longitude":124.90583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yami-dong",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866814,
+    "gn:latitude":38.22917,
+    "gn:longitude":124.90583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yami-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc57c\ubbf8\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866814
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0475e5452018a3a6ac0c056bc0dc5d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746917,
+            "locality_id":1243451397,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243451397,
+    "wof:lastmodified":1537654200,
+    "wof:name":"Yami-dong",
+    "wof:parent_id":1108746917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.90583,
+    38.22917,
+    124.90583,
+    38.22917
+],
+  "geometry": {"coordinates":[124.90582999999999,38.22917],"type":"Point"}
+}

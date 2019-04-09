@@ -1,0 +1,75 @@
+{
+  "id": 1293765977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.44611,39.00083,125.44611,39.00083",
+    "geom:latitude":39.00083,
+    "geom:longitude":125.44611,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kwanghyang-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874976,
+    "gn:latitude":39.00083,
+    "gn:longitude":125.44611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kwanghyang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014dky\u014d",
+        "Kwanghang-ni",
+        "K\u014dky\u014d-ri",
+        "Kwanghyang",
+        "Kwanghyang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108746951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874976
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"671e7c4acaf416119dab6e51619e9bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746951,
+            "locality_id":1293765977,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1293765977,
+    "wof:lastmodified":1537654602,
+    "wof:name":"Kwanghyang-ni",
+    "wof:parent_id":1108746951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.44611,
+    39.00083,
+    125.44611,
+    39.00083
+],
+  "geometry": {"coordinates":[125.44611,39.00083],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276959299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.06861,39.85028,126.06861,39.85028",
+    "geom:latitude":39.85028,
+    "geom:longitude":126.06861,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ansim-gol",
+    "gn:country_code":"KP",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947949,
+    "gn:latitude":39.85028,
+    "gn:longitude":126.06861,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ansim-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\uc2ec\uace8",
+        "Ansim-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947949
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1921a31ea31383ad169800ea6f61bb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746979,
+            "locality_id":1276959299,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276959299,
+    "wof:lastmodified":1537655091,
+    "wof:name":"Ansim-gol",
+    "wof:parent_id":1108746979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.06861,
+    39.85028,
+    126.06861,
+    39.85028
+],
+  "geometry": {"coordinates":[126.06861000000001,39.85028],"type":"Point"}
+}

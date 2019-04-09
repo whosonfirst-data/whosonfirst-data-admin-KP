@@ -1,0 +1,71 @@
+{
+  "id": 1326533333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68339,40.37689,126.68339,40.37689",
+    "geom:latitude":40.37689,
+    "geom:longitude":126.68339,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chaeyang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2045270,
+    "gn:latitude":40.37689,
+    "gn:longitude":126.68339,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chaeyang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc7ac\uc591\ub3d9",
+        "Chaeyang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2045270
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"af55166858f9b9e4890e2438ff73eca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747103,
+            "locality_id":1326533333,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1326533333,
+    "wof:lastmodified":1537655506,
+    "wof:name":"Chaeyang-dong",
+    "wof:parent_id":1108747103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68339,
+    40.37689,
+    126.68339,
+    40.37689
+],
+  "geometry": {"coordinates":[126.68339,40.37689],"type":"Point"}
+}

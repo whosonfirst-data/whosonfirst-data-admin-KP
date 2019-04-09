@@ -1,0 +1,80 @@
+{
+  "id": 1193264293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.26959,41.50774,127.26959,41.50774",
+    "geom:latitude":41.50774,
+    "geom:longitude":127.26959,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kimhyongjik",
+    "gn:country_code":"KP",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044025,
+    "gn:latitude":41.50774,
+    "gn:longitude":127.26959,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kimhy\u014fngjik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae40\ud615\uc9c1"
+    ],
+    "name:und_x_variant":[
+        "Huch\u2019ang-\u016dp",
+        "Kimhy\u014fngjig",
+        "Hagudae",
+        "Huch\u2019ang",
+        "Hagubi",
+        "Hagubae",
+        "Kimhy\u014fngjig-\u016dp",
+        "Kimhy\u014fngjik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044025
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3754fa42b1bf84275e99ef279ab668ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746965,
+            "locality_id":1193264293,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1193264293,
+    "wof:lastmodified":1537655433,
+    "wof:name":"Kimhyongjik",
+    "wof:parent_id":1108746965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.26959,
+    41.50774000000001,
+    127.26959,
+    41.50774000000001
+],
+  "geometry": {"coordinates":[127.26958999999999,41.50774000000001],"type":"Point"}
+}

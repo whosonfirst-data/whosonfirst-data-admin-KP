@@ -1,0 +1,72 @@
+{
+  "id": 1276954411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.71028,41.34639,129.71028,41.34639",
+    "geom:latitude":41.34639,
+    "geom:longitude":129.71028,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Pon'gae",
+    "gn:country_code":"KP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041937,
+    "gn:latitude":41.34639,
+    "gn:longitude":129.71028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u014fn\u2019gae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u014fnp\u2019o",
+        "\ubc88\uac1c",
+        "P\u014fn\u2019gae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041937
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ea70baa4d68df4bc679d2df476a87e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747903,
+            "locality_id":1276954411,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1276954411,
+    "wof:lastmodified":1537655316,
+    "wof:name":"Pon'gae",
+    "wof:parent_id":1108747903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.71028,
+    41.34639,
+    129.71028,
+    41.34639
+],
+  "geometry": {"coordinates":[129.71028000000001,41.34639],"type":"Point"}
+}

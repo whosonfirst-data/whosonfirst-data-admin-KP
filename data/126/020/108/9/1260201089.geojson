@@ -1,0 +1,70 @@
+{
+  "id": 1260201089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.8,38.88333,125.8,38.88333",
+    "geom:latitude":38.88333,
+    "geom:longitude":125.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kangno-ri",
+    "gn:country_code":"KP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876129,
+    "gn:latitude":38.88333,
+    "gn:longitude":125.8,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kangno-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\ub85c\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876129
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9d92f75f895fd47df2b02307799cf65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1260201089,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1260201089,
+    "wof:lastmodified":1537654667,
+    "wof:name":"Kangno-ri",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.8,
+    38.88333,
+    125.8,
+    38.88333
+],
+  "geometry": {"coordinates":[125.8,38.88333],"type":"Point"}
+}

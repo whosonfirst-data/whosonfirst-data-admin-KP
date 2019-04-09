@@ -1,0 +1,71 @@
+{
+  "id": 1360267705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17278,39.2025,126.17278,39.2025",
+    "geom:latitude":39.2025,
+    "geom:longitude":126.17278,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"S\u014fngch'\u014fn-gun",
+    "gn:asciiname":"Hwayu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876803,
+    "gn:latitude":39.2025,
+    "gn:longitude":126.17278,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Hwayu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\uc720\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876803
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c9caa86b5b260179143cf6f49ea389ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747149,
+            "locality_id":1360267705,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1360267705,
+    "wof:lastmodified":1537654706,
+    "wof:name":"Hwayu-dong",
+    "wof:parent_id":1108747149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17278,
+    39.2025,
+    126.17278,
+    39.2025
+],
+  "geometry": {"coordinates":[126.17278,39.2025],"type":"Point"}
+}

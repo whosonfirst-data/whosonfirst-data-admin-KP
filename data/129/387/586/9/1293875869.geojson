@@ -1,0 +1,70 @@
+{
+  "id": 1293875869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.11472,38.13833,125.11472,38.13833",
+    "geom:latitude":38.13833,
+    "geom:longitude":125.11472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Haga-dong",
+    "gn:country_code":"KP",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877578,
+    "gn:latitude":38.13833,
+    "gn:longitude":125.11472,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Haga-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uac00\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877578
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8b06c366af7a6df7436d5cf21c159b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747967,
+            "locality_id":1293875869,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293875869,
+    "wof:lastmodified":1537654750,
+    "wof:name":"Haga-dong",
+    "wof:parent_id":1108747967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.11472,
+    38.13833,
+    125.11472,
+    38.13833
+],
+  "geometry": {"coordinates":[125.11472000000001,38.13833],"type":"Point"}
+}

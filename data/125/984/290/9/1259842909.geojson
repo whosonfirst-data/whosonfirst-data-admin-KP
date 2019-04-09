@@ -1,0 +1,71 @@
+{
+  "id": 1259842909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.42639,41.03167,129.42639,41.03167",
+    "geom:latitude":41.03167,
+    "geom:longitude":129.42639,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Komun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043373,
+    "gn:latitude":41.03167,
+    "gn:longitude":129.42639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u014fmun-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac70\ubb38\ub3d9",
+        "K\u014fmun-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043373
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3599c1d7214c903e25d7be78ce0dee06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747015,
+            "locality_id":1259842909,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1259842909,
+    "wof:lastmodified":1537655398,
+    "wof:name":"Komun-dong",
+    "wof:parent_id":1108747015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.42639,
+    41.03167,
+    129.42639,
+    41.03167
+],
+  "geometry": {"coordinates":[129.42639,41.03167],"type":"Point"}
+}

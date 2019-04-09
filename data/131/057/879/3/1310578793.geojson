@@ -1,0 +1,73 @@
+{
+  "id": 1310578793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.46972,40.07944,124.46972,40.07944",
+    "geom:latitude":40.07944,
+    "geom:longitude":124.46972,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Songhal-li",
+    "gn:country_code":"KP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040606,
+    "gn:latitude":40.07944,
+    "gn:longitude":124.46972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Songhal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Songhan-dong",
+        "\uc1a1\ud55c\ub9ac",
+        "Songhan-ni",
+        "Songhal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040606
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"738fc655129dfd1b0da8e9ebbde5fda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747047,
+            "locality_id":1310578793,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1310578793,
+    "wof:lastmodified":1537655237,
+    "wof:name":"Songhal-li",
+    "wof:parent_id":1108747047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.46972,
+    40.07944000000001,
+    124.46972,
+    40.07944000000001
+],
+  "geometry": {"coordinates":[124.46972,40.07944000000001],"type":"Point"}
+}

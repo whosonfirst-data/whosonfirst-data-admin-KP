@@ -1,0 +1,73 @@
+{
+  "id": 1293085087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52222,38.34722,127.52222,38.34722",
+    "geom:latitude":38.34722,
+    "geom:longitude":127.52222,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1875980",
+    "gn:asciiname":"Sanggujong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882302,
+    "gn:latitude":38.34722,
+    "gn:longitude":127.52222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangguj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salgujong",
+        "Sangguj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882302
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"81451225f7b7e498ba85d0a053aba8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746967,
+            "locality_id":1293085087,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1293085087,
+    "wof:lastmodified":1537654874,
+    "wof:name":"Sanggujong",
+    "wof:parent_id":1108746967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52222,
+    38.34722,
+    127.52222,
+    38.34722
+],
+  "geometry": {"coordinates":[127.52222,38.34722],"type":"Point"}
+}

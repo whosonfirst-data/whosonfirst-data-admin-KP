@@ -1,0 +1,73 @@
+{
+  "id": 1260062449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.63111,39.58917,125.63111,39.58917",
+    "geom:latitude":39.58917,
+    "geom:longitude":125.63111,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Unhung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867301,
+    "gn:latitude":39.58917,
+    "gn:longitude":125.63111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Unh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6b4\ud765\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Unh\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108746847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867301
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"167408fcc9b29a818995aff1897f9f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746847,
+            "locality_id":1260062449,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1260062449,
+    "wof:lastmodified":1537654225,
+    "wof:name":"Unhung-ni",
+    "wof:parent_id":1108746847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.63111,
+    39.58917,
+    125.63111,
+    39.58917
+],
+  "geometry": {"coordinates":[125.63111000000001,39.58917],"type":"Point"}
+}

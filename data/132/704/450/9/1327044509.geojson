@@ -1,0 +1,70 @@
+{
+  "id": 1327044509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.62833,39.69667,125.62833,39.69667",
+    "geom:latitude":39.69667,
+    "geom:longitude":125.62833,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sangyango-ri",
+    "gn:country_code":"KP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6272009,
+    "gn:latitude":39.69667,
+    "gn:longitude":125.62833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangyango-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uc591\uc624\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6272009
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"612886a1a1d5315d2ccf1db1502e9312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747909,
+            "locality_id":1327044509,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1327044509,
+    "wof:lastmodified":1537655666,
+    "wof:name":"Sangyango-ri",
+    "wof:parent_id":1108747909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.62833,
+    39.69667000000001,
+    125.62833,
+    39.69667000000001
+],
+  "geometry": {"coordinates":[125.62833000000001,39.69667000000001],"type":"Point"}
+}

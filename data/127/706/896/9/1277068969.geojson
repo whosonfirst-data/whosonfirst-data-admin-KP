@@ -1,0 +1,71 @@
+{
+  "id": 1277068969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49833,38.015,126.49833,38.015",
+    "geom:latitude":38.015,
+    "geom:longitude":126.49833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pongmyong-gol",
+    "gn:country_code":"KP",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872367,
+    "gn:latitude":38.015,
+    "gn:longitude":126.49833,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Pongmy\u014fng-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd09\uba85\uace8",
+        "Pongmy\u014fng-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872367
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f45c59c15b3f8ba7d345aa4248d46c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747807,
+            "locality_id":1277068969,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1277068969,
+    "wof:lastmodified":1537654478,
+    "wof:name":"Pongmyong-gol",
+    "wof:parent_id":1108747807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49833,
+    38.015,
+    126.49833,
+    38.015
+],
+  "geometry": {"coordinates":[126.49833,38.015],"type":"Point"}
+}

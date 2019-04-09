@@ -1,0 +1,71 @@
+{
+  "id": 1260087135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.99833,40.34861,127.99833,40.34861",
+    "geom:latitude":40.34861,
+    "geom:longitude":127.99833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kogae-gol",
+    "gn:country_code":"KP",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281374,
+    "gn:latitude":40.34861,
+    "gn:longitude":127.99833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kogae-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\uac1c\uace8",
+        "Kogae-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281374
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e2b0c895b4f1c0cdd8a82d485188793e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747193,
+            "locality_id":1260087135,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1260087135,
+    "wof:lastmodified":1537655729,
+    "wof:name":"Kogae-gol",
+    "wof:parent_id":1108747193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.99833,
+    40.34861,
+    127.99833,
+    40.34861
+],
+  "geometry": {"coordinates":[127.99833,40.34861],"type":"Point"}
+}

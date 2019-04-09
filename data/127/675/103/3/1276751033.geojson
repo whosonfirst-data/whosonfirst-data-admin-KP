@@ -1,0 +1,79 @@
+{
+  "id": 1276751033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.97917,39.64944,124.97917,39.64944",
+    "geom:latitude":39.64944,
+    "geom:longitude":124.97917,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hadal-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877665,
+    "gn:latitude":39.64944,
+    "gn:longitude":124.97917,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Hadal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub2e8\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Hadan-ma\u016dl",
+        "\ud558\ub2e8\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "Hadan-ni",
+        "Hadal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877665
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"727741808d363a2ae820166536c8b48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1276751033,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276751033,
+    "wof:lastmodified":1537654755,
+    "wof:name":"Hadal-li",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.97917,
+    39.64944000000001,
+    124.97917,
+    39.64944000000001
+],
+  "geometry": {"coordinates":[124.97917,39.64944000000001],"type":"Point"}
+}

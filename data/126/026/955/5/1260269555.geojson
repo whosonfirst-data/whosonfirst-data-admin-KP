@@ -1,0 +1,72 @@
+{
+  "id": 1260269555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.91111,38.81167,125.91111,38.81167",
+    "geom:latitude":38.81167,
+    "geom:longitude":125.91111,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Osong-gol",
+    "gn:country_code":"KP",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873063,
+    "gn:latitude":38.81167,
+    "gn:longitude":125.91111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u014es\u014fng-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014es\u014fng-gol",
+        "\uc5b4\uc131\uace8",
+        "\u014es\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873063
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c86e92e82aace9b46c7c45f666a1c2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":1260269555,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1260269555,
+    "wof:lastmodified":1537654514,
+    "wof:name":"Osong-gol",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.91111,
+    38.81167,
+    125.91111,
+    38.81167
+],
+  "geometry": {"coordinates":[125.91110999999999,38.81167],"type":"Point"}
+}

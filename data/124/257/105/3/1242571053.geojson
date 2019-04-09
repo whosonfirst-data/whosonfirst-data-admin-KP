@@ -1,0 +1,67 @@
+{
+  "id": 1242571053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.12083,38.32694,126.12083,38.32694",
+    "geom:latitude":38.32694,
+    "geom:longitude":126.12083,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yango-ri",
+    "gn:country_code":"KP",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948134,
+    "gn:latitude":38.32694,
+    "gn:longitude":126.12083,
+    "gn:modification_date":"2000-09-01",
+    "gn:name":"Yang\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948134
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6f9a177710e4d04567ce3ee48cb24efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747093,
+            "locality_id":1242571053,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1242571053,
+    "wof:lastmodified":1537070061,
+    "wof:name":"Yango-ri",
+    "wof:parent_id":1108747093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.12083,
+    38.32694,
+    126.12083,
+    38.32694
+],
+  "geometry": {"coordinates":[126.12083,38.32694],"type":"Point"}
+}

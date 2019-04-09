@@ -1,0 +1,67 @@
+{
+  "id": 1344049449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.23,38.10028,126.23,38.10028",
+    "geom:latitude":38.10028,
+    "geom:longitude":126.23,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kangson",
+    "gn:country_code":"KP",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947641,
+    "gn:latitude":38.10028,
+    "gn:longitude":126.23,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Kangs\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947641
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f74af0c1048b756930690f9eb7be35c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747061,
+            "locality_id":1344049449,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1344049449,
+    "wof:lastmodified":1536891192,
+    "wof:name":"Kangson",
+    "wof:parent_id":1108747061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.23,
+    38.10028,
+    126.23,
+    38.10028
+],
+  "geometry": {"coordinates":[126.23,38.10028],"type":"Point"}
+}

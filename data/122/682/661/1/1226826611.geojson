@@ -1,0 +1,76 @@
+{
+  "id": 1226826611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.55306,39.6725,125.55306,39.6725",
+    "geom:latitude":39.6725,
+    "geom:longitude":125.55306,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kuryol-li",
+    "gn:country_code":"KP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875128,
+    "gn:latitude":39.6725,
+    "gn:longitude":125.55306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kury\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub828\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Kury\u014fl-li"
+    ],
+    "name:und_x_variant":[
+        "Kury\u014fn-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875128
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d3b5d4bed30d29adb1b5c3c94040bb5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747213,
+            "locality_id":1226826611,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1226826611,
+    "wof:lastmodified":1537654610,
+    "wof:name":"Kuryol-li",
+    "wof:parent_id":1108747213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.55306000000002,
+    39.6725,
+    125.55306000000002,
+    39.6725
+],
+  "geometry": {"coordinates":[125.55306000000002,39.6725],"type":"Point"}
+}

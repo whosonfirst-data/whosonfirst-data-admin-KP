@@ -1,0 +1,73 @@
+{
+  "id": 1226028763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.14083,38.91306,127.14083,38.91306",
+    "geom:latitude":38.91306,
+    "geom:longitude":127.14083,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chongmok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888804,
+    "gn:latitude":38.91306,
+    "gn:longitude":127.14083,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ch\u014fngmok-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\ubaa9\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fngmok-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888804
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a1a2b0884293d320b947d7c6020b6f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747065,
+            "locality_id":1226028763,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226028763,
+    "wof:lastmodified":1537654908,
+    "wof:name":"Chongmok-tong",
+    "wof:parent_id":1108747065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.14083,
+    38.91306,
+    127.14083,
+    38.91306
+],
+  "geometry": {"coordinates":[127.14082999999999,38.91306],"type":"Point"}
+}

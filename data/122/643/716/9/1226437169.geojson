@@ -1,0 +1,68 @@
+{
+  "id": 1226437169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.73472,38.1575,125.73472,38.1575",
+    "geom:latitude":38.1575,
+    "geom:longitude":125.73472,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Sinw\u014fn-gun",
+    "gn:asciiname":"Yongmi",
+    "gn:country_code":"KP",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866213,
+    "gn:latitude":38.1575,
+    "gn:longitude":125.73472,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"Yongmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866213
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e1075b149b48a9dd36c0b9a4df043a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748009,
+            "locality_id":1226437169,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1226437169,
+    "wof:lastmodified":1536657996,
+    "wof:name":"Yongmi",
+    "wof:parent_id":1108748009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.73472,
+    38.1575,
+    125.73472,
+    38.1575
+],
+  "geometry": {"coordinates":[125.73472,38.1575],"type":"Point"}
+}

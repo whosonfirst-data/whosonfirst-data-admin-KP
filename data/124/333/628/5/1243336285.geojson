@@ -1,0 +1,81 @@
+{
+  "id": 1243336285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.36083,38.75694,125.36083,38.75694",
+    "geom:latitude":38.75694,
+    "geom:longitude":125.36083,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Haesal-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877590,
+    "gn:latitude":38.75694,
+    "gn:longitude":125.36083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haesal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haesan-ni",
+        "\ud574\uc0b0\ub9ac",
+        "Haesal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747021,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877590
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"073b212973242dd98935f7f902f44654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":1243336285,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":1243336285,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1243336285,
+    "wof:lastmodified":1537654751,
+    "wof:name":"Haesal-li",
+    "wof:parent_id":1108747021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.36083,
+    38.75694,
+    125.36083,
+    38.75694
+],
+  "geometry": {"coordinates":[125.36083000000001,38.75694],"type":"Point"}
+}

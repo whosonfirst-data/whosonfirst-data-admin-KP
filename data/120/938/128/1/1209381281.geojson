@@ -1,0 +1,65 @@
+{
+  "id": 1209381281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.74167,41.71528,129.74167,41.71528",
+    "geom:latitude":41.71528,
+    "geom:longitude":129.74167,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"P'ohang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041975,
+    "gn:latitude":41.71528,
+    "gn:longitude":129.74167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019ohang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud3ec\ud56d\ub3d9",
+        "P\u2019ohang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041975
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e90d06089645bc54192dd248d464ec97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209381281
+        }
+    ],
+    "wof:id":1209381281,
+    "wof:lastmodified":1537655318,
+    "wof:name":"P'ohang-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.74167,
+    41.71528,
+    129.74167,
+    41.71528
+],
+  "geometry": {"coordinates":[129.74167,41.71528],"type":"Point"}
+}

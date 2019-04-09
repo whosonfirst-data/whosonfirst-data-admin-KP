@@ -1,0 +1,67 @@
+{
+  "id": 1326651943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.69778,38.00694,125.69778,38.00694",
+    "geom:latitude":38.00694,
+    "geom:longitude":125.69778,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tongaep'o",
+    "gn:country_code":"KP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867981,
+    "gn:latitude":38.00694,
+    "gn:longitude":125.69778,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Tongaep\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud1a4\uac1c\ud3ec"
+    ],
+    "name:und_x_variant":[
+        "Tongaep\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867981
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c8f6fcd77df40017f1893e8dd6e9d75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326651943,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326651943,
+    "wof:lastmodified":1537654259,
+    "wof:name":"Tongaep'o",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.69778,
+    38.00694,
+    125.69778,
+    38.00694
+],
+  "geometry": {"coordinates":[125.69777999999999,38.00694],"type":"Point"}
+}

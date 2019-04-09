@@ -1,0 +1,79 @@
+{
+  "id": 1276409953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.29583,38.78444,125.29583,38.78444",
+    "geom:latitude":38.78444,
+    "geom:longitude":125.29583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Songsang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869393,
+    "gn:latitude":38.78444,
+    "gn:longitude":125.29583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Songsang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\uc0c1\ub9ac",
+        "Songsang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747021,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869393
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"edd21a4ca07bfdd768ca7525c488c4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":1276409953,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":1276409953,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1276409953,
+    "wof:lastmodified":1537654328,
+    "wof:name":"Songsang-ni",
+    "wof:parent_id":1108747021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.29583,
+    38.78444,
+    125.29583,
+    38.78444
+],
+  "geometry": {"coordinates":[125.29583,38.78444],"type":"Point"}
+}

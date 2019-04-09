@@ -1,0 +1,71 @@
+{
+  "id": 1276315603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88,40.08389,126.88,40.08389",
+    "geom:latitude":40.08389,
+    "geom:longitude":126.88,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Poltok-kol",
+    "gn:country_code":"KP",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281322,
+    "gn:latitude":40.08389,
+    "gn:longitude":126.88,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"P\u014flt\u014fk-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc8c\ub355\uace8",
+        "P\u014flt\u014fk-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281322
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e9d743443d4fb2c1d85de36ce6339aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748047,
+            "locality_id":1276315603,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1276315603,
+    "wof:lastmodified":1537655727,
+    "wof:name":"Poltok-kol",
+    "wof:parent_id":1108748047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88,
+    40.08389,
+    126.88,
+    40.08389
+],
+  "geometry": {"coordinates":[126.88,40.08389],"type":"Point"}
+}

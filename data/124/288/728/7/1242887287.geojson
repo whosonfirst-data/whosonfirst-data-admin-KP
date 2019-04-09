@@ -1,0 +1,71 @@
+{
+  "id": 1242887287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.00472,40.85806,126.00472,40.85806",
+    "geom:latitude":40.85806,
+    "geom:longitude":126.00472,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yonhyol-li",
+    "gn:country_code":"KP",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282678,
+    "gn:latitude":40.85806,
+    "gn:longitude":126.00472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u014fnhy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc5f0\ud604\ub9ac",
+        "Y\u014fnhy\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282678
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"753561aede3d490fb59689d45a5492b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747227,
+            "locality_id":1242887287,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1242887287,
+    "wof:lastmodified":1537655784,
+    "wof:name":"Yonhyol-li",
+    "wof:parent_id":1108747227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.00472,
+    40.85806,
+    126.00472,
+    40.85806
+],
+  "geometry": {"coordinates":[126.00472000000001,40.85806],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326916213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.92417,38.33944,125.92417,38.33944",
+    "geom:latitude":38.33944,
+    "geom:longitude":125.92417,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Paksa-gol",
+    "gn:country_code":"KP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926526,
+    "gn:latitude":38.33944,
+    "gn:longitude":125.92417,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Paksa-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926526
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"40649a40d7bfdc35916939ac600c97b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747093,
+            "locality_id":1326916213,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1326916213,
+    "wof:lastmodified":1536928619,
+    "wof:name":"Paksa-gol",
+    "wof:parent_id":1108747093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.92417,
+    38.33944,
+    125.92417,
+    38.33944
+],
+  "geometry": {"coordinates":[125.92417,38.33944],"type":"Point"}
+}

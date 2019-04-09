@@ -1,0 +1,76 @@
+{
+  "id": 1326916925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.28831,38.99272,126.28831,38.99272",
+    "geom:latitude":38.99272,
+    "geom:longitude":126.28831,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kangdong-gun",
+    "gn:asciiname":"Turugae",
+    "gn:country_code":"KP",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890274,
+    "gn:latitude":38.99272,
+    "gn:longitude":126.28831,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Turugae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ub8e8\uac1c"
+    ],
+    "name:und_x_variant":[
+        "Turujae",
+        "Turugae",
+        "Durugae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890274
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6349dc677eb922389d9ce846c6a59a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747811,
+            "locality_id":1326916925,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1326916925,
+    "wof:lastmodified":1537654949,
+    "wof:name":"Turugae",
+    "wof:parent_id":1108747811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.28831,
+    38.99272,
+    126.28831,
+    38.99272
+],
+  "geometry": {"coordinates":[126.28831,38.99272],"type":"Point"}
+}

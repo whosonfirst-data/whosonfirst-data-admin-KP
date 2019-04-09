@@ -1,0 +1,73 @@
+{
+  "id": 1226630255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.20583,39.35556,127.20583,39.35556",
+    "geom:latitude":39.35556,
+    "geom:longitude":127.20583,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Ch\u2019\u014fnnae-gun",
+    "gn:asciiname":"Tojang-gol",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868185,
+    "gn:latitude":39.35556,
+    "gn:longitude":127.20583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tojang-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tojang-kol",
+        "Tojang-gol",
+        "\ub3c4\uc7a5\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868185
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bae11b52c8ec523109dca69fd71e485e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746869,
+            "locality_id":1226630255,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226630255,
+    "wof:lastmodified":1537654269,
+    "wof:name":"Tojang-gol",
+    "wof:parent_id":1108746869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.20583,
+    39.35556,
+    127.20583,
+    39.35556
+],
+  "geometry": {"coordinates":[127.20583000000001,39.35556],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259577995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53611,37.82278,126.53611,37.82278",
+    "geom:latitude":37.82278,
+    "geom:longitude":126.53611,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"P\u2019anmun-gun",
+    "gn:asciiname":"O-dong",
+    "gn:country_code":"KP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873377,
+    "gn:latitude":37.82278,
+    "gn:longitude":126.53611,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"O-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873377
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"164d3c5bc59c3c6d3e3a9888546ca639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1259577995,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1259577995,
+    "wof:lastmodified":1536723148,
+    "wof:name":"O-dong",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53611,
+    37.82278,
+    126.53611,
+    37.82278
+],
+  "geometry": {"coordinates":[126.53610999999999,37.82278],"type":"Point"}
+}

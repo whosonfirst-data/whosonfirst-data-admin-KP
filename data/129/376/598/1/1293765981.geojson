@@ -1,0 +1,73 @@
+{
+  "id": 1293765981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.36778,39.43083,126.36778,39.43083",
+    "geom:latitude":39.43083,
+    "geom:longitude":126.36778,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sinp'yong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870365,
+    "gn:latitude":39.43083,
+    "gn:longitude":126.36778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinp\u2019y\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ud3c9\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Sinp\u2019y\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870365
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"106dc356eb3f5b6b6550811bf6826a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747149,
+            "locality_id":1293765981,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1293765981,
+    "wof:lastmodified":1537654378,
+    "wof:name":"Sinp'yong-ni",
+    "wof:parent_id":1108747149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.36778,
+    39.43083,
+    126.36778,
+    39.43083
+],
+  "geometry": {"coordinates":[126.36778,39.43083],"type":"Point"}
+}

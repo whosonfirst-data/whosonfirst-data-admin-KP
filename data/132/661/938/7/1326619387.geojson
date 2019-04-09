@@ -1,0 +1,75 @@
+{
+  "id": 1326619387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.78778,39.06056,127.78778,39.06056",
+    "geom:latitude":39.06056,
+    "geom:longitude":127.78778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ch'ilbo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878874,
+    "gn:latitude":39.06056,
+    "gn:longitude":127.78778,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ch\u2019ilbo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uce60\ubcf4\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Shichih\u014d-ri",
+        "Ch\u2019ilp\u2019o-ri",
+        "Ch\u2019ilbo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878874
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c5494a253ee735ef688b48b371170364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747187,
+            "locality_id":1326619387,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1326619387,
+    "wof:lastmodified":1537654823,
+    "wof:name":"Ch'ilbo-ri",
+    "wof:parent_id":1108747187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.78778,
+    39.06056,
+    127.78778,
+    39.06056
+],
+  "geometry": {"coordinates":[127.78778,39.06056],"type":"Point"}
+}

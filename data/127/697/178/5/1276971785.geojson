@@ -1,0 +1,71 @@
+{
+  "id": 1276971785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.13333,37.95333,125.13333,37.95333",
+    "geom:latitude":37.95333,
+    "geom:longitude":125.13333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sondup'yong",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869731,
+    "gn:latitude":37.95333,
+    "gn:longitude":125.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sondup\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc190\ub450\ud3c9",
+        "Sondup\u2019y\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869731
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"48a739f8e5dfeebb5f6105fd25678e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1276971785,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276971785,
+    "wof:lastmodified":1537654345,
+    "wof:name":"Sondup'yong",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.13333,
+    37.95333,
+    125.13333,
+    37.95333
+],
+  "geometry": {"coordinates":[125.13333,37.95333],"type":"Point"}
+}

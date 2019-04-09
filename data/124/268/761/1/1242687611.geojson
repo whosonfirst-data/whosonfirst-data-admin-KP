@@ -1,0 +1,75 @@
+{
+  "id": 1242687611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88333,41.11667,126.88333,41.11667",
+    "geom:latitude":41.11667,
+    "geom:longitude":126.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nurup-kol",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042393,
+    "gn:latitude":41.11667,
+    "gn:longitude":126.88333,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Nur\u016dp-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub204\ub985\uace8"
+    ],
+    "name:und_x_variant":[
+        "N\u016dr\u016dm-gol",
+        "Nur\u016dp-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042393
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"40947766af4abcca8b9f1b804d9bc448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747767,
+            "locality_id":1242687611,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1242687611,
+    "wof:lastmodified":1537655341,
+    "wof:name":"Nurup-kol",
+    "wof:parent_id":1108747767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88333,
+    41.11667,
+    126.88333,
+    41.11667
+],
+  "geometry": {"coordinates":[126.88333,41.11667],"type":"Point"}
+}

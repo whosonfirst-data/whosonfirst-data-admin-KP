@@ -1,0 +1,64 @@
+{
+  "id": 1209492791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.27056,39.56389,125.27056,39.56389",
+    "geom:latitude":39.56389,
+    "geom:longitude":125.27056,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yangji",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866765,
+    "gn:latitude":39.56389,
+    "gn:longitude":125.27056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yangji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uc9c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866765
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"479c8e403e5aac4684d76fd3e8effd24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209492791
+        }
+    ],
+    "wof:id":1209492791,
+    "wof:lastmodified":1537654198,
+    "wof:name":"Yangji",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.27056,
+    39.56389,
+    125.27056,
+    39.56389
+],
+  "geometry": {"coordinates":[125.27056,39.56389],"type":"Point"}
+}

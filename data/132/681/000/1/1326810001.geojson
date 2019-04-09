@@ -1,0 +1,73 @@
+{
+  "id": 1326810001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.71137,39.16945,125.71137,39.16945",
+    "geom:latitude":39.16945,
+    "geom:longitude":125.71137,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ha-dong",
+    "gn:country_code":"KP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932353,
+    "gn:latitude":39.16945,
+    "gn:longitude":125.71137,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Ha-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Hadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932353
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0c35b0985b4d0c702a2db2b19ba1a617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1326810001,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1326810001,
+    "wof:lastmodified":1537655083,
+    "wof:name":"Ha-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.71137,
+    39.16945,
+    125.71137,
+    39.16945
+],
+  "geometry": {"coordinates":[125.71137,39.16945],"type":"Point"}
+}

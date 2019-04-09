@@ -1,0 +1,73 @@
+{
+  "id": 1192998777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.38667,39.63361,125.38667,39.63361",
+    "geom:latitude":39.63361,
+    "geom:longitude":125.38667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tokhyon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868119,
+    "gn:latitude":39.63361,
+    "gn:longitude":125.38667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u014fkhy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\ud604\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "T\u014fkhy\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868119
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"791bf64b16444613ec3a5aa7711600cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747213,
+            "locality_id":1192998777,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1192998777,
+    "wof:lastmodified":1537654266,
+    "wof:name":"Tokhyon-dong",
+    "wof:parent_id":1108747213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.38667,
+    39.63361,
+    125.38667,
+    39.63361
+],
+  "geometry": {"coordinates":[125.38667,39.63361],"type":"Point"}
+}

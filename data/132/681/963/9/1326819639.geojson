@@ -1,0 +1,71 @@
+{
+  "id": 1326819639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.67778,38.72111,127.67778,38.72111",
+    "geom:latitude":38.72111,
+    "geom:longitude":127.67778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sanggyodong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363425,
+    "gn:latitude":38.72111,
+    "gn:longitude":127.67778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sanggyodong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uad50\ub3d9\ub9ac",
+        "Sanggyodong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363425
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3fb903f960d0ce484ba97cd1020ca698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746887,
+            "locality_id":1326819639,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1326819639,
+    "wof:lastmodified":1537655850,
+    "wof:name":"Sanggyodong-ni",
+    "wof:parent_id":1108746887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.67778,
+    38.72111,
+    127.67778,
+    38.72111
+],
+  "geometry": {"coordinates":[127.67778,38.72111],"type":"Point"}
+}

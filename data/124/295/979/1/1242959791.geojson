@@ -1,0 +1,83 @@
+{
+  "id": 1242959791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.84584,39.05114,125.84584,39.05114",
+    "geom:latitude":39.05114,
+    "geom:longitude":125.84584,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kammun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871418,
+    "gn:latitude":39.05114,
+    "gn:longitude":125.84584,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kammun-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac11\ubb38\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\uace0\ubc29\uc0b0\ub3d9",
+        "\uc0bc\uc2e0",
+        "\uc0bc\uc2e0\ub3d9",
+        "\ub0a8\uc0ac\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Samsin-dong",
+        "Samsin",
+        "Kammun-dong",
+        "Kobangsan-dong",
+        "Namsa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871418
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e679fe1e6dcf773ceb3d6403244c6e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1242959791,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1242959791,
+    "wof:lastmodified":1537654429,
+    "wof:name":"Kammun-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.84584,
+    39.05114,
+    125.84584,
+    39.05114
+],
+  "geometry": {"coordinates":[125.84584,39.05114],"type":"Point"}
+}

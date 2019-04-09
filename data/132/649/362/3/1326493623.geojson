@@ -1,0 +1,70 @@
+{
+  "id": 1326493623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.0875,41.39694,129.0875,41.39694",
+    "geom:latitude":41.39694,
+    "geom:longitude":129.0875,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Turianji",
+    "gn:country_code":"KP",
+    "gn:dem":1405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049800,
+    "gn:latitude":41.39694,
+    "gn:longitude":129.0875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Turianji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub450\ub9ac\uc548\uc9c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049800
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6a8733d214bbe67ab0843f170b0337d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747903,
+            "locality_id":1326493623,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1326493623,
+    "wof:lastmodified":1537655574,
+    "wof:name":"Turianji",
+    "wof:parent_id":1108747903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.0875,
+    41.39694,
+    129.0875,
+    41.39694
+],
+  "geometry": {"coordinates":[129.08750000000001,41.39694],"type":"Point"}
+}

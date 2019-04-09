@@ -1,0 +1,76 @@
+{
+  "id": 1193000655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.41778,39.19694,126.41778,39.19694",
+    "geom:latitude":39.19694,
+    "geom:longitude":126.41778,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hoech'ul-li",
+    "gn:country_code":"KP",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877190,
+    "gn:latitude":39.19694,
+    "gn:longitude":126.41778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hoech\u2019ul-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud68c\ucd98\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Hoech\u2019ul-li"
+    ],
+    "name:und_x_variant":[
+        "Hoech\u2019un-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108746883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877190
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"34e81d34198244015ce92bc088b00891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746883,
+            "locality_id":1193000655,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1193000655,
+    "wof:lastmodified":1537654728,
+    "wof:name":"Hoech'ul-li",
+    "wof:parent_id":1108746883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.41778,
+    39.19694000000001,
+    126.41778,
+    39.19694000000001
+],
+  "geometry": {"coordinates":[126.41777999999999,39.19694000000001],"type":"Point"}
+}

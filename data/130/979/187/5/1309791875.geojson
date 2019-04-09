@@ -1,0 +1,68 @@
+{
+  "id": 1309791875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.98139,40.94611,127.98139,40.94611",
+    "geom:latitude":40.94611,
+    "geom:longitude":127.98139,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"2041726",
+    "gn:asciiname":"Imjong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055548,
+    "gn:latitude":40.94611,
+    "gn:longitude":127.98139,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Imj\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055548
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"55f21f3719d2f11a5d0e0312f33f0ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747049,
+            "locality_id":1309791875,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1309791875,
+    "wof:lastmodified":1536951354,
+    "wof:name":"Imjong-ni",
+    "wof:parent_id":1108747049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.98139,
+    40.94611,
+    127.98139,
+    40.94611
+],
+  "geometry": {"coordinates":[127.98139,40.94611],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226640729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58167,37.81611,126.58167,37.81611",
+    "geom:latitude":37.81611,
+    "geom:longitude":126.58167,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"P\u2019anmun-gun",
+    "gn:asciiname":"Chihyol-li",
+    "gn:country_code":"KP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948764,
+    "gn:latitude":37.81611,
+    "gn:longitude":126.58167,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Chihy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948764
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8f8a6a19959ba8689c19e5a0143742a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1226640729,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226640729,
+    "wof:lastmodified":1536865374,
+    "wof:name":"Chihyol-li",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58167,
+    37.81611,
+    126.58167,
+    37.81611
+],
+  "geometry": {"coordinates":[126.58167,37.81611],"type":"Point"}
+}

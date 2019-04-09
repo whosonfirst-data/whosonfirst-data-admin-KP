@@ -1,0 +1,73 @@
+{
+  "id": 1360194359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.54395,39.85777,124.54395,39.85777",
+    "geom:latitude":39.85777,
+    "geom:longitude":124.54395,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Namhyon",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873789,
+    "gn:latitude":39.85777,
+    "gn:longitude":124.54395,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Namhy\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\ud604"
+    ],
+    "name:und_x_variant":[
+        "Namhy\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873789
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1db7641e16b58e46949b8e2144a373b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748105,
+            "locality_id":1360194359,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1360194359,
+    "wof:lastmodified":1537654547,
+    "wof:name":"Namhyon",
+    "wof:parent_id":1108748105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.54395,
+    39.85777,
+    124.54395,
+    39.85777
+],
+  "geometry": {"coordinates":[124.54395,39.85777],"type":"Point"}
+}

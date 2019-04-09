@@ -1,0 +1,72 @@
+{
+  "id": 1260386133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.01944,37.98722,126.01944,37.98722",
+    "geom:latitude":37.98722,
+    "geom:longitude":126.01944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saemal",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871742,
+    "gn:latitude":37.98722,
+    "gn:longitude":126.01944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saemal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sae-mol",
+        "Saemal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871742
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"849bdeea225a31d362f65b0d07c1149b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1260386133,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1260386133,
+    "wof:lastmodified":1537654445,
+    "wof:name":"Saemal",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.01944,
+    37.98722,
+    126.01944,
+    37.98722
+],
+  "geometry": {"coordinates":[126.01944,37.98722],"type":"Point"}
+}

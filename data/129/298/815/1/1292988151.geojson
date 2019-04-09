@@ -1,0 +1,70 @@
+{
+  "id": 1292988151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.56667,39.78333,125.56667,39.78333",
+    "geom:latitude":39.78333,
+    "geom:longitude":125.56667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Samhwa-ri",
+    "gn:country_code":"KP",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871476,
+    "gn:latitude":39.78333,
+    "gn:longitude":125.56667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Samhwa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0bc\ud654\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871476
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d443194fdf09ec969da16a881b777e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747909,
+            "locality_id":1292988151,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1292988151,
+    "wof:lastmodified":1537654431,
+    "wof:name":"Samhwa-ri",
+    "wof:parent_id":1108747909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.56667,
+    39.78333,
+    125.56667,
+    39.78333
+],
+  "geometry": {"coordinates":[125.56667,39.78333],"type":"Point"}
+}

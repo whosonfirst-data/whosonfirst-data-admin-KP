@@ -1,0 +1,71 @@
+{
+  "id": 1259563813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.785,40.14667,124.785,40.14667",
+    "geom:latitude":40.14667,
+    "geom:longitude":124.785,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Haha-ri",
+    "gn:country_code":"KP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2048897,
+    "gn:latitude":40.14667,
+    "gn:longitude":124.785,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haha-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\ud558\ub9ac",
+        "Haha-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2048897
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"954990339f4ba211d25b7f8c5bb1a6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746867,
+            "locality_id":1259563813,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259563813,
+    "wof:lastmodified":1537655528,
+    "wof:name":"Haha-ri",
+    "wof:parent_id":1108746867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.785,
+    40.14667,
+    124.785,
+    40.14667
+],
+  "geometry": {"coordinates":[124.785,40.14667],"type":"Point"}
+}

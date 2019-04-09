@@ -1,0 +1,73 @@
+{
+  "id": 1226534565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.35722,38.57333,125.35722,38.57333",
+    "geom:latitude":38.57333,
+    "geom:longitude":125.35722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tolmisan",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868018,
+    "gn:latitude":38.57333,
+    "gn:longitude":125.35722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tolmisan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fngmi-san",
+        "Tolmiri",
+        "Tolmisan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868018
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f5cae68c13b8a5bfe9f3e8dc7f8f3d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747207,
+            "locality_id":1226534565,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1226534565,
+    "wof:lastmodified":1537654261,
+    "wof:name":"Tolmisan",
+    "wof:parent_id":1108747207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.35722,
+    38.57333,
+    125.35722,
+    38.57333
+],
+  "geometry": {"coordinates":[125.35722,38.57333],"type":"Point"}
+}

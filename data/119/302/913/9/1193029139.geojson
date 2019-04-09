@@ -1,0 +1,71 @@
+{
+  "id": 1193029139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.70806,40.60917,125.70806,40.60917",
+    "geom:latitude":40.60917,
+    "geom:longitude":125.70806,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Andol-li",
+    "gn:country_code":"KP",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282398,
+    "gn:latitude":40.60917,
+    "gn:longitude":125.70806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Andol-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\ub3cc\ub9ac",
+        "Andol-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282398
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"33c42154c7cc4861254e34b85046a10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1193029139,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1193029139,
+    "wof:lastmodified":1537655772,
+    "wof:name":"Andol-li",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.70806,
+    40.60917,
+    125.70806,
+    40.60917
+],
+  "geometry": {"coordinates":[125.70806,40.60917],"type":"Point"}
+}

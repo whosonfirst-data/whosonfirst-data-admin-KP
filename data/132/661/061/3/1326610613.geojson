@@ -1,0 +1,70 @@
+{
+  "id": 1326610613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.27,39.70944,125.27,39.70944",
+    "geom:latitude":39.70944,
+    "geom:longitude":125.27,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Taesan",
+    "gn:country_code":"KP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868619,
+    "gn:latitude":39.70944,
+    "gn:longitude":125.27,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taesan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868619
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ccbdf64d8f4cdcc8e4865a973fe95366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747793,
+            "locality_id":1326610613,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1326610613,
+    "wof:lastmodified":1537654291,
+    "wof:name":"Taesan",
+    "wof:parent_id":1108747793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.27,
+    39.70944,
+    125.27,
+    39.70944
+],
+  "geometry": {"coordinates":[125.27,39.70944],"type":"Point"}
+}

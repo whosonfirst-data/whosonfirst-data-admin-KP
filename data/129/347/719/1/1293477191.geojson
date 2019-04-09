@@ -1,0 +1,70 @@
+{
+  "id": 1293477191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.53722,40.34028,125.53722,40.34028",
+    "geom:latitude":40.34028,
+    "geom:longitude":125.53722,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Changgumogi",
+    "gn:country_code":"KP",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2048995,
+    "gn:latitude":40.34028,
+    "gn:longitude":125.53722,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Changgumogi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uad6c\ubaa8\uae30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2048995
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"149e4b3bf3f2dc7f06f511ec7a0c5721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747195,
+            "locality_id":1293477191,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1293477191,
+    "wof:lastmodified":1537655534,
+    "wof:name":"Changgumogi",
+    "wof:parent_id":1108747195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.53722,
+    40.34028,
+    125.53722,
+    40.34028
+],
+  "geometry": {"coordinates":[125.53722,40.34028],"type":"Point"}
+}

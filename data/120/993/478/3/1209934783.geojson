@@ -1,0 +1,71 @@
+{
+  "id": 1209934783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.74917,38.68111,127.74917,38.68111",
+    "geom:latitude":38.68111,
+    "geom:longitude":127.74917,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Paeksong",
+    "gn:country_code":"KP",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363444,
+    "gn:latitude":38.68111,
+    "gn:longitude":127.74917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paeksong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc31\uc1a1",
+        "Paeksong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363444
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9cbe3001641c55cc810c9aec9883093b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746849,
+            "locality_id":1209934783,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1209934783,
+    "wof:lastmodified":1537655851,
+    "wof:name":"Paeksong",
+    "wof:parent_id":1108746849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.74917,
+    38.68111,
+    127.74917,
+    38.68111
+],
+  "geometry": {"coordinates":[127.74917000000001,38.68111],"type":"Point"}
+}

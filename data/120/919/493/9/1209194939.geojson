@@ -1,0 +1,66 @@
+{
+  "id": 1209194939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.8725,40.24278,124.8725,40.24278",
+    "geom:latitude":40.24278,
+    "geom:longitude":124.8725,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yonmang-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2038931,
+    "gn:latitude":40.24278,
+    "gn:longitude":124.8725,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u014fnmang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc5f0\ub9c9\ub9ac",
+        "Y\u014fnmang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038931
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e78699fa73d6be72539e91c21f125912",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209194939
+        }
+    ],
+    "wof:id":1209194939,
+    "wof:lastmodified":1537655137,
+    "wof:name":"Yonmang-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.8725,
+    40.24278,
+    124.8725,
+    40.24278
+],
+  "geometry": {"coordinates":[124.8725,40.24278],"type":"Point"}
+}

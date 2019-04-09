@@ -1,0 +1,72 @@
+{
+  "id": 1259366909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.64472,38.7,127.64472,38.7",
+    "geom:latitude":38.7,
+    "geom:longitude":127.64472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kangdol-li",
+    "gn:country_code":"KP",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876152,
+    "gn:latitude":38.7,
+    "gn:longitude":127.64472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kangdol-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangdon-ni",
+        "\uac15\ub3c8\ub9ac",
+        "Kangdol-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876152
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fdc354df59393dcd6ac1bb77ca3936ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746887,
+            "locality_id":1259366909,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1259366909,
+    "wof:lastmodified":1537654668,
+    "wof:name":"Kangdol-li",
+    "wof:parent_id":1108746887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.64472,
+    38.7,
+    127.64472,
+    38.7
+],
+  "geometry": {"coordinates":[127.64472000000001,38.7],"type":"Point"}
+}

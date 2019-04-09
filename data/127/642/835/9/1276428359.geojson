@@ -1,0 +1,71 @@
+{
+  "id": 1276428359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.2125,40.15333,125.2125,40.15333",
+    "geom:latitude":40.15333,
+    "geom:longitude":125.2125,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Namch'ang",
+    "gn:country_code":"KP",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042622,
+    "gn:latitude":40.15333,
+    "gn:longitude":125.2125,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Namch\u2019ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub0a8\ucc3d",
+        "Namch\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042622
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d611b179b89d3ceeb80c3bc12157900e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748041,
+            "locality_id":1276428359,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276428359,
+    "wof:lastmodified":1537655354,
+    "wof:name":"Namch'ang",
+    "wof:parent_id":1108748041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.2125,
+    40.15333,
+    125.2125,
+    40.15333
+],
+  "geometry": {"coordinates":[125.21250000000001,40.15333],"type":"Point"}
+}

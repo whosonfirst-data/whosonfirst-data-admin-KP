@@ -1,0 +1,70 @@
+{
+  "id": 1310112785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.27763,40.22033,128.27763,40.22033",
+    "geom:latitude":40.22033,
+    "geom:longitude":128.27763,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tunji",
+    "gn:country_code":"KP",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330287,
+    "gn:latitude":40.22033,
+    "gn:longitude":128.27763,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tunji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub454\uc9c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330287
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3c43b5cd6031f6f1308bddb719ee684c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747941,
+            "locality_id":1310112785,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1310112785,
+    "wof:lastmodified":1537655946,
+    "wof:name":"Tunji",
+    "wof:parent_id":1108747941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.27763000000002,
+    40.22033,
+    128.27763000000002,
+    40.22033
+],
+  "geometry": {"coordinates":[128.27763000000002,40.22033],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225945573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.82333,40.94222,128.82333,40.94222",
+    "geom:latitude":40.94222,
+    "geom:longitude":128.82333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"Tanch'\u014fn-si",
+    "gn:asciiname":"Moksap'yong",
+    "gn:country_code":"KP",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050236,
+    "gn:latitude":40.94222,
+    "gn:longitude":128.82333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moksap\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubaa9\uc0ac\ud3c9",
+        "Moksap\u2019y\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050236
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5a2bdfa2e4b802b09da13858dbc23a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1225945573,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1225945573,
+    "wof:lastmodified":1537655596,
+    "wof:name":"Moksap'yong",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.82333,
+    40.94222,
+    128.82333,
+    40.94222
+],
+  "geometry": {"coordinates":[128.82333,40.94222],"type":"Point"}
+}

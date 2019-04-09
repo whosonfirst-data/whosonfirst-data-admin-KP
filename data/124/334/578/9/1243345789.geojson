@@ -1,0 +1,71 @@
+{
+  "id": 1243345789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.23167,38.98417,125.23167,38.98417",
+    "geom:latitude":38.98417,
+    "geom:longitude":125.23167,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hanch'on",
+    "gn:country_code":"KP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877418,
+    "gn:latitude":38.98417,
+    "gn:longitude":125.23167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hanch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud55c\ucd0c",
+        "Hanch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108747027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877418
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"adaeaea399accdf33b566e4eb049ffb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747027,
+            "locality_id":1243345789,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1243345789,
+    "wof:lastmodified":1537654741,
+    "wof:name":"Hanch'on",
+    "wof:parent_id":1108747027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.23167,
+    38.98417,
+    125.23167,
+    38.98417
+],
+  "geometry": {"coordinates":[125.23166999999999,38.98417],"type":"Point"}
+}

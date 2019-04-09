@@ -1,0 +1,73 @@
+{
+  "id": 1343830703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.86611,39.53361,125.86611,39.53361",
+    "geom:latitude":39.53361,
+    "geom:longitude":125.86611,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kujolgol",
+    "gn:country_code":"KP",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889927,
+    "gn:latitude":39.53361,
+    "gn:longitude":125.86611,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kuj\u014flgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc808\uace8"
+    ],
+    "name:und_x_variant":[
+        "Kuj\u014flgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889927
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c7a75c699809c37db70a88a69bb33ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748035,
+            "locality_id":1343830703,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1343830703,
+    "wof:lastmodified":1537654939,
+    "wof:name":"Kujolgol",
+    "wof:parent_id":1108748035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.86611,
+    39.53361,
+    125.86611,
+    39.53361
+],
+  "geometry": {"coordinates":[125.86611000000001,39.53361],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293206929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.035,40.4925,127.035,40.4925",
+    "geom:latitude":40.4925,
+    "geom:longitude":127.035,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Songnak-tong",
+    "gn:country_code":"KP",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040540,
+    "gn:latitude":40.4925,
+    "gn:longitude":127.035,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Songnak-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\ub77d\ub3d9",
+        "Songnak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040540
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5eef0670517f4b4f399ea59b28622030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746913,
+            "locality_id":1293206929,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293206929,
+    "wof:lastmodified":1537655233,
+    "wof:name":"Songnak-tong",
+    "wof:parent_id":1108746913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.035,
+    40.4925,
+    127.035,
+    40.4925
+],
+  "geometry": {"coordinates":[127.035,40.4925],"type":"Point"}
+}

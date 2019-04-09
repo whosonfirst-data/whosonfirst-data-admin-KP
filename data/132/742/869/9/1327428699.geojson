@@ -1,0 +1,67 @@
+{
+  "id": 1327428699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.92278,38.06639,125.92278,38.06639",
+    "geom:latitude":38.06639,
+    "geom:longitude":125.92278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pyogaeme",
+    "gn:country_code":"KP",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871980,
+    "gn:latitude":38.06639,
+    "gn:longitude":125.92278,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"Py\u014fgaeme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871980
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9cd2ed54289bd3ba31605d96b9cd3c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1327428699,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1327428699,
+    "wof:lastmodified":1536686184,
+    "wof:name":"Pyogaeme",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.92278,
+    38.06639000000001,
+    125.92278,
+    38.06639000000001
+],
+  "geometry": {"coordinates":[125.92278,38.06639000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226412309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.955,39.22917,125.955,39.22917",
+    "geom:latitude":39.22917,
+    "geom:longitude":125.955,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Palt'an-dong",
+    "gn:country_code":"KP",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889534,
+    "gn:latitude":39.22917,
+    "gn:longitude":125.955,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Palt\u2019an-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889534
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6e58620b19cc48e7c202bc6a7cfbce7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747949,
+            "locality_id":1226412309,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1226412309,
+    "wof:lastmodified":1536694002,
+    "wof:name":"Palt'an-dong",
+    "wof:parent_id":1108747949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.955,
+    39.22917,
+    125.955,
+    39.22917
+],
+  "geometry": {"coordinates":[125.955,39.22917],"type":"Point"}
+}

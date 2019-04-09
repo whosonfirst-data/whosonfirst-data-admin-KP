@@ -1,0 +1,67 @@
+{
+  "id": 1209107443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.60639,40.18778,128.60639,40.18778",
+    "geom:latitude":40.18778,
+    "geom:longitude":128.60639,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"P'ojil-li",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041964,
+    "gn:latitude":40.18778,
+    "gn:longitude":128.60639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019ojil-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoshin-ri",
+        "P\u2019ojin-ni",
+        "P\u2019ojil-li",
+        "\ud3ec\uc9c4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041964
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1b6172067b432a0bf44463eccadca88e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209107443
+        }
+    ],
+    "wof:id":1209107443,
+    "wof:lastmodified":1537655317,
+    "wof:name":"P'ojil-li",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.60639,
+    40.18778,
+    128.60639,
+    40.18778
+],
+  "geometry": {"coordinates":[128.60639,40.18778],"type":"Point"}
+}

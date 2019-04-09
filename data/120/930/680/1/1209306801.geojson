@@ -1,0 +1,67 @@
+{
+  "id": 1209306801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.37167,38.41417,125.37167,38.41417",
+    "geom:latitude":38.41417,
+    "geom:longitude":125.37167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ch'onbu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878536,
+    "gn:latitude":38.41417,
+    "gn:longitude":125.37167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019\u014fnbu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc9c\ubd80\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019\u014fnbu-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878536
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ec02e3d9ce4be0a4981c2e304f54f422",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209306801
+        }
+    ],
+    "wof:id":1209306801,
+    "wof:lastmodified":1537654802,
+    "wof:name":"Ch'onbu-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.37167,
+    38.41417,
+    125.37167,
+    38.41417
+],
+  "geometry": {"coordinates":[125.37166999999999,38.41417],"type":"Point"}
+}

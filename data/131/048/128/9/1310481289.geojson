@@ -1,0 +1,71 @@
+{
+  "id": 1310481289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.70056,38.82806,125.70056,38.82806",
+    "geom:latitude":38.82806,
+    "geom:longitude":125.70056,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tangmit",
+    "gn:country_code":"KP",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363501,
+    "gn:latitude":38.82806,
+    "gn:longitude":125.70056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tangmit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub2f9\ubc11",
+        "Tangmit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363501
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c92a596c68e7bd7184861a5ff63efcaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747765,
+            "locality_id":1310481289,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310481289,
+    "wof:lastmodified":1537655854,
+    "wof:name":"Tangmit",
+    "wof:parent_id":1108747765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.70056,
+    38.82806,
+    125.70056,
+    38.82806
+],
+  "geometry": {"coordinates":[125.70056,38.82806],"type":"Point"}
+}

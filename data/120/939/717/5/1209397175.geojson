@@ -1,0 +1,62 @@
+{
+  "id": 1209397175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.48278,39.47361,125.48278,39.47361",
+    "geom:latitude":39.47361,
+    "geom:longitude":125.48278,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"Mund\u014fk-kun",
+    "gn:asciiname":"Yongju-ri",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866216,
+    "gn:latitude":39.47361,
+    "gn:longitude":125.48278,
+    "gn:modification_date":"2001-05-23",
+    "gn:name":"Yongju-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866216
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f07ab9bb215eba69b109e0e56e326949",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209397175
+        }
+    ],
+    "wof:id":1209397175,
+    "wof:lastmodified":1536288262,
+    "wof:name":"Yongju-ri",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48278,
+    39.47361,
+    125.48278,
+    39.47361
+],
+  "geometry": {"coordinates":[125.48278000000001,39.47361],"type":"Point"}
+}

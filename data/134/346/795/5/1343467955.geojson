@@ -1,0 +1,72 @@
+{
+  "id": 1343467955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.73361,40.54417,125.73361,40.54417",
+    "geom:latitude":40.54417,
+    "geom:longitude":125.73361,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tongyom-dong",
+    "gn:country_code":"KP",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039715,
+    "gn:latitude":40.54417,
+    "gn:longitude":125.73361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tongy\u014fm-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tongy\u014fm-dong",
+        "\ub3d9\uc12c\ub3d9",
+        "Tongs\u014fm-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039715
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2d0c0cec92a1add5dbf837cc4cccf9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1343467955,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1343467955,
+    "wof:lastmodified":1537655184,
+    "wof:name":"Tongyom-dong",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.73361,
+    40.54417,
+    125.73361,
+    40.54417
+],
+  "geometry": {"coordinates":[125.73361,40.54417],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310181815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.79686,38.94787,125.79686,38.94787",
+    "geom:latitude":38.94787,
+    "geom:longitude":125.79686,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taesamjong",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868621,
+    "gn:latitude":38.94787,
+    "gn:longitude":125.79686,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Taesamj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Taesamj\u014fng"
+    ],
+    "name:kor_x_variant":[
+        "\ub300\uc0bc\uc815"
+    ],
+    "name:und_x_variant":[
+        "\ub300\uc0bc\uc815\ub3d9",
+        "Taesamj\u014fng-dong",
+        "Daesamjeong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868621
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"78f33a242242df3c3e6eb95c46cd0c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1310181815,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1310181815,
+    "wof:lastmodified":1537654292,
+    "wof:name":"Taesamjong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.79686,
+    38.94787,
+    125.79686,
+    38.94787
+],
+  "geometry": {"coordinates":[125.79686,38.94787],"type":"Point"}
+}

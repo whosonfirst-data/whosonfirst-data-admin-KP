@@ -1,0 +1,64 @@
+{
+  "id": 1225829269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.43583,39.36028,127.43583,39.36028",
+    "geom:latitude":39.36028,
+    "geom:longitude":127.43583,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Munch\u2019\u014fn-si",
+    "gn:asciiname":"Samil-li",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871467,
+    "gn:latitude":39.36028,
+    "gn:longitude":127.43583,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Samil-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871467
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"264bd5aafc37c040c42fcc67a98f188c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1225829269,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225829269,
+    "wof:lastmodified":1537035908,
+    "wof:name":"Samil-li",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.43583,
+    39.36028,
+    127.43583,
+    39.36028
+],
+  "geometry": {"coordinates":[127.43583,39.36028],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310226931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.41361,37.91056,125.41361,37.91056",
+    "geom:latitude":37.91056,
+    "geom:longitude":125.41361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pogi-mal",
+    "gn:country_code":"KP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872559,
+    "gn:latitude":37.91056,
+    "gn:longitude":125.41361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pogi-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019ogich\u2019on",
+        "\ubcf4\uae30\ub9d0",
+        "P\u2019ogi-mal",
+        "Pogi-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872559
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0471375227b888303ca82703ef7edfed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747817,
+            "locality_id":1310226931,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310226931,
+    "wof:lastmodified":1537654488,
+    "wof:name":"Pogi-mal",
+    "wof:parent_id":1108747817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.41361,
+    37.91056,
+    125.41361,
+    37.91056
+],
+  "geometry": {"coordinates":[125.41361000000001,37.91056],"type":"Point"}
+}

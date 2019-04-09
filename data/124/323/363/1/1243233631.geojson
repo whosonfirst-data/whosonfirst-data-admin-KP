@@ -1,0 +1,71 @@
+{
+  "id": 1243233631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63083,39.825,126.63083,39.825",
+    "geom:latitude":39.825,
+    "geom:longitude":126.63083,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chikha",
+    "gn:country_code":"KP",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6272829,
+    "gn:latitude":39.825,
+    "gn:longitude":126.63083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chikha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc9c1\ud558",
+        "Chikha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6272829
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d56a3b9f3d6580dce8c5d8f62c5a2e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747025,
+            "locality_id":1243233631,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1243233631,
+    "wof:lastmodified":1537655681,
+    "wof:name":"Chikha",
+    "wof:parent_id":1108747025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63083,
+    39.825,
+    126.63083,
+    39.825
+],
+  "geometry": {"coordinates":[126.63083,39.825],"type":"Point"}
+}

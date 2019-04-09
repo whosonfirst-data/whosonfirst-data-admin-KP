@@ -1,0 +1,67 @@
+{
+  "id": 1360007575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.99528,38.04278,125.99528,38.04278",
+    "geom:latitude":38.04278,
+    "geom:longitude":125.99528,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Wolgi",
+    "gn:country_code":"KP",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947449,
+    "gn:latitude":38.04278,
+    "gn:longitude":125.99528,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"W\u014flgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947449
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"aafb66445532dcdde76a52ffd35a1894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1360007575,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1360007575,
+    "wof:lastmodified":1537055115,
+    "wof:name":"Wolgi",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.99528,
+    38.04278,
+    125.99528,
+    38.04278
+],
+  "geometry": {"coordinates":[125.99527999999999,38.04278],"type":"Point"}
+}

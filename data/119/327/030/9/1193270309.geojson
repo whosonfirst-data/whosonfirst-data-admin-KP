@@ -1,0 +1,67 @@
+{
+  "id": 1193270309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.28083,38.62722,125.28083,38.62722",
+    "geom:latitude":38.62722,
+    "geom:longitude":125.28083,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oehwach'on",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873338,
+    "gn:latitude":38.62722,
+    "gn:longitude":125.28083,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Oehwach\u2019\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873338
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"156de29dc23611a985fa58a30b22cf00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747219,
+            "locality_id":1193270309,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1193270309,
+    "wof:lastmodified":1536371403,
+    "wof:name":"Oehwach'on",
+    "wof:parent_id":1108747219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.28083,
+    38.62722,
+    125.28083,
+    38.62722
+],
+  "geometry": {"coordinates":[125.28082999999999,38.62722],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243385493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.8525,37.945,125.8525,37.945",
+    "geom:latitude":37.945,
+    "geom:longitude":125.8525,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Ch\u2019ongdan-gun",
+    "gn:asciiname":"Sojong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869990,
+    "gn:latitude":37.945,
+    "gn:longitude":125.8525,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Soj\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869990
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a9038e03449aa58becbd4ac8ad0328ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1243385493,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243385493,
+    "wof:lastmodified":1536893249,
+    "wof:name":"Sojong-ni",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.8525,
+    37.945,
+    125.8525,
+    37.945
+],
+  "geometry": {"coordinates":[125.85250000000001,37.945],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293314345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.2125,38.23083,126.2125,38.23083",
+    "geom:latitude":38.23083,
+    "geom:longitude":126.2125,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nungan",
+    "gn:country_code":"KP",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947822,
+    "gn:latitude":38.23083,
+    "gn:longitude":126.2125,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"N\u016dngan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947822
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a7624909d9110838586a72a33dd4959c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747061,
+            "locality_id":1293314345,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293314345,
+    "wof:lastmodified":1537035178,
+    "wof:name":"Nungan",
+    "wof:parent_id":1108747061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.2125,
+    38.23083,
+    126.2125,
+    38.23083
+],
+  "geometry": {"coordinates":[126.21250000000001,38.23083],"type":"Point"}
+}

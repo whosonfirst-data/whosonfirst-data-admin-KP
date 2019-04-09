@@ -1,0 +1,73 @@
+{
+  "id": 1343843987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.34139,41.09,128.34139,41.09",
+    "geom:latitude":41.09,
+    "geom:longitude":128.34139,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chigyong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2054447,
+    "gn:latitude":41.09,
+    "gn:longitude":128.34139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chigy\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\uacbd\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Chigy\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2054447
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5ebafa301b41d5acc06f5dc68fcdba00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746953,
+            "locality_id":1343843987,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1343843987,
+    "wof:lastmodified":1537655629,
+    "wof:name":"Chigyong-ni",
+    "wof:parent_id":1108746953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.34139,
+    41.09,
+    128.34139,
+    41.09
+],
+  "geometry": {"coordinates":[128.34138999999999,41.09],"type":"Point"}
+}

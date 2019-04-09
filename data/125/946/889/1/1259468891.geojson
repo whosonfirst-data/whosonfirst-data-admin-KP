@@ -1,0 +1,75 @@
+{
+  "id": 1259468891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.30444,41.39028,128.30444,41.39028",
+    "geom:latitude":41.39028,
+    "geom:longitude":128.30444,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hajangsong-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044273,
+    "gn:latitude":41.39028,
+    "gn:longitude":128.30444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hajangs\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc7a5\uc131\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ha-changs\u014fng-ni",
+        "Hajangs\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044273
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"68b1c3f0f49f13bbddcf7fabcda80522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746903,
+            "locality_id":1259468891,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1259468891,
+    "wof:lastmodified":1537655447,
+    "wof:name":"Hajangsong-ni",
+    "wof:parent_id":1108746903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.30444,
+    41.39028,
+    128.30444,
+    41.39028
+],
+  "geometry": {"coordinates":[128.30444,41.39028],"type":"Point"}
+}

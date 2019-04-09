@@ -1,0 +1,75 @@
+{
+  "id": 1209712639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.28333,38.3,125.28333,38.3",
+    "geom:latitude":38.3,
+    "geom:longitude":125.28333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Toksong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868068,
+    "gn:latitude":38.3,
+    "gn:longitude":125.28333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"T\u014fks\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uc131"
+    ],
+    "name:und_x_variant":[
+        "T\u016dks\u014fng",
+        "T\u014fks\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868068
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"523a0d8457f2e52c350fa47a1815ce2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747109,
+            "locality_id":1209712639,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1209712639,
+    "wof:lastmodified":1537654263,
+    "wof:name":"Toksong",
+    "wof:parent_id":1108747109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.28333,
+    38.3,
+    125.28333,
+    38.3
+],
+  "geometry": {"coordinates":[125.28333000000001,38.3],"type":"Point"}
+}

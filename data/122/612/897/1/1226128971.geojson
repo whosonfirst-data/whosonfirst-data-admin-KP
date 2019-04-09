@@ -1,0 +1,72 @@
+{
+  "id": 1226128971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.71667,38.86722,125.71667,38.86722",
+    "geom:latitude":38.86722,
+    "geom:longitude":125.71667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tongha-dong",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867865,
+    "gn:latitude":38.86722,
+    "gn:longitude":125.71667,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Tongha-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3d9\ud558\ub3d9",
+        "Tongha-dong",
+        "Donghadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867865
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8f21bec0417c44b673b086b5da4ae82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1226128971,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226128971,
+    "wof:lastmodified":1537654253,
+    "wof:name":"Tongha-dong",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.71667,
+    38.86722,
+    125.71667,
+    38.86722
+],
+  "geometry": {"coordinates":[125.71666999999999,38.86722],"type":"Point"}
+}

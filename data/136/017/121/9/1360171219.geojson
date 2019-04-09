@@ -1,0 +1,77 @@
+{
+  "id": 1360171219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.92718,38.89375,125.92718,38.89375",
+    "geom:latitude":38.89375,
+    "geom:longitude":125.92718,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Wangnung-dong",
+    "gn:country_code":"KP",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311761,
+    "gn:latitude":38.89375,
+    "gn:longitude":125.92718,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Wangn\u016dng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Wangr\u016dng-dong"
+    ],
+    "name:kor_x_variant":[
+        "\uc655\ub989\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Wangn\u016dng-dong",
+        "Wangneungdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311761
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bb463abdf5e95a62d524fb966e3e643e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":1360171219,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1360171219,
+    "wof:lastmodified":1537655955,
+    "wof:name":"Wangnung-dong",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.92718,
+    38.89375,
+    125.92718,
+    38.89375
+],
+  "geometry": {"coordinates":[125.92718000000001,38.89375],"type":"Point"}
+}

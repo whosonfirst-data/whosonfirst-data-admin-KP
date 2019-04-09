@@ -1,0 +1,72 @@
+{
+  "id": 1276631279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.21361,40.83639,129.21361,40.83639",
+    "geom:latitude":40.83639,
+    "geom:longitude":129.21361,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Twi-gol",
+    "gn:country_code":"KP",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039640,
+    "gn:latitude":40.83639,
+    "gn:longitude":129.21361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Twi-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu-dong",
+        "\ub4a4\uace8",
+        "Twi-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039640
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f4d22693912ed8f8e839e040b6e2c923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746957,
+            "locality_id":1276631279,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1276631279,
+    "wof:lastmodified":1537655181,
+    "wof:name":"Twi-gol",
+    "wof:parent_id":1108746957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.21361000000002,
+    40.83639,
+    129.21361000000002,
+    40.83639
+],
+  "geometry": {"coordinates":[129.21361000000002,40.83639],"type":"Point"}
+}

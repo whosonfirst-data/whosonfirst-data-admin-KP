@@ -1,0 +1,74 @@
+{
+  "id": 1310102695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79667,38.06194,126.79667,38.06194",
+    "geom:latitude":38.06194,
+    "geom:longitude":126.79667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Changp'ung-gun",
+    "gn:asciiname":"Chom-mal",
+    "gn:country_code":"KP",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878550,
+    "gn:latitude":38.06194,
+    "gn:longitude":126.79667,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ch\u014fm-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tenson",
+        "Ch\u014fmch\u2019on",
+        "Ch\u014fm-ma\u016dl",
+        "Ch\u014fm-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108746915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878550
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fd1e749f2301b9f5b933d80472e932e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746915,
+            "locality_id":1310102695,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310102695,
+    "wof:lastmodified":1537654803,
+    "wof:name":"Chom-mal",
+    "wof:parent_id":1108746915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79667,
+    38.06194,
+    126.79667,
+    38.06194
+],
+  "geometry": {"coordinates":[126.79667000000001,38.06194],"type":"Point"}
+}

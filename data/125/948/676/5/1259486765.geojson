@@ -1,0 +1,79 @@
+{
+  "id": 1259486765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63384,40.72095,126.63384,40.72095",
+    "geom:latitude":40.72095,
+    "geom:longitude":126.63384,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saengdongch'am",
+    "gn:country_code":"KP",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302197,
+    "gn:latitude":40.72095,
+    "gn:longitude":126.63384,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saengdongch\u2019am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Sas\u016draegol-ma\u016dl"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\uc2a4\ub798\uace8\ub9c8\uc744",
+        "Saengdongch\u2019am",
+        "\uc0dd\ub3d9\ucc38"
+    ],
+    "name:und_x_variant":[
+        "\uc0dd\ub3d9\ucc38",
+        "Saengdongch\u2019am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108748019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302197
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ff801511c0e16f0f3b9b99b081d93a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748019,
+            "locality_id":1259486765,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1259486765,
+    "wof:lastmodified":1537655791,
+    "wof:name":"Saengdongch'am",
+    "wof:parent_id":1108748019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63384,
+    40.72095,
+    126.63384,
+    40.72095
+],
+  "geometry": {"coordinates":[126.63384000000001,40.72095],"type":"Point"}
+}

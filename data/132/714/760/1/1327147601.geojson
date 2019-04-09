@@ -1,0 +1,71 @@
+{
+  "id": 1327147601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.48,40.25889,126.48,40.25889",
+    "geom:latitude":40.25889,
+    "geom:longitude":126.48,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ansimch'am",
+    "gn:country_code":"KP",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6280961,
+    "gn:latitude":40.25889,
+    "gn:longitude":126.48,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ansimch\u2019am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\uc2ec\ucc38",
+        "Ansimch\u2019am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6280961
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"acd55d4b4a7eddb69cae424138196917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747201,
+            "locality_id":1327147601,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1327147601,
+    "wof:lastmodified":1537655710,
+    "wof:name":"Ansimch'am",
+    "wof:parent_id":1108747201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.48,
+    40.25889,
+    126.48,
+    40.25889
+],
+  "geometry": {"coordinates":[126.48,40.25889],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209436813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.48611,38.49194,125.48611,38.49194",
+    "geom:latitude":38.49194,
+    "geom:longitude":125.48611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yugyo-dong",
+    "gn:country_code":"KP",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1865906,
+    "gn:latitude":38.49194,
+    "gn:longitude":125.48611,
+    "gn:modification_date":"2002-02-19",
+    "gn:name":"Yugyo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1865906
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e8e5104afd13d605cc7cb8d9e2a81044",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209436813
+        }
+    ],
+    "wof:id":1209436813,
+    "wof:lastmodified":1536287079,
+    "wof:name":"Yugyo-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48611,
+    38.49194,
+    125.48611,
+    38.49194
+],
+  "geometry": {"coordinates":[125.48611,38.49194],"type":"Point"}
+}

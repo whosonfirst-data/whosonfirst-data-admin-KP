@@ -1,0 +1,75 @@
+{
+  "id": 1242988667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.46667,39.08333,125.46667,39.08333",
+    "geom:latitude":39.08333,
+    "geom:longitude":125.46667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kalme",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876276,
+    "gn:latitude":39.08333,
+    "gn:longitude":125.46667,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kalme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uba54"
+    ],
+    "name:und_x_variant":[
+        "Kalsan",
+        "Kalme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876276
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"40134de0b060e9d95488cf7407710e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747801,
+            "locality_id":1242988667,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1242988667,
+    "wof:lastmodified":1537654676,
+    "wof:name":"Kalme",
+    "wof:parent_id":1108747801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.46667,
+    39.08333,
+    125.46667,
+    39.08333
+],
+  "geometry": {"coordinates":[125.46666999999999,39.08333],"type":"Point"}
+}

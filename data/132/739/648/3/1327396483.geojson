@@ -1,0 +1,72 @@
+{
+  "id": 1327396483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.09028,42.22583,130.09028,42.22583",
+    "geom:latitude":42.22583,
+    "geom:longitude":130.09028,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"llgon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2048808,
+    "gn:latitude":42.22583,
+    "gn:longitude":130.09028,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"llg\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc77c\uac74\ub3d9",
+        "llg\u014fn-dong",
+        "Ilgeondong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2048808
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"095264cdc686e0d6119cd2f5695192ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746863,
+            "locality_id":1327396483,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1327396483,
+    "wof:lastmodified":1537655523,
+    "wof:name":"llgon-dong",
+    "wof:parent_id":1108746863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.09028,
+    42.22583,
+    130.09028,
+    42.22583
+],
+  "geometry": {"coordinates":[130.09028000000001,42.22583],"type":"Point"}
+}

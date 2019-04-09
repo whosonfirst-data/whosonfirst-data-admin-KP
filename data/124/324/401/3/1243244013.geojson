@@ -1,0 +1,77 @@
+{
+  "id": 1243244013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.2975,39.64972,125.2975,39.64972",
+    "geom:latitude":39.64972,
+    "geom:longitude":125.2975,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Soksal-li",
+    "gn:country_code":"KP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869865,
+    "gn:latitude":39.64972,
+    "gn:longitude":125.2975,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fksal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\uc0b0\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fksal-li"
+    ],
+    "name:und_x_variant":[
+        "S\u014fksan-ni",
+        "S\u014fksan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869865
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3e4931b6c687260380e9f79b77ca490d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747793,
+            "locality_id":1243244013,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1243244013,
+    "wof:lastmodified":1537654352,
+    "wof:name":"Soksal-li",
+    "wof:parent_id":1108747793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.2975,
+    39.64972,
+    125.2975,
+    39.64972
+],
+  "geometry": {"coordinates":[125.2975,39.64972],"type":"Point"}
+}

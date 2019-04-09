@@ -1,0 +1,67 @@
+{
+  "id": 1243476185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17972,37.91972,126.17972,37.91972",
+    "geom:latitude":37.91972,
+    "geom:longitude":126.17972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tugo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867579,
+    "gn:latitude":37.91972,
+    "gn:longitude":126.17972,
+    "gn:modification_date":"2003-01-09",
+    "gn:name":"Tugo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867579
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b614e387541a3ecb6d3c812fed3688d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1243476185,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243476185,
+    "wof:lastmodified":1536762969,
+    "wof:name":"Tugo-ri",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17972,
+    37.91972,
+    126.17972,
+    37.91972
+],
+  "geometry": {"coordinates":[126.17972,37.91972],"type":"Point"}
+}

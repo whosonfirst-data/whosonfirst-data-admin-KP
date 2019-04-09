@@ -1,0 +1,74 @@
+{
+  "id": 1326651919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.74167,38.07639,126.74167,38.07639",
+    "geom:latitude":38.07639,
+    "geom:longitude":126.74167,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Changp\u2019ung-gun",
+    "gn:asciiname":"Sipt'al-li",
+    "gn:country_code":"KP",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870264,
+    "gn:latitude":38.07639,
+    "gn:longitude":126.74167,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sipt\u2019al-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siby\u014ful-gol",
+        "Sipt\u2019an-ni",
+        "Siby\u014f-gol",
+        "Sipt\u2019al-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108746915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870264
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3b3d4dc277cdda8b6dfa54fc6b53d430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746915,
+            "locality_id":1326651919,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1326651919,
+    "wof:lastmodified":1537654372,
+    "wof:name":"Sipt'al-li",
+    "wof:parent_id":1108746915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.74167,
+    38.07639,
+    126.74167,
+    38.07639
+],
+  "geometry": {"coordinates":[126.74167,38.07639],"type":"Point"}
+}

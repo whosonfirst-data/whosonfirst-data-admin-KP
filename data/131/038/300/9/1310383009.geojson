@@ -1,0 +1,71 @@
+{
+  "id": 1310383009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.105,40.00528,126.105,40.00528",
+    "geom:latitude":40.00528,
+    "geom:longitude":126.105,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nojungch'am",
+    "gn:country_code":"KP",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2054763,
+    "gn:latitude":40.00528,
+    "gn:longitude":126.105,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nojungch\u2019am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub178\uc911\ucc38",
+        "Nojungch\u2019am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2054763
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"43c14b4dd5fa08d60242b4031777e382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746979,
+            "locality_id":1310383009,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1310383009,
+    "wof:lastmodified":1537655639,
+    "wof:name":"Nojungch'am",
+    "wof:parent_id":1108746979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.105,
+    40.00528,
+    126.105,
+    40.00528
+],
+  "geometry": {"coordinates":[126.105,40.00528],"type":"Point"}
+}

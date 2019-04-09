@@ -1,0 +1,70 @@
+{
+  "id": 1276959311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.29917,39.58639,125.29917,39.58639",
+    "geom:latitude":39.58639,
+    "geom:longitude":125.29917,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kusan",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875122,
+    "gn:latitude":39.58639,
+    "gn:longitude":125.29917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kusan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875122
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1597e3ef3b60e710b32026922e08051f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747213,
+            "locality_id":1276959311,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276959311,
+    "wof:lastmodified":1537654610,
+    "wof:name":"Kusan",
+    "wof:parent_id":1108747213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.29917,
+    39.58639,
+    125.29917,
+    39.58639
+],
+  "geometry": {"coordinates":[125.29917,39.58639],"type":"Point"}
+}

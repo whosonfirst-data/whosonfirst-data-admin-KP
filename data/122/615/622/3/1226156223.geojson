@@ -1,0 +1,80 @@
+{
+  "id": 1226156223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71752,40.38842,126.71752,40.38842",
+    "geom:latitude":40.38842,
+    "geom:longitude":126.71752,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maegol-maul",
+    "gn:country_code":"KP",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055628,
+    "gn:latitude":40.38842,
+    "gn:longitude":126.71752,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Maegol-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Maegol-ma\u016dl"
+    ],
+    "name:kor_x_variant":[
+        "\ub9e4\uace8\ub9c8\uc744",
+        "\u016cngdong",
+        "\uc751\ub3d9",
+        "\ub9e4\uace8"
+    ],
+    "name:und_x_variant":[
+        "\ub9e4\uace8",
+        "Mae-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055628
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"234c4f93be8823500aa77337c0bef558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747103,
+            "locality_id":1226156223,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1226156223,
+    "wof:lastmodified":1537655658,
+    "wof:name":"Maegol-maul",
+    "wof:parent_id":1108747103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71752,
+    40.38842,
+    126.71752,
+    40.38842
+],
+  "geometry": {"coordinates":[126.71751999999999,40.38842],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1192991075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.37972,39.04417,125.37972,39.04417",
+    "geom:latitude":39.04417,
+    "geom:longitude":125.37972,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872442,
+    "gn:latitude":39.04417,
+    "gn:longitude":125.37972,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Pong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872442
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"96aeff4ad08e8b1f837226bb3eb21c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747801,
+            "locality_id":1192991075,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1192991075,
+    "wof:lastmodified":1536380831,
+    "wof:name":"Pong-dong",
+    "wof:parent_id":1108747801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.37972,
+    39.04417,
+    125.37972,
+    39.04417
+],
+  "geometry": {"coordinates":[125.37972000000001,39.04417],"type":"Point"}
+}

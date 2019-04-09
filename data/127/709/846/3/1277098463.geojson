@@ -1,0 +1,67 @@
+{
+  "id": 1277098463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.09444,37.93,126.09444,37.93",
+    "geom:latitude":37.93,
+    "geom:longitude":126.09444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chaenamu",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1930886,
+    "gn:latitude":37.93,
+    "gn:longitude":126.09444,
+    "gn:modification_date":"2003-01-09",
+    "gn:name":"Chaenamu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1930886
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e278a9fb1a752639e5cee8ac73829f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1277098463,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1277098463,
+    "wof:lastmodified":1536744699,
+    "wof:name":"Chaenamu",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.09444,
+    37.93,
+    126.09444,
+    37.93
+],
+  "geometry": {"coordinates":[126.09444000000001,37.93],"type":"Point"}
+}

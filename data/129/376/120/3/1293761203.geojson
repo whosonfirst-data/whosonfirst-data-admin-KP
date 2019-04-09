@@ -1,0 +1,77 @@
+{
+  "id": 1293761203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.64222,39.59472,124.64222,39.59472",
+    "geom:latitude":39.59472,
+    "geom:longitude":124.64222,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chongsa",
+    "gn:country_code":"KP",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878316,
+    "gn:latitude":39.59472,
+    "gn:longitude":124.64222,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ch\u014fngsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Ch\u014fngsap\u2019oma\u016dl"
+    ],
+    "name:kor_x_variant":[
+        "\uc815\uc0ac\ud3ec\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "\uc815\uc0ac",
+        "Ch\u014fngsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878316
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"99719ea46e54e4a84f7c2f0622525218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747725,
+            "locality_id":1293761203,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1293761203,
+    "wof:lastmodified":1537654791,
+    "wof:name":"Chongsa",
+    "wof:parent_id":1108747725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.64222,
+    39.59472,
+    124.64222,
+    39.59472
+],
+  "geometry": {"coordinates":[124.64221999999999,39.59472],"type":"Point"}
+}

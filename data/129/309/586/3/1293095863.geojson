@@ -1,0 +1,67 @@
+{
+  "id": 1293095863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.86556,37.99667,125.86556,37.99667",
+    "geom:latitude":37.99667,
+    "geom:longitude":125.86556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koma-dong",
+    "gn:country_code":"KP",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1930770,
+    "gn:latitude":37.99667,
+    "gn:longitude":125.86556,
+    "gn:modification_date":"2002-12-16",
+    "gn:name":"Koma-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1930770
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fde5f9ed3f60433f068da28a7c361afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1293095863,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293095863,
+    "wof:lastmodified":1536853582,
+    "wof:name":"Koma-dong",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.86556000000002,
+    37.99667,
+    125.86556000000002,
+    37.99667
+],
+  "geometry": {"coordinates":[125.86556000000002,37.99667],"type":"Point"}
+}

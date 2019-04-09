@@ -1,0 +1,67 @@
+{
+  "id": 1226137433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.61361,38.18694,125.61361,38.18694",
+    "geom:latitude":38.18694,
+    "geom:longitude":125.61361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kyenam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874830,
+    "gn:latitude":38.18694,
+    "gn:longitude":125.61361,
+    "gn:modification_date":"2003-02-11",
+    "gn:name":"Kyenam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874830
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"da6f50072bed0e963d4c6cbabad9301d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748009,
+            "locality_id":1226137433,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1226137433,
+    "wof:lastmodified":1537086511,
+    "wof:name":"Kyenam-ni",
+    "wof:parent_id":1108748009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.61361,
+    38.18694,
+    125.61361,
+    38.18694
+],
+  "geometry": {"coordinates":[125.61360999999999,38.18694],"type":"Point"}
+}

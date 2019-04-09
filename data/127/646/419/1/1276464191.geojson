@@ -1,0 +1,71 @@
+{
+  "id": 1276464191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.88556,38.77139,125.88556,38.77139",
+    "geom:latitude":38.77139,
+    "geom:longitude":125.88556,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Changch'on",
+    "gn:country_code":"KP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363609,
+    "gn:latitude":38.77139,
+    "gn:longitude":125.88556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Changch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc7a5\ucd0c",
+        "Changch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363609
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6a9d2deb4f7a54ff249fb3593bbbad0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748117,
+            "locality_id":1276464191,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276464191,
+    "wof:lastmodified":1537655862,
+    "wof:name":"Changch'on",
+    "wof:parent_id":1108748117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.88556,
+    38.77139,
+    125.88556,
+    38.77139
+],
+  "geometry": {"coordinates":[125.88556,38.77139],"type":"Point"}
+}

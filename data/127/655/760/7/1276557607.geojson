@@ -1,0 +1,70 @@
+{
+  "id": 1276557607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.5159,39.91679,124.5159,39.91679",
+    "geom:latitude":39.91679,
+    "geom:longitude":124.5159,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tongaesan",
+    "gn:country_code":"KP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867979,
+    "gn:latitude":39.91679,
+    "gn:longitude":124.5159,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tongaesan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc560\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867979
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fab56d92a98767647a7b7bd33c543796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748105,
+            "locality_id":1276557607,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276557607,
+    "wof:lastmodified":1537654258,
+    "wof:name":"Tongaesan",
+    "wof:parent_id":1108748105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.5159,
+    39.91679,
+    124.5159,
+    39.91679
+],
+  "geometry": {"coordinates":[124.5159,39.91679],"type":"Point"}
+}

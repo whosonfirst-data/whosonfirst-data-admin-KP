@@ -1,0 +1,74 @@
+{
+  "id": 1259462109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.69417,41.78111,128.69417,41.78111",
+    "geom:latitude":41.78111,
+    "geom:longitude":128.69417,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tongnim-nodongjagu",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039761,
+    "gn:latitude":41.78111,
+    "gn:longitude":128.69417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u014fngnim-nodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u014fngnip-tong",
+        "Tokuritsu-d\u014d",
+        "T\u014fngnip-nodongjagu",
+        "T\u014fngnim-nodongjagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039761
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6c1b69e32e227da4ef214b1cade12ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747907,
+            "locality_id":1259462109,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1259462109,
+    "wof:lastmodified":1537655187,
+    "wof:name":"Tongnim-nodongjagu",
+    "wof:parent_id":1108747907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.69417,
+    41.78111,
+    128.69417,
+    41.78111
+],
+  "geometry": {"coordinates":[128.69417000000001,41.78111],"type":"Point"}
+}

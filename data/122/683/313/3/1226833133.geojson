@@ -1,0 +1,75 @@
+{
+  "id": 1226833133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88361,38.48889,126.88361,38.48889",
+    "geom:latitude":38.48889,
+    "geom:longitude":126.88361,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ich'on-up",
+    "gn:country_code":"KP",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876672,
+    "gn:latitude":38.48889,
+    "gn:longitude":126.88361,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Ich\u2019\u014fn-\u016dp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc774\ucc9c\uc74d"
+    ],
+    "name:und_x_variant":[
+        "Isen",
+        "Ich\u2019\u014fn",
+        "Ich\u2019\u014fn-\u016dp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876672
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9e0dca9ee4ca1a1d7680338cce772887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746905,
+            "locality_id":1226833133,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226833133,
+    "wof:lastmodified":1537654700,
+    "wof:name":"Ich'on-up",
+    "wof:parent_id":1108746905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88361,
+    38.48889000000001,
+    126.88361,
+    38.48889000000001
+],
+  "geometry": {"coordinates":[126.88361,38.48889000000001],"type":"Point"}
+}

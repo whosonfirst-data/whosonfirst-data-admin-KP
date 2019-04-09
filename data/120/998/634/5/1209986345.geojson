@@ -1,0 +1,70 @@
+{
+  "id": 1209986345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.37417,39.4725,126.37417,39.4725",
+    "geom:latitude":39.4725,
+    "geom:longitude":126.37417,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sinbong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870728,
+    "gn:latitude":39.4725,
+    "gn:longitude":126.37417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinbong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ubcf5\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870728
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9544c648b0218af63df6aa1f394f4ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748091,
+            "locality_id":1209986345,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1209986345,
+    "wof:lastmodified":1537654394,
+    "wof:name":"Sinbong-ni",
+    "wof:parent_id":1108748091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.37417,
+    39.4725,
+    126.37417,
+    39.4725
+],
+  "geometry": {"coordinates":[126.37417000000001,39.4725],"type":"Point"}
+}

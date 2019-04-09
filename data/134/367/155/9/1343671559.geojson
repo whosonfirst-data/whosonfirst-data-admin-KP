@@ -1,0 +1,75 @@
+{
+  "id": 1343671559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.91667,38.88333,125.91667,38.88333",
+    "geom:latitude":38.88333,
+    "geom:longitude":125.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tongmoru",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867804,
+    "gn:latitude":38.88333,
+    "gn:longitude":125.91667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tongmoru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ubaa8\ub8e8"
+    ],
+    "name:und_x_variant":[
+        "Tongu",
+        "Tongmoru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867804
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ef4781e2005334db420afd8a877c2717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1343671559,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343671559,
+    "wof:lastmodified":1537654249,
+    "wof:name":"Tongmoru",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.91667,
+    38.88333,
+    125.91667,
+    38.88333
+],
+  "geometry": {"coordinates":[125.91667,38.88333],"type":"Point"}
+}

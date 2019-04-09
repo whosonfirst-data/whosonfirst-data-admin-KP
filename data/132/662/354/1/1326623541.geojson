@@ -1,0 +1,70 @@
+{
+  "id": 1326623541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88306,38.89861,126.88306,38.89861",
+    "geom:latitude":38.89861,
+    "geom:longitude":126.88306,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Songji-dong",
+    "gn:country_code":"KP",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891608,
+    "gn:latitude":38.89861,
+    "gn:longitude":126.88306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Songji-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\uc9c0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891608
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2e72f2d643b2eedc405c2e0978752c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748001,
+            "locality_id":1326623541,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1326623541,
+    "wof:lastmodified":1537654989,
+    "wof:name":"Songji-dong",
+    "wof:parent_id":1108748001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88306,
+    38.89861,
+    126.88306,
+    38.89861
+],
+  "geometry": {"coordinates":[126.88306,38.89861],"type":"Point"}
+}

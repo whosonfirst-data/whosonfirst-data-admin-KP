@@ -1,0 +1,75 @@
+{
+  "id": 1259960333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.61667,39.78333,125.61667,39.78333",
+    "geom:latitude":39.78333,
+    "geom:longitude":125.61667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Wonnam-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866940,
+    "gn:latitude":39.78333,
+    "gn:longitude":125.61667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"W\u014fnnam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ub0a8\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "W\u014fnnam-dong",
+        "W\u014fnnam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866940
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d6b04c45311ea99d24fa0b3f87cec49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747909,
+            "locality_id":1259960333,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259960333,
+    "wof:lastmodified":1537654207,
+    "wof:name":"Wonnam-ni",
+    "wof:parent_id":1108747909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.61667,
+    39.78333,
+    125.61667,
+    39.78333
+],
+  "geometry": {"coordinates":[125.61667,39.78333],"type":"Point"}
+}

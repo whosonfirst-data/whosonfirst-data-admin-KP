@@ -1,0 +1,67 @@
+{
+  "id": 1259679635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.14278,38.36361,126.14278,38.36361",
+    "geom:latitude":38.36361,
+    "geom:longitude":126.14278,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ponghwang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948182,
+    "gn:latitude":38.36361,
+    "gn:longitude":126.14278,
+    "gn:modification_date":"2006-07-17",
+    "gn:name":"Ponghwang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948182
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"36f4dd53f294b11bdf3fcd9d40c884e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":1259679635,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1259679635,
+    "wof:lastmodified":1537069558,
+    "wof:name":"Ponghwang-dong",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.14278,
+    38.36361,
+    126.14278,
+    38.36361
+],
+  "geometry": {"coordinates":[126.14278,38.36361],"type":"Point"}
+}

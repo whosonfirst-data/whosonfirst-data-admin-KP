@@ -1,0 +1,76 @@
+{
+  "id": 890428931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.42444,38.85611,125.42444,38.85611",
+    "geom:latitude":38.85611,
+    "geom:longitude":125.42444,
+    "gn:country":"KP",
+    "gn:fcode":"PPL",
+    "gn:pop":13440,
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Chinji-ri"
+    ],
+    "qs:name":"Yonggang-\u016dp",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747969,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866362,
+        "qs:id":90130
+    },
+    "wof:country":"KP",
+    "wof:created":1469051781,
+    "wof:geomhash":"9d6d00e0a005291bd1ee52d6eb4e84d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":890428931,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":890428931,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":890428931,
+    "wof:lastmodified":1505343509,
+    "wof:name":"Yonggang-\u016dp",
+    "wof:parent_id":1108747969,
+    "wof:placetype":"locality",
+    "wof:population":13440,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.42444,
+    38.85611,
+    125.42444,
+    38.85611
+],
+  "geometry": {"coordinates":[125.42444,38.85611],"type":"Point"}
+}

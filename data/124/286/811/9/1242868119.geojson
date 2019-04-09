@@ -1,0 +1,74 @@
+{
+  "id": 1242868119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.395,39.3425,127.395,39.3425",
+    "geom:latitude":39.3425,
+    "geom:longitude":127.395,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Munch\u2019\u014fn-si",
+    "gn:asciiname":"Ch'anggot",
+    "gn:country_code":"KP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952860,
+    "gn:latitude":39.3425,
+    "gn:longitude":127.395,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ch\u2019anggot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc3d\uacf6"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019anggot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952860
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a356fae1b6acc71452e4ed1f20ff1097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747009,
+            "locality_id":1242868119,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1242868119,
+    "wof:lastmodified":1537655117,
+    "wof:name":"Ch'anggot",
+    "wof:parent_id":1108747009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.395,
+    39.3425,
+    127.395,
+    39.3425
+],
+  "geometry": {"coordinates":[127.395,39.3425],"type":"Point"}
+}

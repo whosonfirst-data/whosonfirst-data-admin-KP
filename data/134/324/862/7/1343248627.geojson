@@ -1,0 +1,74 @@
+{
+  "id": 1343248627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.02898,39.16834,126.02898,39.16834",
+    "geom:latitude":39.16834,
+    "geom:longitude":126.02898,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kangdong-gun",
+    "gn:asciiname":"Chungbaemi",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950216,
+    "gn:latitude":39.16834,
+    "gn:longitude":126.02898,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Chungbaemi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\ubc30\ubbf8"
+    ],
+    "name:und_x_variant":[
+        "Jungbaemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950216
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"eb0bae2b88be792a08e15828681a1a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747811,
+            "locality_id":1343248627,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1343248627,
+    "wof:lastmodified":1537655107,
+    "wof:name":"Chungbaemi",
+    "wof:parent_id":1108747811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.02898,
+    39.16834,
+    126.02898,
+    39.16834
+],
+  "geometry": {"coordinates":[126.02898,39.16834],"type":"Point"}
+}

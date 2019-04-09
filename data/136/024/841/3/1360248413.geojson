@@ -1,0 +1,72 @@
+{
+  "id": 1360248413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.26361,42.37083,130.26361,42.37083",
+    "geom:latitude":42.37083,
+    "geom:longitude":130.26361,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"\u016cnd\u014fk-kun",
+    "gn:asciiname":"Ch'olchu-ri",
+    "gn:country_code":"KP",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2050494,
+    "gn:latitude":42.37083,
+    "gn:longitude":130.26361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019\u014flchu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucca0\uc8fc\ub9ac",
+        "Ch\u2019\u014flchu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050494
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c2b766ca902a648dabdf97ba7128c3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746997,
+            "locality_id":1360248413,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1360248413,
+    "wof:lastmodified":1537655601,
+    "wof:name":"Ch'olchu-ri",
+    "wof:parent_id":1108746997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.26361,
+    42.37083,
+    130.26361,
+    42.37083
+],
+  "geometry": {"coordinates":[130.26361,42.37083],"type":"Point"}
+}

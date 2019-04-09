@@ -1,0 +1,73 @@
+{
+  "id": 1210036657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.34417,38.63861,126.34417,38.63861",
+    "geom:latitude":38.63861,
+    "geom:longitude":126.34417,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yongmal",
+    "gn:country_code":"KP",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366426,
+    "gn:latitude":38.63861,
+    "gn:longitude":126.34417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u014fngmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5ed\ub9d0"
+    ],
+    "name:kor_x_variant":[
+        "Y\u014fngmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366426
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d524add672633defc497d3bd7ef5ad41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748029,
+            "locality_id":1210036657,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1210036657,
+    "wof:lastmodified":1537655877,
+    "wof:name":"Yongmal",
+    "wof:parent_id":1108748029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.34417,
+    38.63861,
+    126.34417,
+    38.63861
+],
+  "geometry": {"coordinates":[126.34417000000001,38.63861],"type":"Point"}
+}

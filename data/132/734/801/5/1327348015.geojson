@@ -1,0 +1,70 @@
+{
+  "id": 1327348015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.06667,40.88333,128.06667,40.88333",
+    "geom:latitude":40.88333,
+    "geom:longitude":128.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yonghoe-ri",
+    "gn:country_code":"KP",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039101,
+    "gn:latitude":40.88333,
+    "gn:longitude":128.06667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Yonghoe-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ud68c\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039101
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ec73aa7356e8beb2897c89509e4493db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747049,
+            "locality_id":1327348015,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1327348015,
+    "wof:lastmodified":1537655149,
+    "wof:name":"Yonghoe-ri",
+    "wof:parent_id":1108747049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.06667,
+    40.88333,
+    128.06667,
+    40.88333
+],
+  "geometry": {"coordinates":[128.06666999999999,40.88333],"type":"Point"}
+}

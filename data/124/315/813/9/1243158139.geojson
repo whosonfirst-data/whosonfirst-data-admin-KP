@@ -1,0 +1,71 @@
+{
+  "id": 1243158139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.10694,40.83222,128.10694,40.83222",
+    "geom:latitude":40.83222,
+    "geom:longitude":128.10694,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sinwon-ha-ri",
+    "gn:country_code":"KP",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050146,
+    "gn:latitude":40.83222,
+    "gn:longitude":128.10694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinw\u014fn-ha-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\uc6d0\ud558\ub9ac",
+        "Sinw\u014fn-ha-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050146
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ce08848b8e824cba0ccdaf813b73aecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746959,
+            "locality_id":1243158139,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1243158139,
+    "wof:lastmodified":1537655592,
+    "wof:name":"Sinwon-ha-ri",
+    "wof:parent_id":1108746959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.10693999999998,
+    40.83222,
+    128.10693999999998,
+    40.83222
+],
+  "geometry": {"coordinates":[128.10693999999998,40.83222],"type":"Point"}
+}

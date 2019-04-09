@@ -1,0 +1,68 @@
+{
+  "id": 1343859621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25389,39.45889,127.25389,39.45889",
+    "geom:latitude":39.45889,
+    "geom:longitude":127.25389,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"Kow\u014fn-gun",
+    "gn:asciiname":"Yondang",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952679,
+    "gn:latitude":39.45889,
+    "gn:longitude":127.25389,
+    "gn:modification_date":"2001-05-21",
+    "gn:name":"Y\u014fndang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952679
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cfe6ad9e407093d5eb02b393433a4c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1343859621,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1343859621,
+    "wof:lastmodified":1536667835,
+    "wof:name":"Yondang",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25388999999998,
+    39.45889,
+    127.25388999999998,
+    39.45889
+],
+  "geometry": {"coordinates":[127.25388999999998,39.45889],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310177999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.64187,39.02237,125.64187,39.02237",
+    "geom:latitude":39.02237,
+    "geom:longitude":125.64187,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Oryu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873083,
+    "gn:latitude":39.02237,
+    "gn:longitude":125.64187,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Oryu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ub958\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Oryu-ri",
+        "Oryu-dong",
+        "Oryudong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873083
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b443c0593cbe5f8dfd55d21cedad66c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1310177999,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1310177999,
+    "wof:lastmodified":1537654515,
+    "wof:name":"Oryu-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.64187,
+    39.02237,
+    125.64187,
+    39.02237
+],
+  "geometry": {"coordinates":[125.64187,39.02237],"type":"Point"}
+}

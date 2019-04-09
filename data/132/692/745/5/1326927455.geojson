@@ -1,0 +1,67 @@
+{
+  "id": 1326927455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.43222,38.23722,125.43222,38.23722",
+    "geom:latitude":38.23722,
+    "geom:longitude":125.43222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soni-dong",
+    "gn:country_code":"KP",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869339,
+    "gn:latitude":38.23722,
+    "gn:longitude":125.43222,
+    "gn:modification_date":"2003-02-11",
+    "gn:name":"Soni-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869339
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a4feb8fafb906a1bf8ba3f826acb7c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747123,
+            "locality_id":1326927455,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1326927455,
+    "wof:lastmodified":1536912085,
+    "wof:name":"Soni-dong",
+    "wof:parent_id":1108747123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.43222,
+    38.23722,
+    125.43222,
+    38.23722
+],
+  "geometry": {"coordinates":[125.43222,38.23722],"type":"Point"}
+}

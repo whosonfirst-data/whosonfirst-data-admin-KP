@@ -1,0 +1,72 @@
+{
+  "id": 1327413331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.97556,38.88972,125.97556,38.88972",
+    "geom:latitude":38.88972,
+    "geom:longitude":125.97556,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chigyong-gol",
+    "gn:country_code":"KP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878909,
+    "gn:latitude":38.88972,
+    "gn:longitude":125.97556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chigy\u014fng-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chigy\u014fng-dong",
+        "\uc9c0\uacbd\uace8",
+        "Chigy\u014fng-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878909
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c5be89148da9a999f45abf7545337e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":1327413331,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327413331,
+    "wof:lastmodified":1537654825,
+    "wof:name":"Chigyong-gol",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.97556000000002,
+    38.88972,
+    125.97556000000002,
+    38.88972
+],
+  "geometry": {"coordinates":[125.97556000000002,38.88972],"type":"Point"}
+}

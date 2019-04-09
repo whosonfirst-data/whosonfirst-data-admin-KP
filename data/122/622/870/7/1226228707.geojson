@@ -1,0 +1,74 @@
+{
+  "id": 1226228707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.61971,38.86977,125.61971,38.86977",
+    "geom:latitude":38.86977,
+    "geom:longitude":125.61971,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mun-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874231,
+    "gn:latitude":38.86977,
+    "gn:longitude":125.61971,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mun-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Mun-ch\u2019on",
+        "Munchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874231
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"501fd9886b1c490b75465a74d9cd5aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747815,
+            "locality_id":1226228707,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226228707,
+    "wof:lastmodified":1537654566,
+    "wof:name":"Mun-ch'on",
+    "wof:parent_id":1108747815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.61971,
+    38.86977,
+    125.61971,
+    38.86977
+],
+  "geometry": {"coordinates":[125.61971,38.86977],"type":"Point"}
+}

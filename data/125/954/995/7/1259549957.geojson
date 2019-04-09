@@ -1,0 +1,71 @@
+{
+  "id": 1259549957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.70139,42.13444,129.70139,42.13444",
+    "geom:latitude":42.13444,
+    "geom:longitude":129.70139,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Murungdae",
+    "gn:country_code":"KP",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305344,
+    "gn:latitude":42.13444,
+    "gn:longitude":129.70139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mur\u016dngdae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb34\ub989\ub300",
+        "Mur\u016dngdae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305344
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e12d34704b78755db1c759b27157fa73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747943,
+            "locality_id":1259549957,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1259549957,
+    "wof:lastmodified":1537655830,
+    "wof:name":"Murungdae",
+    "wof:parent_id":1108747943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.70139,
+    42.13444000000001,
+    129.70139,
+    42.13444000000001
+],
+  "geometry": {"coordinates":[129.70139,42.13444000000001],"type":"Point"}
+}

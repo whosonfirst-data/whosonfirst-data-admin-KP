@@ -1,0 +1,71 @@
+{
+  "id": 1293491065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.67917,40.80889,125.67917,40.80889",
+    "geom:latitude":40.80889,
+    "geom:longitude":125.67917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yongsosaenmal",
+    "gn:country_code":"KP",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055007,
+    "gn:latitude":40.80889,
+    "gn:longitude":125.67917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongs\u014fsaenmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\uc11c\uc0db\ub9d0",
+        "Yongs\u014fsaenmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055007
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4714f859ec1b74d018cbfbb4723ed18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747741,
+            "locality_id":1293491065,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1293491065,
+    "wof:lastmodified":1537655640,
+    "wof:name":"Yongsosaenmal",
+    "wof:parent_id":1108747741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.67917,
+    40.80889000000001,
+    125.67917,
+    40.80889000000001
+],
+  "geometry": {"coordinates":[125.67917,40.80889000000001],"type":"Point"}
+}

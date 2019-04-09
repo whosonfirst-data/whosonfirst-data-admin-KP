@@ -1,0 +1,61 @@
+{
+  "id": 1209585625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.42944,39.05778,125.42944,39.05778",
+    "geom:latitude":39.05778,
+    "geom:longitude":125.42944,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sangsari yangji-dong",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871055,
+    "gn:latitude":39.05778,
+    "gn:longitude":125.42944,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Sangsari yangji-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871055
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c34318b419a06f0459ef5a15a02373db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209585625
+        }
+    ],
+    "wof:id":1209585625,
+    "wof:lastmodified":1536282647,
+    "wof:name":"Sangsari yangji-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.42944,
+    39.05778,
+    125.42944,
+    39.05778
+],
+  "geometry": {"coordinates":[125.42944,39.05778],"type":"Point"}
+}

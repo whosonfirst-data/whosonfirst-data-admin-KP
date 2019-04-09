@@ -1,0 +1,72 @@
+{
+  "id": 1209797835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.52667,39.88833,126.52667,39.88833",
+    "geom:latitude":39.88833,
+    "geom:longitude":126.52667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ch'iltami",
+    "gn:country_code":"KP",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948611,
+    "gn:latitude":39.88833,
+    "gn:longitude":126.52667,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019iltami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uce60\ub2f4\uc774",
+        "Ch\u2019ildami",
+        "Ch\u2019iltami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948611
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"782e6b2936e0570664edd2e26ed44abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747025,
+            "locality_id":1209797835,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1209797835,
+    "wof:lastmodified":1537655096,
+    "wof:name":"Ch'iltami",
+    "wof:parent_id":1108747025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.52667,
+    39.88833,
+    126.52667,
+    39.88833
+],
+  "geometry": {"coordinates":[126.52667,39.88833],"type":"Point"}
+}

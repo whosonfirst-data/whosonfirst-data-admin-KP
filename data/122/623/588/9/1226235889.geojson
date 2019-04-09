@@ -1,0 +1,67 @@
+{
+  "id": 1226235889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73861,38.32444,126.73861,38.32444",
+    "geom:latitude":38.32444,
+    "geom:longitude":126.73861,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hwagae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931294,
+    "gn:latitude":38.32444,
+    "gn:longitude":126.73861,
+    "gn:modification_date":"2003-03-04",
+    "gn:name":"Hwagae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931294
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6022c0a6ec2d0af6a77be1bafe9fc453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747189,
+            "locality_id":1226235889,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226235889,
+    "wof:lastmodified":1536948173,
+    "wof:name":"Hwagae-dong",
+    "wof:parent_id":1108747189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73861,
+    38.32444,
+    126.73861,
+    38.32444
+],
+  "geometry": {"coordinates":[126.73860999999999,38.32444],"type":"Point"}
+}

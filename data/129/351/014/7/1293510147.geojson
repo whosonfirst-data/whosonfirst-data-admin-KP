@@ -1,0 +1,67 @@
+{
+  "id": 1293510147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63722,38.39139,126.63722,38.39139",
+    "geom:latitude":38.39139,
+    "geom:longitude":126.63722,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yongjong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931204,
+    "gn:latitude":38.39139,
+    "gn:longitude":126.63722,
+    "gn:modification_date":"2003-03-04",
+    "gn:name":"Yongj\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931204
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"facb0142a801b86cc3baba1e757ac082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747999,
+            "locality_id":1293510147,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293510147,
+    "wof:lastmodified":1536754446,
+    "wof:name":"Yongjong-dong",
+    "wof:parent_id":1108747999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63722,
+    38.39139,
+    126.63722,
+    38.39139
+],
+  "geometry": {"coordinates":[126.63722,38.39139],"type":"Point"}
+}

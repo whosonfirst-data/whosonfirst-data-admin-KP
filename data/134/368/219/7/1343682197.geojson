@@ -1,0 +1,73 @@
+{
+  "id": 1343682197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.6475,38.53639,125.6475,38.53639",
+    "geom:latitude":38.53639,
+    "geom:longitude":125.6475,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chwach'omi",
+    "gn:country_code":"KP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6407461,
+    "gn:latitude":38.53639,
+    "gn:longitude":125.6475,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chwach\u2019omi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc88c\ucd08\ubbf8"
+    ],
+    "name:kor_x_variant":[
+        "Chwach\u2019omi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6407461
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d0126374b383f5ede297db7e32e9b4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746907,
+            "locality_id":1343682197,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1343682197,
+    "wof:lastmodified":1537655936,
+    "wof:name":"Chwach'omi",
+    "wof:parent_id":1108746907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.6475,
+    38.53639,
+    125.6475,
+    38.53639
+],
+  "geometry": {"coordinates":[125.64749999999999,38.53639],"type":"Point"}
+}

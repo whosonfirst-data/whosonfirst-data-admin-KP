@@ -1,0 +1,61 @@
+{
+  "id": 1209508541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6575,38.28139,126.6575,38.28139",
+    "geom:latitude":38.28139,
+    "geom:longitude":126.6575,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sokpong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869887,
+    "gn:latitude":38.28139,
+    "gn:longitude":126.6575,
+    "gn:modification_date":"2003-03-04",
+    "gn:name":"S\u014fkpong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869887
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"168b4c1c59eaccda1549f1dd7ad17a4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209508541
+        }
+    ],
+    "wof:id":1209508541,
+    "wof:lastmodified":1536284956,
+    "wof:name":"Sokpong-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6575,
+    38.28139,
+    126.6575,
+    38.28139
+],
+  "geometry": {"coordinates":[126.6575,38.28139],"type":"Point"}
+}

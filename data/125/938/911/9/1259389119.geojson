@@ -1,0 +1,72 @@
+{
+  "id": 1259389119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4875,40.55139,128.4875,40.55139",
+    "geom:latitude":40.55139,
+    "geom:longitude":128.4875,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Putt'o",
+    "gn:country_code":"KP",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041866,
+    "gn:latitude":40.55139,
+    "gn:longitude":128.4875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Putt\u2019\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pot\u2019\u014f",
+        "\ubd93\ud130",
+        "Putt\u2019\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041866
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b94b7f87c4673f0d9c6b142d665afb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1259389119,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259389119,
+    "wof:lastmodified":1537655312,
+    "wof:name":"Putt'o",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4875,
+    40.55139000000001,
+    128.4875,
+    40.55139000000001
+],
+  "geometry": {"coordinates":[128.48750000000001,40.55139000000001],"type":"Point"}
+}

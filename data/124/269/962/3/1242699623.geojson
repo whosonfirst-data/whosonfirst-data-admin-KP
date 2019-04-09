@@ -1,0 +1,71 @@
+{
+  "id": 1242699623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.34,37.94889,125.34,37.94889",
+    "geom:latitude":37.94889,
+    "geom:longitude":125.34,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hyondung-dong",
+    "gn:country_code":"KP",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876751,
+    "gn:latitude":37.94889,
+    "gn:longitude":125.34,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hy\u014fnd\u016dng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud604\ub4f1\ub3d9",
+        "Hy\u014fnd\u016dng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876751
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"efffb82225ed1f8629ce9638809bc2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1242699623,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1242699623,
+    "wof:lastmodified":1537654703,
+    "wof:name":"Hyondung-dong",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.34,
+    37.94889000000001,
+    125.34,
+    37.94889000000001
+],
+  "geometry": {"coordinates":[125.34,37.94889000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209318107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49917,40.24778,126.49917,40.24778",
+    "geom:latitude":40.24778,
+    "geom:longitude":126.49917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kanch'am",
+    "gn:country_code":"KP",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281134,
+    "gn:latitude":40.24778,
+    "gn:longitude":126.49917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kanch\u2019am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac04\ucc38",
+        "Kanch\u2019am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281134
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"62f2170b012bc7db0e54729137d62b3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209318107
+        }
+    ],
+    "wof:id":1209318107,
+    "wof:lastmodified":1537655719,
+    "wof:name":"Kanch'am",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49917,
+    40.24778,
+    126.49917,
+    40.24778
+],
+  "geometry": {"coordinates":[126.49917000000001,40.24778],"type":"Point"}
+}

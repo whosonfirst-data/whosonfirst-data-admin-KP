@@ -1,0 +1,77 @@
+{
+  "id": 1243341131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.98352,39.66506,124.98352,39.66506",
+    "geom:latitude":39.66506,
+    "geom:longitude":124.98352,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kwanam-maul",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875049,
+    "gn:latitude":39.66506,
+    "gn:longitude":124.98352,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kwanam-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\uc554\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Kwanam-ma\u016dl",
+        "\uad00\uc554\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "Kwanam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875049
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"108f4209519f563c95a24a2ba1ff521c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1243341131,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1243341131,
+    "wof:lastmodified":1537654605,
+    "wof:name":"Kwanam-maul",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.98352,
+    39.66506,
+    124.98352,
+    39.66506
+],
+  "geometry": {"coordinates":[124.98352,39.66506],"type":"Point"}
+}

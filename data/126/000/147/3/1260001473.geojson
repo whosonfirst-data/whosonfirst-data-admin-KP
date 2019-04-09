@@ -1,0 +1,67 @@
+{
+  "id": 1260001473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.40222,38.19944,125.40222,38.19944",
+    "geom:latitude":38.19944,
+    "geom:longitude":125.40222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874035,
+    "gn:latitude":38.19944,
+    "gn:longitude":125.40222,
+    "gn:modification_date":"2003-02-11",
+    "gn:name":"Nae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874035
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"12c3b9b9291f07c9b0279b1a616b87c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747921,
+            "locality_id":1260001473,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1260001473,
+    "wof:lastmodified":1536606372,
+    "wof:name":"Nae-dong",
+    "wof:parent_id":1108747921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.40222,
+    38.19944,
+    125.40222,
+    38.19944
+],
+  "geometry": {"coordinates":[125.40222,38.19944],"type":"Point"}
+}

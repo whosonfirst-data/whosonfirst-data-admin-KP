@@ -1,0 +1,75 @@
+{
+  "id": 1327329443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7625,38.43306,125.7625,38.43306",
+    "geom:latitude":38.43306,
+    "geom:longitude":125.7625,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hungsu-ri",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875567,
+    "gn:latitude":38.43306,
+    "gn:longitude":125.7625,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"H\u016dngsu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud765\uc218\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Kuam-ni",
+        "H\u016dngsu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875567
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"db554c9d9acb859e4317ac5c9d19f8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747217,
+            "locality_id":1327329443,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327329443,
+    "wof:lastmodified":1537654636,
+    "wof:name":"Hungsu-ri",
+    "wof:parent_id":1108747217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7625,
+    38.43306,
+    125.7625,
+    38.43306
+],
+  "geometry": {"coordinates":[125.7625,38.43306],"type":"Point"}
+}

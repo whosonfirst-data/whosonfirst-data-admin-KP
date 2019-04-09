@@ -1,0 +1,71 @@
+{
+  "id": 1276769981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.43972,39.97833,127.43972,39.97833",
+    "geom:latitude":39.97833,
+    "geom:longitude":127.43972,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pongso-ri",
+    "gn:country_code":"KP",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890670,
+    "gn:latitude":39.97833,
+    "gn:longitude":127.43972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pongs\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd09\uc11c\ub9ac",
+        "Pongs\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890670
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2a1f44eb9fc66e567a82088980706796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748109,
+            "locality_id":1276769981,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1276769981,
+    "wof:lastmodified":1537654963,
+    "wof:name":"Pongso-ri",
+    "wof:parent_id":1108748109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.43972,
+    39.97833,
+    127.43972,
+    39.97833
+],
+  "geometry": {"coordinates":[127.43971999999999,39.97833],"type":"Point"}
+}

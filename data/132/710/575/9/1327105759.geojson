@@ -1,0 +1,71 @@
+{
+  "id": 1327105759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.315,40.78056,128.315,40.78056",
+    "geom:latitude":40.78056,
+    "geom:longitude":128.315,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Turunbong",
+    "gn:country_code":"KP",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050201,
+    "gn:latitude":40.78056,
+    "gn:longitude":128.315,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tur\u016dnbong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub450\ub978\ubd09",
+        "Tur\u016dnbong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050201
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"839ce1708d643adec44edd41ede2a1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746959,
+            "locality_id":1327105759,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1327105759,
+    "wof:lastmodified":1537655595,
+    "wof:name":"Turunbong",
+    "wof:parent_id":1108746959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.315,
+    40.78056,
+    128.315,
+    40.78056
+],
+  "geometry": {"coordinates":[128.315,40.78056],"type":"Point"}
+}

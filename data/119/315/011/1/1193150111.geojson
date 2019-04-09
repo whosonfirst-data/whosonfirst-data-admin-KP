@@ -1,0 +1,77 @@
+{
+  "id": 1193150111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.61907,40.93343,126.61907,40.93343",
+    "geom:latitude":40.93343,
+    "geom:longitude":126.61907,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sajin-ch'am",
+    "gn:country_code":"KP",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041544,
+    "gn:latitude":40.93343,
+    "gn:longitude":126.61907,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sajin-ch\u2019am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Sajin-ch\u2019am"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\uc9c4\ucc38"
+    ],
+    "name:und_x_variant":[
+        "\uc0ac\uc9c4\ub3d9",
+        "Sajin-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041544
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5392e6f5f43add38605c6b04f5439c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747813,
+            "locality_id":1193150111,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1193150111,
+    "wof:lastmodified":1537655292,
+    "wof:name":"Sajin-ch'am",
+    "wof:parent_id":1108747813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.61907,
+    40.93343,
+    126.61907,
+    40.93343
+],
+  "geometry": {"coordinates":[126.61906999999999,40.93343],"type":"Point"}
+}

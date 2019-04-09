@@ -1,0 +1,76 @@
+{
+  "id": 1243249981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.66861,38.88722,125.66861,38.88722",
+    "geom:latitude":38.88722,
+    "geom:longitude":125.66861,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Araesinda-ri",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879553,
+    "gn:latitude":38.88722,
+    "gn:longitude":125.66861,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Araesinda-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc544\ub798\uc2e0\ub2e4\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Hasin\u2019gyo",
+        "Araesinda-ri",
+        "Araesindari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879553
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"34557bbee057c1f8fe40fce1ecbae5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1243249981,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1243249981,
+    "wof:lastmodified":1537654863,
+    "wof:name":"Araesinda-ri",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.66861000000002,
+    38.88722,
+    125.66861000000002,
+    38.88722
+],
+  "geometry": {"coordinates":[125.66861000000002,38.88722],"type":"Point"}
+}

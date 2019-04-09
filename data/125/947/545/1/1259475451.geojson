@@ -1,0 +1,67 @@
+{
+  "id": 1259475451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.01972,38.29444,125.01972,38.29444",
+    "geom:latitude":38.29444,
+    "geom:longitude":125.01972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tojang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868187,
+    "gn:latitude":38.29444,
+    "gn:longitude":125.01972,
+    "gn:modification_date":"2003-02-13",
+    "gn:name":"Tojang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868187
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"41026b7f566df3cc9e618f2a23f4bbb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746993,
+            "locality_id":1259475451,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259475451,
+    "wof:lastmodified":1536869280,
+    "wof:name":"Tojang-dong",
+    "wof:parent_id":1108746993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.01972,
+    38.29444,
+    125.01972,
+    38.29444
+],
+  "geometry": {"coordinates":[125.01972000000001,38.29444],"type":"Point"}
+}

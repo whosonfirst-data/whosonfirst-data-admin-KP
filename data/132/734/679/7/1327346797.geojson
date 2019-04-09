@@ -1,0 +1,71 @@
+{
+  "id": 1327346797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.30409,40.7841,126.30409,40.7841",
+    "geom:latitude":40.7841,
+    "geom:longitude":126.30409,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chonch'on-dong",
+    "gn:country_code":"KP",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282544,
+    "gn:latitude":40.7841,
+    "gn:longitude":126.30409,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u014fnch\u2019\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc804\ucc9c\ub3d9",
+        "Ch\u014fnch\u2019\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282544
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d633189477b2f7ac8ecab619ee530c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747227,
+            "locality_id":1327346797,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1327346797,
+    "wof:lastmodified":1537655777,
+    "wof:name":"Chonch'on-dong",
+    "wof:parent_id":1108747227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.30409,
+    40.7841,
+    126.30409,
+    40.7841
+],
+  "geometry": {"coordinates":[126.30409,40.7841],"type":"Point"}
+}

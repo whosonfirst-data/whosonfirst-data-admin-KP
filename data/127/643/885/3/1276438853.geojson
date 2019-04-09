@@ -1,0 +1,67 @@
+{
+  "id": 1276438853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.33611,37.9375,125.33611,37.9375",
+    "geom:latitude":37.9375,
+    "geom:longitude":125.33611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tangjon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868415,
+    "gn:latitude":37.9375,
+    "gn:longitude":125.33611,
+    "gn:modification_date":"2006-12-06",
+    "gn:name":"Tangj\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868415
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"52d84198c0a476968eaea88785885a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1276438853,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276438853,
+    "wof:lastmodified":1536636034,
+    "wof:name":"Tangjon-dong",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.33611,
+    37.9375,
+    125.33611,
+    37.9375
+],
+  "geometry": {"coordinates":[125.33611000000001,37.9375],"type":"Point"}
+}

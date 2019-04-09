@@ -1,0 +1,71 @@
+{
+  "id": 1276206941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58,40.27333,125.58,40.27333",
+    "geom:latitude":40.27333,
+    "geom:longitude":125.58,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sonmun'go-ri",
+    "gn:country_code":"KP",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282331,
+    "gn:latitude":40.27333,
+    "gn:longitude":125.58,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fnmun\u2019g\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc120\ubb38\uac70\ub9ac",
+        "S\u014fnmun\u2019g\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282331
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"251a881e1c2ad95b50736507120e5aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747195,
+            "locality_id":1276206941,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276206941,
+    "wof:lastmodified":1537655769,
+    "wof:name":"Sonmun'go-ri",
+    "wof:parent_id":1108747195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58,
+    40.27333,
+    125.58,
+    40.27333
+],
+  "geometry": {"coordinates":[125.58,40.27333],"type":"Point"}
+}

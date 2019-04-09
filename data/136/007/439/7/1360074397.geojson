@@ -1,0 +1,74 @@
+{
+  "id": 1360074397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36751,39.27304,127.36751,39.27304",
+    "geom:latitude":39.27304,
+    "geom:longitude":127.36751,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Munch\u2019\u014fn-si",
+    "gn:asciiname":"Yat'ae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866667,
+    "gn:latitude":39.27304,
+    "gn:longitude":127.36751,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yat\u2019ae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yasa-ri",
+        "Yata-ri",
+        "Yat\u2019ae-ri",
+        "\uc57c\ud0dc\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866667
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"255811689cd55836083129b3eb75184b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747009,
+            "locality_id":1360074397,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1360074397,
+    "wof:lastmodified":1537654193,
+    "wof:name":"Yat'ae-ri",
+    "wof:parent_id":1108747009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36751,
+    39.27304,
+    127.36751,
+    39.27304
+],
+  "geometry": {"coordinates":[127.36751,39.27304],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276971747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.83111,37.96361,125.83111,37.96361",
+    "geom:latitude":37.96361,
+    "geom:longitude":125.83111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Paedari-gol",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873010,
+    "gn:latitude":37.96361,
+    "gn:longitude":125.83111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paedari-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chugyo-dong",
+        "Paegyo-ri",
+        "Paedari-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873010
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4301fbfc88f00477e00ff379bc6a3c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1276971747,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276971747,
+    "wof:lastmodified":1537654511,
+    "wof:name":"Paedari-gol",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.83111,
+    37.96361,
+    125.83111,
+    37.96361
+],
+  "geometry": {"coordinates":[125.83111,37.96361],"type":"Point"}
+}

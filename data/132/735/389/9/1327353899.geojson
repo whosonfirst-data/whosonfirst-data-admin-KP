@@ -1,0 +1,68 @@
+{
+  "id": 1327353899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.21944,38.89833,126.21944,38.89833",
+    "geom:latitude":38.89833,
+    "geom:longitude":126.21944,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"Y\u014fnsan-gun",
+    "gn:asciiname":"Paega-dong",
+    "gn:country_code":"KP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949830,
+    "gn:latitude":38.89833,
+    "gn:longitude":126.21944,
+    "gn:modification_date":"2001-05-04",
+    "gn:name":"Paega-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949830
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f16e4a9d7b1fcbe41ef02754c835c4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748111,
+            "locality_id":1327353899,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327353899,
+    "wof:lastmodified":1536794508,
+    "wof:name":"Paega-dong",
+    "wof:parent_id":1108748111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.21944,
+    38.89833,
+    126.21944,
+    38.89833
+],
+  "geometry": {"coordinates":[126.21944000000001,38.89833],"type":"Point"}
+}

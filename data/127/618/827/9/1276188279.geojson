@@ -1,0 +1,71 @@
+{
+  "id": 1276188279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.35111,42.18111,129.35111,42.18111",
+    "geom:latitude":42.18111,
+    "geom:longitude":129.35111,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ku-dong",
+    "gn:country_code":"KP",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043270,
+    "gn:latitude":42.18111,
+    "gn:longitude":129.35111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ku-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\ub3d9",
+        "Ku-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043270
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"850356169a0c4ee41b0d9573c2c25d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747013,
+            "locality_id":1276188279,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1276188279,
+    "wof:lastmodified":1537655393,
+    "wof:name":"Ku-dong",
+    "wof:parent_id":1108747013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.35111,
+    42.18111,
+    129.35111,
+    42.18111
+],
+  "geometry": {"coordinates":[129.35111000000001,42.18111],"type":"Point"}
+}

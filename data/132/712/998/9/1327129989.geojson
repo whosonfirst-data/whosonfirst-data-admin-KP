@@ -1,0 +1,67 @@
+{
+  "id": 1327129989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.065,38.65222,126.065,38.65222",
+    "geom:latitude":38.65222,
+    "geom:longitude":126.065,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Changhwa-dong",
+    "gn:country_code":"KP",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931460,
+    "gn:latitude":38.65222,
+    "gn:longitude":126.065,
+    "gn:modification_date":"2003-03-31",
+    "gn:name":"Changhwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931460
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"eb0f97cc7a7a2c0ca1e900d8fdddf2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748117,
+            "locality_id":1327129989,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327129989,
+    "wof:lastmodified":1536617401,
+    "wof:name":"Changhwa-dong",
+    "wof:parent_id":1108748117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.065,
+    38.65222,
+    126.065,
+    38.65222
+],
+  "geometry": {"coordinates":[126.065,38.65222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243164275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.35,38.61417,125.35,38.61417",
+    "geom:latitude":38.61417,
+    "geom:longitude":125.35,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"T'an-dong",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868500,
+    "gn:latitude":38.61417,
+    "gn:longitude":125.35,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"T\u2019an-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868500
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"adfb756ad5c3863825b0503c9f01f193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747207,
+            "locality_id":1243164275,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243164275,
+    "wof:lastmodified":1536715744,
+    "wof:name":"T'an-dong",
+    "wof:parent_id":1108747207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.35,
+    38.61417,
+    125.35,
+    38.61417
+],
+  "geometry": {"coordinates":[125.34999999999999,38.61417],"type":"Point"}
+}

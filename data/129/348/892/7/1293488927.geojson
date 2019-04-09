@@ -1,0 +1,71 @@
+{
+  "id": 1293488927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.60028,40.22417,127.60028,40.22417",
+    "geom:latitude":40.22417,
+    "geom:longitude":127.60028,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hungdong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302473,
+    "gn:latitude":40.22417,
+    "gn:longitude":127.60028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"H\u016dngdong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud765\ub3d9\ub9ac",
+        "H\u016dngdong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302473
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a777e724d50e6b0be49729f15caa2c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747129,
+            "locality_id":1293488927,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293488927,
+    "wof:lastmodified":1537655806,
+    "wof:name":"Hungdong-ni",
+    "wof:parent_id":1108747129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.60028,
+    40.22417,
+    127.60028,
+    40.22417
+],
+  "geometry": {"coordinates":[127.60028,40.22417],"type":"Point"}
+}

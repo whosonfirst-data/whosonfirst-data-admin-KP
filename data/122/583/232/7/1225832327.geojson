@@ -1,0 +1,71 @@
+{
+  "id": 1225832327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.60194,40.1175,124.60194,40.1175",
+    "geom:latitude":40.1175,
+    "geom:longitude":124.60194,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kari-gol",
+    "gn:country_code":"KP",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281647,
+    "gn:latitude":40.1175,
+    "gn:longitude":124.60194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kari-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac00\ub9ac\uace8",
+        "Kari-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281647
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e2656a5a1edadef33d7e383d6801b82f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747047,
+            "locality_id":1225832327,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1225832327,
+    "wof:lastmodified":1537655742,
+    "wof:name":"Kari-gol",
+    "wof:parent_id":1108747047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.60193999999998,
+    40.1175,
+    124.60193999999998,
+    40.1175
+],
+  "geometry": {"coordinates":[124.60193999999998,40.1175],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326837215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.63278,39.99722,127.63278,39.99722",
+    "geom:latitude":39.99722,
+    "geom:longitude":127.63278,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Songho-ri",
+    "gn:country_code":"KP",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890335,
+    "gn:latitude":39.99722,
+    "gn:longitude":127.63278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Songho-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\ud638\ub9ac",
+        "Songho-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890335
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"35af3252c3c0fb096f57a6a41d7387c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747745,
+            "locality_id":1326837215,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1326837215,
+    "wof:lastmodified":1537654952,
+    "wof:name":"Songho-ri",
+    "wof:parent_id":1108747745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.63278,
+    39.99722,
+    127.63278,
+    39.99722
+],
+  "geometry": {"coordinates":[127.63278,39.99722],"type":"Point"}
+}

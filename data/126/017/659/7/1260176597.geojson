@@ -1,0 +1,74 @@
+{
+  "id": 1260176597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.95528,37.8775,125.95528,37.8775",
+    "geom:latitude":37.8775,
+    "geom:longitude":125.95528,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saeul",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871793,
+    "gn:latitude":37.8775,
+    "gn:longitude":125.95528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saeul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016cl-tong",
+        "\u014el-tong",
+        "Sae-gol",
+        "Saeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871793
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6df2bcd1685445d87eee8c3562eab400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1260176597,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1260176597,
+    "wof:lastmodified":1537654450,
+    "wof:name":"Saeul",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.95528,
+    37.8775,
+    125.95528,
+    37.8775
+],
+  "geometry": {"coordinates":[125.95528,37.8775],"type":"Point"}
+}

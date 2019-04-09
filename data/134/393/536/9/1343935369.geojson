@@ -1,0 +1,71 @@
+{
+  "id": 1343935369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.59028,39.99778,124.59028,39.99778",
+    "geom:latitude":39.99778,
+    "geom:longitude":124.59028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"T'aebong",
+    "gn:country_code":"KP",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868880,
+    "gn:latitude":39.99778,
+    "gn:longitude":124.59028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u2019aebong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\ubd09",
+        "T\u2019aebong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868880
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cbc2cc2f3208d745a92e99c407915b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747047,
+            "locality_id":1343935369,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1343935369,
+    "wof:lastmodified":1537654304,
+    "wof:name":"T'aebong",
+    "wof:parent_id":1108747047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.59028,
+    39.99778,
+    124.59028,
+    39.99778
+],
+  "geometry": {"coordinates":[124.59028000000001,39.99778],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1277045357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.28611,39.67389,126.28611,39.67389",
+    "geom:latitude":39.67389,
+    "geom:longitude":126.28611,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"T\u014fkch'\u014fn-si",
+    "gn:asciiname":"Changal-lodongjagu",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879366,
+    "gn:latitude":39.67389,
+    "gn:longitude":126.28611,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Changal-lodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uc548\ub85c\ub3d9\uc790\uad6c"
+    ],
+    "name:und_x_variant":[
+        "Namd\u014fng-nodongjagu",
+        "Changan-ni",
+        "Changal-lodongjagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879366
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5dab5aecb6e3492d3662f104dbc98a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747069,
+            "locality_id":1277045357,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1277045357,
+    "wof:lastmodified":1537654853,
+    "wof:name":"Changal-lodongjagu",
+    "wof:parent_id":1108747069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.28611,
+    39.67389,
+    126.28611,
+    39.67389
+],
+  "geometry": {"coordinates":[126.28610999999999,39.67389],"type":"Point"}
+}

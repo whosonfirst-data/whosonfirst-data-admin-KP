@@ -1,0 +1,67 @@
+{
+  "id": 1226452189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.23333,39.48333,125.23333,39.48333",
+    "geom:latitude":39.48333,
+    "geom:longitude":125.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hyonhung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876729,
+    "gn:latitude":39.48333,
+    "gn:longitude":125.23333,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Hy\u014fnh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud604\ud765\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Hy\u014fnh\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876729
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8f464db1869325728b76ce2e79bd3bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226452189,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226452189,
+    "wof:lastmodified":1537654702,
+    "wof:name":"Hyonhung-ni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.23333,
+    39.48333,
+    125.23333,
+    39.48333
+],
+  "geometry": {"coordinates":[125.23333,39.48333],"type":"Point"}
+}

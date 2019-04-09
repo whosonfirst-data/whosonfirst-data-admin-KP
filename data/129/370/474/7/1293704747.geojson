@@ -1,0 +1,74 @@
+{
+  "id": 1293704747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.75,39.53333,125.75,39.53333",
+    "geom:latitude":39.53333,
+    "geom:longitude":125.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chaejol-li",
+    "gn:country_code":"KP",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879503,
+    "gn:latitude":39.53333,
+    "gn:longitude":125.75,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chaej\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7ac\uc804\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Chaej\u014fl-li",
+        "Chaej\u014fn-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108746847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879503
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"16bad517dcc85f1aacddaf8c83f9e72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746847,
+            "locality_id":1293704747,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1293704747,
+    "wof:lastmodified":1537654860,
+    "wof:name":"Chaejol-li",
+    "wof:parent_id":1108746847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.75,
+    39.53333,
+    125.75,
+    39.53333
+],
+  "geometry": {"coordinates":[125.75,39.53333],"type":"Point"}
+}

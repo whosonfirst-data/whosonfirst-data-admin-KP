@@ -1,0 +1,79 @@
+{
+  "id": 1343638115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.6641,38.89305,125.6641,38.89305",
+    "geom:latitude":38.89305,
+    "geom:longitude":125.6641,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hogun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877144,
+    "gn:latitude":38.89305,
+    "gn:longitude":125.6641,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"H\u014fgun-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud5c8\uadfc\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\ud5c8\uad70\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "H\u014fgan-dong",
+        "H\u014fgun-dong",
+        "Heogeundong",
+        "H\u014fg\u016dn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877144
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6f259603fc1effbc3074a9f5646a294a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747815,
+            "locality_id":1343638115,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343638115,
+    "wof:lastmodified":1537654725,
+    "wof:name":"Hogun-dong",
+    "wof:parent_id":1108747815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.6641,
+    38.89305,
+    125.6641,
+    38.89305
+],
+  "geometry": {"coordinates":[125.6641,38.89305],"type":"Point"}
+}

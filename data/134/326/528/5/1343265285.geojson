@@ -1,0 +1,71 @@
+{
+  "id": 1343265285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58194,40.5975,125.58194,40.5975",
+    "geom:latitude":40.5975,
+    "geom:longitude":125.58194,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"T'aep'ung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040128,
+    "gn:latitude":40.5975,
+    "gn:longitude":125.58194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u2019aep\u2019ung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud0dc\ud48d\ub9ac",
+        "T\u2019aep\u2019ung-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040128
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"10a4042b4ee15d959ca4a1702bc41581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747225,
+            "locality_id":1343265285,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1343265285,
+    "wof:lastmodified":1537655210,
+    "wof:name":"T'aep'ung-ni",
+    "wof:parent_id":1108747225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58194,
+    40.5975,
+    125.58194,
+    40.5975
+],
+  "geometry": {"coordinates":[125.58194,40.5975],"type":"Point"}
+}

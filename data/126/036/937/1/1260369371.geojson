@@ -1,0 +1,71 @@
+{
+  "id": 1260369371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.20722,40.99611,128.20722,40.99611",
+    "geom:latitude":40.99611,
+    "geom:longitude":128.20722,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Up'o-ri",
+    "gn:country_code":"KP",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039507,
+    "gn:latitude":40.99611,
+    "gn:longitude":128.20722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Up\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6b0\ud3ec\ub9ac",
+        "Up\u2019o-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039507
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7a9d56539c9362ae511e7996cc2d5522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747049,
+            "locality_id":1260369371,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1260369371,
+    "wof:lastmodified":1537655173,
+    "wof:name":"Up'o-ri",
+    "wof:parent_id":1108747049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.20722,
+    40.99611,
+    128.20722,
+    40.99611
+],
+  "geometry": {"coordinates":[128.20722000000001,40.99611],"type":"Point"}
+}

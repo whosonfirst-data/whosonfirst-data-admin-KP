@@ -1,0 +1,67 @@
+{
+  "id": 1226628631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.8925,39.27,125.8925,39.27",
+    "geom:latitude":39.27,
+    "geom:longitude":125.8925,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chaeokkae",
+    "gn:country_code":"KP",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1929209,
+    "gn:latitude":39.27,
+    "gn:longitude":125.8925,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Chaeokkae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1929209
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ec299b24f52b762ebdd92f55ce910e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747949,
+            "locality_id":1226628631,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1226628631,
+    "wof:lastmodified":1536883585,
+    "wof:name":"Chaeokkae",
+    "wof:parent_id":1108747949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.8925,
+    39.27,
+    125.8925,
+    39.27
+],
+  "geometry": {"coordinates":[125.8925,39.27],"type":"Point"}
+}

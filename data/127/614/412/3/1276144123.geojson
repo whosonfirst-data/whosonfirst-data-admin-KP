@@ -1,0 +1,73 @@
+{
+  "id": 1276144123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.5975,38.19139,125.5975,38.19139",
+    "geom:latitude":38.19139,
+    "geom:longitude":125.5975,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ch'oltae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878575,
+    "gn:latitude":38.19139,
+    "gn:longitude":125.5975,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ch\u2019\u014fltae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucca0\ub300\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019\u014fltae-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878575
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f56d88385a6bd90ccde40620e32e91e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748009,
+            "locality_id":1276144123,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276144123,
+    "wof:lastmodified":1537654805,
+    "wof:name":"Ch'oltae-dong",
+    "wof:parent_id":1108748009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.5975,
+    38.19139000000001,
+    125.5975,
+    38.19139000000001
+],
+  "geometry": {"coordinates":[125.5975,38.19139000000001],"type":"Point"}
+}

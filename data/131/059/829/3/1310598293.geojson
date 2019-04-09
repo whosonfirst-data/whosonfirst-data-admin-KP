@@ -1,0 +1,67 @@
+{
+  "id": 1310598293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.81611,38.21278,125.81611,38.21278",
+    "geom:latitude":38.21278,
+    "geom:longitude":125.81611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Myo-dong",
+    "gn:country_code":"KP",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947352,
+    "gn:latitude":38.21278,
+    "gn:longitude":125.81611,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"Myo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947352
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c0e1a1b26e946c4db7a28f4c4e5bcadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748009,
+            "locality_id":1310598293,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310598293,
+    "wof:lastmodified":1536783610,
+    "wof:name":"Myo-dong",
+    "wof:parent_id":1108748009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.81611,
+    38.21278,
+    125.81611,
+    38.21278
+],
+  "geometry": {"coordinates":[125.81610999999999,38.21278],"type":"Point"}
+}

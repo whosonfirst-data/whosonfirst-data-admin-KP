@@ -1,0 +1,71 @@
+{
+  "id": 1243265167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.18546,40.26514,127.18546,40.26514",
+    "geom:latitude":40.26514,
+    "geom:longitude":127.18546,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Taehung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281182,
+    "gn:latitude":40.26514,
+    "gn:longitude":127.18546,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Taeh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\ud765\ub9ac",
+        "Taeh\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281182
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"03b492735f2fb076cf96dca31b23e239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746913,
+            "locality_id":1243265167,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243265167,
+    "wof:lastmodified":1537655722,
+    "wof:name":"Taehung-ni",
+    "wof:parent_id":1108746913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.18546,
+    40.26514,
+    127.18546,
+    40.26514
+],
+  "geometry": {"coordinates":[127.18546000000001,40.26514],"type":"Point"}
+}

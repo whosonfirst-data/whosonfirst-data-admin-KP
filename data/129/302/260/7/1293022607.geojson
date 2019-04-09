@@ -1,0 +1,68 @@
+{
+  "id": 1293022607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49333,37.965,126.49333,37.965",
+    "geom:latitude":37.965,
+    "geom:longitude":126.49333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Kaep'ung-gun",
+    "gn:asciiname":"Kukch'ong",
+    "gn:country_code":"KP",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875493,
+    "gn:latitude":37.965,
+    "gn:longitude":126.49333,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kukch\u2019\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875493
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f464112c8d4210bb26f242fb4ca41aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747807,
+            "locality_id":1293022607,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293022607,
+    "wof:lastmodified":1536960238,
+    "wof:name":"Kukch'ong",
+    "wof:parent_id":1108747807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49333,
+    37.965,
+    126.49333,
+    37.965
+],
+  "geometry": {"coordinates":[126.49333,37.965],"type":"Point"}
+}

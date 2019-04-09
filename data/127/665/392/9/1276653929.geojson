@@ -1,0 +1,67 @@
+{
+  "id": 1276653929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.27861,38.18833,126.27861,38.18833",
+    "geom:latitude":38.18833,
+    "geom:longitude":126.27861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tongbok",
+    "gn:country_code":"KP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947715,
+    "gn:latitude":38.18833,
+    "gn:longitude":126.27861,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Tongbok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947715
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e4b045db414471796b92c0305b6c8f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747061,
+            "locality_id":1276653929,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276653929,
+    "wof:lastmodified":1536845161,
+    "wof:name":"Tongbok",
+    "wof:parent_id":1108747061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.27861,
+    38.18833,
+    126.27861,
+    38.18833
+],
+  "geometry": {"coordinates":[126.27861,38.18833],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259705569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.60333,38.33611,125.60333,38.33611",
+    "geom:latitude":38.33611,
+    "geom:longitude":125.60333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Paengman",
+    "gn:country_code":"KP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926697,
+    "gn:latitude":38.33611,
+    "gn:longitude":125.60333,
+    "gn:modification_date":"2002-02-19",
+    "gn:name":"Paengman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926697
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"18d1510677fd008564fdca4c4a271797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747123,
+            "locality_id":1259705569,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259705569,
+    "wof:lastmodified":1537033846,
+    "wof:name":"Paengman",
+    "wof:parent_id":1108747123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.60333,
+    38.33611,
+    125.60333,
+    38.33611
+],
+  "geometry": {"coordinates":[125.60333,38.33611],"type":"Point"}
+}

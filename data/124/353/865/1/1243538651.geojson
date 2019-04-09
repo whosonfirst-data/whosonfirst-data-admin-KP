@@ -1,0 +1,67 @@
+{
+  "id": 1243538651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.14194,38.54,127.14194,38.54",
+    "geom:latitude":38.54,
+    "geom:longitude":127.14194,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Myolchon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889447,
+    "gn:latitude":38.54,
+    "gn:longitude":127.14194,
+    "gn:modification_date":"2002-02-20",
+    "gn:name":"My\u014flch\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889447
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a3173f0f3e06f180c8b87f24a55ab4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747947,
+            "locality_id":1243538651,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1243538651,
+    "wof:lastmodified":1536672632,
+    "wof:name":"Myolchon-dong",
+    "wof:parent_id":1108747947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.14194,
+    38.54,
+    127.14194,
+    38.54
+],
+  "geometry": {"coordinates":[127.14194000000001,38.54],"type":"Point"}
+}

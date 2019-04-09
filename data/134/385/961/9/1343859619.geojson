@@ -1,0 +1,71 @@
+{
+  "id": 1343859619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.24583,39.58528,127.24583,39.58528",
+    "geom:latitude":39.58528,
+    "geom:longitude":127.24583,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tokch'i-gol",
+    "gn:country_code":"KP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932191,
+    "gn:latitude":39.58528,
+    "gn:longitude":127.24583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u014fkch\u2019i-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub355\uce58\uace8",
+        "T\u014fkch\u2019i-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932191
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b783d4349be4dedd8fdd18893b8da8e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1343859619,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1343859619,
+    "wof:lastmodified":1537655077,
+    "wof:name":"Tokch'i-gol",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.24583,
+    39.58528,
+    127.24583,
+    39.58528
+],
+  "geometry": {"coordinates":[127.24583,39.58528],"type":"Point"}
+}

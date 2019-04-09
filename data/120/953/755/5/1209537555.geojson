@@ -1,0 +1,61 @@
+{
+  "id": 1209537555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.12306,38.64861,125.12306,38.64861",
+    "geom:latitude":38.64861,
+    "geom:longitude":125.12306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Naejon-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873973,
+    "gn:latitude":38.64861,
+    "gn:longitude":125.12306,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Naej\u014fn-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873973
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a0dca4c3060ac0e73953e7de2ac39361",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209537555
+        }
+    ],
+    "wof:id":1209537555,
+    "wof:lastmodified":1536284091,
+    "wof:name":"Naejon-ch'on",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.12306,
+    38.64861,
+    125.12306,
+    38.64861
+],
+  "geometry": {"coordinates":[125.12306,38.64861],"type":"Point"}
+}

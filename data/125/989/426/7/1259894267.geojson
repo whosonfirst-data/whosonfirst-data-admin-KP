@@ -1,0 +1,71 @@
+{
+  "id": 1259894267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.96667,40.66667,127.96667,40.66667",
+    "geom:latitude":40.66667,
+    "geom:longitude":127.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ch'orhwan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044615,
+    "gn:latitude":40.66667,
+    "gn:longitude":127.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019\u014frhwan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019\u014frhwan-gol",
+        "Ch\u2019\u014frhwan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044615
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ad3be1b8582f892282ceb6c07a159d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746959,
+            "locality_id":1259894267,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1259894267,
+    "wof:lastmodified":1537655469,
+    "wof:name":"Ch'orhwan-dong",
+    "wof:parent_id":1108746959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.96667,
+    40.66667,
+    127.96667,
+    40.66667
+],
+  "geometry": {"coordinates":[127.96666999999999,40.66667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243551565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.27444,38.28889,125.27444,38.28889",
+    "geom:latitude":38.28889,
+    "geom:longitude":125.27444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ch'imgyo",
+    "gn:country_code":"KP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878842,
+    "gn:latitude":38.28889,
+    "gn:longitude":125.27444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019imgyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uce68\uad50"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019imgyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878842
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"53a18f09d385c69829318ec5c7080c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747109,
+            "locality_id":1243551565,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243551565,
+    "wof:lastmodified":1537654821,
+    "wof:name":"Ch'imgyo",
+    "wof:parent_id":1108747109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.27443999999998,
+    38.28889,
+    125.27443999999998,
+    38.28889
+],
+  "geometry": {"coordinates":[125.27443999999998,38.28889],"type":"Point"}
+}

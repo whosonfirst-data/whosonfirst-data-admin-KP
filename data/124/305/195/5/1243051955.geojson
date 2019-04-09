@@ -1,0 +1,73 @@
+{
+  "id": 1243051955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.37444,38.73944,127.37444,38.73944",
+    "geom:latitude":38.73944,
+    "geom:longitude":127.37444,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Sep\u2019o-gun",
+    "gn:asciiname":"Sambang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871581,
+    "gn:latitude":38.73944,
+    "gn:longitude":127.37444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sambang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samb\u014d-ri",
+        "Sampori",
+        "Sambang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871581
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1740d385a8f779511970d246d7509c35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747119,
+            "locality_id":1243051955,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1243051955,
+    "wof:lastmodified":1537654435,
+    "wof:name":"Sambang-ni",
+    "wof:parent_id":1108747119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.37444,
+    38.73944,
+    127.37444,
+    38.73944
+],
+  "geometry": {"coordinates":[127.37444000000001,38.73944],"type":"Point"}
+}

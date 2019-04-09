@@ -1,0 +1,72 @@
+{
+  "id": 1293880703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.44333,37.9625,126.44333,37.9625",
+    "geom:latitude":37.9625,
+    "geom:longitude":126.44333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Kaep'ung-gun",
+    "gn:asciiname":"Hanmul-gol",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877356,
+    "gn:latitude":37.9625,
+    "gn:longitude":126.44333,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Hanmul-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019\u016dnumul-gol",
+        "Hanmul-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877356
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c2b22419c37af7cff34c7800bf851333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747805,
+            "locality_id":1293880703,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293880703,
+    "wof:lastmodified":1537654737,
+    "wof:name":"Hanmul-gol",
+    "wof:parent_id":1108747805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.44333,
+    37.9625,
+    126.44333,
+    37.9625
+],
+  "geometry": {"coordinates":[126.44333,37.9625],"type":"Point"}
+}

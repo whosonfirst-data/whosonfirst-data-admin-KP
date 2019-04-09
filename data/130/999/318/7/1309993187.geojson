@@ -1,0 +1,75 @@
+{
+  "id": 1309993187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.55,39.9,125.55,39.9",
+    "geom:latitude":39.9,
+    "geom:longitude":125.55,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Haktang-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877475,
+    "gn:latitude":39.9,
+    "gn:longitude":125.55,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Haktang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\ub2f9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Hakt\u2019ang-dong",
+        "Haktang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877475
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7b44ab03744d16af806710324a1ce853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747183,
+            "locality_id":1309993187,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1309993187,
+    "wof:lastmodified":1537654744,
+    "wof:name":"Haktang-ni",
+    "wof:parent_id":1108747183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.55,
+    39.9,
+    125.55,
+    39.9
+],
+  "geometry": {"coordinates":[125.55,39.9],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343275103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79417,41.38389,126.79417,41.38389",
+    "geom:latitude":41.38389,
+    "geom:longitude":126.79417,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sangjugam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2054565,
+    "gn:latitude":41.38389,
+    "gn:longitude":126.79417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangjugam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uc8fd\uc554\ub3d9",
+        "Sangjugam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2054565
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"34493bd731819276a26222015591cfaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747767,
+            "locality_id":1343275103,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1343275103,
+    "wof:lastmodified":1537655630,
+    "wof:name":"Sangjugam-dong",
+    "wof:parent_id":1108747767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79417,
+    41.38389,
+    126.79417,
+    41.38389
+],
+  "geometry": {"coordinates":[126.79416999999999,41.38389],"type":"Point"}
+}

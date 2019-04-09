@@ -1,0 +1,71 @@
+{
+  "id": 1293299131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.10749,40.33583,128.10749,40.33583",
+    "geom:latitude":40.33583,
+    "geom:longitude":128.10749,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ch'unp'yong",
+    "gn:country_code":"KP",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050022,
+    "gn:latitude":40.33583,
+    "gn:longitude":128.10749,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019unp\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019unp\u2019y\u014fng",
+        "\ucd98\ud3c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050022
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"46226fef3173673e4d63ab37e5df96a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747193,
+            "locality_id":1293299131,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293299131,
+    "wof:lastmodified":1537655586,
+    "wof:name":"Ch'unp'yong",
+    "wof:parent_id":1108747193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.10748999999998,
+    40.33583,
+    128.10748999999998,
+    40.33583
+],
+  "geometry": {"coordinates":[128.10748999999998,40.33583],"type":"Point"}
+}

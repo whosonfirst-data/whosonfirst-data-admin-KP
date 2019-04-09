@@ -1,0 +1,73 @@
+{
+  "id": 1276438829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.7925,38.5325,124.7925,38.5325",
+    "geom:latitude":38.5325,
+    "geom:longitude":124.7925,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Polch'i-dong",
+    "gn:country_code":"KP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872516,
+    "gn:latitude":38.5325,
+    "gn:longitude":124.7925,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u014flch\u2019i-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nach\u2019i-dong",
+        "P\u014flchae-dong",
+        "\ubc8c\uce58\ub3d9",
+        "P\u014flch\u2019i-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872516
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5f0eed5ac280a547db0e6095541f561b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746993,
+            "locality_id":1276438829,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276438829,
+    "wof:lastmodified":1537654485,
+    "wof:name":"Polch'i-dong",
+    "wof:parent_id":1108746993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.7925,
+    38.5325,
+    124.7925,
+    38.5325
+],
+  "geometry": {"coordinates":[124.7925,38.5325],"type":"Point"}
+}

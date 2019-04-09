@@ -1,0 +1,70 @@
+{
+  "id": 1259889677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.36667,39.75,125.36667,39.75",
+    "geom:latitude":39.75,
+    "geom:longitude":125.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Haksong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877480,
+    "gn:latitude":39.75,
+    "gn:longitude":125.36667,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Haksong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\uc1a1\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877480
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fade1eaf5adff84562392c6cbbc0fd7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747793,
+            "locality_id":1259889677,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259889677,
+    "wof:lastmodified":1537654745,
+    "wof:name":"Haksong-ni",
+    "wof:parent_id":1108747793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.36667,
+    39.75,
+    125.36667,
+    39.75
+],
+  "geometry": {"coordinates":[125.36667,39.75],"type":"Point"}
+}

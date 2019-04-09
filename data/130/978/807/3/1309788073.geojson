@@ -1,0 +1,70 @@
+{
+  "id": 1309788073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.28944,39.33389,126.28944,39.33389",
+    "geom:latitude":39.33389,
+    "geom:longitude":126.28944,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ssangnim-ni",
+    "gn:country_code":"KP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869156,
+    "gn:latitude":39.33389,
+    "gn:longitude":126.28944,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Ssangnim-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc30d\ub9bc\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869156
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f3efa6705b365a95da9acd18a7e9fd6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747149,
+            "locality_id":1309788073,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1309788073,
+    "wof:lastmodified":1537654316,
+    "wof:name":"Ssangnim-ni",
+    "wof:parent_id":1108747149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.28943999999998,
+    39.33389,
+    126.28943999999998,
+    39.33389
+],
+  "geometry": {"coordinates":[126.28943999999998,39.33389],"type":"Point"}
+}

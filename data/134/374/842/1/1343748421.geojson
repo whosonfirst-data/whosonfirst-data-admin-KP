@@ -1,0 +1,68 @@
+{
+  "id": 1343748421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.08194,38.84722,126.08194,38.84722",
+    "geom:latitude":38.84722,
+    "geom:longitude":126.08194,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Sangw\u014fn-gun",
+    "gn:asciiname":"Ach'iul",
+    "gn:country_code":"KP",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949957,
+    "gn:latitude":38.84722,
+    "gn:longitude":126.08194,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Ach\u2019iul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949957
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5c915bd5f337b9f2bb5f145e3ff91e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":1343748421,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343748421,
+    "wof:lastmodified":1536827348,
+    "wof:name":"Ach'iul",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.08194,
+    38.84722,
+    126.08194,
+    38.84722
+],
+  "geometry": {"coordinates":[126.08194,38.84722],"type":"Point"}
+}

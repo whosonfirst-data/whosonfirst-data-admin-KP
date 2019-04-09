@@ -1,0 +1,82 @@
+{
+  "id": 1277063007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.63437,39.05155,125.63437,39.05155",
+    "geom:latitude":39.05155,
+    "geom:longitude":125.63437,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ryongsan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866113,
+    "gn:latitude":39.05155,
+    "gn:longitude":125.63437,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ryongsan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc0b0\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "\ub8e1\uc0b0\ub3d9",
+        "\uc6a9\uc0b0\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fncho\u2019n-ni",
+        "Yongsan-ni",
+        "Yongsal-li",
+        "Ryongsan-dong",
+        "Yongsalli",
+        "Yongsandong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866113
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5ea94a8631505798e2395c67252ac170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1277063007,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1277063007,
+    "wof:lastmodified":1537654166,
+    "wof:name":"Ryongsan-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.63437,
+    39.05155,
+    125.63437,
+    39.05155
+],
+  "geometry": {"coordinates":[125.63437,39.05155],"type":"Point"}
+}

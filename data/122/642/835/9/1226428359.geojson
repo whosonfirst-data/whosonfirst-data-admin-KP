@@ -1,0 +1,76 @@
+{
+  "id": 1226428359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71444,38.8675,126.71444,38.8675",
+    "geom:latitude":38.8675,
+    "geom:longitude":126.71444,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mundok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874221,
+    "gn:latitude":38.8675,
+    "gn:longitude":126.71444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mund\u014fk-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb38\ub355\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Mund\u014fk-tong"
+    ],
+    "name:und_x_variant":[
+        "Buntoku-d\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874221
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"38dc8c2be848524640e34c4aa1a5857b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748001,
+            "locality_id":1226428359,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226428359,
+    "wof:lastmodified":1537654566,
+    "wof:name":"Mundok-tong",
+    "wof:parent_id":1108748001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71444,
+    38.8675,
+    126.71444,
+    38.8675
+],
+  "geometry": {"coordinates":[126.71444,38.8675],"type":"Point"}
+}

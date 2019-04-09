@@ -1,0 +1,67 @@
+{
+  "id": 1293777977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8,38.48028,126.8,38.48028",
+    "geom:latitude":38.48028,
+    "geom:longitude":126.8,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Myo-gol",
+    "gn:country_code":"KP",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931188,
+    "gn:latitude":38.48028,
+    "gn:longitude":126.8,
+    "gn:modification_date":"2003-03-04",
+    "gn:name":"Myo-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931188
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"abfb327d25c30f01f6c0137f3e5b3d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746905,
+            "locality_id":1293777977,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1293777977,
+    "wof:lastmodified":1536864050,
+    "wof:name":"Myo-gol",
+    "wof:parent_id":1108746905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8,
+    38.48028,
+    126.8,
+    38.48028
+],
+  "geometry": {"coordinates":[126.8,38.48028],"type":"Point"}
+}

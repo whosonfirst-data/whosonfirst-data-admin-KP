@@ -1,0 +1,73 @@
+{
+  "id": 1242863503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34972,39.2875,127.34972,39.2875",
+    "geom:latitude":39.2875,
+    "geom:longitude":127.34972,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Munch\u2019\u014fn-si",
+    "gn:asciiname":"Ongnyu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873159,
+    "gn:latitude":39.2875,
+    "gn:longitude":127.34972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ongnyu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogyu-dong",
+        "Ongnyu-dong",
+        "\uc625\ub958\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873159
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"143868c148f1d81f189c6cd723c90c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747009,
+            "locality_id":1242863503,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1242863503,
+    "wof:lastmodified":1537654519,
+    "wof:name":"Ongnyu-dong",
+    "wof:parent_id":1108747009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34972,
+    39.2875,
+    127.34972,
+    39.2875
+],
+  "geometry": {"coordinates":[127.34972,39.2875],"type":"Point"}
+}

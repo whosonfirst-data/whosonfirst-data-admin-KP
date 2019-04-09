@@ -1,0 +1,75 @@
+{
+  "id": 1242858419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.02722,38.69306,128.02722,38.69306",
+    "geom:latitude":38.69306,
+    "geom:longitude":128.02722,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Pyoruguji",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871851,
+    "gn:latitude":38.69306,
+    "gn:longitude":128.02722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Py\u014fruguji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u014fn-dong",
+        "Py\u014fru-gol",
+        "Py\u014fru-kuji",
+        "\ubcbc\ub8e8\uad6c\uc9c0",
+        "Py\u014fruguji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871851
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b665336bd2aba5f0ef17892fcaf01e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747853,
+            "locality_id":1242858419,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1242858419,
+    "wof:lastmodified":1537654453,
+    "wof:name":"Pyoruguji",
+    "wof:parent_id":1108747853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.02722,
+    38.69306,
+    128.02722,
+    38.69306
+],
+  "geometry": {"coordinates":[128.02722,38.69306],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226456827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4,38.33333,127.4,38.33333",
+    "geom:latitude":38.33333,
+    "geom:longitude":127.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tup'o-dong",
+    "gn:country_code":"KP",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867516,
+    "gn:latitude":38.33333,
+    "gn:longitude":127.4,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tup\u2019o-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ud3ec\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Toho-do",
+        "Tup\u2019o-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673181,
+        890473557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867516
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ace0874c94169dca5d1e881f1561113e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473557,
+            "locality_id":1226456827,
+            "region_id":85673181
+        }
+    ],
+    "wof:id":1226456827,
+    "wof:lastmodified":1537654235,
+    "wof:name":"Tup'o-dong",
+    "wof:parent_id":890473557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4,
+    38.33333,
+    127.4,
+    38.33333
+],
+  "geometry": {"coordinates":[127.40000000000001,38.33333],"type":"Point"}
+}

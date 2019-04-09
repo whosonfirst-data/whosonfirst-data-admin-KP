@@ -1,0 +1,70 @@
+{
+  "id": 1243181965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.46667,38.9,125.46667,38.9",
+    "geom:latitude":38.9,
+    "geom:longitude":125.46667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Porim-ni",
+    "gn:country_code":"KP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872285,
+    "gn:latitude":38.9,
+    "gn:longitude":125.46667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Porim-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf4\ub9bc\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108746951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872285
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e9e6d69ee68ae990581ecbe3d0a82f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746951,
+            "locality_id":1243181965,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1243181965,
+    "wof:lastmodified":1537654474,
+    "wof:name":"Porim-ni",
+    "wof:parent_id":1108746951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.46667,
+    38.9,
+    125.46667,
+    38.9
+],
+  "geometry": {"coordinates":[125.46666999999999,38.9],"type":"Point"}
+}

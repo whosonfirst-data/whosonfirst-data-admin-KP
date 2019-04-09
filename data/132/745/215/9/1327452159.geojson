@@ -1,0 +1,73 @@
+{
+  "id": 1327452159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.69917,38.76444,127.69917,38.76444",
+    "geom:latitude":38.76444,
+    "geom:longitude":127.69917,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tuhodong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882447,
+    "gn:latitude":38.76444,
+    "gn:longitude":127.69917,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tuh\u014fdong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub450\ud5c8\ub3d9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Tuh\u014fdong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882447
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6b4e5fe70536eb9f4efd3993803156ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746887,
+            "locality_id":1327452159,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1327452159,
+    "wof:lastmodified":1537654880,
+    "wof:name":"Tuhodong-ni",
+    "wof:parent_id":1108746887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.69917,
+    38.76444,
+    127.69917,
+    38.76444
+],
+  "geometry": {"coordinates":[127.69917,38.76444],"type":"Point"}
+}

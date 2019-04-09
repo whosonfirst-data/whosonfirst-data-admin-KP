@@ -1,0 +1,72 @@
+{
+  "id": 1327299569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.63139,42.32611,130.63139,42.32611",
+    "geom:latitude":42.32611,
+    "geom:longitude":130.63139,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hwangop'o",
+    "gn:country_code":"KP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043903,
+    "gn:latitude":42.32611,
+    "gn:longitude":130.63139,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Hwang\u014fp\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud669\uc5b4\ud3ec",
+        "Hwang\u014fp\u2019o",
+        "Hwangeopo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676647,
+        1108747091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043903
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2342cdf1d4a92993188cd5f7ebd9d9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747091,
+            "locality_id":1327299569,
+            "region_id":85676647
+        }
+    ],
+    "wof:id":1327299569,
+    "wof:lastmodified":1537655426,
+    "wof:name":"Hwangop'o",
+    "wof:parent_id":1108747091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.63138999999998,
+    42.32611,
+    130.63138999999998,
+    42.32611
+],
+  "geometry": {"coordinates":[130.63138999999998,42.32611],"type":"Point"}
+}

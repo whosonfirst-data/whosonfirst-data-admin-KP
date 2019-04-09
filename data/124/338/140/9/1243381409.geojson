@@ -1,0 +1,67 @@
+{
+  "id": 1243381409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.28333,38.45,127.28333,38.45",
+    "geom:latitude":38.45,
+    "geom:longitude":127.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sangsan-ni",
+    "gn:country_code":"KP",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871057,
+    "gn:latitude":38.45,
+    "gn:longitude":127.28333,
+    "gn:modification_date":"2004-09-07",
+    "gn:name":"Sangsan-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871057
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7314af1f41700a20ee313bc8350a5ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747947,
+            "locality_id":1243381409,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1243381409,
+    "wof:lastmodified":1536899371,
+    "wof:name":"Sangsan-ni",
+    "wof:parent_id":1108747947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.28333,
+    38.45,
+    127.28333,
+    38.45
+],
+  "geometry": {"coordinates":[127.28333000000001,38.45],"type":"Point"}
+}

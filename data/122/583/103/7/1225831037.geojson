@@ -1,0 +1,67 @@
+{
+  "id": 1225831037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17139,38.6775,126.17139,38.6775",
+    "geom:latitude":38.6775,
+    "geom:longitude":126.17139,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chindae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931470,
+    "gn:latitude":38.6775,
+    "gn:longitude":126.17139,
+    "gn:modification_date":"2003-03-31",
+    "gn:name":"Chindae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931470
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9b5953591d779de62eced82aaf1a40d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748117,
+            "locality_id":1225831037,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1225831037,
+    "wof:lastmodified":1537033441,
+    "wof:name":"Chindae-dong",
+    "wof:parent_id":1108748117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17139,
+    38.6775,
+    126.17139,
+    38.6775
+],
+  "geometry": {"coordinates":[126.17139,38.6775],"type":"Point"}
+}

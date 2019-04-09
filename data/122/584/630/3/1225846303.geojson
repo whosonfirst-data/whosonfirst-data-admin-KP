@@ -1,0 +1,71 @@
+{
+  "id": 1225846303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.99139,40.56806,128.99139,40.56806",
+    "geom:latitude":40.56806,
+    "geom:longitude":128.99139,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hadunjich'on",
+    "gn:country_code":"KP",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6272291,
+    "gn:latitude":40.56806,
+    "gn:longitude":128.99139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hadunjich\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\ub454\uc9c0\ucd0c",
+        "Hadunjich\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6272291
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"00fa0e8edb1eea3ec33fd0f04548f944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1225846303,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1225846303,
+    "wof:lastmodified":1537655668,
+    "wof:name":"Hadunjich'on",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.99139,
+    40.56806,
+    128.99139,
+    40.56806
+],
+  "geometry": {"coordinates":[128.99139,40.56806],"type":"Point"}
+}

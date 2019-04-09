@@ -1,0 +1,70 @@
+{
+  "id": 1276323069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.10583,39.02111,127.10583,39.02111",
+    "geom:latitude":39.02111,
+    "geom:longitude":127.10583,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yangmal",
+    "gn:country_code":"KP",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367398,
+    "gn:latitude":39.02111,
+    "gn:longitude":127.10583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yangmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367398
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fbafc3c4445fe31004a9046dba8ccd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747065,
+            "locality_id":1276323069,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1276323069,
+    "wof:lastmodified":1537655916,
+    "wof:name":"Yangmal",
+    "wof:parent_id":1108747065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.10583,
+    39.02111,
+    127.10583,
+    39.02111
+],
+  "geometry": {"coordinates":[127.10583,39.02111],"type":"Point"}
+}

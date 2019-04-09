@@ -1,0 +1,71 @@
+{
+  "id": 1310276085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.77056,40.43417,127.77056,40.43417",
+    "geom:latitude":40.43417,
+    "geom:longitude":127.77056,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sokchang",
+    "gn:country_code":"KP",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302424,
+    "gn:latitude":40.43417,
+    "gn:longitude":127.77056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fkchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11d\uc7a5",
+        "S\u014fkchang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302424
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c95f4e875f0f0808fa99cf69a5d2b821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746959,
+            "locality_id":1310276085,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1310276085,
+    "wof:lastmodified":1537655803,
+    "wof:name":"Sokchang",
+    "wof:parent_id":1108746959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.77056,
+    40.43417,
+    127.77056,
+    40.43417
+],
+  "geometry": {"coordinates":[127.77056,40.43417],"type":"Point"}
+}

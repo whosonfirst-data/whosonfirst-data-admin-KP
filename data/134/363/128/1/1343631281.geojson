@@ -1,0 +1,73 @@
+{
+  "id": 1343631281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.46083,39.3425,126.46083,39.3425",
+    "geom:latitude":39.3425,
+    "geom:longitude":126.46083,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Paembatch'i",
+    "gn:country_code":"KP",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889517,
+    "gn:latitude":39.3425,
+    "gn:longitude":126.46083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paembatch\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc40\ubc2d\uce58"
+    ],
+    "name:kor_x_variant":[
+        "Paembatch\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889517
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e4d0c4a5d2ed9689307983a3cec03005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747141,
+            "locality_id":1343631281,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1343631281,
+    "wof:lastmodified":1537654930,
+    "wof:name":"Paembatch'i",
+    "wof:parent_id":1108747141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.46083,
+    39.3425,
+    126.46083,
+    39.3425
+],
+  "geometry": {"coordinates":[126.46083,39.3425],"type":"Point"}
+}

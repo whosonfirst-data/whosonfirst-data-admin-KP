@@ -1,0 +1,73 @@
+{
+  "id": 1293781061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.14083,37.98722,126.14083,37.98722",
+    "geom:latitude":37.98722,
+    "geom:longitude":126.14083,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hungnim-ni",
+    "gn:country_code":"KP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877014,
+    "gn:latitude":37.98722,
+    "gn:longitude":126.14083,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"H\u016dngnim-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud765\ub9bc\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "H\u016dngnim-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877014
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4e42b4a7503268eb030dffd94b9e2e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1293781061,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293781061,
+    "wof:lastmodified":1537654718,
+    "wof:name":"Hungnim-ni",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.14083,
+    37.98722,
+    126.14083,
+    37.98722
+],
+  "geometry": {"coordinates":[126.14082999999999,37.98722],"type":"Point"}
+}

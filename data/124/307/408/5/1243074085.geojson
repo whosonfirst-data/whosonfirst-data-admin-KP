@@ -1,0 +1,71 @@
+{
+  "id": 1243074085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.46611,39.66917,127.46611,39.66917",
+    "geom:latitude":39.66917,
+    "geom:longitude":127.46611,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Soran",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932020,
+    "gn:latitude":39.66917,
+    "gn:longitude":127.46611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Soran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc194\uc548",
+        "Soran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932020
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8bac7811f346e124187df0778944da5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747795,
+            "locality_id":1243074085,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243074085,
+    "wof:lastmodified":1537655067,
+    "wof:name":"Soran",
+    "wof:parent_id":1108747795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.46611,
+    39.66917,
+    127.46611,
+    39.66917
+],
+  "geometry": {"coordinates":[127.46611,39.66917],"type":"Point"}
+}

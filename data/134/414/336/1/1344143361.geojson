@@ -1,0 +1,74 @@
+{
+  "id": 1344143361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.6525,38.83667,125.6525,38.83667",
+    "geom:latitude":38.83667,
+    "geom:longitude":125.6525,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"P'yongjong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871906,
+    "gn:latitude":38.83667,
+    "gn:longitude":125.6525,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"P\u2019y\u014fngj\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\uc815\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "P\u2019y\u014fngj\u014fng-ni",
+        "Pyeongjeongni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871906
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fc538b8cee39d8ae06c94edd3663fc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1344143361,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1344143361,
+    "wof:lastmodified":1537654456,
+    "wof:name":"P'yongjong-ni",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.6525,
+    38.83667,
+    125.6525,
+    38.83667
+],
+  "geometry": {"coordinates":[125.6525,38.83667],"type":"Point"}
+}

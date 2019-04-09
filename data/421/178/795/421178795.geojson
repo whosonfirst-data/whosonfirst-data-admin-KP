@@ -1,0 +1,82 @@
+{
+  "id": 421178795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.60611,41.58778,129.60611,41.58778",
+    "geom:latitude":41.58778,
+    "geom:longitude":129.60611,
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Chu\u016dronjang"
+    ],
+    "qs:gn_country":"KP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2042987,
+    "qs:gn_pop":35604,
+    "qs:name":"Kyongsong",
+    "qs:name_adm0":"North Korea",
+    "qs:name_adm1":"Hamgyong-bukto",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":137851,
+    "qs:woe_adm0":23424865,
+    "qs:woe_id":1093905,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042987,
+        "gp:id":1093905,
+        "qs:id":137851
+    },
+    "wof:country":"KP",
+    "wof:created":1459009193,
+    "wof:geomhash":"d82037db80349f69f6855d046ecc9928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747001,
+            "locality_id":421178795,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":421178795,
+    "wof:lastmodified":1505340639,
+    "wof:name":"Kyongsong",
+    "wof:parent_id":1108747001,
+    "wof:placetype":"locality",
+    "wof:population":35604,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.60611,
+    41.58778,
+    129.60611,
+    41.58778
+],
+  "geometry": {"coordinates":[129.60611,41.58778],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327426145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.89833,37.87861,125.89833,37.87861",
+    "geom:latitude":37.87861,
+    "geom:longitude":125.89833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Changsaenggol",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879094,
+    "gn:latitude":37.87861,
+    "gn:longitude":125.89833,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Changsaenggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uc0dd\uace8"
+    ],
+    "name:und_x_variant":[
+        "Changsaeng-dong",
+        "Changsaenggol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879094
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b6f7feceb89b636edcd09c95a31a9888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1327426145,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1327426145,
+    "wof:lastmodified":1537654836,
+    "wof:name":"Changsaenggol",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.89833,
+    37.87861,
+    125.89833,
+    37.87861
+],
+  "geometry": {"coordinates":[125.89833,37.87861],"type":"Point"}
+}

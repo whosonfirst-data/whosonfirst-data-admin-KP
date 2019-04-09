@@ -1,0 +1,67 @@
+{
+  "id": 1310001333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82417,38.40472,126.82417,38.40472",
+    "geom:latitude":38.40472,
+    "geom:longitude":126.82417,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sagyon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931224,
+    "gn:latitude":38.40472,
+    "gn:longitude":126.82417,
+    "gn:modification_date":"2003-03-04",
+    "gn:name":"Sagy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931224
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5eae7ece5e51b6010b8363875e13c69d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746905,
+            "locality_id":1310001333,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1310001333,
+    "wof:lastmodified":1536649054,
+    "wof:name":"Sagyon-dong",
+    "wof:parent_id":1108746905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82417,
+    38.40472000000001,
+    126.82417,
+    38.40472000000001
+],
+  "geometry": {"coordinates":[126.82417,38.40472000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259986153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.4575,40.8125,128.4575,40.8125",
+    "geom:latitude":40.8125,
+    "geom:longitude":128.4575,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Suram-ni",
+    "gn:country_code":"KP",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040291,
+    "gn:latitude":40.8125,
+    "gn:longitude":128.4575,
+    "gn:modification_date":"2000-11-02",
+    "gn:name":"S\u016dram-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040291
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"664760399473c538333d12c03ca4f2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746881,
+            "locality_id":1259986153,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259986153,
+    "wof:lastmodified":1536629558,
+    "wof:name":"Suram-ni",
+    "wof:parent_id":1108746881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.4575,
+    40.8125,
+    128.4575,
+    40.8125
+],
+  "geometry": {"coordinates":[128.45750000000001,40.8125],"type":"Point"}
+}

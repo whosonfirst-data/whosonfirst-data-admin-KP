@@ -1,0 +1,71 @@
+{
+  "id": 1226537083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.19083,38.16222,125.19083,38.16222",
+    "geom:latitude":38.16222,
+    "geom:longitude":125.19083,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tongch'on-dong",
+    "gn:country_code":"KP",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867933,
+    "gn:latitude":38.16222,
+    "gn:longitude":125.19083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tongch\u2019on-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3d9\ucd0c\ub3d9",
+        "Tongch\u2019on-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867933
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f028cbcef1d4e6f7a9036d0716f10c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747185,
+            "locality_id":1226537083,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1226537083,
+    "wof:lastmodified":1537654256,
+    "wof:name":"Tongch'on-dong",
+    "wof:parent_id":1108747185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.19083,
+    38.16222,
+    125.19083,
+    38.16222
+],
+  "geometry": {"coordinates":[125.19083000000001,38.16222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343446889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.77722,38.3875,125.77722,38.3875",
+    "geom:latitude":38.3875,
+    "geom:longitude":125.77722,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"P'yongme",
+    "gn:country_code":"KP",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926383,
+    "gn:latitude":38.3875,
+    "gn:longitude":125.77722,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"P\u2019y\u014fngme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926383
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0f30561a707727b72f77adeb4c2445d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747217,
+            "locality_id":1343446889,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343446889,
+    "wof:lastmodified":1536766268,
+    "wof:name":"P'yongme",
+    "wof:parent_id":1108747217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.77722,
+    38.3875,
+    125.77722,
+    38.3875
+],
+  "geometry": {"coordinates":[125.77722,38.3875],"type":"Point"}
+}

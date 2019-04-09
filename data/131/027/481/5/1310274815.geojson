@@ -1,0 +1,73 @@
+{
+  "id": 1310274815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65917,39.41,126.65917,39.41",
+    "geom:latitude":39.41,
+    "geom:longitude":126.65917,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"T'osong",
+    "gn:country_code":"KP",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867623,
+    "gn:latitude":39.41,
+    "gn:longitude":126.65917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u2019os\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toj\u014d",
+        "Doj\u014d",
+        "\ud1a0\uc131",
+        "T\u2019os\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867623
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"907d657d1744cfd8c0afd317e670c9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747141,
+            "locality_id":1310274815,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1310274815,
+    "wof:lastmodified":1537654240,
+    "wof:name":"T'osong",
+    "wof:parent_id":1108747141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65917,
+    39.41,
+    126.65917,
+    39.41
+],
+  "geometry": {"coordinates":[126.65917,39.41],"type":"Point"}
+}

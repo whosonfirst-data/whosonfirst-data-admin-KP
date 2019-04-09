@@ -1,0 +1,73 @@
+{
+  "id": 1243548457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.28444,38.75694,127.28444,38.75694",
+    "geom:latitude":38.75694,
+    "geom:longitude":127.28444,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hansodok",
+    "gn:country_code":"KP",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888947,
+    "gn:latitude":38.75694,
+    "gn:longitude":127.28444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hans\u014fd\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud55c\uc11c\ub355"
+    ],
+    "name:kor_x_variant":[
+        "Hans\u014fd\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888947
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"eac4e1f5052f391e81e3308bc9a02365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747119,
+            "locality_id":1243548457,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1243548457,
+    "wof:lastmodified":1537654912,
+    "wof:name":"Hansodok",
+    "wof:parent_id":1108747119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.28444,
+    38.75694,
+    127.28444,
+    38.75694
+],
+  "geometry": {"coordinates":[127.28444,38.75694],"type":"Point"}
+}

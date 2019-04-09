@@ -1,0 +1,72 @@
+{
+  "id": 1277062413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.94583,40.80056,127.94583,40.80056",
+    "geom:latitude":40.80056,
+    "geom:longitude":127.94583,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"P'ungs\u014f-gun",
+    "gn:asciiname":"Happ'o-rodongjagu",
+    "gn:country_code":"KP",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044703,
+    "gn:latitude":40.80056,
+    "gn:longitude":127.94583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Happ\u2019o-rodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019\u014fngs\u014f-ri",
+        "Happ\u2019o-rodongjagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044703
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0a9b69bf3e036e92e191c7bb21083694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747049,
+            "locality_id":1277062413,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1277062413,
+    "wof:lastmodified":1537655473,
+    "wof:name":"Happ'o-rodongjagu",
+    "wof:parent_id":1108747049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.94583,
+    40.80056,
+    127.94583,
+    40.80056
+],
+  "geometry": {"coordinates":[127.94583,40.80056],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360264273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9,41.13333,127.9,41.13333",
+    "geom:latitude":41.13333,
+    "geom:longitude":127.9,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sinp'odong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040955,
+    "gn:latitude":41.13333,
+    "gn:longitude":127.9,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Sinp\u2019odong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ud3ec\ub3d9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Sinp\u2019odong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040955
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1802094dca89ddb0902cfbac2c76964f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747113,
+            "locality_id":1360264273,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1360264273,
+    "wof:lastmodified":1537655256,
+    "wof:name":"Sinp'odong-ni",
+    "wof:parent_id":1108747113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9,
+    41.13333,
+    127.9,
+    41.13333
+],
+  "geometry": {"coordinates":[127.90000000000001,41.13333],"type":"Point"}
+}

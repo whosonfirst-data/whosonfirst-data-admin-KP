@@ -1,0 +1,68 @@
+{
+  "id": 1309875673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57417,39.30861,125.57417,39.30861",
+    "geom:latitude":39.30861,
+    "geom:longitude":125.57417,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1871865",
+    "gn:asciiname":"Ogo-dong",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950754,
+    "gn:latitude":39.30861,
+    "gn:longitude":125.57417,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Ogo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950754
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f435b62cb82affbda0e731d800a5e0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747925,
+            "locality_id":1309875673,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1309875673,
+    "wof:lastmodified":1536829540,
+    "wof:name":"Ogo-dong",
+    "wof:parent_id":1108747925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57417,
+    39.30861,
+    125.57417,
+    39.30861
+],
+  "geometry": {"coordinates":[125.57417,39.30861],"type":"Point"}
+}

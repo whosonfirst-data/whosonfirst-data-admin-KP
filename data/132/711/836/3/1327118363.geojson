@@ -1,0 +1,73 @@
+{
+  "id": 1327118363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.44833,38.83639,127.44833,38.83639",
+    "geom:latitude":38.83639,
+    "geom:longitude":127.44833,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kilmyong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888922,
+    "gn:latitude":38.83639,
+    "gn:longitude":127.44833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kilmy\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae38\uba85\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Kilmy\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888922
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"44ae4daa589526735428b2726aa765ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746973,
+            "locality_id":1327118363,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1327118363,
+    "wof:lastmodified":1537654911,
+    "wof:name":"Kilmyong-ni",
+    "wof:parent_id":1108746973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.44833,
+    38.83639,
+    127.44833,
+    38.83639
+],
+  "geometry": {"coordinates":[127.44833,38.83639],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327013915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96361,38.43417,126.96361,38.43417",
+    "geom:latitude":38.43417,
+    "geom:longitude":126.96361,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chohyon-dong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889681,
+    "gn:latitude":38.43417,
+    "gn:longitude":126.96361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u014fhy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Changp\u2019o-dong",
+        "Ch\u014fhy\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889681
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"84adbf44746868987ca162272a28d288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746905,
+            "locality_id":1327013915,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1327013915,
+    "wof:lastmodified":1537654935,
+    "wof:name":"Chohyon-dong",
+    "wof:parent_id":1108746905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96361,
+    38.43417,
+    126.96361,
+    38.43417
+],
+  "geometry": {"coordinates":[126.96361,38.43417],"type":"Point"}
+}

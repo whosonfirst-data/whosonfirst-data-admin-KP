@@ -1,0 +1,71 @@
+{
+  "id": 1226146553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.38083,41.16333,126.38083,41.16333",
+    "geom:latitude":41.16333,
+    "geom:longitude":126.38083,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hyolp'yong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049313,
+    "gn:latitude":41.16333,
+    "gn:longitude":126.38083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hy\u014flp\u2019y\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud608\ud3c9\ub3d9",
+        "Hy\u014flp\u2019y\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049313
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ecebf2ed1d94ee6ce650f545838e0ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747007,
+            "locality_id":1226146553,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1226146553,
+    "wof:lastmodified":1537655550,
+    "wof:name":"Hyolp'yong-dong",
+    "wof:parent_id":1108747007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.38083,
+    41.16333,
+    126.38083,
+    41.16333
+],
+  "geometry": {"coordinates":[126.38083,41.16333],"type":"Point"}
+}

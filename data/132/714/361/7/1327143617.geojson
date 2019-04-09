@@ -1,0 +1,71 @@
+{
+  "id": 1327143617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.82583,40.52917,125.82583,40.52917",
+    "geom:latitude":40.52917,
+    "geom:longitude":125.82583,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Munam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049114,
+    "gn:latitude":40.52917,
+    "gn:longitude":125.82583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Munam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb38\uc554\ub9ac",
+        "Munam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049114
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fa1ae7f7b153393f3557f9ecbf60ddc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1327143617,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1327143617,
+    "wof:lastmodified":1537655540,
+    "wof:name":"Munam-ni",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.82583,
+    40.52917,
+    125.82583,
+    40.52917
+],
+  "geometry": {"coordinates":[125.82583,40.52917],"type":"Point"}
+}

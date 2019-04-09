@@ -1,0 +1,73 @@
+{
+  "id": 1276305155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.46806,39.5225,126.46806,39.5225",
+    "geom:latitude":39.5225,
+    "geom:longitude":126.46806,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chongnyo-dong",
+    "gn:country_code":"KP",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892210,
+    "gn:latitude":39.5225,
+    "gn:longitude":126.46806,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ch\u014fngny\u014f-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\ub8cc\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fngny\u014f-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892210
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"92a9bca4236ba925b6361f5ec66db2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747005,
+            "locality_id":1276305155,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1276305155,
+    "wof:lastmodified":1537655017,
+    "wof:name":"Chongnyo-dong",
+    "wof:parent_id":1108747005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.46806,
+    39.5225,
+    126.46806,
+    39.5225
+],
+  "geometry": {"coordinates":[126.46805999999999,39.5225],"type":"Point"}
+}

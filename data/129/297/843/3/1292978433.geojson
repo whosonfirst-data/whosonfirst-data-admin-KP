@@ -1,0 +1,67 @@
+{
+  "id": 1292978433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.62258,39.46414,124.62258,39.46414",
+    "geom:latitude":39.46414,
+    "geom:longitude":124.62258,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sohwado",
+    "gn:country_code":"KP",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1870032,
+    "gn:latitude":39.46414,
+    "gn:longitude":124.62258,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sohwado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kor_x_preferred":[
+        "\uc18c\ud654\ub3c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870032
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c1fabe116bce4294554c9947c53b2d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "locality_id":1292978433,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292978433,
+    "wof:lastmodified":1537654361,
+    "wof:name":"Sohwado",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.62258,
+    39.46414,
+    124.62258,
+    39.46414
+],
+  "geometry": {"coordinates":[124.62258,39.46414],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277051801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.57694,40.88583,129.57694,40.88583",
+    "geom:latitude":40.88583,
+    "geom:longitude":129.57694,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hangmyong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044213,
+    "gn:latitude":40.88583,
+    "gn:longitude":129.57694,
+    "gn:modification_date":"2006-02-23",
+    "gn:name":"Hangmy\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044213
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5776ae2e2131aeb5f2b3c6808bcda405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747763,
+            "locality_id":1277051801,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1277051801,
+    "wof:lastmodified":1536810221,
+    "wof:name":"Hangmyong-dong",
+    "wof:parent_id":1108747763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.57693999999998,
+    40.88583,
+    129.57693999999998,
+    40.88583
+],
+  "geometry": {"coordinates":[129.57693999999998,40.88583],"type":"Point"}
+}

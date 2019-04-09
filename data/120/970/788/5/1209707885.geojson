@@ -1,0 +1,67 @@
+{
+  "id": 1209707885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.26361,38.10306,126.26361,38.10306",
+    "geom:latitude":38.10306,
+    "geom:longitude":126.26361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Choyong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947652,
+    "gn:latitude":38.10306,
+    "gn:longitude":126.26361,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Choyong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947652
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c60b69d95c97b0e10f5508fd567aa8bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747061,
+            "locality_id":1209707885,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1209707885,
+    "wof:lastmodified":1536392030,
+    "wof:name":"Choyong-dong",
+    "wof:parent_id":1108747061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.26361,
+    38.10306,
+    126.26361,
+    38.10306
+],
+  "geometry": {"coordinates":[126.26361,38.10306],"type":"Point"}
+}

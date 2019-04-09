@@ -1,0 +1,76 @@
+{
+  "id": 1209888861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.65139,39.655,125.65139,39.655",
+    "geom:latitude":39.655,
+    "geom:longitude":125.65139,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"P'unghang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872083,
+    "gn:latitude":39.655,
+    "gn:longitude":125.65139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019unghang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud48d\ud56d\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019unghang-ni"
+    ],
+    "name:und_x_variant":[
+        "P\u2019ungnang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872083
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bc76605e2f4c138ca70704b798d89546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747909,
+            "locality_id":1209888861,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1209888861,
+    "wof:lastmodified":1537654465,
+    "wof:name":"P'unghang-ni",
+    "wof:parent_id":1108747909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.65139,
+    39.655,
+    125.65139,
+    39.655
+],
+  "geometry": {"coordinates":[125.65139000000001,39.655],"type":"Point"}
+}

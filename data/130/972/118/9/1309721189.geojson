@@ -1,0 +1,76 @@
+{
+  "id": 1309721189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6208,40.28704,126.6208,40.28704",
+    "geom:latitude":40.28704,
+    "geom:longitude":126.6208,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Soyang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040421,
+    "gn:latitude":40.28704,
+    "gn:longitude":126.6208,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fyang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuw\u014fn-ni",
+        "J\u016binchin",
+        "Yum\u014fnjin",
+        "Juichin",
+        "Yuw\u014fnjin",
+        "\uc11c\uc591\ub9ac",
+        "S\u014fyang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040421
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a2e9afb09f54a06cb01b4db5e6a6771f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747201,
+            "locality_id":1309721189,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1309721189,
+    "wof:lastmodified":1537655225,
+    "wof:name":"Soyang-ni",
+    "wof:parent_id":1108747201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6208,
+    40.28704000000001,
+    126.6208,
+    40.28704000000001
+],
+  "geometry": {"coordinates":[126.6208,40.28704000000001],"type":"Point"}
+}

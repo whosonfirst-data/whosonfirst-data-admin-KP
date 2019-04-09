@@ -1,0 +1,67 @@
+{
+  "id": 1242840855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.93333,42.86667,129.93333,42.86667",
+    "geom:latitude":42.86667,
+    "geom:longitude":129.93333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Songdok-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040649,
+    "gn:latitude":42.86667,
+    "gn:longitude":129.93333,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Songd\u014fk-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040649
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4f3c5cf18cb0aa34c6c5b2a0484d0e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747901,
+            "locality_id":1242840855,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1242840855,
+    "wof:lastmodified":1536684559,
+    "wof:name":"Songdok-ch'on",
+    "wof:parent_id":1108747901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.93333,
+    42.86667,
+    129.93333,
+    42.86667
+],
+  "geometry": {"coordinates":[129.93333000000001,42.86667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209186925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.21306,39.28889,126.21306,39.28889",
+    "geom:latitude":39.28889,
+    "geom:longitude":126.21306,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Won-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889817,
+    "gn:latitude":39.28889,
+    "gn:longitude":126.21306,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"W\u014fn-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "W\u014fn-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889817
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d3b48d5516c5ab0191ee1ab628ed11dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209186925
+        }
+    ],
+    "wof:id":1209186925,
+    "wof:lastmodified":1537654937,
+    "wof:name":"Won-ch'on",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.21306,
+    39.28889,
+    126.21306,
+    39.28889
+],
+  "geometry": {"coordinates":[126.21306,39.28889],"type":"Point"}
+}

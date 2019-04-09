@@ -1,0 +1,73 @@
+{
+  "id": 1360286785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.03444,39.71222,127.03444,39.71222",
+    "geom:latitude":39.71222,
+    "geom:longitude":127.03444,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mukhung-dong",
+    "gn:country_code":"KP",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367287,
+    "gn:latitude":39.71222,
+    "gn:longitude":127.03444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mukh\u016dng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubb35\ud765\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Mukh\u016dng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367287
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3af9ef567b8f41c85430e3b0db237003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748103,
+            "locality_id":1360286785,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1360286785,
+    "wof:lastmodified":1537655911,
+    "wof:name":"Mukhung-dong",
+    "wof:parent_id":1108748103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.03444,
+    39.71222,
+    127.03444,
+    39.71222
+],
+  "geometry": {"coordinates":[127.03444,39.71222],"type":"Point"}
+}

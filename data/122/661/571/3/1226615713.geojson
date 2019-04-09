@@ -1,0 +1,67 @@
+{
+  "id": 1226615713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.60556,39.1275,125.60556,39.1275",
+    "geom:latitude":39.1275,
+    "geom:longitude":125.60556,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Samgori",
+    "gn:country_code":"KP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6270020,
+    "gn:latitude":39.1275,
+    "gn:longitude":125.60556,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Samg\u014fri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6270020
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5786ffc5abd6684fa28c4976a0194d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748039,
+            "locality_id":1226615713,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1226615713,
+    "wof:lastmodified":1536902487,
+    "wof:name":"Samgori",
+    "wof:parent_id":1108748039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.60556,
+    39.1275,
+    125.60556,
+    39.1275
+],
+  "geometry": {"coordinates":[125.60556,39.1275],"type":"Point"}
+}

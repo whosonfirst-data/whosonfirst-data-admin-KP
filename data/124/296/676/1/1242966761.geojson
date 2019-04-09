@@ -1,0 +1,70 @@
+{
+  "id": 1242966761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58639,38.40472,126.58639,38.40472",
+    "geom:latitude":38.40472,
+    "geom:longitude":126.58639,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Suwang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366273,
+    "gn:latitude":38.40472,
+    "gn:longitude":126.58639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Suwang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc218\uc655\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366273
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"590af8c5f7891869a3826175f905848d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747999,
+            "locality_id":1242966761,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1242966761,
+    "wof:lastmodified":1537655872,
+    "wof:name":"Suwang-dong",
+    "wof:parent_id":1108747999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58639,
+    38.40472000000001,
+    126.58639,
+    38.40472000000001
+],
+  "geometry": {"coordinates":[126.58638999999999,38.40472000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310493885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.445,38.11361,125.445,38.11361",
+    "geom:latitude":38.11361,
+    "geom:longitude":125.445,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kunp'ojae",
+    "gn:country_code":"KP",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875194,
+    "gn:latitude":38.11361,
+    "gn:longitude":125.445,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kunp\u2019ojae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad70\ud3ec\uc7ac"
+    ],
+    "name:und_x_variant":[
+        "Kunp\u2019ojae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875194
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"22662d3a4028b3cfd021d515f65c8b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747921,
+            "locality_id":1310493885,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310493885,
+    "wof:lastmodified":1537654614,
+    "wof:name":"Kunp'ojae",
+    "wof:parent_id":1108747921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.445,
+    38.11361,
+    125.445,
+    38.11361
+],
+  "geometry": {"coordinates":[125.44499999999999,38.11361],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293105147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.97944,40.51167,128.97944,40.51167",
+    "geom:latitude":40.51167,
+    "geom:longitude":128.97944,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yangdogi",
+    "gn:country_code":"KP",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050008,
+    "gn:latitude":40.51167,
+    "gn:longitude":128.97944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yangd\u014fgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc591\ub355\uc774",
+        "Yangd\u014fgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050008
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0ca6e895253f65e0d36424aac380d574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1293105147,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293105147,
+    "wof:lastmodified":1537655585,
+    "wof:name":"Yangdogi",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.97943999999998,
+    40.51167,
+    128.97943999999998,
+    40.51167
+],
+  "geometry": {"coordinates":[128.97943999999998,40.51167],"type":"Point"}
+}

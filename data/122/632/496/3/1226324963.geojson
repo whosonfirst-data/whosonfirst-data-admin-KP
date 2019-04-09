@@ -1,0 +1,67 @@
+{
+  "id": 1226324963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.97972,39.24472,125.97972,39.24472",
+    "geom:latitude":39.24472,
+    "geom:longitude":125.97972,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Changhyon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1929360,
+    "gn:latitude":39.24472,
+    "gn:longitude":125.97972,
+    "gn:modification_date":"2002-07-12",
+    "gn:name":"Changhy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1929360
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ae458ad4c2d0fd58d019b204693f2276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747949,
+            "locality_id":1226324963,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1226324963,
+    "wof:lastmodified":1536818614,
+    "wof:name":"Changhyon-dong",
+    "wof:parent_id":1108747949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.97972,
+    39.24472,
+    125.97972,
+    39.24472
+],
+  "geometry": {"coordinates":[125.97972,39.24472],"type":"Point"}
+}

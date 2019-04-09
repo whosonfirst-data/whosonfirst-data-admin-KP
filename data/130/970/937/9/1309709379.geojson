@@ -1,0 +1,67 @@
+{
+  "id": 1309709379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.22139,38.15917,126.22139,38.15917",
+    "geom:latitude":38.15917,
+    "geom:longitude":126.22139,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kangje-dong",
+    "gn:country_code":"KP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947697,
+    "gn:latitude":38.15917,
+    "gn:longitude":126.22139,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Kangje-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947697
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"da9d3f1cd7b4828102e48cec076f00ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747061,
+            "locality_id":1309709379,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1309709379,
+    "wof:lastmodified":1537067238,
+    "wof:name":"Kangje-dong",
+    "wof:parent_id":1108747061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.22139,
+    38.15917,
+    126.22139,
+    38.15917
+],
+  "geometry": {"coordinates":[126.22139,38.15917],"type":"Point"}
+}

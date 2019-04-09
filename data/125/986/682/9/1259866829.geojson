@@ -1,0 +1,70 @@
+{
+  "id": 1259866829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.97442,39.70643,124.97442,39.70643",
+    "geom:latitude":39.70643,
+    "geom:longitude":124.97442,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tami-ri",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868512,
+    "gn:latitude":39.70643,
+    "gn:longitude":124.97442,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Tami-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2e4\ubbf8\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868512
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fba723644803e417680fcd91109b9c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1259866829,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259866829,
+    "wof:lastmodified":1537654286,
+    "wof:name":"Tami-ri",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.97442,
+    39.70643,
+    124.97442,
+    39.70643
+],
+  "geometry": {"coordinates":[124.97441999999999,39.70643],"type":"Point"}
+}

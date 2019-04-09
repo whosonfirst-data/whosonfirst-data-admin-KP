@@ -1,0 +1,67 @@
+{
+  "id": 1360277671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.65278,38.27194,125.65278,38.27194",
+    "geom:latitude":38.27194,
+    "geom:longitude":125.65278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Myongmak-kol",
+    "gn:country_code":"KP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874090,
+    "gn:latitude":38.27194,
+    "gn:longitude":125.65278,
+    "gn:modification_date":"2002-02-19",
+    "gn:name":"My\u014fngmak-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874090
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"db901671ba99af5e8008f45dc9911c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746907,
+            "locality_id":1360277671,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1360277671,
+    "wof:lastmodified":1536667878,
+    "wof:name":"Myongmak-kol",
+    "wof:parent_id":1108746907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.65278,
+    38.27194,
+    125.65278,
+    38.27194
+],
+  "geometry": {"coordinates":[125.65278000000001,38.27194],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226028751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48278,38.64333,127.48278,38.64333",
+    "geom:latitude":38.64333,
+    "geom:longitude":127.48278,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Sep'o-gun",
+    "gn:asciiname":"Hyol-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876721,
+    "gn:latitude":38.64333,
+    "gn:longitude":127.48278,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Hy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud604\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ken-ri",
+        "Hy\u014fn-ni",
+        "Hy\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876721
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1b382938ba5bcd16142fed3504bf7f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747119,
+            "locality_id":1226028751,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226028751,
+    "wof:lastmodified":1537654702,
+    "wof:name":"Hyol-li",
+    "wof:parent_id":1108747119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48278,
+    38.64333,
+    127.48278,
+    38.64333
+],
+  "geometry": {"coordinates":[127.48278000000001,38.64333],"type":"Point"}
+}

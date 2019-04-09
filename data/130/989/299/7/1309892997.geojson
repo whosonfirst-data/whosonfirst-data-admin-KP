@@ -1,0 +1,71 @@
+{
+  "id": 1309892997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.37389,39.92667,124.37389,39.92667",
+    "geom:latitude":39.92667,
+    "geom:longitude":124.37389,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Koch'on",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875893,
+    "gn:latitude":39.92667,
+    "gn:longitude":124.37389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Koch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\ucd0c",
+        "Koch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875893
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"78c484fbc1020d559a7f685e2f66641e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747965,
+            "locality_id":1309892997,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1309892997,
+    "wof:lastmodified":1537654654,
+    "wof:name":"Koch'on",
+    "wof:parent_id":1108747965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.37389,
+    39.92667,
+    124.37389,
+    39.92667
+],
+  "geometry": {"coordinates":[124.37389,39.92667],"type":"Point"}
+}

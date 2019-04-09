@@ -1,0 +1,76 @@
+{
+  "id": 1276678671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73639,38.7075,126.73639,38.7075",
+    "geom:latitude":38.7075,
+    "geom:longitude":126.73639,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sangdogop",
+    "gn:country_code":"KP",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891683,
+    "gn:latitude":38.7075,
+    "gn:longitude":126.73639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangd\u014fg\u014fp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ub355\uc5c5"
+    ],
+    "name:kor_x_variant":[
+        "Sangd\u014fg\u014fp"
+    ],
+    "name:und_x_variant":[
+        "Sangt\u2019\u014fg\u014fp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108746969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891683
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8cc666c98abd099a991ead5834ad43fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746969,
+            "locality_id":1276678671,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276678671,
+    "wof:lastmodified":1537654992,
+    "wof:name":"Sangdogop",
+    "wof:parent_id":1108746969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73639,
+    38.7075,
+    126.73639,
+    38.7075
+],
+  "geometry": {"coordinates":[126.73639,38.7075],"type":"Point"}
+}

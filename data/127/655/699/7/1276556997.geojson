@@ -1,0 +1,71 @@
+{
+  "id": 1276556997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.90194,40.32444,125.90194,40.32444",
+    "geom:latitude":40.32444,
+    "geom:longitude":125.90194,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sanggandae",
+    "gn:country_code":"KP",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041332,
+    "gn:latitude":40.32444,
+    "gn:longitude":125.90194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sanggandae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uac04\ub300",
+        "Sanggandae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108748027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041332
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"053b7502101f3cdf8416d48a2d4e2df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748027,
+            "locality_id":1276556997,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1276556997,
+    "wof:lastmodified":1537655280,
+    "wof:name":"Sanggandae",
+    "wof:parent_id":1108748027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.90194,
+    40.32444,
+    125.90194,
+    40.32444
+],
+  "geometry": {"coordinates":[125.90194,40.32444],"type":"Point"}
+}

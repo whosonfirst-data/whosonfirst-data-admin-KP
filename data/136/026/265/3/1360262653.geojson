@@ -1,0 +1,71 @@
+{
+  "id": 1360262653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.50917,39.875,124.50917,39.875",
+    "geom:latitude":39.875,
+    "geom:longitude":124.50917,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sunch'on-dong",
+    "gn:country_code":"KP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869015,
+    "gn:latitude":39.875,
+    "gn:longitude":124.50917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sunch\u2019\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc21c\ucc9c\ub3d9",
+        "Sunch\u2019\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869015
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2479f694a7ae1856c25f73dac0be3b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748105,
+            "locality_id":1360262653,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1360262653,
+    "wof:lastmodified":1537654310,
+    "wof:name":"Sunch'on-dong",
+    "wof:parent_id":1108748105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.50917,
+    39.875,
+    124.50917,
+    39.875
+],
+  "geometry": {"coordinates":[124.50917,39.875],"type":"Point"}
+}

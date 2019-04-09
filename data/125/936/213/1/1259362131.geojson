@@ -1,0 +1,67 @@
+{
+  "id": 1259362131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.96,41.2375,127.96,41.2375",
+    "geom:latitude":41.2375,
+    "geom:longitude":127.96,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koamp'osang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2054476,
+    "gn:latitude":41.2375,
+    "gn:longitude":127.96,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Koamp\u2019osang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2054476
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6b60e6df986ee3f3d4c08f94c5b36cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747113,
+            "locality_id":1259362131,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1259362131,
+    "wof:lastmodified":1537031665,
+    "wof:name":"Koamp'osang-ni",
+    "wof:parent_id":1108747113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.96,
+    41.2375,
+    127.96,
+    41.2375
+],
+  "geometry": {"coordinates":[127.95999999999999,41.2375],"type":"Point"}
+}

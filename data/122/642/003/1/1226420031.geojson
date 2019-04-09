@@ -1,0 +1,67 @@
+{
+  "id": 1226420031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.13333,39.78333,125.13333,39.78333",
+    "geom:latitude":39.78333,
+    "geom:longitude":125.13333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Changgyong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879238,
+    "gn:latitude":39.78333,
+    "gn:longitude":125.13333,
+    "gn:modification_date":"2006-05-31",
+    "gn:name":"Changgy\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879238
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"aacbd99ba1bcd9fbe94d303f42d06d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1226420031,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1226420031,
+    "wof:lastmodified":1536682517,
+    "wof:name":"Changgyong-dong",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.13333,
+    39.78333,
+    125.13333,
+    39.78333
+],
+  "geometry": {"coordinates":[125.13333,39.78333],"type":"Point"}
+}

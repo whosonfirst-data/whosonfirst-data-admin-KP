@@ -1,0 +1,74 @@
+{
+  "id": 1327005949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.88167,41.91361,128.88167,41.91361",
+    "geom:latitude":41.91361,
+    "geom:longitude":128.88167,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"2038910",
+    "gn:asciiname":"Maegorogu",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042962,
+    "gn:latitude":41.91361,
+    "gn:longitude":128.88167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maegor\u014fgu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016cngdong\u014fgu",
+        "Maekar\u014fgu",
+        "Maegor\u014fgu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108748113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042962
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f58bda3fd7e3af0ef64fbf20ed2b56e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748113,
+            "locality_id":1327005949,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1327005949,
+    "wof:lastmodified":1537655375,
+    "wof:name":"Maegorogu",
+    "wof:parent_id":1108748113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.88167,
+    41.91361,
+    128.88167,
+    41.91361
+],
+  "geometry": {"coordinates":[128.88167000000001,41.91361],"type":"Point"}
+}

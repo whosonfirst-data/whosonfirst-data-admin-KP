@@ -1,0 +1,70 @@
+{
+  "id": 1225927945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82833,38.71778,126.82833,38.71778",
+    "geom:latitude":38.71778,
+    "geom:longitude":126.82833,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Siksong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870798,
+    "gn:latitude":38.71778,
+    "gn:longitude":126.82833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Siksong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2dd\uc1a1\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870798
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"34c87deec8bab37fceeb6ccf64e22f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747045,
+            "locality_id":1225927945,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1225927945,
+    "wof:lastmodified":1537654398,
+    "wof:name":"Siksong-ni",
+    "wof:parent_id":1108747045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82833,
+    38.71778,
+    126.82833,
+    38.71778
+],
+  "geometry": {"coordinates":[126.82832999999999,38.71778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276358099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.93028,38.05028,125.93028,38.05028",
+    "geom:latitude":38.05028,
+    "geom:longitude":125.93028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nan'gan",
+    "gn:country_code":"KP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873652,
+    "gn:latitude":38.05028,
+    "gn:longitude":125.93028,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Nan\u2019gan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873652
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"08179a2a7e96bc484ee405e304e69b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1276358099,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276358099,
+    "wof:lastmodified":1536745089,
+    "wof:name":"Nan'gan",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.93028,
+    38.05028,
+    125.93028,
+    38.05028
+],
+  "geometry": {"coordinates":[125.93028,38.05028],"type":"Point"}
+}

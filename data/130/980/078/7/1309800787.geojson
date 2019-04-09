@@ -1,0 +1,71 @@
+{
+  "id": 1309800787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.30639,38.20056,125.30639,38.20056",
+    "geom:latitude":38.20056,
+    "geom:longitude":125.30639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sangun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870995,
+    "gn:latitude":38.20056,
+    "gn:longitude":125.30639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sang\u016dn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uc740\ub3d9",
+        "Sang\u016dn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870995
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"db1a504bbf71c7ecc0e89b3ce323c27f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747185,
+            "locality_id":1309800787,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1309800787,
+    "wof:lastmodified":1537654407,
+    "wof:name":"Sangun-dong",
+    "wof:parent_id":1108747185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.30639,
+    38.20056,
+    125.30639,
+    38.20056
+],
+  "geometry": {"coordinates":[125.30638999999999,38.20056],"type":"Point"}
+}

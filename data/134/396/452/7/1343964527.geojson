@@ -1,0 +1,71 @@
+{
+  "id": 1343964527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62972,39.91278,127.62972,39.91278",
+    "geom:latitude":39.91278,
+    "geom:longitude":127.62972,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Inhung-dong",
+    "gn:country_code":"KP",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273388,
+    "gn:latitude":39.91278,
+    "gn:longitude":127.62972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Inh\u016dng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc778\ud765\ub3d9",
+        "Inh\u016dng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273388
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a523acca8d2a6ba362ff2bf7583cd9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747745,
+            "locality_id":1343964527,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1343964527,
+    "wof:lastmodified":1537655691,
+    "wof:name":"Inhung-dong",
+    "wof:parent_id":1108747745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62972,
+    39.91278,
+    127.62972,
+    39.91278
+],
+  "geometry": {"coordinates":[127.62972000000001,39.91278],"type":"Point"}
+}

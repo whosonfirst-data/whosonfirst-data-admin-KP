@@ -1,0 +1,71 @@
+{
+  "id": 1293164349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.28698,42.06175,129.28698,42.06175",
+    "geom:latitude":42.06175,
+    "geom:longitude":129.28698,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Obong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040875,
+    "gn:latitude":42.06175,
+    "gn:longitude":129.28698,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Obong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\ubd09\ub9ac",
+        "Sipsam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040875
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"26dda264ab631b473d82e4bd65aaca9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747013,
+            "locality_id":1293164349,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1293164349,
+    "wof:lastmodified":1537655251,
+    "wof:name":"Obong-ni",
+    "wof:parent_id":1108747013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.28698,
+    42.06175,
+    129.28698,
+    42.06175
+],
+  "geometry": {"coordinates":[129.28698,42.06175],"type":"Point"}
+}

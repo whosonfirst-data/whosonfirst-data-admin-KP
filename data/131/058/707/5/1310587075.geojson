@@ -1,0 +1,67 @@
+{
+  "id": 1310587075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.8325,38.35,125.8325,38.35",
+    "geom:latitude":38.35,
+    "geom:longitude":125.8325,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mawol-tong",
+    "gn:country_code":"KP",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926428,
+    "gn:latitude":38.35,
+    "gn:longitude":125.8325,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Maw\u014fl-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926428
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8078d483a9376e6df00a2e2956037559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747217,
+            "locality_id":1310587075,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310587075,
+    "wof:lastmodified":1536799409,
+    "wof:name":"Mawol-tong",
+    "wof:parent_id":1108747217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.8325,
+    38.35,
+    125.8325,
+    38.35
+],
+  "geometry": {"coordinates":[125.8325,38.35],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326809415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.37278,41.07222,128.37278,41.07222",
+    "geom:latitude":41.07222,
+    "geom:longitude":128.37278,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sogu-ri",
+    "gn:country_code":"KP",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2045886,
+    "gn:latitude":41.07222,
+    "gn:longitude":128.37278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fgu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\uc6b0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "S\u014fgu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2045886
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"007c7e4ac98d4607729f148373657fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746953,
+            "locality_id":1326809415,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1326809415,
+    "wof:lastmodified":1537655516,
+    "wof:name":"Sogu-ri",
+    "wof:parent_id":1108746953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.37278,
+    41.07222,
+    128.37278,
+    41.07222
+],
+  "geometry": {"coordinates":[128.37278000000001,41.07222],"type":"Point"}
+}

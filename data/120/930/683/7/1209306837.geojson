@@ -1,0 +1,67 @@
+{
+  "id": 1209306837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.46917,38.04806,125.46917,38.04806",
+    "geom:latitude":38.04806,
+    "geom:longitude":125.46917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Umdal",
+    "gn:country_code":"KP",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867426,
+    "gn:latitude":38.04806,
+    "gn:longitude":125.46917,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"\u016cmdal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc74c\ub2ec"
+    ],
+    "name:und_x_variant":[
+        "\u016cmdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867426
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"508f1cbd8300a64c9e26465db63c2a93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209306837
+        }
+    ],
+    "wof:id":1209306837,
+    "wof:lastmodified":1537654231,
+    "wof:name":"Umdal",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.46917,
+    38.04806,
+    125.46917,
+    38.04806
+],
+  "geometry": {"coordinates":[125.46917000000001,38.04806],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343738251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.47111,41.23694,129.47111,41.23694",
+    "geom:latitude":41.23694,
+    "geom:longitude":129.47111,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chungnyong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049794,
+    "gn:latitude":41.23694,
+    "gn:longitude":129.47111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chungnyong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\ub8e1\ub3d9",
+        "Chungnyong-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049794
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"454c8b147e9ab453e65b78e8f5f5e016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747019,
+            "locality_id":1343738251,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1343738251,
+    "wof:lastmodified":1537655573,
+    "wof:name":"Chungnyong-dong",
+    "wof:parent_id":1108747019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.47111,
+    41.23694,
+    129.47111,
+    41.23694
+],
+  "geometry": {"coordinates":[129.47111000000001,41.23694],"type":"Point"}
+}

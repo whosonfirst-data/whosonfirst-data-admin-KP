@@ -1,0 +1,67 @@
+{
+  "id": 1343950347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.22833,38.225,126.22833,38.225",
+    "geom:latitude":38.225,
+    "geom:longitude":126.22833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tang-gol",
+    "gn:country_code":"KP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947824,
+    "gn:latitude":38.225,
+    "gn:longitude":126.22833,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Tang-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947824
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7b9b66dc88ab260ca5527768b01ea1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747061,
+            "locality_id":1343950347,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1343950347,
+    "wof:lastmodified":1537033215,
+    "wof:name":"Tang-gol",
+    "wof:parent_id":1108747061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.22833,
+    38.225,
+    126.22833,
+    38.225
+],
+  "geometry": {"coordinates":[126.22833,38.225],"type":"Point"}
+}

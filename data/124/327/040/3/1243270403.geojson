@@ -1,0 +1,71 @@
+{
+  "id": 1243270403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.94833,40.44417,128.94833,40.44417",
+    "geom:latitude":40.44417,
+    "geom:longitude":128.94833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sinho-ri",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041027,
+    "gn:latitude":40.44417,
+    "gn:longitude":128.94833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinho-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\ud638\ub9ac",
+        "Sinho-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041027
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"16528d243e6cec85f0fce60061ba9d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1243270403,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243270403,
+    "wof:lastmodified":1537655261,
+    "wof:name":"Sinho-ri",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.94833,
+    40.44417,
+    128.94833,
+    40.44417
+],
+  "geometry": {"coordinates":[128.94833,40.44417],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343570927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.91667,38.4,124.91667,38.4",
+    "geom:latitude":38.4,
+    "geom:longitude":124.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Worun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866863,
+    "gn:latitude":38.4,
+    "gn:longitude":124.91667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"W\u014fr\u016dn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\uc740\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "W\u014fr\u016dn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866863
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"15a1d4562959ad6497237fccf9902cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746993,
+            "locality_id":1343570927,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1343570927,
+    "wof:lastmodified":1537654203,
+    "wof:name":"Worun-dong",
+    "wof:parent_id":1108746993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.91667,
+    38.4,
+    124.91667,
+    38.4
+],
+  "geometry": {"coordinates":[124.91667,38.4],"type":"Point"}
+}

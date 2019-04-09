@@ -1,0 +1,74 @@
+{
+  "id": 1327253957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.36917,38.42778,126.36917,38.42778",
+    "geom:latitude":38.42778,
+    "geom:longitude":126.36917,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Non-gol",
+    "gn:country_code":"KP",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891402,
+    "gn:latitude":38.42778,
+    "gn:longitude":126.36917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Non-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub17c\uace8"
+    ],
+    "name:und_x_variant":[
+        "Non-kol",
+        "Non-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891402
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c4997c6f800e71c0a361df786ef32db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747923,
+            "locality_id":1327253957,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327253957,
+    "wof:lastmodified":1537654980,
+    "wof:name":"Non-gol",
+    "wof:parent_id":1108747923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.36917,
+    38.42778,
+    126.36917,
+    38.42778
+],
+  "geometry": {"coordinates":[126.36917,38.42778],"type":"Point"}
+}

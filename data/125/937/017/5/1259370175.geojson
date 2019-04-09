@@ -1,0 +1,70 @@
+{
+  "id": 1259370175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.99889,39.73194,124.99889,39.73194",
+    "geom:latitude":39.73194,
+    "geom:longitude":124.99889,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Namsan",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873728,
+    "gn:latitude":39.73194,
+    "gn:longitude":124.99889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Namsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873728
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c164e7e6ad530db0c68036e766b7fe16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1259370175,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259370175,
+    "wof:lastmodified":1537654545,
+    "wof:name":"Namsan",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.99889,
+    39.73194,
+    124.99889,
+    39.73194
+],
+  "geometry": {"coordinates":[124.99889,39.73194],"type":"Point"}
+}

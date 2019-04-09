@@ -1,0 +1,70 @@
+{
+  "id": 1343763447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.11472,39.69056,127.11472,39.69056",
+    "geom:latitude":39.69056,
+    "geom:longitude":127.11472,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Songga-dong",
+    "gn:country_code":"KP",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367289,
+    "gn:latitude":39.69056,
+    "gn:longitude":127.11472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Songga-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\uac00\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367289
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6cdad0dabefad3f2fa57196ae2a903d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748103,
+            "locality_id":1343763447,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1343763447,
+    "wof:lastmodified":1537655911,
+    "wof:name":"Songga-dong",
+    "wof:parent_id":1108748103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.11472,
+    39.69056,
+    127.11472,
+    39.69056
+],
+  "geometry": {"coordinates":[127.11472000000001,39.69056],"type":"Point"}
+}

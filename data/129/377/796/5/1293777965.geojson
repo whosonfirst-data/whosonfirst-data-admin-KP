@@ -1,0 +1,71 @@
+{
+  "id": 1293777965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.59083,38.70417,127.59083,38.70417",
+    "geom:latitude":38.70417,
+    "geom:longitude":127.59083,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sik-kol",
+    "gn:country_code":"KP",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363373,
+    "gn:latitude":38.70417,
+    "gn:longitude":127.59083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sik-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2dd\uace8",
+        "Sik-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363373
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1bbd836d12260c9a3b1a2510966d9b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746887,
+            "locality_id":1293777965,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1293777965,
+    "wof:lastmodified":1537655847,
+    "wof:name":"Sik-kol",
+    "wof:parent_id":1108746887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.59083,
+    38.70417,
+    127.59083,
+    38.70417
+],
+  "geometry": {"coordinates":[127.59083,38.70417],"type":"Point"}
+}

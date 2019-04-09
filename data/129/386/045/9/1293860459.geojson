@@ -1,0 +1,74 @@
+{
+  "id": 1293860459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.63444,38.86028,125.63444,38.86028",
+    "geom:latitude":38.86028,
+    "geom:longitude":125.63444,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sinho-dong",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870522,
+    "gn:latitude":38.86028,
+    "gn:longitude":125.63444,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Sinh\u014f-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ud5c8\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Sinh\u014f-dong",
+        "Sinheodong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870522
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d71e9ca350b78a85ce8c169bc659d8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747815,
+            "locality_id":1293860459,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293860459,
+    "wof:lastmodified":1537654385,
+    "wof:name":"Sinho-dong",
+    "wof:parent_id":1108747815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.63443999999998,
+    38.86028,
+    125.63443999999998,
+    38.86028
+],
+  "geometry": {"coordinates":[125.63443999999998,38.86028],"type":"Point"}
+}

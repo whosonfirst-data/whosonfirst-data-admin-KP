@@ -1,0 +1,79 @@
+{
+  "id": 1360272657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.0081,39.65857,125.0081,39.65857",
+    "geom:latitude":39.65857,
+    "geom:longitude":125.0081,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sangdan-maul",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871317,
+    "gn:latitude":39.65857,
+    "gn:longitude":125.0081,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sangdan-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ub2e8\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Sangdan-ma\u016dl",
+        "\uc0c1\ub2e8\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "Sangdan",
+        "Sangdan-ni",
+        "Sangdal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871317
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6b93e0e062a77d159d742d4faacc0339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1360272657,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1360272657,
+    "wof:lastmodified":1537654423,
+    "wof:name":"Sangdan-maul",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.0081,
+    39.65857000000001,
+    125.0081,
+    39.65857000000001
+],
+  "geometry": {"coordinates":[125.0081,39.65857000000001],"type":"Point"}
+}

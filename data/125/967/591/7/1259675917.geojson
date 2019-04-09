@@ -1,0 +1,72 @@
+{
+  "id": 1259675917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.94556,37.99,125.94556,37.99",
+    "geom:latitude":37.99,
+    "geom:longitude":125.94556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yaksu-gol",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866825,
+    "gn:latitude":37.99,
+    "gn:longitude":125.94556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yaksu-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaksu-dong",
+        "Yaksu-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866825
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"91710a455c78cec29c9bedf2accb55cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1259675917,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259675917,
+    "wof:lastmodified":1537654200,
+    "wof:name":"Yaksu-gol",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.94556,
+    37.99,
+    125.94556,
+    37.99
+],
+  "geometry": {"coordinates":[125.94556,37.99],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1210034261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4,37.95,125.4,37.95",
+    "geom:latitude":37.95,
+    "geom:longitude":125.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Saengam",
+    "gn:country_code":"KP",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871737,
+    "gn:latitude":37.95,
+    "gn:longitude":125.4,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Saengam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0cc\uac10"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871737
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"87ec01352209031e89b3fa2aadee0698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1210034261,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1210034261,
+    "wof:lastmodified":1537654445,
+    "wof:name":"Saengam",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4,
+    37.95,
+    125.4,
+    37.95
+],
+  "geometry": {"coordinates":[125.40000000000001,37.95],"type":"Point"}
+}

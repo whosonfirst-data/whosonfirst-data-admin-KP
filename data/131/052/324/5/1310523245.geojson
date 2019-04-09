@@ -1,0 +1,72 @@
+{
+  "id": 1310523245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64417,37.85222,126.64417,37.85222",
+    "geom:latitude":37.85222,
+    "geom:longitude":126.64417,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"P\u2019anmun-gun",
+    "gn:asciiname":"Taeyahyol-li",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868564,
+    "gn:latitude":37.85222,
+    "gn:longitude":126.64417,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Taeyahy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taeyahy\u014fn-ni",
+        "Taeyahy\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868564
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e2b801a694b36801b8626e73b4dbd404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1310523245,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310523245,
+    "wof:lastmodified":1537654289,
+    "wof:name":"Taeyahyol-li",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64417,
+    37.85222,
+    126.64417,
+    37.85222
+],
+  "geometry": {"coordinates":[126.64417,37.85222],"type":"Point"}
+}

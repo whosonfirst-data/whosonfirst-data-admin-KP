@@ -1,0 +1,73 @@
+{
+  "id": 1309777285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.85303,41.00953,128.85303,41.00953",
+    "geom:latitude":41.00953,
+    "geom:longitude":128.85303,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yokchon-maul",
+    "gn:country_code":"KP",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7540979,
+    "gn:latitude":41.00953,
+    "gn:longitude":128.85303,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Y\u014fkch\u014fn-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5ed\uc804\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "Y\u014fkch\u014fn-ma\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7540979
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"82be60aecea6f476cd2f9c0dde290c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1309777285,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1309777285,
+    "wof:lastmodified":1537655950,
+    "wof:name":"Yokchon-maul",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.85303000000002,
+    41.00953,
+    128.85303000000002,
+    41.00953
+],
+  "geometry": {"coordinates":[128.85303000000002,41.00953],"type":"Point"}
+}

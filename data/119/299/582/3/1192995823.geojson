@@ -1,0 +1,76 @@
+{
+  "id": 1192995823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.52028,39.71444,125.52028,39.71444",
+    "geom:latitude":39.71444,
+    "geom:longitude":125.52028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yongyol-li",
+    "gn:country_code":"KP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866023,
+    "gn:latitude":39.71444,
+    "gn:longitude":125.52028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc5f0\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Yongy\u014fl-li"
+    ],
+    "name:und_x_variant":[
+        "Yongy\u014fn-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866023
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"11acdf1dd05df4e66b67d94fd80ad7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747909,
+            "locality_id":1192995823,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1192995823,
+    "wof:lastmodified":1537654160,
+    "wof:name":"Yongyol-li",
+    "wof:parent_id":1108747909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.52028,
+    39.71444,
+    125.52028,
+    39.71444
+],
+  "geometry": {"coordinates":[125.52028,39.71444],"type":"Point"}
+}

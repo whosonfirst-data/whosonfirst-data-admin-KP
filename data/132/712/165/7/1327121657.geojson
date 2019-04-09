@@ -1,0 +1,70 @@
+{
+  "id": 1327121657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.02097,39.71842,125.02097,39.71842",
+    "geom:latitude":39.71842,
+    "geom:longitude":125.02097,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876183,
+    "gn:latitude":39.71842,
+    "gn:longitude":125.02097,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac04\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876183
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8b4d44db716e0bda7b74e2f07b4fffe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1327121657,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1327121657,
+    "wof:lastmodified":1537654670,
+    "wof:name":"Kan-dong",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.02097,
+    39.71842,
+    125.02097,
+    39.71842
+],
+  "geometry": {"coordinates":[125.02097000000001,39.71842],"type":"Point"}
+}

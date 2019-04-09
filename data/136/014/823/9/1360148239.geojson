@@ -1,0 +1,73 @@
+{
+  "id": 1360148239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.58222,41.9725,129.58222,41.9725",
+    "geom:latitude":41.9725,
+    "geom:longitude":129.58222,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kwangam",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043086,
+    "gn:latitude":41.9725,
+    "gn:longitude":129.58222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kwangam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwangam-ni",
+        "\uad11\uc554",
+        "Kwangam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043086
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a1e81c286775e9ef5ab0fc22173a9473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746863,
+            "locality_id":1360148239,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1360148239,
+    "wof:lastmodified":1537655382,
+    "wof:name":"Kwangam",
+    "wof:parent_id":1108746863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.58222,
+    41.9725,
+    129.58222,
+    41.9725
+],
+  "geometry": {"coordinates":[129.58222000000001,41.9725],"type":"Point"}
+}

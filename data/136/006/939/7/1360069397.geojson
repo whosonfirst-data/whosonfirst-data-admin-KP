@@ -1,0 +1,72 @@
+{
+  "id": 1360069397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.22417,39.37028,127.22417,39.37028",
+    "geom:latitude":39.37028,
+    "geom:longitude":127.22417,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Ch\u2019\u014fnnae-gun",
+    "gn:asciiname":"Tunjon",
+    "gn:country_code":"KP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867523,
+    "gn:latitude":39.37028,
+    "gn:longitude":127.22417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tunj\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunj\u014fn",
+        "\ub454\uc804"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867523
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cafb599c4e212b3feffc7946f1f1ac9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746869,
+            "locality_id":1360069397,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1360069397,
+    "wof:lastmodified":1537654236,
+    "wof:name":"Tunjon",
+    "wof:parent_id":1108746869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.22417,
+    39.37028,
+    127.22417,
+    39.37028
+],
+  "geometry": {"coordinates":[127.22417,39.37028],"type":"Point"}
+}

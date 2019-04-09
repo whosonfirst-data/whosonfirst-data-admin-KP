@@ -1,0 +1,73 @@
+{
+  "id": 1243152663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.62944,39.91389,124.62944,39.91389",
+    "geom:latitude":39.91389,
+    "geom:longitude":124.62944,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kanjon-gol",
+    "gn:country_code":"KP",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876096,
+    "gn:latitude":39.91389,
+    "gn:longitude":124.62944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kanj\u014fn-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanj\u014fn-dong",
+        "\uac04\uc804\uace8",
+        "Kanj\u014fn-dong",
+        "Kanj\u014fn-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876096
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"50bb3bb0e23e4a978299ce8a4757e115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748105,
+            "locality_id":1243152663,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1243152663,
+    "wof:lastmodified":1537654665,
+    "wof:name":"Kanjon-gol",
+    "wof:parent_id":1108748105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.62944,
+    39.91389,
+    124.62944,
+    39.91389
+],
+  "geometry": {"coordinates":[124.62944,39.91389],"type":"Point"}
+}

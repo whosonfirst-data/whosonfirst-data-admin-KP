@@ -1,0 +1,71 @@
+{
+  "id": 1293353803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.97222,42.96028,129.97222,42.96028",
+    "geom:latitude":42.96028,
+    "geom:longitude":129.97222,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sohung-dong",
+    "gn:country_code":"KP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305673,
+    "gn:latitude":42.96028,
+    "gn:longitude":129.97222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fh\u016dng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc11c\ud765\ub3d9",
+        "S\u014fh\u016dng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305673
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"33d6fb76f60fcf212cf4af05773afd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747901,
+            "locality_id":1293353803,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1293353803,
+    "wof:lastmodified":1537655839,
+    "wof:name":"Sohung-dong",
+    "wof:parent_id":1108747901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.97222,
+    42.96028,
+    129.97222,
+    42.96028
+],
+  "geometry": {"coordinates":[129.97221999999999,42.96028],"type":"Point"}
+}

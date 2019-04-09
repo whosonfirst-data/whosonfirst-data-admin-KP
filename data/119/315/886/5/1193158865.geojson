@@ -1,0 +1,72 @@
+{
+  "id": 1193158865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.45028,37.85389,126.45028,37.85389",
+    "geom:latitude":37.85389,
+    "geom:longitude":126.45028,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1876380",
+    "gn:asciiname":"Wonjong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866954,
+    "gn:latitude":37.85389,
+    "gn:longitude":126.45028,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"W\u014fnj\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ensei-d\u014d",
+        "W\u014fnj\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866954
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0a61058adeec751500941c06f1626f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747805,
+            "locality_id":1193158865,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1193158865,
+    "wof:lastmodified":1537654207,
+    "wof:name":"Wonjong-dong",
+    "wof:parent_id":1108747805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.45028,
+    37.85389,
+    126.45028,
+    37.85389
+],
+  "geometry": {"coordinates":[126.45028000000001,37.85389],"type":"Point"}
+}

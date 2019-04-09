@@ -1,0 +1,71 @@
+{
+  "id": 1310177987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04306,40.18722,127.04306,40.18722",
+    "geom:latitude":40.18722,
+    "geom:longitude":127.04306,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Taedong-gol",
+    "gn:country_code":"KP",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281245,
+    "gn:latitude":40.18722,
+    "gn:longitude":127.04306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taedong-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub300\ub3d9\uace8",
+        "Taedong-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281245
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3f32b61c1d15f90028a2247ba70f3fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748047,
+            "locality_id":1310177987,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1310177987,
+    "wof:lastmodified":1537655725,
+    "wof:name":"Taedong-gol",
+    "wof:parent_id":1108748047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04306,
+    40.18722,
+    127.04306,
+    40.18722
+],
+  "geometry": {"coordinates":[127.04306,40.18722],"type":"Point"}
+}

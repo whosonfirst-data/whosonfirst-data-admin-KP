@@ -1,0 +1,71 @@
+{
+  "id": 1343263151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.29861,40.61111,128.29861,40.61111",
+    "geom:latitude":40.61111,
+    "geom:longitude":128.29861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chiktong-nyong",
+    "gn:country_code":"KP",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6383823,
+    "gn:latitude":40.61111,
+    "gn:longitude":128.29861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chiktong-ny\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc9c1\ub3d9\ub839",
+        "Chiktong-ny\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6383823
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"eb55515105c42a51ef4e09639c703851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747193,
+            "locality_id":1343263151,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1343263151,
+    "wof:lastmodified":1537655924,
+    "wof:name":"Chiktong-nyong",
+    "wof:parent_id":1108747193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.29861,
+    40.61111,
+    128.29861,
+    40.61111
+],
+  "geometry": {"coordinates":[128.29861,40.61111],"type":"Point"}
+}

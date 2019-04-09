@@ -1,0 +1,67 @@
+{
+  "id": 1209321647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.83972,40.50417,128.83972,40.50417",
+    "geom:latitude":40.50417,
+    "geom:longitude":128.83972,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pingae-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042016,
+    "gn:latitude":40.50417,
+    "gn:longitude":128.83972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pingae-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hy\u014fgai-son",
+        "Uaech\u2019on",
+        "\ube59\uc560\ucd0c",
+        "Pingae-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042016
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f59cd03040bd74e29da30eee4d5be5d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209321647
+        }
+    ],
+    "wof:id":1209321647,
+    "wof:lastmodified":1537655320,
+    "wof:name":"Pingae-ch'on",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.83972,
+    40.50417,
+    128.83972,
+    40.50417
+],
+  "geometry": {"coordinates":[128.83972,40.50417],"type":"Point"}
+}

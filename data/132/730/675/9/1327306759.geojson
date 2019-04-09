@@ -1,0 +1,72 @@
+{
+  "id": 1327306759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.21139,38.85528,125.21139,38.85528",
+    "geom:latitude":38.85528,
+    "geom:longitude":125.21139,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Omnamu-gol",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873205,
+    "gn:latitude":38.85528,
+    "gn:longitude":125.21139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u014emnamu-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014emsu-dong",
+        "\uc5c4\ub098\ubb34\uace8",
+        "\u014emnamu-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108747027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873205
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8ce21059b2e761380904140be486b39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747027,
+            "locality_id":1327306759,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1327306759,
+    "wof:lastmodified":1537654521,
+    "wof:name":"Omnamu-gol",
+    "wof:parent_id":1108747027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.21139,
+    38.85528,
+    125.21139,
+    38.85528
+],
+  "geometry": {"coordinates":[125.21138999999999,38.85528],"type":"Point"}
+}

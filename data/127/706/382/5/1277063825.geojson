@@ -1,0 +1,70 @@
+{
+  "id": 1277063825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17806,39.80917,125.17806,39.80917",
+    "geom:latitude":39.80917,
+    "geom:longitude":125.17806,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kirha-dong",
+    "gn:country_code":"KP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875964,
+    "gn:latitude":39.80917,
+    "gn:longitude":125.17806,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kirha-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae38\ud558\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875964
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2c9acf2f0c9d2d6fc8b9c43c6e61f148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747793,
+            "locality_id":1277063825,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1277063825,
+    "wof:lastmodified":1537654657,
+    "wof:name":"Kirha-dong",
+    "wof:parent_id":1108747793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17806000000002,
+    39.80917,
+    125.17806000000002,
+    39.80917
+],
+  "geometry": {"coordinates":[125.17806000000002,39.80917],"type":"Point"}
+}

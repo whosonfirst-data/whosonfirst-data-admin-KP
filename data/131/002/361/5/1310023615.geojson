@@ -1,0 +1,74 @@
+{
+  "id": 1310023615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.8,40.98333,126.8,40.98333",
+    "geom:latitude":40.98333,
+    "geom:longitude":126.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"P'yong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041646,
+    "gn:latitude":40.98333,
+    "gn:longitude":126.8,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"P\u2019y\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Hei-ri",
+        "P\u2019y\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041646
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"99fc0f71294ff8939c227274f3b4c216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746911,
+            "locality_id":1310023615,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1310023615,
+    "wof:lastmodified":1537655299,
+    "wof:name":"P'yong-ni",
+    "wof:parent_id":1108746911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.8,
+    40.98333,
+    126.8,
+    40.98333
+],
+  "geometry": {"coordinates":[126.8,40.98333],"type":"Point"}
+}

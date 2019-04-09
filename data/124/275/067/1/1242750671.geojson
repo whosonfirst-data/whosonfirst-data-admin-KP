@@ -1,0 +1,72 @@
+{
+  "id": 1242750671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4475,39.28028,125.4475,39.28028",
+    "geom:latitude":39.28028,
+    "geom:longitude":125.4475,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1871865",
+    "gn:asciiname":"Noesok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873597,
+    "gn:latitude":39.28028,
+    "gn:longitude":125.4475,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Noes\u014fk-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hasam",
+        "Noes\u014fk-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873597
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"97195a6fdea31693984dc64f6725e691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747925,
+            "locality_id":1242750671,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1242750671,
+    "wof:lastmodified":1537654539,
+    "wof:name":"Noesok-tong",
+    "wof:parent_id":1108747925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4475,
+    39.28028,
+    125.4475,
+    39.28028
+],
+  "geometry": {"coordinates":[125.44750000000001,39.28028],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293278183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.93389,38.29139,125.93389,38.29139",
+    "geom:latitude":38.29139,
+    "geom:longitude":125.93389,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Namsa-dong",
+    "gn:country_code":"KP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926462,
+    "gn:latitude":38.29139,
+    "gn:longitude":125.93389,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Namsa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926462
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d433aae6e9caab12aa5832d0e3f97171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747093,
+            "locality_id":1293278183,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293278183,
+    "wof:lastmodified":1537085618,
+    "wof:name":"Namsa-dong",
+    "wof:parent_id":1108747093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.93389,
+    38.29139,
+    125.93389,
+    38.29139
+],
+  "geometry": {"coordinates":[125.93389000000001,38.29139],"type":"Point"}
+}

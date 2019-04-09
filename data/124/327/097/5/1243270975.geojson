@@ -1,0 +1,76 @@
+{
+  "id": 1243270975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.19861,39.49972,127.19861,39.49972",
+    "geom:latitude":39.49972,
+    "geom:longitude":127.19861,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"K\u016dmya-gun",
+    "gn:asciiname":"Hyongt'al-li",
+    "gn:country_code":"KP",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876733,
+    "gn:latitude":39.49972,
+    "gn:longitude":127.19861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hy\u014fngt\u2019al-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Hy\u014fngt\u2019al-li"
+    ],
+    "name:und_x_variant":[
+        "Hy\u014fngt\u2019an-ni",
+        "Hy\u014fngnan-ni",
+        "\ud615\ud0c4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876733
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"87fe9d1b21e4b36cc8aab18f9531748c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1243270975,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243270975,
+    "wof:lastmodified":1537654702,
+    "wof:name":"Hyongt'al-li",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.19861000000002,
+    39.49972,
+    127.19861000000002,
+    39.49972
+],
+  "geometry": {"coordinates":[127.19861000000002,39.49972],"type":"Point"}
+}

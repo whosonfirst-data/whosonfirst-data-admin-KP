@@ -1,0 +1,74 @@
+{
+  "id": 1326951979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.80194,37.97694,125.80194,37.97694",
+    "geom:latitude":37.97694,
+    "geom:longitude":125.80194,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Haech'anggol",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877626,
+    "gn:latitude":37.97694,
+    "gn:longitude":125.80194,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Haech\u2019anggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud574\ucc3d\uace8"
+    ],
+    "name:und_x_variant":[
+        "Haech\u2019ang-dong",
+        "Haech\u2019anggol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877626
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a86f9071bd40815331c8b1b931b54bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1326951979,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1326951979,
+    "wof:lastmodified":1537654753,
+    "wof:name":"Haech'anggol",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.80194,
+    37.97694,
+    125.80194,
+    37.97694
+],
+  "geometry": {"coordinates":[125.80194,37.97694],"type":"Point"}
+}

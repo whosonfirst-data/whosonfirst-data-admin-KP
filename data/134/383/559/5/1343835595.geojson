@@ -1,0 +1,75 @@
+{
+  "id": 1343835595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.8425,40.41611,124.8425,40.41611",
+    "geom:latitude":40.41611,
+    "geom:longitude":124.8425,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ch'ongsongdongchung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044698,
+    "gn:latitude":40.41611,
+    "gn:longitude":124.8425,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019\u014fngs\u014fngdongchung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seisui",
+        "Ch\u2019\u014fngsu-ri",
+        "Seisuid\u014d-Ch\u016b-ri",
+        "\uccad\uc131\ub3d9\uc911\ub9ac",
+        "Ch\u2019\u014fngsudong-Chung-ni",
+        "Ch\u2019\u014fngs\u014fngdongchung-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044698
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6a8a5addd8df30a82817e385a9989f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747105,
+            "locality_id":1343835595,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1343835595,
+    "wof:lastmodified":1537655473,
+    "wof:name":"Ch'ongsongdongchung-ni",
+    "wof:parent_id":1108747105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.8425,
+    40.41611,
+    124.8425,
+    40.41611
+],
+  "geometry": {"coordinates":[124.8425,40.41611],"type":"Point"}
+}

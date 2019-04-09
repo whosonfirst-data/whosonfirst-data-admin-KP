@@ -1,0 +1,67 @@
+{
+  "id": 1277096835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.92028,38.1975,125.92028,38.1975",
+    "geom:latitude":38.1975,
+    "geom:longitude":125.92028,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Paengnak-tong",
+    "gn:country_code":"KP",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947405,
+    "gn:latitude":38.1975,
+    "gn:longitude":125.92028,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"Paengnak-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947405
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a58b64d893c688ebfda3357b73fd9470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747093,
+            "locality_id":1277096835,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1277096835,
+    "wof:lastmodified":1536747134,
+    "wof:name":"Paengnak-tong",
+    "wof:parent_id":1108747093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.92028,
+    38.1975,
+    125.92028,
+    38.1975
+],
+  "geometry": {"coordinates":[125.92028000000001,38.1975],"type":"Point"}
+}

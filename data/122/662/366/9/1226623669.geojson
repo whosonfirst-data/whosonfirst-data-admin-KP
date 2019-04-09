@@ -1,0 +1,71 @@
+{
+  "id": 1226623669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.27167,40.60806,125.27167,40.60806",
+    "geom:latitude":40.60806,
+    "geom:longitude":125.27167,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yondaebong",
+    "gn:country_code":"KP",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039231,
+    "gn:latitude":40.60806,
+    "gn:longitude":125.27167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u014fndaebong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc5f0\ub300\ubd09",
+        "Y\u014fndaebong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039231
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"741a0df92dcc15196f32d8d1e4d08175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747945,
+            "locality_id":1226623669,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1226623669,
+    "wof:lastmodified":1537655157,
+    "wof:name":"Yondaebong",
+    "wof:parent_id":1108747945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.27167,
+    40.60806,
+    125.27167,
+    40.60806
+],
+  "geometry": {"coordinates":[125.27167,40.60806],"type":"Point"}
+}

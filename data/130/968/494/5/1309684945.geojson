@@ -1,0 +1,73 @@
+{
+  "id": 1309684945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.94667,39.73417,125.94667,39.73417",
+    "geom:latitude":39.73417,
+    "geom:longitude":125.94667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hyopsangch'am",
+    "gn:country_code":"KP",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890294,
+    "gn:latitude":39.73417,
+    "gn:longitude":125.94667,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Hy\u014fpsangch\u2019am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud611\uc0c1\ucc38"
+    ],
+    "name:und_x_variant":[
+        "Hy\u014fpsangch\u2019am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890294
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"25ba7c8100fcd0c80719feccd91bd36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747803,
+            "locality_id":1309684945,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1309684945,
+    "wof:lastmodified":1537654950,
+    "wof:name":"Hyopsangch'am",
+    "wof:parent_id":1108747803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.94667,
+    39.73417,
+    125.94667,
+    39.73417
+],
+  "geometry": {"coordinates":[125.94667,39.73417],"type":"Point"}
+}

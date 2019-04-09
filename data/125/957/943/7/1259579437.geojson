@@ -1,0 +1,71 @@
+{
+  "id": 1259579437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.37,39.18043,127.37,39.18043",
+    "geom:latitude":39.18043,
+    "geom:longitude":127.37,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Songbung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869698,
+    "gn:latitude":39.18043,
+    "gn:longitude":127.37,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fngbung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fngbung-ni",
+        "\uc131\ubd81\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869698
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0082bcf5fb7f9866dd2740615032d2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747229,
+            "locality_id":1259579437,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1259579437,
+    "wof:lastmodified":1537654343,
+    "wof:name":"Songbung-ni",
+    "wof:parent_id":1108747229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.37,
+    39.18043,
+    127.37,
+    39.18043
+],
+  "geometry": {"coordinates":[127.37,39.18043],"type":"Point"}
+}

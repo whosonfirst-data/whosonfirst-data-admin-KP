@@ -1,0 +1,72 @@
+{
+  "id": 1293396365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.55444,39.9475,127.55444,39.9475",
+    "geom:latitude":39.9475,
+    "geom:longitude":127.55444,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hoeyang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877151,
+    "gn:latitude":39.9475,
+    "gn:longitude":127.55444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hoeyang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoeyang-ni",
+        "\ud68c\uc591\ub3d9",
+        "Hoeyang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877151
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fd96540e31d3c6af5191483127c15e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747745,
+            "locality_id":1293396365,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293396365,
+    "wof:lastmodified":1537654725,
+    "wof:name":"Hoeyang-dong",
+    "wof:parent_id":1108747745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.55444,
+    39.9475,
+    127.55444,
+    39.9475
+],
+  "geometry": {"coordinates":[127.55444,39.9475],"type":"Point"}
+}

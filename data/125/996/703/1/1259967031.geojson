@@ -1,0 +1,73 @@
+{
+  "id": 1259967031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.93293,39.70125,124.93293,39.70125",
+    "geom:latitude":39.70125,
+    "geom:longitude":124.93293,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yonjong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1865991,
+    "gn:latitude":39.70125,
+    "gn:longitude":124.93293,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Y\u014fnj\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5f0\uc815\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Y\u014fnj\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1865991
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a6bdf56d902839042bc0e2118d04c6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747147,
+            "locality_id":1259967031,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259967031,
+    "wof:lastmodified":1537654158,
+    "wof:name":"Yonjong-ni",
+    "wof:parent_id":1108747147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.93293,
+    39.70125,
+    124.93293,
+    39.70125
+],
+  "geometry": {"coordinates":[124.93293,39.70125],"type":"Point"}
+}

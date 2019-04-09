@@ -1,0 +1,67 @@
+{
+  "id": 1326602707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.52639,38.95333,125.52639,38.95333",
+    "geom:latitude":38.95333,
+    "geom:longitude":125.52639,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sangnyung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871121,
+    "gn:latitude":38.95333,
+    "gn:longitude":125.52639,
+    "gn:modification_date":"2003-05-20",
+    "gn:name":"Sangnyung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108746951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871121
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4ff4c2c3bb08826ce031e8f23f0c79b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746951,
+            "locality_id":1326602707,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1326602707,
+    "wof:lastmodified":1536881849,
+    "wof:name":"Sangnyung-ni",
+    "wof:parent_id":1108746951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.52639,
+    38.95333,
+    125.52639,
+    38.95333
+],
+  "geometry": {"coordinates":[125.52639000000001,38.95333],"type":"Point"}
+}

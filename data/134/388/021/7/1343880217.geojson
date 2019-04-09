@@ -1,0 +1,76 @@
+{
+  "id": 1343880217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58388,37.78936,126.58388,37.78936",
+    "geom:latitude":37.78936,
+    "geom:longitude":126.58388,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"P\u2019anmun-gun",
+    "gn:asciiname":"Koe-dong",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875065,
+    "gn:latitude":37.78936,
+    "gn:longitude":126.58388,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Koe-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad34\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Kai-d\u014d",
+        "Koe-dong",
+        "Kwae-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875065
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ce1916903cd58395d33edd79aea11a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1343880217,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343880217,
+    "wof:lastmodified":1537654606,
+    "wof:name":"Koe-dong",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58388,
+    37.78936,
+    126.58388,
+    37.78936
+],
+  "geometry": {"coordinates":[126.58387999999999,37.78936],"type":"Point"}
+}

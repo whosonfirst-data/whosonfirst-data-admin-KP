@@ -1,0 +1,71 @@
+{
+  "id": 1327337051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51139,41.05694,126.51139,41.05694",
+    "geom:latitude":41.05694,
+    "geom:longitude":126.51139,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ssangsindongp'yong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049325,
+    "gn:latitude":41.05694,
+    "gn:longitude":126.51139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ssangsindongp\u2019y\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc30d\uc2e0\ub3d9\ud3c9\ub3d9",
+        "Ssangsindongp\u2019y\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049325
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0fbaa32f2ed54aca81a43077e7c54f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747121,
+            "locality_id":1327337051,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1327337051,
+    "wof:lastmodified":1537655551,
+    "wof:name":"Ssangsindongp'yong-dong",
+    "wof:parent_id":1108747121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51139,
+    41.05694,
+    126.51139,
+    41.05694
+],
+  "geometry": {"coordinates":[126.51139000000001,41.05694],"type":"Point"}
+}

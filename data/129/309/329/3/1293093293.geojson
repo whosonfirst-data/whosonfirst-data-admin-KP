@@ -1,0 +1,67 @@
+{
+  "id": 1293093293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.37,38.03417,125.37,38.03417",
+    "geom:latitude":38.03417,
+    "geom:longitude":125.37,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Om-dong",
+    "gn:country_code":"KP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873213,
+    "gn:latitude":38.03417,
+    "gn:longitude":125.37,
+    "gn:modification_date":"2003-01-15",
+    "gn:name":"\u014em-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873213
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"97acefcfa69676d4031f1a7c916503fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747921,
+            "locality_id":1293093293,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293093293,
+    "wof:lastmodified":1536857123,
+    "wof:name":"Om-dong",
+    "wof:parent_id":1108747921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.37,
+    38.03417,
+    125.37,
+    38.03417
+],
+  "geometry": {"coordinates":[125.37,38.03417],"type":"Point"}
+}

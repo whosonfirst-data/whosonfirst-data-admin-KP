@@ -1,0 +1,68 @@
+{
+  "id": 1243527259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.12389,39.60722,126.12389,39.60722",
+    "geom:latitude":39.60722,
+    "geom:longitude":126.12389,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"Pukch\u2019ang-gun",
+    "gn:asciiname":"Yongsu-mal",
+    "gn:country_code":"KP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892242,
+    "gn:latitude":39.60722,
+    "gn:longitude":126.12389,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Yongsu-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892242
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1f7eb113fd4d01e9c5e0266bcb0d1ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747203,
+            "locality_id":1243527259,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1243527259,
+    "wof:lastmodified":1536689231,
+    "wof:name":"Yongsu-mal",
+    "wof:parent_id":1108747203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.12389,
+    39.60722,
+    126.12389,
+    39.60722
+],
+  "geometry": {"coordinates":[126.12389,39.60722],"type":"Point"}
+}

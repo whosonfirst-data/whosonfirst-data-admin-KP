@@ -1,0 +1,67 @@
+{
+  "id": 1259793353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.11667,38.0,125.11667,38.0",
+    "geom:latitude":38.0,
+    "geom:longitude":125.11667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chungson-dong",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877781,
+    "gn:latitude":38.0,
+    "gn:longitude":125.11667,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chungs\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\uc120\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Chungs\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877781
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b2331d5513b0dca1217aa28fa67321f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259793353,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259793353,
+    "wof:lastmodified":1537654762,
+    "wof:name":"Chungson-dong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.11667,
+    38.0,
+    125.11667,
+    38.0
+],
+  "geometry": {"coordinates":[125.11667,38.0],"type":"Point"}
+}

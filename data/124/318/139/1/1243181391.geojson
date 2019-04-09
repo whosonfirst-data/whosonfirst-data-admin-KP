@@ -1,0 +1,71 @@
+{
+  "id": 1243181391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.74833,40.83833,125.74833,40.83833",
+    "geom:latitude":40.83833,
+    "geom:longitude":125.74833,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tal-gol",
+    "gn:country_code":"KP",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055060,
+    "gn:latitude":40.83833,
+    "gn:longitude":125.74833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tal-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub2ec\uace8",
+        "Tal-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055060
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b8d2124c037d2f929d87266efcf7d8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747741,
+            "locality_id":1243181391,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1243181391,
+    "wof:lastmodified":1537655641,
+    "wof:name":"Tal-gol",
+    "wof:parent_id":1108747741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.74833,
+    40.83833,
+    125.74833,
+    40.83833
+],
+  "geometry": {"coordinates":[125.74833,40.83833],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226618943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.33083,38.92972,125.33083,38.92972",
+    "geom:latitude":38.92972,
+    "geom:longitude":125.33083,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tongsanmol",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867714,
+    "gn:latitude":38.92972,
+    "gn:longitude":125.33083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tongsanmol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tongsanch\u2019on",
+        "\ub3d9\uc0b0\ubab0",
+        "Tongsanmol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108747027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867714
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"96ba5c3f34feedf6151c797c83153947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747027,
+            "locality_id":1226618943,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1226618943,
+    "wof:lastmodified":1537654245,
+    "wof:name":"Tongsanmol",
+    "wof:parent_id":1108747027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.33083,
+    38.92972,
+    125.33083,
+    38.92972
+],
+  "geometry": {"coordinates":[125.33083000000001,38.92972],"type":"Point"}
+}

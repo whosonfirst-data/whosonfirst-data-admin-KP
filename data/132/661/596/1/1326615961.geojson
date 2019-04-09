@@ -1,0 +1,70 @@
+{
+  "id": 1326615961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.40167,38.72611,126.40167,38.72611",
+    "geom:latitude":38.72611,
+    "geom:longitude":126.40167,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Isan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366391,
+    "gn:latitude":38.72611,
+    "gn:longitude":126.40167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Isan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc774\uc0b0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366391
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9a1457fc4f907738c95954f47a949e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748029,
+            "locality_id":1326615961,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1326615961,
+    "wof:lastmodified":1537655875,
+    "wof:name":"Isan-dong",
+    "wof:parent_id":1108748029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.40167,
+    38.72611,
+    126.40167,
+    38.72611
+],
+  "geometry": {"coordinates":[126.40167,38.72611],"type":"Point"}
+}

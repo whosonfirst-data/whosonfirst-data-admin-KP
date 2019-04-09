@@ -1,0 +1,69 @@
+{
+  "id": 1209491933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.16846,38.97663,126.16846,38.97663",
+    "geom:latitude":38.97663,
+    "geom:longitude":126.16846,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kangdong-gun",
+    "gn:asciiname":"Hungam",
+    "gn:country_code":"KP",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949881,
+    "gn:latitude":38.97663,
+    "gn:longitude":126.16846,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"H\u016dngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud765\uc554"
+    ],
+    "name:und_x_variant":[
+        "H\u016dngam",
+        "Heungam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949881
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"501cfde445f611c0a73896bac5caa110",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209491933
+        }
+    ],
+    "wof:id":1209491933,
+    "wof:lastmodified":1537655099,
+    "wof:name":"Hungam",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.16846,
+    38.97663,
+    126.16846,
+    38.97663
+],
+  "geometry": {"coordinates":[126.16846,38.97663],"type":"Point"}
+}

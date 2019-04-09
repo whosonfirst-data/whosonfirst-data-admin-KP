@@ -1,0 +1,70 @@
+{
+  "id": 1343747831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.69222,38.53361,125.69222,38.53361",
+    "geom:latitude":38.53361,
+    "geom:longitude":125.69222,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Haedang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1925824,
+    "gn:latitude":38.53361,
+    "gn:longitude":125.69222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haedang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud574\ub2f9\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1925824
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b94b4b68c14949c48397820fa746200a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747117,
+            "locality_id":1343747831,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343747831,
+    "wof:lastmodified":1537655039,
+    "wof:name":"Haedang-ni",
+    "wof:parent_id":1108747117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.69222,
+    38.53361,
+    125.69222,
+    38.53361
+],
+  "geometry": {"coordinates":[125.69222000000001,38.53361],"type":"Point"}
+}

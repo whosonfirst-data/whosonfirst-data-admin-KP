@@ -1,0 +1,67 @@
+{
+  "id": 1276320945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.60889,39.72417,125.60889,39.72417",
+    "geom:latitude":39.72417,
+    "geom:longitude":125.60889,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ponghung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872412,
+    "gn:latitude":39.72417,
+    "gn:longitude":125.60889,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Pongh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872412
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5505826dd2a3bf9e07a5212b1012db3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747909,
+            "locality_id":1276320945,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276320945,
+    "wof:lastmodified":1536795598,
+    "wof:name":"Ponghung-ni",
+    "wof:parent_id":1108747909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.60889,
+    39.72417,
+    125.60889,
+    39.72417
+],
+  "geometry": {"coordinates":[125.60889,39.72417],"type":"Point"}
+}

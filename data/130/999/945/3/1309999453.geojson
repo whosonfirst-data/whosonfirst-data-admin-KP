@@ -1,0 +1,67 @@
+{
+  "id": 1309999453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64944,38.32694,126.64944,38.32694",
+    "geom:latitude":38.32694,
+    "geom:longitude":126.64944,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ch'ogu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931373,
+    "gn:latitude":38.32694,
+    "gn:longitude":126.64944,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Ch\u2019ogu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931373
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3681c1e2d0d5b3c2896f2d740de4649f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747189,
+            "locality_id":1309999453,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1309999453,
+    "wof:lastmodified":1536651893,
+    "wof:name":"Ch'ogu-dong",
+    "wof:parent_id":1108747189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64943999999998,
+    38.32694,
+    126.64943999999998,
+    38.32694
+],
+  "geometry": {"coordinates":[126.64943999999998,38.32694],"type":"Point"}
+}

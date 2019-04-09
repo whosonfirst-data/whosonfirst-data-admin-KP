@@ -1,0 +1,70 @@
+{
+  "id": 1259767311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.48013,39.03027,127.48013,39.03027",
+    "geom:latitude":39.03027,
+    "geom:longitude":127.48013,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sanghwasan-ni",
+    "gn:country_code":"KP",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871192,
+    "gn:latitude":39.03027,
+    "gn:longitude":127.48013,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sanghwasan-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\ud654\uc0b4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871192
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3d946a2397902355abf1303aa1cc3a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746845,
+            "locality_id":1259767311,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1259767311,
+    "wof:lastmodified":1537654417,
+    "wof:name":"Sanghwasan-ni",
+    "wof:parent_id":1108746845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.48013,
+    39.03027,
+    127.48013,
+    39.03027
+],
+  "geometry": {"coordinates":[127.48013,39.03027],"type":"Point"}
+}

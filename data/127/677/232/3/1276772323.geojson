@@ -1,0 +1,71 @@
+{
+  "id": 1276772323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.6675,40.49667,125.6675,40.49667",
+    "geom:latitude":40.49667,
+    "geom:longitude":125.6675,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Paekse-ri",
+    "gn:country_code":"KP",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282344,
+    "gn:latitude":40.49667,
+    "gn:longitude":125.6675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paekse-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc31\uc138\ub9ac",
+        "Paekse-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282344
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"46c6a444fe645e084ddf42bba0f94f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1276772323,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1276772323,
+    "wof:lastmodified":1537655769,
+    "wof:name":"Paekse-ri",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.6675,
+    40.49667,
+    125.6675,
+    40.49667
+],
+  "geometry": {"coordinates":[125.6675,40.49667],"type":"Point"}
+}

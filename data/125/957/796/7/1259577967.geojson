@@ -1,0 +1,72 @@
+{
+  "id": 1259577967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.30667,37.87222,126.30667,37.87222",
+    "geom:latitude":37.87222,
+    "geom:longitude":126.30667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Paech\u2019\u014fn-gun",
+    "gn:asciiname":"Tongbyo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867957,
+    "gn:latitude":37.87222,
+    "gn:longitude":126.30667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tongby\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tongby\u014flli",
+        "Tongby\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867957
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6ef0da43243069de08d6c5b252633b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747905,
+            "locality_id":1259577967,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259577967,
+    "wof:lastmodified":1537654257,
+    "wof:name":"Tongbyo-ri",
+    "wof:parent_id":1108747905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.30667,
+    37.87222,
+    126.30667,
+    37.87222
+],
+  "geometry": {"coordinates":[126.30667,37.87222],"type":"Point"}
+}

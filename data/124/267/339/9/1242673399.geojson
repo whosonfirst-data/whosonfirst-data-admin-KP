@@ -1,0 +1,73 @@
+{
+  "id": 1242673399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4525,38.45861,126.4525,38.45861",
+    "geom:latitude":38.45861,
+    "geom:longitude":126.4525,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sin'gwi-dong",
+    "gn:country_code":"KP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891396,
+    "gn:latitude":38.45861,
+    "gn:longitude":126.4525,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sin\u2019gwi-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uadc0\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Sin\u2019gwi-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891396
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9ba2221e4b33fbe35d59132696e5c9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747923,
+            "locality_id":1242673399,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1242673399,
+    "wof:lastmodified":1537654980,
+    "wof:name":"Sin'gwi-dong",
+    "wof:parent_id":1108747923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4525,
+    38.45861,
+    126.4525,
+    38.45861
+],
+  "geometry": {"coordinates":[126.4525,38.45861],"type":"Point"}
+}

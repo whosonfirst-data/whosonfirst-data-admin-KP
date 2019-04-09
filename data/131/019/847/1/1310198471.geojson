@@ -1,0 +1,73 @@
+{
+  "id": 1310198471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7,38.61667,125.7,38.61667",
+    "geom:latitude":38.61667,
+    "geom:longitude":125.7,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kup'o-ri",
+    "gn:country_code":"KP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875169,
+    "gn:latitude":38.61667,
+    "gn:longitude":125.7,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kup\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ud3ec\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Kup\u2019o-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875169
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5f2da00d04866b7e3941b8f0ada481bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747117,
+            "locality_id":1310198471,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310198471,
+    "wof:lastmodified":1537654612,
+    "wof:name":"Kup'o-ri",
+    "wof:parent_id":1108747117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7,
+    38.61667,
+    125.7,
+    38.61667
+],
+  "geometry": {"coordinates":[125.7,38.61667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360067701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.95222,39.31611,125.95222,39.31611",
+    "geom:latitude":39.31611,
+    "geom:longitude":125.95222,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kyedong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1921134,
+    "gn:latitude":39.31611,
+    "gn:longitude":125.95222,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Kyedong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1921134
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"99380e7d93ea5ae830173bd23757ef96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747949,
+            "locality_id":1360067701,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1360067701,
+    "wof:lastmodified":1536970433,
+    "wof:name":"Kyedong-ni",
+    "wof:parent_id":1108747949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.95222,
+    39.31611,
+    125.95222,
+    39.31611
+],
+  "geometry": {"coordinates":[125.95222,39.31611],"type":"Point"}
+}

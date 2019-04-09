@@ -1,0 +1,65 @@
+{
+  "id": 1209315845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9225,40.11556,127.9225,40.11556",
+    "geom:latitude":40.11556,
+    "geom:longitude":127.9225,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Panggye-ri",
+    "gn:country_code":"KP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302695,
+    "gn:latitude":40.11556,
+    "gn:longitude":127.9225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Panggye-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc29\uacc4\ub9ac",
+        "Panggye-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302695
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"252e44e8219377b5a327848d99aca73f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209315845
+        }
+    ],
+    "wof:id":1209315845,
+    "wof:lastmodified":1537655818,
+    "wof:name":"Panggye-ri",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9225,
+    40.11556,
+    127.9225,
+    40.11556
+],
+  "geometry": {"coordinates":[127.9225,40.11556],"type":"Point"}
+}

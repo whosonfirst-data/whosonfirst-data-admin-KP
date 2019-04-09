@@ -1,0 +1,62 @@
+{
+  "id": 1209024751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.47833,38.38722,127.47833,38.38722",
+    "geom:latitude":38.38722,
+    "geom:longitude":127.47833,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1875980",
+    "gn:asciiname":"Sangjom",
+    "gn:country_code":"KP",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948507,
+    "gn:latitude":38.38722,
+    "gn:longitude":127.47833,
+    "gn:modification_date":"2000-06-07",
+    "gn:name":"Sangj\u014fm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948507
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b2d335c3d3821bdf869910b3bfeb4da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209024751
+        }
+    ],
+    "wof:id":1209024751,
+    "wof:lastmodified":1536300036,
+    "wof:name":"Sangjom",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.47833,
+    38.38722,
+    127.47833,
+    38.38722
+],
+  "geometry": {"coordinates":[127.47833,38.38722],"type":"Point"}
+}

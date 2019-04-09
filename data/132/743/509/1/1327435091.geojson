@@ -1,0 +1,83 @@
+{
+  "id": 1327435091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63667,40.59944,126.63667,40.59944",
+    "geom:latitude":40.59944,
+    "geom:longitude":126.63667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nolmaegi-maul",
+    "gn:country_code":"KP",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302212,
+    "gn:latitude":40.59944,
+    "gn:longitude":126.63667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u014flmaegi-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "N\u014flmaegi-ma\u016dl"
+    ],
+    "name:kor_x_variant":[
+        "\ub110\ub9e4\uae30\ub9c8\uc744",
+        "P\u2019anmakch\u2019am",
+        "N\u014flmak-ma\u016dl",
+        "\ud310\ub9c9\ucc38",
+        "\ub110\ub9c9\ub9c8\uc744",
+        "P\u2019anmak",
+        "\ud310\ub9c9"
+    ],
+    "name:und_x_variant":[
+        "\ud310\ub9c9",
+        "P\u2019anmak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302212
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f1cafcca16dd5796175d7aa6b6b22e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747103,
+            "locality_id":1327435091,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1327435091,
+    "wof:lastmodified":1537655792,
+    "wof:name":"Nolmaegi-maul",
+    "wof:parent_id":1108747103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63667,
+    40.59944,
+    126.63667,
+    40.59944
+],
+  "geometry": {"coordinates":[126.63667,40.59944],"type":"Point"}
+}

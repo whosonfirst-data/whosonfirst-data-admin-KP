@@ -1,0 +1,67 @@
+{
+  "id": 1327306737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.49667,39.05861,125.49667,39.05861",
+    "geom:latitude":39.05861,
+    "geom:longitude":125.49667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sin-dong",
+    "gn:country_code":"KP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870605,
+    "gn:latitude":39.05861,
+    "gn:longitude":125.49667,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Sin-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870605
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3904db1538d7dc575f757d959f2dba26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748039,
+            "locality_id":1327306737,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1327306737,
+    "wof:lastmodified":1536860971,
+    "wof:name":"Sin-dong",
+    "wof:parent_id":1108748039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.49667,
+    39.05861,
+    125.49667,
+    39.05861
+],
+  "geometry": {"coordinates":[125.49666999999999,39.05861],"type":"Point"}
+}

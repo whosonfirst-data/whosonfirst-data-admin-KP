@@ -1,0 +1,68 @@
+{
+  "id": 1293866255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.59972,39.29917,125.59972,39.29917",
+    "geom:latitude":39.29917,
+    "geom:longitude":125.59972,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"P\u2019\u014fngw\u014fn-gun",
+    "gn:asciiname":"Sadok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889656,
+    "gn:latitude":39.29917,
+    "gn:longitude":125.59972,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Sad\u014fk-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889656
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"580e3af33a5e8a41a596c52813f27b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747925,
+            "locality_id":1293866255,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1293866255,
+    "wof:lastmodified":1536738152,
+    "wof:name":"Sadok-tong",
+    "wof:parent_id":1108747925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.59972,
+    39.29917,
+    125.59972,
+    39.29917
+],
+  "geometry": {"coordinates":[125.59972,39.29917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327428695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.53139,38.02,125.53139,38.02",
+    "geom:latitude":38.02,
+    "geom:longitude":125.53139,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"T'ongsan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867727,
+    "gn:latitude":38.02,
+    "gn:longitude":125.53139,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"T\u2019ongsan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867727
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d82e5b65e280c62e708e776b9ae8ceb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747921,
+            "locality_id":1327428695,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1327428695,
+    "wof:lastmodified":1536686191,
+    "wof:name":"T'ongsan-dong",
+    "wof:parent_id":1108747921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.53139,
+    38.02,
+    125.53139,
+    38.02
+],
+  "geometry": {"coordinates":[125.53139,38.02],"type":"Point"}
+}

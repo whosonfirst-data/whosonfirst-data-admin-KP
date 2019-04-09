@@ -1,0 +1,75 @@
+{
+  "id": 1343430869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57139,38.76833,125.57139,38.76833",
+    "geom:latitude":38.76833,
+    "geom:longitude":125.57139,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kiryang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875952,
+    "gn:latitude":38.76833,
+    "gn:longitude":125.57139,
+    "gn:modification_date":"2003-05-20",
+    "gn:name":"Kiryang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747969,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875952
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e864e4c98cbc8c39d8f7ecc49e853455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1343430869,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1343430869,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1343430869,
+    "wof:lastmodified":1536789504,
+    "wof:name":"Kiryang-dong",
+    "wof:parent_id":1108747969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57139,
+    38.76833,
+    125.57139,
+    38.76833
+],
+  "geometry": {"coordinates":[125.57138999999999,38.76833],"type":"Point"}
+}

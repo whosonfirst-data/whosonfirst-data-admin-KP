@@ -1,0 +1,74 @@
+{
+  "id": 1226334455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.30278,37.9175,126.30278,37.9175",
+    "geom:latitude":37.9175,
+    "geom:longitude":126.30278,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Paech\u014fn-gun",
+    "gn:asciiname":"Hyongje-dong",
+    "gn:country_code":"KP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876739,
+    "gn:latitude":37.9175,
+    "gn:longitude":126.30278,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Hy\u014fngje-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud615\uc81c\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Hy\u014fngje-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876739
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ba870f1fb711437ca280a8d2e822a26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747905,
+            "locality_id":1226334455,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1226334455,
+    "wof:lastmodified":1537654702,
+    "wof:name":"Hyongje-dong",
+    "wof:parent_id":1108747905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.30278,
+    37.9175,
+    126.30278,
+    37.9175
+],
+  "geometry": {"coordinates":[126.30278,37.9175],"type":"Point"}
+}

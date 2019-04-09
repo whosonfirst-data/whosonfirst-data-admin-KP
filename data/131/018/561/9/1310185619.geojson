@@ -1,0 +1,73 @@
+{
+  "id": 1310185619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.22444,39.70667,125.22444,39.70667",
+    "geom:latitude":39.70667,
+    "geom:longitude":125.22444,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Toksan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868076,
+    "gn:latitude":39.70667,
+    "gn:longitude":125.22444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u014fksan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uc0b0\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "T\u014fksan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868076
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"db50344e87d596289f9bb4d4b6fb0cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747793,
+            "locality_id":1310185619,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1310185619,
+    "wof:lastmodified":1537654263,
+    "wof:name":"Toksan-dong",
+    "wof:parent_id":1108747793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.22444,
+    39.70667,
+    125.22444,
+    39.70667
+],
+  "geometry": {"coordinates":[125.22444,39.70667],"type":"Point"}
+}

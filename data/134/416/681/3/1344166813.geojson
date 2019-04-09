@@ -1,0 +1,73 @@
+{
+  "id": 1344166813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.55444,39.73222,125.55444,39.73222",
+    "geom:latitude":39.73222,
+    "geom:longitude":125.55444,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"In'gong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892065,
+    "gn:latitude":39.73222,
+    "gn:longitude":125.55444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"In\u2019gong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc778\uace1\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "In\u2019gong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892065
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"87084692a177ca9806aa52cfae9c575c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747909,
+            "locality_id":1344166813,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1344166813,
+    "wof:lastmodified":1537655011,
+    "wof:name":"In'gong-ni",
+    "wof:parent_id":1108747909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.55444,
+    39.73222,
+    125.55444,
+    39.73222
+],
+  "geometry": {"coordinates":[125.55444,39.73222],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 85902761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":248185.059838,
+    "geom:bbox":"125.749109,39.021303,125.749109,39.021303",
+    "geom:latitude":39.021303,
+    "geom:longitude":125.749109,
+    "gn:id":"",
+    "iso:country":"KP",
+    "lbl:latitude":39.021303,
+    "lbl:longitude":125.749109,
+    "mps:latitude":39.022704,
+    "mps:longitude":125.749115,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_colloquial":[
+        "Tongdaewon-ni"
+    ],
+    "name:eng_x_preferred":[
+        "Tongdaew\u014fn-ni"
+    ],
+    "name:unk_x_variant":[
+        "Tongdaew\u014fn-ni"
+    ],
+    "qs:gn_adm0_cc":"KP",
+    "qs:gn_id":0,
+    "qs:gn_local":1871859,
+    "qs:gn_nam_loc":"Pyongyang",
+    "qs:gn_namadm1":"15",
+    "qs:local_max":3808,
+    "qs:local_sum":10152,
+    "qs:localhoods":11,
+    "qs:name":"Tongdaew\u014fn-ni",
+    "qs:name_adm0":"North Korea",
+    "qs:name_adm1":"P\u00b4yongyang-si",
+    "qs:name_local":"Pyongyang",
+    "qs:photo_max":351,
+    "qs:photo_sum":2198,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424865,
+    "qs:woe_adm1":20070115,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1079132,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        1108747951,
+        85676611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1089585,
+        "qs:id":1107406,
+        "qs_pg:id":1107406
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d27dd671549879d2046f6a1413c55aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":-1,
+            "neighbourhood_id":85902761,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":85902761,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935940,
+    "wof:name":"Tongdaew\u014fn-ni",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.749109,
+    39.021303,
+    125.749109,
+    39.021303
+],
+  "geometry": {"coordinates":[125.749109,39.021303],"type":"Point"}
+}

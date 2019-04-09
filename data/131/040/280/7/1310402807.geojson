@@ -1,0 +1,68 @@
+{
+  "id": 1310402807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.33722,37.98917,126.33722,37.98917",
+    "geom:latitude":37.98917,
+    "geom:longitude":126.33722,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Paech\u014fn-gun",
+    "gn:asciiname":"Paesan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872844,
+    "gn:latitude":37.98917,
+    "gn:longitude":126.33722,
+    "gn:modification_date":"2000-12-29",
+    "gn:name":"Paesan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872844
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e34d63f72f2d73b7d6feca8799e2a8de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747905,
+            "locality_id":1310402807,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310402807,
+    "wof:lastmodified":1537062396,
+    "wof:name":"Paesan-dong",
+    "wof:parent_id":1108747905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.33722,
+    37.98917,
+    126.33722,
+    37.98917
+],
+  "geometry": {"coordinates":[126.33722,37.98917],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225825779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.87806,39.98028,124.87806,39.98028",
+    "geom:latitude":39.98028,
+    "geom:longitude":124.87806,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sinbyok",
+    "gn:country_code":"KP",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870722,
+    "gn:latitude":39.98028,
+    "gn:longitude":124.87806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinby\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Sinby\u014fk"
+    ],
+    "name:kor_x_variant":[
+        "\uc2e0\ubcbd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870722
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"80582113f6437d00bb0a62615600aec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747199,
+            "locality_id":1225825779,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1225825779,
+    "wof:lastmodified":1537654394,
+    "wof:name":"Sinbyok",
+    "wof:parent_id":1108747199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.87806,
+    39.98028,
+    124.87806,
+    39.98028
+],
+  "geometry": {"coordinates":[124.87806,39.98028],"type":"Point"}
+}

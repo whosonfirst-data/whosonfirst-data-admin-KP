@@ -1,0 +1,75 @@
+{
+  "id": 1242640873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.36528,42.15917,129.36528,42.15917",
+    "geom:latitude":42.15917,
+    "geom:longitude":129.36528,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"P'ungsal-li",
+    "gn:country_code":"KP",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2041730,
+    "gn:latitude":42.15917,
+    "gn:longitude":129.36528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019ungsal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u014fzan-d\u014f",
+        "P\u2019ungsan-dong",
+        "P\u2019ungsan-ni",
+        "Nishi-h\u014fzan",
+        "\ud48d\uc0b0\ub9ac",
+        "P\u2019ungsal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041730
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e9bcbacffd80073388f5b5f45b947887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747013,
+            "locality_id":1242640873,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1242640873,
+    "wof:lastmodified":1537655304,
+    "wof:name":"P'ungsal-li",
+    "wof:parent_id":1108747013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.36528,
+    42.15917,
+    129.36528,
+    42.15917
+],
+  "geometry": {"coordinates":[129.36528000000001,42.15917],"type":"Point"}
+}

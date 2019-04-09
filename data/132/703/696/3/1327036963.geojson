@@ -1,0 +1,71 @@
+{
+  "id": 1327036963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.76278,40.30333,127.76278,40.30333",
+    "geom:latitude":40.30333,
+    "geom:longitude":127.76278,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chonggae-gol",
+    "gn:country_code":"KP",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302371,
+    "gn:latitude":40.30333,
+    "gn:longitude":127.76278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u014fnggae-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc815\uac1c\uace8",
+        "Ch\u014fnggae-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302371
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"928aea1a0e87b23a323d8004a7e0602d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747129,
+            "locality_id":1327036963,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1327036963,
+    "wof:lastmodified":1537655801,
+    "wof:name":"Chonggae-gol",
+    "wof:parent_id":1108747129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.76278,
+    40.30333,
+    127.76278,
+    40.30333
+],
+  "geometry": {"coordinates":[127.76278000000001,40.30333],"type":"Point"}
+}

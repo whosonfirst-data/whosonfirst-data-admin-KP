@@ -1,0 +1,73 @@
+{
+  "id": 1276541183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.26444,38.30722,125.26444,38.30722",
+    "geom:latitude":38.30722,
+    "geom:longitude":125.26444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soch'a-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870210,
+    "gn:latitude":38.30722,
+    "gn:longitude":125.26444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Soch\u2019a-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc18c\ucc28\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Soch\u2019a-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870210
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"216786e9e13aac64de2c5e598b5aa3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747109,
+            "locality_id":1276541183,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276541183,
+    "wof:lastmodified":1537654369,
+    "wof:name":"Soch'a-ch'on",
+    "wof:parent_id":1108747109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.26444,
+    38.30722,
+    125.26444,
+    38.30722
+],
+  "geometry": {"coordinates":[125.26443999999999,38.30722],"type":"Point"}
+}

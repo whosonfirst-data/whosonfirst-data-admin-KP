@@ -1,0 +1,73 @@
+{
+  "id": 1226017677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5475,39.70611,126.5475,39.70611",
+    "geom:latitude":39.70611,
+    "geom:longitude":126.5475,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pukch'ang",
+    "gn:country_code":"KP",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892090,
+    "gn:latitude":39.70611,
+    "gn:longitude":126.5475,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Pukch\u2019ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd81\ucc3d"
+    ],
+    "name:und_x_variant":[
+        "Pukch\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892090
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"86683942d469f0b8fb7aa9864f5dff97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747005,
+            "locality_id":1226017677,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1226017677,
+    "wof:lastmodified":1537655012,
+    "wof:name":"Pukch'ang",
+    "wof:parent_id":1108747005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5475,
+    39.70611,
+    126.5475,
+    39.70611
+],
+  "geometry": {"coordinates":[126.5475,39.70611],"type":"Point"}
+}

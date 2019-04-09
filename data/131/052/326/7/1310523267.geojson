@@ -1,0 +1,70 @@
+{
+  "id": 1310523267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.80472,38.13222,125.80472,38.13222",
+    "geom:latitude":38.13222,
+    "geom:longitude":125.80472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hayang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877222,
+    "gn:latitude":38.13222,
+    "gn:longitude":125.80472,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Hayang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\uc591\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877222
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"31302033b6299dac867328b3e1d5b655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748009,
+            "locality_id":1310523267,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310523267,
+    "wof:lastmodified":1537654729,
+    "wof:name":"Hayang-dong",
+    "wof:parent_id":1108748009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.80472,
+    38.13222,
+    125.80472,
+    38.13222
+],
+  "geometry": {"coordinates":[125.80472,38.13222],"type":"Point"}
+}

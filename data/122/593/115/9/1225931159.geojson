@@ -1,0 +1,75 @@
+{
+  "id": 1225931159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.05159,39.68824,125.05159,39.68824",
+    "geom:latitude":39.68824,
+    "geom:longitude":125.05159,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Omjang-burak",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873206,
+    "gn:latitude":39.68824,
+    "gn:longitude":125.05159,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"\u014emjang-burak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5c4\uc7a5\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "\u014emjang-ni",
+        "\u014emjang-burak",
+        "\uc5c4\uc7a5\ubd80\ub77d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873206
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2ef2eec545303c336c289a0e5f9feee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1225931159,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1225931159,
+    "wof:lastmodified":1537654521,
+    "wof:name":"Omjang-burak",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.05159,
+    39.68824,
+    125.05159,
+    39.68824
+],
+  "geometry": {"coordinates":[125.05159,39.68824],"type":"Point"}
+}

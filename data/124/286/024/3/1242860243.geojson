@@ -1,0 +1,67 @@
+{
+  "id": 1242860243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.0875,38.59667,126.0875,38.59667",
+    "geom:latitude":38.59667,
+    "geom:longitude":126.0875,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Songmun",
+    "gn:country_code":"KP",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891097,
+    "gn:latitude":38.59667,
+    "gn:longitude":126.0875,
+    "gn:modification_date":"2003-03-31",
+    "gn:name":"S\u014fngmun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891097
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8d278d4b30a810b16077e287f1e75108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747063,
+            "locality_id":1242860243,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1242860243,
+    "wof:lastmodified":1536656667,
+    "wof:name":"Songmun",
+    "wof:parent_id":1108747063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.0875,
+    38.59667,
+    126.0875,
+    38.59667
+],
+  "geometry": {"coordinates":[126.08750000000001,38.59667],"type":"Point"}
+}

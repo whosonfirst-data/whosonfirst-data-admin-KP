@@ -1,0 +1,67 @@
+{
+  "id": 1276740593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.79778,39.78167,125.79778,39.78167",
+    "geom:latitude":39.78167,
+    "geom:longitude":125.79778,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pongmu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6270226,
+    "gn:latitude":39.78167,
+    "gn:longitude":125.79778,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Pongmu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6270226
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5236920561682379aaa2621ffe669d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747023,
+            "locality_id":1276740593,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276740593,
+    "wof:lastmodified":1536730571,
+    "wof:name":"Pongmu-dong",
+    "wof:parent_id":1108747023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.79778,
+    39.78167,
+    125.79778,
+    39.78167
+],
+  "geometry": {"coordinates":[125.79778,39.78167],"type":"Point"}
+}

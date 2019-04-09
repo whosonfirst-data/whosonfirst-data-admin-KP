@@ -1,0 +1,65 @@
+{
+  "id": 1209315851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1187,40.04664,128.1187,40.04664",
+    "geom:latitude":40.04664,
+    "geom:longitude":128.1187,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wonho-ri",
+    "gn:country_code":"KP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330296,
+    "gn:latitude":40.04664,
+    "gn:longitude":128.1187,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"W\u014fnho-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u014fnho-ri",
+        "\uc6d0\ud638\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330296
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8106a34d5d1a05ca96ab96e7c4739733",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209315851
+        }
+    ],
+    "wof:id":1209315851,
+    "wof:lastmodified":1537655946,
+    "wof:name":"Wonho-ri",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1187,
+    40.04664,
+    128.1187,
+    40.04664
+],
+  "geometry": {"coordinates":[128.11869999999999,40.04664],"type":"Point"}
+}

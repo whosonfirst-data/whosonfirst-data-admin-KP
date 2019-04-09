@@ -1,0 +1,67 @@
+{
+  "id": 1193004075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6525,38.26611,126.6525,38.26611",
+    "geom:latitude":38.26611,
+    "geom:longitude":126.6525,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kwan-gol",
+    "gn:country_code":"KP",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874958,
+    "gn:latitude":38.26611,
+    "gn:longitude":126.6525,
+    "gn:modification_date":"2003-03-04",
+    "gn:name":"Kwan-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874958
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2e258249d6ca7d0994993b0afa379fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747189,
+            "locality_id":1193004075,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1193004075,
+    "wof:lastmodified":1536367284,
+    "wof:name":"Kwan-gol",
+    "wof:parent_id":1108747189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6525,
+    38.26611,
+    126.6525,
+    38.26611
+],
+  "geometry": {"coordinates":[126.6525,38.26611],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310271371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.92333,41.93861,129.92333,41.93861",
+    "geom:latitude":41.93861,
+    "geom:longitude":129.92333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"Ch'\u014fngam-guy\u014fk, Ch'\u014fngjin-si",
+    "gn:asciiname":"Yongnam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039049,
+    "gn:latitude":41.93861,
+    "gn:longitude":129.92333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongnam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\ub0a8\ub3d9",
+        "Yongnam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039049
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2e887dcbb97f09afc93dadd99543d1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746863,
+            "locality_id":1310271371,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1310271371,
+    "wof:lastmodified":1537655146,
+    "wof:name":"Yongnam-dong",
+    "wof:parent_id":1108746863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.92333,
+    41.93861,
+    129.92333,
+    41.93861
+],
+  "geometry": {"coordinates":[129.92332999999999,41.93861],"type":"Point"}
+}

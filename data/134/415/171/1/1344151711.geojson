@@ -1,0 +1,72 @@
+{
+  "id": 1344151711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.33306,38.18722,126.33306,38.18722",
+    "geom:latitude":38.18722,
+    "geom:longitude":126.33306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ch'adol-gol",
+    "gn:country_code":"KP",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890608,
+    "gn:latitude":38.18722,
+    "gn:longitude":126.33306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019adol-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019adol-kol",
+        "\ucc28\ub3cc\uace8",
+        "Ch\u2019adol-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890608
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c20c39af59ad94cef686f92556d3ceaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747061,
+            "locality_id":1344151711,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1344151711,
+    "wof:lastmodified":1537654960,
+    "wof:name":"Ch'adol-gol",
+    "wof:parent_id":1108747061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.33306,
+    38.18722,
+    126.33306,
+    38.18722
+],
+  "geometry": {"coordinates":[126.33306,38.18722],"type":"Point"}
+}

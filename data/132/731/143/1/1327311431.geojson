@@ -1,0 +1,75 @@
+{
+  "id": 1327311431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.57139,40.07583,124.57139,40.07583",
+    "geom:latitude":40.07583,
+    "geom:longitude":124.57139,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Paengma-nodongjagu",
+    "gn:country_code":"KP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042136,
+    "gn:latitude":40.07583,
+    "gn:longitude":124.57139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paengma-nodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hakuba",
+        "Paengma",
+        "Paekwa",
+        "\ubc31\ub9c8\ub85c\ub3d9\uc790\uad6c",
+        "Paengma-ri",
+        "Paengma-nodongjagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042136
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0046dd1651d843a58a3f72fee2bfd86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747047,
+            "locality_id":1327311431,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1327311431,
+    "wof:lastmodified":1537655327,
+    "wof:name":"Paengma-nodongjagu",
+    "wof:parent_id":1108747047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.57139,
+    40.07583,
+    124.57139,
+    40.07583
+],
+  "geometry": {"coordinates":[124.57138999999999,40.07583],"type":"Point"}
+}

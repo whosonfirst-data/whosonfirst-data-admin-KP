@@ -1,0 +1,67 @@
+{
+  "id": 1209998899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.26833,39.08083,125.26833,39.08083",
+    "geom:latitude":39.08083,
+    "geom:longitude":125.26833,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pukchoap",
+    "gn:country_code":"KP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889025,
+    "gn:latitude":39.08083,
+    "gn:longitude":125.26833,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Pukchoap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889025
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b8b3391d67d82a4eb21f59da4f35e6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747801,
+            "locality_id":1209998899,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1209998899,
+    "wof:lastmodified":1536380865,
+    "wof:name":"Pukchoap",
+    "wof:parent_id":1108747801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.26833,
+    39.08083,
+    125.26833,
+    39.08083
+],
+  "geometry": {"coordinates":[125.26833000000001,39.08083],"type":"Point"}
+}

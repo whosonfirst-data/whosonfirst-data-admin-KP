@@ -1,0 +1,62 @@
+{
+  "id": 1209184077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.16583,39.715,126.16583,39.715",
+    "geom:latitude":39.715,
+    "geom:longitude":126.16583,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"T\u014fkch\u2019\u014fn-si",
+    "gn:asciiname":"Kun-gol",
+    "gn:country_code":"KP",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892275,
+    "gn:latitude":39.715,
+    "gn:longitude":126.16583,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"K\u016dn-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892275
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2f0788a018bdb15186f716a0dc237a0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209184077
+        }
+    ],
+    "wof:id":1209184077,
+    "wof:lastmodified":1536295161,
+    "wof:name":"Kun-gol",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.16583,
+    39.715,
+    126.16583,
+    39.715
+],
+  "geometry": {"coordinates":[126.16583,39.715],"type":"Point"}
+}

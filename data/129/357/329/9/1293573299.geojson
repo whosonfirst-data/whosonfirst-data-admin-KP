@@ -1,0 +1,75 @@
+{
+  "id": 1293573299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.26083,38.60139,128.26083,38.60139",
+    "geom:latitude":38.60139,
+    "geom:longitude":128.26083,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Pohyol-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872546,
+    "gn:latitude":38.60139,
+    "gn:longitude":128.26083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pohy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf4\ud604\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Pohy\u014fn-ni",
+        "Pohy\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872546
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"86873147fd705ef3d2cfec2890318480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746975,
+            "locality_id":1293573299,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1293573299,
+    "wof:lastmodified":1537654487,
+    "wof:name":"Pohyol-li",
+    "wof:parent_id":1108746975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.26083,
+    38.60139,
+    128.26083,
+    38.60139
+],
+  "geometry": {"coordinates":[128.26083,38.60139],"type":"Point"}
+}

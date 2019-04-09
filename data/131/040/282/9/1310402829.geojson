@@ -1,0 +1,67 @@
+{
+  "id": 1310402829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.19194,38.03972,126.19194,38.03972",
+    "geom:latitude":38.03972,
+    "geom:longitude":126.19194,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Osan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947507,
+    "gn:latitude":38.03972,
+    "gn:longitude":126.19194,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Osan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947507
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fa24274627274f226141cb82fd6a7633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747905,
+            "locality_id":1310402829,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310402829,
+    "wof:lastmodified":1537062364,
+    "wof:name":"Osan-dong",
+    "wof:parent_id":1108747905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.19194,
+    38.03972,
+    126.19194,
+    38.03972
+],
+  "geometry": {"coordinates":[126.19194,38.03972],"type":"Point"}
+}

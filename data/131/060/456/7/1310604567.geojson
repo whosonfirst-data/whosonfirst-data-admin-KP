@@ -1,0 +1,71 @@
+{
+  "id": 1310604567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81028,41.735,126.81028,41.735",
+    "geom:latitude":41.735,
+    "geom:longitude":126.81028,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sanggubae",
+    "gn:country_code":"KP",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049480,
+    "gn:latitude":41.735,
+    "gn:longitude":126.81028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sanggubae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\uad6c\ubc30",
+        "Sanggubae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049480
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9dd811730ce7b74da24468f57d5bd474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747797,
+            "locality_id":1310604567,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1310604567,
+    "wof:lastmodified":1537655560,
+    "wof:name":"Sanggubae",
+    "wof:parent_id":1108747797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81028,
+    41.735,
+    126.81028,
+    41.735
+],
+  "geometry": {"coordinates":[126.81028000000001,41.735],"type":"Point"}
+}

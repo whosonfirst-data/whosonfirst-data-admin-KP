@@ -1,0 +1,72 @@
+{
+  "id": 1243343095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.80502,38.97757,125.80502,38.97757",
+    "geom:latitude":38.97757,
+    "geom:longitude":125.80502,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chwagae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877727,
+    "gn:latitude":38.97757,
+    "gn:longitude":125.80502,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Chwagae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc88c\uac1c\ub3d9",
+        "Chwagae-dong",
+        "Jwagaedong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877727
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8dd61a480d3cde9c22bf4170d3184f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1243343095,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1243343095,
+    "wof:lastmodified":1537654758,
+    "wof:name":"Chwagae-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.80502,
+    38.97757,
+    125.80502,
+    38.97757
+],
+  "geometry": {"coordinates":[125.80502,38.97757],"type":"Point"}
+}

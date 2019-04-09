@@ -1,0 +1,65 @@
+{
+  "id": 1209323885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75917,41.13972,126.75917,41.13972",
+    "geom:latitude":41.13972,
+    "geom:longitude":126.75917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sobaek-tong",
+    "gn:country_code":"KP",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302320,
+    "gn:latitude":41.13972,
+    "gn:longitude":126.75917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sobaek-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc18c\ubc31\ub3d9",
+        "Sobaek-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302320
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2029e4c270172e6b1fd6cf349bc61e9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209323885
+        }
+    ],
+    "wof:id":1209323885,
+    "wof:lastmodified":1537655799,
+    "wof:name":"Sobaek-tong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75917,
+    41.13972,
+    126.75917,
+    41.13972
+],
+  "geometry": {"coordinates":[126.75917,41.13972],"type":"Point"}
+}

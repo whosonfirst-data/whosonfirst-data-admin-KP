@@ -1,0 +1,70 @@
+{
+  "id": 1259486761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.44898,40.60464,126.44898,40.60464",
+    "geom:latitude":40.60464,
+    "geom:longitude":126.44898,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maesang",
+    "gn:country_code":"KP",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7624154,
+    "gn:latitude":40.60464,
+    "gn:longitude":126.44898,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Maesang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9e4\uc0c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7624154
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3287b30698bc87b0fe5889ca46be361d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747789,
+            "locality_id":1259486761,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1259486761,
+    "wof:lastmodified":1537655952,
+    "wof:name":"Maesang",
+    "wof:parent_id":1108747789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.44898,
+    40.60464,
+    126.44898,
+    40.60464
+],
+  "geometry": {"coordinates":[126.44898000000001,40.60464],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276956025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.08917,39.83056,125.08917,39.83056",
+    "geom:latitude":39.83056,
+    "geom:longitude":125.08917,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Torumae",
+    "gn:country_code":"KP",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867638,
+    "gn:latitude":39.83056,
+    "gn:longitude":125.08917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Torumae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ub8e8\ub9e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867638
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"46160beacbe4a70c2ab649e9a9f0ee99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1276956025,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276956025,
+    "wof:lastmodified":1537654241,
+    "wof:name":"Torumae",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.08917,
+    39.83056,
+    125.08917,
+    39.83056
+],
+  "geometry": {"coordinates":[125.08917,39.83056],"type":"Point"}
+}

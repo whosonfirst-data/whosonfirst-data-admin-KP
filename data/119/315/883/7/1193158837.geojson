@@ -1,0 +1,67 @@
+{
+  "id": 1193158837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.18583,37.95528,126.18583,37.95528",
+    "geom:latitude":37.95528,
+    "geom:longitude":126.18583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Poktanch'i",
+    "gn:country_code":"KP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1930875,
+    "gn:latitude":37.95528,
+    "gn:longitude":126.18583,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Poktanch\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1930875
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8d876cd1d235ca0076f3ddfc6afd439a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1193158837,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1193158837,
+    "wof:lastmodified":1536370266,
+    "wof:name":"Poktanch'i",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.18583,
+    37.95528,
+    126.18583,
+    37.95528
+],
+  "geometry": {"coordinates":[126.18583,37.95528],"type":"Point"}
+}

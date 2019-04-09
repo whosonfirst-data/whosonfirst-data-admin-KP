@@ -1,0 +1,67 @@
+{
+  "id": 1209113149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.82889,39.89389,127.82889,39.89389",
+    "geom:latitude":39.89389,
+    "geom:longitude":127.82889,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"P'ungjung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872066,
+    "gn:latitude":39.89389,
+    "gn:longitude":127.82889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019ungjung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u014dch\u016b-ri",
+        "P\u2019ungjang-Ni",
+        "\ud48d\uc911\ub9ac",
+        "P\u2019ungjung-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872066
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"95cf035329a1568fbf827de0ea2763a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209113149
+        }
+    ],
+    "wof:id":1209113149,
+    "wof:lastmodified":1537654464,
+    "wof:name":"P'ungjung-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.82889,
+    39.89389,
+    127.82889,
+    39.89389
+],
+  "geometry": {"coordinates":[127.82889,39.89389],"type":"Point"}
+}

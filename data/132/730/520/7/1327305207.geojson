@@ -1,0 +1,76 @@
+{
+  "id": 1327305207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.15639,41.21056,128.15639,41.21056",
+    "geom:latitude":41.21056,
+    "geom:longitude":128.15639,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sadong-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041597,
+    "gn:latitude":41.21056,
+    "gn:longitude":128.15639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sadong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\ub3d9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Sodong-ni",
+        "S\u014fdang-ni",
+        "Sadong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041597
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6bdc2fc6ad3cf1f7c2a321136310e9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746953,
+            "locality_id":1327305207,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1327305207,
+    "wof:lastmodified":1537655295,
+    "wof:name":"Sadong-ni",
+    "wof:parent_id":1108746953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.15639,
+    41.21056,
+    128.15639,
+    41.21056
+],
+  "geometry": {"coordinates":[128.15638999999999,41.21056],"type":"Point"}
+}

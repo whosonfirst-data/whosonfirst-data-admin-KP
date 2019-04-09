@@ -1,0 +1,68 @@
+{
+  "id": 1310477665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.12889,41.93889,129.12889,41.93889",
+    "geom:latitude":41.93889,
+    "geom:longitude":129.12889,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"2038910",
+    "gn:asciiname":"Sosae-gol",
+    "gn:country_code":"KP",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049587,
+    "gn:latitude":41.93889,
+    "gn:longitude":129.12889,
+    "gn:modification_date":"2002-05-02",
+    "gn:name":"Sosae-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108748113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049587
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ae583a02a0bf846c478de7e1cb8a62a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748113,
+            "locality_id":1310477665,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1310477665,
+    "wof:lastmodified":1536957111,
+    "wof:name":"Sosae-gol",
+    "wof:parent_id":1108748113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.12888999999998,
+    41.93889,
+    129.12888999999998,
+    41.93889
+],
+  "geometry": {"coordinates":[129.12888999999998,41.93889],"type":"Point"}
+}

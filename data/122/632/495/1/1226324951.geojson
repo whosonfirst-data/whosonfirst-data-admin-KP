@@ -1,0 +1,71 @@
+{
+  "id": 1226324951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69917,39.91,126.69917,39.91",
+    "geom:latitude":39.91,
+    "geom:longitude":126.69917,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kodun-gol",
+    "gn:country_code":"KP",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6272823,
+    "gn:latitude":39.91,
+    "gn:longitude":126.69917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kod\u016dn-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace7\uc740\uace8",
+        "Kod\u016dn-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6272823
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b504c865d5d24407f184fe273b22b814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747025,
+            "locality_id":1226324951,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1226324951,
+    "wof:lastmodified":1537655680,
+    "wof:name":"Kodun-gol",
+    "wof:parent_id":1108747025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69917,
+    39.91,
+    126.69917,
+    39.91
+],
+  "geometry": {"coordinates":[126.69917,39.91],"type":"Point"}
+}

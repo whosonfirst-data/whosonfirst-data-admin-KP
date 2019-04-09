@@ -1,0 +1,61 @@
+{
+  "id": 1209512449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58639,38.15417,125.58639,38.15417",
+    "geom:latitude":38.15417,
+    "geom:longitude":125.58639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chongsan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878308,
+    "gn:latitude":38.15417,
+    "gn:longitude":125.58639,
+    "gn:modification_date":"2003-02-11",
+    "gn:name":"Ch\u014fngsan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878308
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"78f6e9be11d7d55f75b00518db1d35c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209512449
+        }
+    ],
+    "wof:id":1209512449,
+    "wof:lastmodified":1536284839,
+    "wof:name":"Chongsan-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58639,
+    38.15417,
+    125.58639,
+    38.15417
+],
+  "geometry": {"coordinates":[125.58638999999999,38.15417],"type":"Point"}
+}

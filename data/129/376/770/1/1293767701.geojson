@@ -1,0 +1,70 @@
+{
+  "id": 1293767701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88833,38.61111,126.88833,38.61111",
+    "geom:latitude":38.61111,
+    "geom:longitude":126.88833,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Pomi-gol",
+    "gn:country_code":"KP",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366766,
+    "gn:latitude":38.61111,
+    "gn:longitude":126.88833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pomi-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubcf4\ubbf8\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366766
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a868c9332e183a3478ab9319b399a204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747045,
+            "locality_id":1293767701,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1293767701,
+    "wof:lastmodified":1537655891,
+    "wof:name":"Pomi-gol",
+    "wof:parent_id":1108747045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88833,
+    38.61111,
+    126.88833,
+    38.61111
+],
+  "geometry": {"coordinates":[126.88833,38.61111],"type":"Point"}
+}

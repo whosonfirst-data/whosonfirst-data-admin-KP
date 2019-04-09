@@ -1,0 +1,72 @@
+{
+  "id": 1293508163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.58944,38.49889,127.58944,38.49889",
+    "geom:latitude":38.49889,
+    "geom:longitude":127.58944,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kamch'ol-li",
+    "gn:country_code":"KP",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882364,
+    "gn:latitude":38.49889,
+    "gn:longitude":127.58944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kamch\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamch\u2019\u014fn-ni",
+        "\uac10\ucc9c\ub9ac",
+        "Kamch\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882364
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d3b270eb614261d442733a8fa201f308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746967,
+            "locality_id":1293508163,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1293508163,
+    "wof:lastmodified":1537654875,
+    "wof:name":"Kamch'ol-li",
+    "wof:parent_id":1108746967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.58944,
+    38.49889,
+    127.58944,
+    38.49889
+],
+  "geometry": {"coordinates":[127.58944,38.49889],"type":"Point"}
+}

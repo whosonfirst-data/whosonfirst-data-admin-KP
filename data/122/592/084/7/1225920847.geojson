@@ -1,0 +1,80 @@
+{
+  "id": 1225920847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.84844,38.94756,125.84844,38.94756",
+    "geom:latitude":38.94756,
+    "geom:longitude":125.84844,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taphyon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868343,
+    "gn:latitude":38.94756,
+    "gn:longitude":125.84844,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Taphy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Taphy\u014fn-dong"
+    ],
+    "name:kor_x_variant":[
+        "\ub2f5\ud604\ub3d9",
+        "\ub17c\uc7ac"
+    ],
+    "name:und_x_variant":[
+        "\ub2f5\ud604\ub9ac",
+        "Taphy\u014fl-li",
+        "Nonjae",
+        "Daphyeondong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868343
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"951abb977aef167dccd17c53b19f4b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1225920847,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1225920847,
+    "wof:lastmodified":1537654278,
+    "wof:name":"Taphyon-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.84844,
+    38.94756,
+    125.84844,
+    38.94756
+],
+  "geometry": {"coordinates":[125.84844,38.94756],"type":"Point"}
+}

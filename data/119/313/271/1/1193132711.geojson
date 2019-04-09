@@ -1,0 +1,68 @@
+{
+  "id": 1193132711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34306,39.38722,127.34306,39.38722",
+    "geom:latitude":39.38722,
+    "geom:longitude":127.34306,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Ch\u2019\u014fnnae-gun",
+    "gn:asciiname":"Songjo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952990,
+    "gn:latitude":39.38722,
+    "gn:longitude":127.34306,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"S\u014fngj\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952990
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"660e910c15c8b63adbe6a1b3e415c8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746869,
+            "locality_id":1193132711,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1193132711,
+    "wof:lastmodified":1536374067,
+    "wof:name":"Songjo-ri",
+    "wof:parent_id":1108746869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34306,
+    39.38722,
+    127.34306,
+    39.38722
+],
+  "geometry": {"coordinates":[127.34305999999999,39.38722],"type":"Point"}
+}

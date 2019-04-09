@@ -1,0 +1,71 @@
+{
+  "id": 1327100945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.16278,40.61889,129.16278,40.61889",
+    "geom:latitude":40.61889,
+    "geom:longitude":129.16278,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mugyegok",
+    "gn:country_code":"KP",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2052022,
+    "gn:latitude":40.61889,
+    "gn:longitude":129.16278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mugyegok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb34\uacc4\uace1",
+        "Mugyegok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2052022
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e1630dc1fe5c919dd0df809e4235ac85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746957,
+            "locality_id":1327100945,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1327100945,
+    "wof:lastmodified":1537655617,
+    "wof:name":"Mugyegok",
+    "wof:parent_id":1108746957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.16278,
+    40.61889,
+    129.16278,
+    40.61889
+],
+  "geometry": {"coordinates":[129.16278,40.61889],"type":"Point"}
+}

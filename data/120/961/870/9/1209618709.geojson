@@ -1,0 +1,65 @@
+{
+  "id": 1209618709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.89222,40.715,125.89222,40.715",
+    "geom:latitude":40.715,
+    "geom:longitude":125.89222,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039896,
+    "gn:latitude":40.715,
+    "gn:longitude":125.89222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u014fk-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub355\ub3d9",
+        "T\u014fk-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039896
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"dc43eb90e0dcc3749974afc3b52fa13c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209618709
+        }
+    ],
+    "wof:id":1209618709,
+    "wof:lastmodified":1537655195,
+    "wof:name":"Tok-tong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.89222,
+    40.715,
+    125.89222,
+    40.715
+],
+  "geometry": {"coordinates":[125.89221999999999,40.715],"type":"Point"}
+}

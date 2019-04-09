@@ -1,0 +1,72 @@
+{
+  "id": 1327496851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.36917,40.96556,129.36917,40.96556",
+    "geom:latitude":40.96556,
+    "geom:longitude":129.36917,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yobal-gol",
+    "gn:country_code":"KP",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039272,
+    "gn:latitude":40.96556,
+    "gn:longitude":129.36917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u014fbal-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u014fbal-tong",
+        "\uc5ec\ubc1c\uace8",
+        "Y\u014fbal-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039272
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"98bc089ad5090e9195fc281207aa8e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747015,
+            "locality_id":1327496851,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1327496851,
+    "wof:lastmodified":1537655158,
+    "wof:name":"Yobal-gol",
+    "wof:parent_id":1108747015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.36917,
+    40.96556,
+    129.36917,
+    40.96556
+],
+  "geometry": {"coordinates":[129.36917,40.96556],"type":"Point"}
+}

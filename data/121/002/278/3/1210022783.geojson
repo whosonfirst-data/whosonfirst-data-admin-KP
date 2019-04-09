@@ -1,0 +1,72 @@
+{
+  "id": 1210022783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.81889,40.59194,128.81889,40.59194",
+    "geom:latitude":40.59194,
+    "geom:longitude":128.81889,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Unsung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044150,
+    "gn:latitude":40.59194,
+    "gn:longitude":128.81889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Uns\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hauns\u016dng-ni",
+        "\uc6b4\uc2b9\ub9ac",
+        "Uns\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044150
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0e49901597bc4adbec6368f17e51c5aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1210022783,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1210022783,
+    "wof:lastmodified":1537655440,
+    "wof:name":"Unsung-ni",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.81888999999998,
+    40.59194,
+    128.81888999999998,
+    40.59194
+],
+  "geometry": {"coordinates":[128.81888999999998,40.59194],"type":"Point"}
+}

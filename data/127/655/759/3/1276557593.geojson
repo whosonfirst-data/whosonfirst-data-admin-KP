@@ -1,0 +1,70 @@
+{
+  "id": 1276557593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.11667,40.43333,125.11667,40.43333",
+    "geom:latitude":40.43333,
+    "geom:longitude":125.11667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kanam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043594,
+    "gn:latitude":40.43333,
+    "gn:longitude":125.11667,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kanam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub0a8\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043594
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c50e0c208b70817f30297eaa7b313343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747721,
+            "locality_id":1276557593,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276557593,
+    "wof:lastmodified":1537655408,
+    "wof:name":"Kanam-ni",
+    "wof:parent_id":1108747721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.11667,
+    40.43333,
+    125.11667,
+    40.43333
+],
+  "geometry": {"coordinates":[125.11667,40.43333],"type":"Point"}
+}

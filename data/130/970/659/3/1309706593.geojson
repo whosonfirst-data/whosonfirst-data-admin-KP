@@ -1,0 +1,72 @@
+{
+  "id": 1309706593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.30917,38.565,127.30917,38.565",
+    "geom:latitude":38.565,
+    "geom:longitude":127.30917,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Sep\u2019o-gun",
+    "gn:asciiname":"Wonnam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866941,
+    "gn:latitude":38.565,
+    "gn:longitude":127.30917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u014fnnam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ennan-ri",
+        "W\u014fnnam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866941
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6ccac2778b0b5aa5d35243c62e0d19f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747119,
+            "locality_id":1309706593,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1309706593,
+    "wof:lastmodified":1537654207,
+    "wof:name":"Wonnam-ni",
+    "wof:parent_id":1108747119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.30917,
+    38.565,
+    127.30917,
+    38.565
+],
+  "geometry": {"coordinates":[127.30916999999999,38.565],"type":"Point"}
+}

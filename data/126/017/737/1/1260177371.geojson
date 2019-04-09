@@ -1,0 +1,77 @@
+{
+  "id": 1260177371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.88389,38.40556,126.88389,38.40556",
+    "geom:latitude":38.40556,
+    "geom:longitude":126.88389,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Konggol",
+    "gn:country_code":"KP",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875704,
+    "gn:latitude":38.40556,
+    "gn:longitude":126.88389,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Konggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacf5\uace8"
+    ],
+    "name:und_x_variant":[
+        "Kong-kol",
+        "Kong-dong",
+        "K\u014d-d\u014d",
+        "Kongol",
+        "Konggol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875704
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6860439bb0dc48c0bc8ba467d9b2a29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746905,
+            "locality_id":1260177371,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1260177371,
+    "wof:lastmodified":1537654643,
+    "wof:name":"Konggol",
+    "wof:parent_id":1108746905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.88389,
+    38.40556,
+    126.88389,
+    38.40556
+],
+  "geometry": {"coordinates":[126.88388999999999,38.40556],"type":"Point"}
+}

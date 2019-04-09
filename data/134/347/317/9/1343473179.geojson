@@ -1,0 +1,73 @@
+{
+  "id": 1343473179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.91667,38.7,125.91667,38.7",
+    "geom:latitude":38.7,
+    "geom:longitude":125.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kulchong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875459,
+    "gn:latitude":38.7,
+    "gn:longitude":125.91667,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kulch\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad74\uc815\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Kulch\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875459
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0c4832a0605e59e2b31b70029ae40d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748117,
+            "locality_id":1343473179,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343473179,
+    "wof:lastmodified":1537654631,
+    "wof:name":"Kulchong-dong",
+    "wof:parent_id":1108748117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.91667,
+    38.7,
+    125.91667,
+    38.7
+],
+  "geometry": {"coordinates":[125.91667,38.7],"type":"Point"}
+}

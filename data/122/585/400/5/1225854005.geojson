@@ -1,0 +1,73 @@
+{
+  "id": 1225854005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.62667,40.58944,127.62667,40.58944",
+    "geom:latitude":40.58944,
+    "geom:longitude":127.62667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Won-gol",
+    "gn:country_code":"KP",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6400215,
+    "gn:latitude":40.58944,
+    "gn:longitude":127.62667,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"W\u014fn-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\uace8"
+    ],
+    "name:kor_x_variant":[
+        "W\u014fn-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6400215
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1c06f3eed4df5a4aa26f23a16ed60f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747067,
+            "locality_id":1225854005,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1225854005,
+    "wof:lastmodified":1537655931,
+    "wof:name":"Won-gol",
+    "wof:parent_id":1108747067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.62667,
+    40.58944,
+    127.62667,
+    40.58944
+],
+  "geometry": {"coordinates":[127.62667,40.58944],"type":"Point"}
+}

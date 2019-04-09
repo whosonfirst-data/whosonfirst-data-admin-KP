@@ -1,0 +1,67 @@
+{
+  "id": 1343972433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.23333,38.7,125.23333,38.7",
+    "geom:latitude":38.7,
+    "geom:longitude":125.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Onjong-do",
+    "gn:country_code":"KP",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873154,
+    "gn:latitude":38.7,
+    "gn:longitude":125.23333,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"\u014enj\u014fng-do",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5b8\uc815\ub3c4"
+    ],
+    "name:und_x_variant":[
+        "\u014enj\u014fng-do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873154
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"046f640784781f38471a34c08f9f67d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343972433,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343972433,
+    "wof:lastmodified":1537654519,
+    "wof:name":"Onjong-do",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.23333,
+    38.7,
+    125.23333,
+    38.7
+],
+  "geometry": {"coordinates":[125.23333,38.7],"type":"Point"}
+}

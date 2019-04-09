@@ -1,0 +1,73 @@
+{
+  "id": 1343244451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51611,39.37333,126.51611,39.37333",
+    "geom:latitude":39.37333,
+    "geom:longitude":126.51611,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Yangbyon",
+    "gn:country_code":"KP",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366626,
+    "gn:latitude":39.37333,
+    "gn:longitude":126.51611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yangby\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\ubcc0"
+    ],
+    "name:kor_x_variant":[
+        "Yangby\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366626
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"32012e3f363a7522cf94e6ff2ccd2acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747141,
+            "locality_id":1343244451,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1343244451,
+    "wof:lastmodified":1537655886,
+    "wof:name":"Yangbyon",
+    "wof:parent_id":1108747141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51611,
+    39.37333,
+    126.51611,
+    39.37333
+],
+  "geometry": {"coordinates":[126.51611,39.37333],"type":"Point"}
+}

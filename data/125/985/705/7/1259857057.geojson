@@ -1,0 +1,67 @@
+{
+  "id": 1259857057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.22972,39.90389,126.22972,39.90389",
+    "geom:latitude":39.90389,
+    "geom:longitude":126.22972,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tongch'ang",
+    "gn:country_code":"KP",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867949,
+    "gn:latitude":39.90389,
+    "gn:longitude":126.22972,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Tongch\u2019ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867949
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e120e15875e910a6335356a146c350b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746979,
+            "locality_id":1259857057,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259857057,
+    "wof:lastmodified":1536816495,
+    "wof:name":"Tongch'ang",
+    "wof:parent_id":1108746979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.22972,
+    39.90389,
+    126.22972,
+    39.90389
+],
+  "geometry": {"coordinates":[126.22972,39.90389],"type":"Point"}
+}

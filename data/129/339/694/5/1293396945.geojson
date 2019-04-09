@@ -1,0 +1,71 @@
+{
+  "id": 1293396945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.67833,40.07139,127.67833,40.07139",
+    "geom:latitude":40.07139,
+    "geom:longitude":127.67833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Saetchanggo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302528,
+    "gn:latitude":40.07139,
+    "gn:longitude":127.67833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saetchangg\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0db\uc7a5\uac70\ub9ac",
+        "Saetchangg\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302528
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6fce17dbea7988b486b21d246ee37de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747745,
+            "locality_id":1293396945,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293396945,
+    "wof:lastmodified":1537655809,
+    "wof:name":"Saetchanggo-ri",
+    "wof:parent_id":1108747745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.67833,
+    40.07139,
+    127.67833,
+    40.07139
+],
+  "geometry": {"coordinates":[127.67833,40.07139],"type":"Point"}
+}

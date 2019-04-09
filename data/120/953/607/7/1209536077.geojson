@@ -1,0 +1,61 @@
+{
+  "id": 1209536077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64583,38.47722,126.64583,38.47722",
+    "geom:latitude":38.47722,
+    "geom:longitude":126.64583,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nujimegi",
+    "gn:country_code":"KP",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931169,
+    "gn:latitude":38.47722,
+    "gn:longitude":126.64583,
+    "gn:modification_date":"2003-03-04",
+    "gn:name":"N\u016djimegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931169
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5c9f630f708c9f49c9d079a55d45b461",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209536077
+        }
+    ],
+    "wof:id":1209536077,
+    "wof:lastmodified":1536284137,
+    "wof:name":"Nujimegi",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64583,
+    38.47722,
+    126.64583,
+    38.47722
+],
+  "geometry": {"coordinates":[126.64583,38.47722],"type":"Point"}
+}

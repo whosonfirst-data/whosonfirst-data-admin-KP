@@ -1,0 +1,74 @@
+{
+  "id": 1293665771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.93617,39.10406,125.93617,39.10406",
+    "geom:latitude":39.10406,
+    "geom:longitude":125.93617,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878450,
+    "gn:latitude":39.10406,
+    "gn:longitude":125.93617,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ch\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fng-dong",
+        "Jeongdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878450
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e5062c5cabc53abdc6ec7a6f405f716b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1293665771,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1293665771,
+    "wof:lastmodified":1537654798,
+    "wof:name":"Chong-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.93617,
+    39.10406,
+    125.93617,
+    39.10406
+],
+  "geometry": {"coordinates":[125.93617,39.10406],"type":"Point"}
+}

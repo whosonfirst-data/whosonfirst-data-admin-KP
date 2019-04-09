@@ -1,0 +1,68 @@
+{
+  "id": 1310102699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.60222,37.95389,126.60222,37.95389",
+    "geom:latitude":37.95389,
+    "geom:longitude":126.60222,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"P\u2019anmun-gun",
+    "gn:asciiname":"T'andong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868497,
+    "gn:latitude":37.95389,
+    "gn:longitude":126.60222,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"T\u2019andong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868497
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6e90514b6883ba08e99519c3d387043d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1310102699,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310102699,
+    "wof:lastmodified":1536999823,
+    "wof:name":"T'andong-ni",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.60222,
+    37.95389,
+    126.60222,
+    37.95389
+],
+  "geometry": {"coordinates":[126.60222,37.95389],"type":"Point"}
+}

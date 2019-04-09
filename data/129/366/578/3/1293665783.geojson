@@ -1,0 +1,73 @@
+{
+  "id": 1293665783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.69528,39.03028,125.69528,39.03028",
+    "geom:latitude":39.03028,
+    "geom:longitude":125.69528,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6269970,
+    "gn:latitude":39.03028,
+    "gn:longitude":125.69528,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Dang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Dangdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6269970
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d197b06dec396c71c288f671f4bc7fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1293665783,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1293665783,
+    "wof:lastmodified":1537655662,
+    "wof:name":"Dang-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.69528,
+    39.03028,
+    125.69528,
+    39.03028
+],
+  "geometry": {"coordinates":[125.69528,39.03028],"type":"Point"}
+}

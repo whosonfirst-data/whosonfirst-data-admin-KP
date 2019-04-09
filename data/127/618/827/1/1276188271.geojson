@@ -1,0 +1,71 @@
+{
+  "id": 1276188271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.47972,42.02583,129.47972,42.02583",
+    "geom:latitude":42.02583,
+    "geom:longitude":129.47972,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"P'anmak-tong",
+    "gn:country_code":"KP",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042045,
+    "gn:latitude":42.02583,
+    "gn:longitude":129.47972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019anmak-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud310\ub9c9\ub3d9",
+        "P\u2019anmak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042045
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e6e1c185ecc2f02120304537e9491687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746863,
+            "locality_id":1276188271,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1276188271,
+    "wof:lastmodified":1537655322,
+    "wof:name":"P'anmak-tong",
+    "wof:parent_id":1108746863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.47972,
+    42.02583,
+    129.47972,
+    42.02583
+],
+  "geometry": {"coordinates":[129.47971999999999,42.02583],"type":"Point"}
+}

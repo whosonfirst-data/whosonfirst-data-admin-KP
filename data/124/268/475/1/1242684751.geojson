@@ -1,0 +1,72 @@
+{
+  "id": 1242684751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.20152,40.25763,128.20152,40.25763",
+    "geom:latitude":40.25763,
+    "geom:longitude":128.20152,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yongam-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039196,
+    "gn:latitude":40.25763,
+    "gn:longitude":128.20152,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongam-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yongam-ni",
+        "Yongam-ch\u2019on",
+        "\uc6a9\uc554\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039196
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cddad7760999157e021ce2518d7af2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747941,
+            "locality_id":1242684751,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1242684751,
+    "wof:lastmodified":1537655156,
+    "wof:name":"Yongam-ch'on",
+    "wof:parent_id":1108747941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.20152,
+    40.25763,
+    128.20152,
+    40.25763
+],
+  "geometry": {"coordinates":[128.20151999999999,40.25763],"type":"Point"}
+}

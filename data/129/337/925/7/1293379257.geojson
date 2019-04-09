@@ -1,0 +1,71 @@
+{
+  "id": 1293379257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.65139,38.75917,127.65139,38.75917",
+    "geom:latitude":38.75917,
+    "geom:longitude":127.65139,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mokkong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6272794,
+    "gn:latitude":38.75917,
+    "gn:longitude":127.65139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mokkong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubaa9\uace1\ub9ac",
+        "Mokkong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6272794
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"52392b78e9632ec9524da05078b928b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746887,
+            "locality_id":1293379257,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1293379257,
+    "wof:lastmodified":1537655680,
+    "wof:name":"Mokkong-ni",
+    "wof:parent_id":1108746887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.65139,
+    38.75917000000001,
+    127.65139,
+    38.75917000000001
+],
+  "geometry": {"coordinates":[127.65139000000001,38.75917000000001],"type":"Point"}
+}

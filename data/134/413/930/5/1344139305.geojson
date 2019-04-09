@@ -1,0 +1,80 @@
+{
+  "id": 1344139305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.87194,39.24639,125.87194,39.24639",
+    "geom:latitude":39.24639,
+    "geom:longitude":125.87194,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"P'yongsong",
+    "gn:country_code":"KP",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1871871,
+    "gn:latitude":39.24639,
+    "gn:longitude":125.87194,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"P\u2019y\u014fngs\u014fng",
+    "gn:population":100000,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanchon",
+        "Sain-ni",
+        "Shaninj\u014d",
+        "Shajinj\u014d",
+        "Sainjang",
+        "Shajimj\u014d",
+        "P\u2019y\u014fngs\u014fng"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871871,
+        "wk:page":"Pyongsong"
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0dd92e70fe32b899efc36ca11f13a738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747949,
+            "locality_id":1344139305,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1344139305,
+    "wof:lastmodified":1537654455,
+    "wof:name":"P'yongsong",
+    "wof:parent_id":1108747949,
+    "wof:placetype":"locality",
+    "wof:population":100000,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.87194,
+    39.24639000000001,
+    125.87194,
+    39.24639000000001
+],
+  "geometry": {"coordinates":[125.87194,39.24639000000001],"type":"Point"}
+}

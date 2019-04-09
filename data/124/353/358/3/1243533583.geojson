@@ -1,0 +1,73 @@
+{
+  "id": 1243533583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4794,41.25177,127.4794,41.25177",
+    "geom:latitude":41.25177,
+    "geom:longitude":127.4794,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kangunggye-ri",
+    "gn:country_code":"KP",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043551,
+    "gn:latitude":41.25177,
+    "gn:longitude":127.4794,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kang\u016dnggye-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac15\uc751\uacc4\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Kang\u016dnggye-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043551
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"50cb02805a8b30c994c0bf0fc4ca4582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746961,
+            "locality_id":1243533583,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1243533583,
+    "wof:lastmodified":1537655407,
+    "wof:name":"Kangunggye-ri",
+    "wof:parent_id":1108746961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4794,
+    41.25177,
+    127.4794,
+    41.25177
+],
+  "geometry": {"coordinates":[127.4794,41.25177],"type":"Point"}
+}

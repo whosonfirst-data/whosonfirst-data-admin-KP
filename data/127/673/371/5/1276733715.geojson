@@ -1,0 +1,67 @@
+{
+  "id": 1276733715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.95222,41.315,127.95222,41.315",
+    "geom:latitude":41.315,
+    "geom:longitude":127.95222,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Samgong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041472,
+    "gn:latitude":41.315,
+    "gn:longitude":127.95222,
+    "gn:modification_date":"2002-03-08",
+    "gn:name":"Samgong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041472
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"455f4de14eb6abda50c6573a9ccd3d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747113,
+            "locality_id":1276733715,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1276733715,
+    "wof:lastmodified":1536739332,
+    "wof:name":"Samgong-ni",
+    "wof:parent_id":1108747113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.95222,
+    41.315,
+    127.95222,
+    41.315
+],
+  "geometry": {"coordinates":[127.95222,41.315],"type":"Point"}
+}

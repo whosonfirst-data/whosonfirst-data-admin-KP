@@ -1,0 +1,67 @@
+{
+  "id": 1277149719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.01556,39.8025,126.01556,39.8025",
+    "geom:latitude":39.8025,
+    "geom:longitude":126.01556,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sangam",
+    "gn:country_code":"KP",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947940,
+    "gn:latitude":39.8025,
+    "gn:longitude":126.01556,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Sangam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947940
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"99140e762d7856b1d2e377c056939e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747803,
+            "locality_id":1277149719,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1277149719,
+    "wof:lastmodified":1536671169,
+    "wof:name":"Sangam",
+    "wof:parent_id":1108747803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.01556,
+    39.8025,
+    126.01556,
+    39.8025
+],
+  "geometry": {"coordinates":[126.01555999999999,39.8025],"type":"Point"}
+}

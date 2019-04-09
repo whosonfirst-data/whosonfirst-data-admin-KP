@@ -1,0 +1,65 @@
+{
+  "id": 1209537559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42,38.175,126.42,38.175",
+    "geom:latitude":38.175,
+    "geom:longitude":126.42,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hongp'o",
+    "gn:country_code":"KP",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1966591,
+    "gn:latitude":38.175,
+    "gn:longitude":126.42,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hongp\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud64d\ud3ec",
+        "Hongp\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1966591
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"baf248b7f2af683d15a6158c7ae61796",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209537559
+        }
+    ],
+    "wof:id":1209537559,
+    "wof:lastmodified":1537655123,
+    "wof:name":"Hongp'o",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42,
+    38.175,
+    126.42,
+    38.175
+],
+  "geometry": {"coordinates":[126.42,38.175],"type":"Point"}
+}

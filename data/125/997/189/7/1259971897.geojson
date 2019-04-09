@@ -1,0 +1,75 @@
+{
+  "id": 1259971897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.64,38.18889,125.64,38.18889",
+    "geom:latitude":38.18889,
+    "geom:longitude":125.64,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Angol",
+    "gn:country_code":"KP",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879647,
+    "gn:latitude":38.18889,
+    "gn:longitude":125.64,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Angol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uace8"
+    ],
+    "name:und_x_variant":[
+        "Nai-d\u014d",
+        "Nae-dong",
+        "Angol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879647
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3b4fa0f23c21fdf4589188d059305b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748009,
+            "locality_id":1259971897,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259971897,
+    "wof:lastmodified":1537654870,
+    "wof:name":"Angol",
+    "wof:parent_id":1108748009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.64,
+    38.18889,
+    125.64,
+    38.18889
+],
+  "geometry": {"coordinates":[125.64,38.18889],"type":"Point"}
+}

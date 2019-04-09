@@ -1,0 +1,67 @@
+{
+  "id": 1327426159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.52361,38.40389,125.52361,38.40389",
+    "geom:latitude":38.40389,
+    "geom:longitude":125.52361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sangjongsong",
+    "gn:country_code":"KP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926810,
+    "gn:latitude":38.40389,
+    "gn:longitude":125.52361,
+    "gn:modification_date":"2002-02-19",
+    "gn:name":"Sangj\u014fngs\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926810
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0be4d6b9a70aaef863e1977ae1bca906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746843,
+            "locality_id":1327426159,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1327426159,
+    "wof:lastmodified":1536689971,
+    "wof:name":"Sangjongsong",
+    "wof:parent_id":1108746843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.52361,
+    38.40389,
+    125.52361,
+    38.40389
+],
+  "geometry": {"coordinates":[125.52361000000001,38.40389],"type":"Point"}
+}

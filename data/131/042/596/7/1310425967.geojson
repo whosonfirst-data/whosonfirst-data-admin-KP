@@ -1,0 +1,77 @@
+{
+  "id": 1310425967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.39278,38.33944,126.39278,38.33944",
+    "geom:latitude":38.33944,
+    "geom:longitude":126.39278,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"P'yongsan",
+    "gn:country_code":"KP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871873,
+    "gn:latitude":38.33944,
+    "gn:longitude":126.39278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019y\u014fngsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\uc0b0"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019y\u014fngsan"
+    ],
+    "name:und_x_variant":[
+        "Namch\u2019\u014fnj\u014fn",
+        "Nansenten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871873
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a198f195e1f83cdb7dd932769985b53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747923,
+            "locality_id":1310425967,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310425967,
+    "wof:lastmodified":1537654455,
+    "wof:name":"P'yongsan",
+    "wof:parent_id":1108747923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.39278,
+    38.33944,
+    126.39278,
+    38.33944
+],
+  "geometry": {"coordinates":[126.39278,38.33944],"type":"Point"}
+}

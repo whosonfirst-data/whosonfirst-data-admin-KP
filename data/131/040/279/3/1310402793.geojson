@@ -1,0 +1,67 @@
+{
+  "id": 1310402793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58389,38.38472,125.58389,38.38472",
+    "geom:latitude":38.38472,
+    "geom:longitude":125.58389,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Songhyol-li",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926768,
+    "gn:latitude":38.38472,
+    "gn:longitude":125.58389,
+    "gn:modification_date":"2002-02-19",
+    "gn:name":"Songhy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926768
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b23164af55ea21bf611cd42ad8e17a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746907,
+            "locality_id":1310402793,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310402793,
+    "wof:lastmodified":1537062416,
+    "wof:name":"Songhyol-li",
+    "wof:parent_id":1108746907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58389,
+    38.38472,
+    125.58389,
+    38.38472
+],
+  "geometry": {"coordinates":[125.58389,38.38472],"type":"Point"}
+}

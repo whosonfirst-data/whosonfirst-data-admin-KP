@@ -1,0 +1,64 @@
+{
+  "id": 1209595907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.91778,39.86806,124.91778,39.86806",
+    "geom:latitude":39.86806,
+    "geom:longitude":124.91778,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chwaisan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877722,
+    "gn:latitude":39.86806,
+    "gn:longitude":124.91778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chwaisan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc88c\uc774\uc0b0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877722
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c58a8e2e68dd03ee5dd3557dfcd9959e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209595907
+        }
+    ],
+    "wof:id":1209595907,
+    "wof:lastmodified":1537654758,
+    "wof:name":"Chwaisan-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.91778,
+    39.86806,
+    124.91778,
+    39.86806
+],
+  "geometry": {"coordinates":[124.91777999999999,39.86806],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293264957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.32972,38.82583,125.32972,38.82583",
+    "geom:latitude":38.82583,
+    "geom:longitude":125.32972,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hwagyo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876930,
+    "gn:latitude":38.82583,
+    "gn:longitude":125.32972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hwagyo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud654\uad50\ub9ac",
+        "Hwagyo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747969,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876930
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"859d6b3736fd86d2f9e5e00f340a26e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1293264957,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1293264957,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1293264957,
+    "wof:lastmodified":1537654713,
+    "wof:name":"Hwagyo-ri",
+    "wof:parent_id":1108747969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.32972,
+    38.82583,
+    125.32972,
+    38.82583
+],
+  "geometry": {"coordinates":[125.32971999999999,38.82583],"type":"Point"}
+}

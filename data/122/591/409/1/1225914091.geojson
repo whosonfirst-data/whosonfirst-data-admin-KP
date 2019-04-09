@@ -1,0 +1,68 @@
+{
+  "id": 1225914091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.00583,39.69528,126.00583,39.69528",
+    "geom:latitude":39.69528,
+    "geom:longitude":126.00583,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"Kaech\u2019\u014fn-si",
+    "gn:asciiname":"Ipsok-kol",
+    "gn:country_code":"KP",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892296,
+    "gn:latitude":39.69528,
+    "gn:longitude":126.00583,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Ips\u014fk-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892296
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2c299b67d7b057e2ee696da83ecc11e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747803,
+            "locality_id":1225914091,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1225914091,
+    "wof:lastmodified":1536915742,
+    "wof:name":"Ipsok-kol",
+    "wof:parent_id":1108747803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.00583,
+    39.69528,
+    126.00583,
+    39.69528
+],
+  "geometry": {"coordinates":[126.00583,39.69528],"type":"Point"}
+}

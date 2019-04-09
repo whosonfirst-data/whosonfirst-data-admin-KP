@@ -1,0 +1,67 @@
+{
+  "id": 1309694675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.5225,39.13778,125.5225,39.13778",
+    "geom:latitude":39.13778,
+    "geom:longitude":125.5225,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Anch'on",
+    "gn:country_code":"KP",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889292,
+    "gn:latitude":39.13778,
+    "gn:longitude":125.5225,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Anch\u2019\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889292
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"03abe462cb583bed29288208a6a520f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748039,
+            "locality_id":1309694675,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1309694675,
+    "wof:lastmodified":1537088168,
+    "wof:name":"Anch'on",
+    "wof:parent_id":1108748039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.5225,
+    39.13778,
+    125.5225,
+    39.13778
+],
+  "geometry": {"coordinates":[125.52249999999999,39.13778],"type":"Point"}
+}

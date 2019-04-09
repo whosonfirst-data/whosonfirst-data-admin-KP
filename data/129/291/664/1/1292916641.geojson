@@ -1,0 +1,71 @@
+{
+  "id": 1292916641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.73722,40.75139,125.73722,40.75139",
+    "geom:latitude":40.75139,
+    "geom:longitude":125.73722,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Anch'an-dong",
+    "gn:country_code":"KP",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282418,
+    "gn:latitude":40.75139,
+    "gn:longitude":125.73722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Anch\u2019an-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc548\ucc2c\ub3d9",
+        "Anch\u2019an-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282418
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4bfd7737fc7d30a297d1d01021f777df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747741,
+            "locality_id":1292916641,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1292916641,
+    "wof:lastmodified":1537655774,
+    "wof:name":"Anch'an-dong",
+    "wof:parent_id":1108747741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.73722,
+    40.75139,
+    125.73722,
+    40.75139
+],
+  "geometry": {"coordinates":[125.73721999999999,40.75139],"type":"Point"}
+}

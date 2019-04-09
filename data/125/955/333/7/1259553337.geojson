@@ -1,0 +1,79 @@
+{
+  "id": 1259553337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.38389,38.87556,125.38389,38.87556",
+    "geom:latitude":38.87556,
+    "geom:longitude":125.38389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hyusan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876696,
+    "gn:latitude":38.87556,
+    "gn:longitude":125.38389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hyusan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud734\uc0b0\ub3d9",
+        "Hyusan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747969,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876696
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"60f0a033734d1567f2e282969e1d367c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1259553337,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1259553337,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1259553337,
+    "wof:lastmodified":1537654700,
+    "wof:name":"Hyusan-dong",
+    "wof:parent_id":1108747969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.38389,
+    38.87556,
+    125.38389,
+    38.87556
+],
+  "geometry": {"coordinates":[125.38388999999999,38.87556],"type":"Point"}
+}

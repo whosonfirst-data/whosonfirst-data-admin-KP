@@ -1,0 +1,73 @@
+{
+  "id": 1293210253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.6,39.86667,127.6,39.86667",
+    "geom:latitude":39.86667,
+    "geom:longitude":127.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yongsil-li",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866104,
+    "gn:latitude":39.86667,
+    "gn:longitude":127.6,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Yongsil-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc2e0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Yongsin-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866104
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"16feacb0db2ac939e22f63d290c85331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747745,
+            "locality_id":1293210253,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293210253,
+    "wof:lastmodified":1537654165,
+    "wof:name":"Yongsil-li",
+    "wof:parent_id":1108747745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.6,
+    39.86667,
+    127.6,
+    39.86667
+],
+  "geometry": {"coordinates":[127.59999999999999,39.86667],"type":"Point"}
+}

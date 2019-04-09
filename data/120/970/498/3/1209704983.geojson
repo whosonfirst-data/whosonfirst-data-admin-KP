@@ -1,0 +1,67 @@
+{
+  "id": 1209704983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.41333,39.31444,127.41333,39.31444",
+    "geom:latitude":39.31444,
+    "geom:longitude":127.41333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Munch\u2019\u014fn-si",
+    "gn:asciiname":"Panggumi-ri",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872735,
+    "gn:latitude":39.31444,
+    "gn:longitude":127.41333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Panggumi-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pangg\u014fmi-ri",
+        "Panggumi-ri",
+        "\ubc29\uad6c\ubbf8\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872735
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9344f3b99a3033f0f1f925e9d3dc1521",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209704983,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209704983,
+    "wof:lastmodified":1537654497,
+    "wof:name":"Panggumi-ri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.41333,
+    39.31444000000001,
+    127.41333,
+    39.31444000000001
+],
+  "geometry": {"coordinates":[127.41333,39.31444000000001],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209593139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.89111,40.20222,124.89111,40.20222",
+    "geom:latitude":40.20222,
+    "geom:longitude":124.89111,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Songgong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2048962,
+    "gn:latitude":40.20222,
+    "gn:longitude":124.89111,
+    "gn:modification_date":"1995-12-04",
+    "gn:name":"S\u014fnggong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2048962
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f11fd6ebba05b4242e3b4c5ed991e8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209593139
+        }
+    ],
+    "wof:id":1209593139,
+    "wof:lastmodified":1536282413,
+    "wof:name":"Songgong-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.89111,
+    40.20222,
+    124.89111,
+    40.20222
+],
+  "geometry": {"coordinates":[124.89111,40.20222],"type":"Point"}
+}

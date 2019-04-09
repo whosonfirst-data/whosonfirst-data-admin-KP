@@ -1,0 +1,72 @@
+{
+  "id": 1343356295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.48917,37.85972,126.48917,37.85972",
+    "geom:latitude":37.85972,
+    "geom:longitude":126.48917,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1876380",
+    "gn:asciiname":"Towol-li",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867600,
+    "gn:latitude":37.85972,
+    "gn:longitude":126.48917,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tow\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tow\u014fn-ni",
+        "Tow\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867600
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"df760365c2f52b35c6f26565b6e7a0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1343356295,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343356295,
+    "wof:lastmodified":1537654239,
+    "wof:name":"Towol-li",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.48917,
+    37.85972,
+    126.48917,
+    37.85972
+],
+  "geometry": {"coordinates":[126.48917,37.85972],"type":"Point"}
+}

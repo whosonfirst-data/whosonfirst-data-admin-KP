@@ -1,0 +1,72 @@
+{
+  "id": 890434555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.16111,37.90889,126.16111,37.90889",
+    "geom:latitude":37.90889,
+    "geom:longitude":126.16111,
+    "gn:country":"KP",
+    "gn:fcode":"PPL",
+    "gn:pop":22665,
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Enan"
+    ],
+    "qs:name":"Y\u014fnan-\u016dp",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866569,
+        "gp:id":1093982,
+        "qs:id":137226,
+        "wd:id":"Q213173",
+        "wk:page":"Yonan County"
+    },
+    "wof:country":"KP",
+    "wof:created":1469052030,
+    "wof:geomhash":"eb4885c1610e6f3f63c352c426a0054f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":890434555,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":890434555,
+    "wof:lastmodified":1527792946,
+    "wof:name":"Y\u014fnan-\u016dp",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:population":22665,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.16111,
+    37.90889,
+    126.16111,
+    37.90889
+],
+  "geometry": {"coordinates":[126.16110999999999,37.90889],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 85902743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6467114.009857,
+    "geom:bbox":"125.754916,39.044952,125.754916,39.044952",
+    "geom:latitude":39.044952,
+    "geom:longitude":125.754916,
+    "iso:country":"KP",
+    "lbl:latitude":39.044952,
+    "lbl:longitude":125.754916,
+    "mps:latitude":39.051835,
+    "mps:longitude":125.75395,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_colloquial":[
+        "Inhthng-ni",
+        "Inhtng-ni",
+        "Inhung-ni"
+    ],
+    "name:eng_x_preferred":[
+        "Inh\u00feng-ni"
+    ],
+    "name:unk_x_variant":[
+        "Inh\u00feng-ni"
+    ],
+    "qs:gn_adm0_cc":"KP",
+    "qs:gn_id":0,
+    "qs:gn_local":1871859,
+    "qs:gn_nam_loc":"Pyongyang",
+    "qs:gn_namadm1":"15",
+    "qs:id":0,
+    "qs:local_max":3808,
+    "qs:local_sum":10152,
+    "qs:localhoods":11,
+    "qs:name":"Inh\u00feng-ni",
+    "qs:name_adm0":"North Korea",
+    "qs:name_adm1":"P\u00b4yongyang-si",
+    "qs:name_local":"Pyongyang",
+    "qs:photo_max":110,
+    "qs:photo_sum":318,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424865,
+    "qs:woe_adm1":20070115,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1079132,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        1108747951,
+        85676611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1071366
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e569af369cb8b6b658af0fb2f37b3918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":-1,
+            "neighbourhood_id":85902743,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":85902743,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935934,
+    "wof:name":"Inh\u00feng-ni",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.754916,
+    39.044952,
+    125.754916,
+    39.044952
+],
+  "geometry": {"coordinates":[125.75491599999999,39.044952],"type":"Point"}
+}

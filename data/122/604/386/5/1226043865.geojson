@@ -1,0 +1,71 @@
+{
+  "id": 1226043865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.66083,40.56972,128.66083,40.56972",
+    "geom:latitude":40.56972,
+    "geom:longitude":128.66083,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cholp'a-gol",
+    "gn:country_code":"KP",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2052078,
+    "gn:latitude":40.56972,
+    "gn:longitude":128.66083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u014flp\u2019a-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc808\ud30c\uace8",
+        "Ch\u014flp\u2019a-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2052078
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9300dd1088c97d07fdff19318002a5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1226043865,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1226043865,
+    "wof:lastmodified":1537655620,
+    "wof:name":"Cholp'a-gol",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.66083,
+    40.56972,
+    128.66083,
+    40.56972
+],
+  "geometry": {"coordinates":[128.66083,40.56972],"type":"Point"}
+}

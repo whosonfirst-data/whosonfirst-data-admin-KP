@@ -1,0 +1,74 @@
+{
+  "id": 1225848599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.23472,40.87,127.23472,40.87",
+    "geom:latitude":40.87,
+    "geom:longitude":127.23472,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"Nangnim-gun",
+    "gn:asciiname":"Champ'a-ri",
+    "gn:country_code":"KP",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055522,
+    "gn:latitude":40.87,
+    "gn:longitude":127.23472,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Champ\u2019a-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a0\ud30c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Champ\u2019a-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055522
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"44391fccb3df331f31d9782f8cf3d9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747957,
+            "locality_id":1225848599,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1225848599,
+    "wof:lastmodified":1537655655,
+    "wof:name":"Champ'a-ri",
+    "wof:parent_id":1108747957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.23472,
+    40.87,
+    127.23472,
+    40.87
+],
+  "geometry": {"coordinates":[127.23472,40.87],"type":"Point"}
+}

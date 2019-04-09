@@ -1,0 +1,68 @@
+{
+  "id": 1277161333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.68778,38.50222,127.68778,38.50222",
+    "geom:latitude":38.50222,
+    "geom:longitude":127.68778,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1875980",
+    "gn:asciiname":"Kalbang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948372,
+    "gn:latitude":38.50222,
+    "gn:longitude":127.68778,
+    "gn:modification_date":"2000-06-07",
+    "gn:name":"Kalbang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948372
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9ff4ec115b1afbbd1da6e317083be00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746849,
+            "locality_id":1277161333,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1277161333,
+    "wof:lastmodified":1536654399,
+    "wof:name":"Kalbang-dong",
+    "wof:parent_id":1108746849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.68778,
+    38.50222,
+    127.68778,
+    38.50222
+],
+  "geometry": {"coordinates":[127.68778,38.50222],"type":"Point"}
+}

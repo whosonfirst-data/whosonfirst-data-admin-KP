@@ -1,0 +1,71 @@
+{
+  "id": 1326836593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.82611,39.59,126.82611,39.59",
+    "geom:latitude":39.59,
+    "geom:longitude":126.82611,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Maebau-dong",
+    "gn:country_code":"KP",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274314,
+    "gn:latitude":39.59,
+    "gn:longitude":126.82611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maebau-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9e4\ubc14\uc6b0\ub3d9",
+        "Maebau-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274314
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"805114987a5b2ba477aa84632a4b5658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748103,
+            "locality_id":1326836593,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1326836593,
+    "wof:lastmodified":1537655700,
+    "wof:name":"Maebau-dong",
+    "wof:parent_id":1108748103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.82611,
+    39.59,
+    126.82611,
+    39.59
+],
+  "geometry": {"coordinates":[126.82611,39.59],"type":"Point"}
+}

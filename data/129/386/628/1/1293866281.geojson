@@ -1,0 +1,71 @@
+{
+  "id": 1293866281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.30306,38.88889,125.30306,38.88889",
+    "geom:latitude":38.88889,
+    "geom:longitude":125.30306,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chudal-li",
+    "gn:country_code":"KP",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878099,
+    "gn:latitude":38.88889,
+    "gn:longitude":125.30306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chudal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc8fc\ub2ec\ub9ac",
+        "Chudal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108747027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878099
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"42c2df4c9e583d0302c4efd996ecd7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747027,
+            "locality_id":1293866281,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1293866281,
+    "wof:lastmodified":1537654781,
+    "wof:name":"Chudal-li",
+    "wof:parent_id":1108747027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.30306000000002,
+    38.88889,
+    125.30306000000002,
+    38.88889
+],
+  "geometry": {"coordinates":[125.30306000000002,38.88889],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276197063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52611,41.13833,127.52611,41.13833",
+    "geom:latitude":41.13833,
+    "geom:longitude":127.52611,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sinhung-nodongjagu",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041000,
+    "gn:latitude":41.13833,
+    "gn:longitude":127.52611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinh\u016dng-nodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinh\u016dng-ni",
+        "Sinh\u016dng-nodongjagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041000
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ffa2ebd4809c955931fc452ff66441cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746961,
+            "locality_id":1276197063,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1276197063,
+    "wof:lastmodified":1537655260,
+    "wof:name":"Sinhung-nodongjagu",
+    "wof:parent_id":1108746961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52611,
+    41.13833,
+    127.52611,
+    41.13833
+],
+  "geometry": {"coordinates":[127.52611,41.13833],"type":"Point"}
+}

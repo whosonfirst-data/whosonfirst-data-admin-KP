@@ -1,0 +1,70 @@
+{
+  "id": 1259455787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.91583,39.51472,125.91583,39.51472",
+    "geom:latitude":39.51472,
+    "geom:longitude":125.91583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kusang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889903,
+    "gn:latitude":39.51472,
+    "gn:longitude":125.91583,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kusang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc0c1\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889903
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2f07f5756e6b9eef7ce778592ef0a689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748035,
+            "locality_id":1259455787,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1259455787,
+    "wof:lastmodified":1537654938,
+    "wof:name":"Kusang-ni",
+    "wof:parent_id":1108748035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.91583,
+    39.51472,
+    125.91583,
+    39.51472
+],
+  "geometry": {"coordinates":[125.91583,39.51472],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343756605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.95917,38.43667,124.95917,38.43667",
+    "geom:latitude":38.43667,
+    "geom:longitude":124.95917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yujon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1865897,
+    "gn:latitude":38.43667,
+    "gn:longitude":124.95917,
+    "gn:modification_date":"2003-02-13",
+    "gn:name":"Yuj\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1865897
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bbb9e65a0adffa3f0d5deec38a543d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746993,
+            "locality_id":1343756605,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1343756605,
+    "wof:lastmodified":1536815765,
+    "wof:name":"Yujon-dong",
+    "wof:parent_id":1108746993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.95917,
+    38.43667,
+    124.95917,
+    38.43667
+],
+  "geometry": {"coordinates":[124.95917,38.43667],"type":"Point"}
+}

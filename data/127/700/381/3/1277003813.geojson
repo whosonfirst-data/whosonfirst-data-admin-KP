@@ -1,0 +1,75 @@
+{
+  "id": 1277003813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.09167,37.92722,126.09167,37.92722",
+    "geom:latitude":37.92722,
+    "geom:longitude":126.09167,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Y\u014fnan-gun",
+    "gn:asciiname":"Chongch'ol-li",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878473,
+    "gn:latitude":37.92722,
+    "gn:longitude":126.09167,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ch\u014fngch\u2019ol-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\ucd0c\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fngch\u2019on-ni",
+        "Ch\u014fngch\u2019ol-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878473
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c87761bf3468988ca90e27dfcb0c23da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1277003813,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1277003813,
+    "wof:lastmodified":1537654799,
+    "wof:name":"Chongch'ol-li",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.09167,
+    37.92722,
+    126.09167,
+    37.92722
+],
+  "geometry": {"coordinates":[126.09166999999999,37.92722],"type":"Point"}
+}

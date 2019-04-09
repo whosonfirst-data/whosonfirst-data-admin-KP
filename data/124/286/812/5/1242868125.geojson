@@ -1,0 +1,67 @@
+{
+  "id": 1242868125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.17222,38.44889,127.17222,38.44889",
+    "geom:latitude":38.44889,
+    "geom:longitude":127.17222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sinbaek-kol",
+    "gn:country_code":"KP",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1902183,
+    "gn:latitude":38.44889,
+    "gn:longitude":127.17222,
+    "gn:modification_date":"2003-02-21",
+    "gn:name":"Sinbaek-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1902183
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"36cc92a8ed3585eede95de9f2470845e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747947,
+            "locality_id":1242868125,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1242868125,
+    "wof:lastmodified":1536644634,
+    "wof:name":"Sinbaek-kol",
+    "wof:parent_id":1108747947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.17222,
+    38.44889000000001,
+    127.17222,
+    38.44889000000001
+],
+  "geometry": {"coordinates":[127.17222,38.44889000000001],"type":"Point"}
+}

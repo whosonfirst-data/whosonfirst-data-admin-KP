@@ -1,0 +1,65 @@
+{
+  "id": 1209321053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.19861,40.4826,128.19861,40.4826",
+    "geom:latitude":40.4826,
+    "geom:longitude":128.19861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yang-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050084,
+    "gn:latitude":40.4826,
+    "gn:longitude":128.19861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yang-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yang-ch\u2019on",
+        "\uc591\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050084
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9121e5b4dfd4d2db794968e8874d0aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209321053
+        }
+    ],
+    "wof:id":1209321053,
+    "wof:lastmodified":1537655589,
+    "wof:name":"Yang-ch'on",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.19861,
+    40.4826,
+    128.19861,
+    40.4826
+],
+  "geometry": {"coordinates":[128.19861,40.4826],"type":"Point"}
+}

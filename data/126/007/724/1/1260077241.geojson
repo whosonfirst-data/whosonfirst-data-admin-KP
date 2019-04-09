@@ -1,0 +1,71 @@
+{
+  "id": 1260077241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53306,38.04222,126.53306,38.04222",
+    "geom:latitude":38.04222,
+    "geom:longitude":126.53306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Samp'o-dong",
+    "gn:country_code":"KP",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1966650,
+    "gn:latitude":38.04222,
+    "gn:longitude":126.53306,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Samp\u2019o-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bc\ud3ec\ub3d9",
+        "Samp\u2019o-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1966650
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"175cdcbd39496c5f4690449defe5a48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747807,
+            "locality_id":1260077241,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1260077241,
+    "wof:lastmodified":1537655125,
+    "wof:name":"Samp'o-dong",
+    "wof:parent_id":1108747807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53306,
+    38.04222,
+    126.53306,
+    38.04222
+],
+  "geometry": {"coordinates":[126.53306000000001,38.04222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293399211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.0,41.14917,127.0,41.14917",
+    "geom:latitude":41.14917,
+    "geom:longitude":127.0,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Punae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6398634,
+    "gn:latitude":41.14917,
+    "gn:longitude":127.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Punae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd80\ub0b4\ub3d9",
+        "Punae-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6398634
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1dde40043160c3ba16185ce7702a2da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747767,
+            "locality_id":1293399211,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1293399211,
+    "wof:lastmodified":1537655927,
+    "wof:name":"Punae-dong",
+    "wof:parent_id":1108747767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0,
+    41.14917,
+    127.0,
+    41.14917
+],
+  "geometry": {"coordinates":[127.0,41.14917],"type":"Point"}
+}

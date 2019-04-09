@@ -1,0 +1,71 @@
+{
+  "id": 1309912343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3367,40.10643,128.3367,40.10643",
+    "geom:latitude":40.10643,
+    "geom:longitude":128.3367,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kumho-ri",
+    "gn:country_code":"KP",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043203,
+    "gn:latitude":40.10643,
+    "gn:longitude":128.3367,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u016dmho-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016dmho-ri",
+        "\uae08\ud638\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043203
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"756593de3914df3b8ffc03ddf50247ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748003,
+            "locality_id":1309912343,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1309912343,
+    "wof:lastmodified":1537655389,
+    "wof:name":"Kumho-ri",
+    "wof:parent_id":1108748003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3367,
+    40.10643,
+    128.3367,
+    40.10643
+],
+  "geometry": {"coordinates":[128.33670000000001,40.10643],"type":"Point"}
+}

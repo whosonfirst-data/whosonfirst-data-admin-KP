@@ -1,0 +1,68 @@
+{
+  "id": 1225920837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.0075,38.85111,126.0075,38.85111",
+    "geom:latitude":38.85111,
+    "geom:longitude":126.0075,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Sangw\u014fn-gun",
+    "gn:asciiname":"Kinbat-ni",
+    "gn:country_code":"KP",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949947,
+    "gn:latitude":38.85111,
+    "gn:longitude":126.0075,
+    "gn:modification_date":"2001-05-04",
+    "gn:name":"Kinbat-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949947
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"17a6fd989b16dbdd1bfc07ffaa48703a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":1225920837,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1225920837,
+    "wof:lastmodified":1536905678,
+    "wof:name":"Kinbat-ni",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.0075,
+    38.85111,
+    126.0075,
+    38.85111
+],
+  "geometry": {"coordinates":[126.00749999999999,38.85111],"type":"Point"}
+}

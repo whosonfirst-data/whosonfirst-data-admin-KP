@@ -1,0 +1,71 @@
+{
+  "id": 1326933919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51389,41.13333,126.51389,41.13333",
+    "geom:latitude":41.13333,
+    "geom:longitude":126.51389,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sonoech'uk-tong",
+    "gn:country_code":"KP",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049349,
+    "gn:latitude":41.13333,
+    "gn:longitude":126.51389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sonoech\u2019uk-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc18c\ub1cc\ucd95\ub3d9",
+        "Sonoech\u2019uk-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049349
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a440c85bbffd800d880e7de06ceb95bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747121,
+            "locality_id":1326933919,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1326933919,
+    "wof:lastmodified":1537655553,
+    "wof:name":"Sonoech'uk-tong",
+    "wof:parent_id":1108747121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51389,
+    41.13333,
+    126.51389,
+    41.13333
+],
+  "geometry": {"coordinates":[126.51389,41.13333],"type":"Point"}
+}

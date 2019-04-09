@@ -1,0 +1,71 @@
+{
+  "id": 1310488855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.50944,39.96917,124.50944,39.96917",
+    "geom:latitude":39.96917,
+    "geom:longitude":124.50944,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hakhung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877508,
+    "gn:latitude":39.96917,
+    "gn:longitude":124.50944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hakh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud559\ud765\ub9ac",
+        "Hakh\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877508
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5facd128759dfdef38e21279d90ce654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748105,
+            "locality_id":1310488855,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1310488855,
+    "wof:lastmodified":1537654746,
+    "wof:name":"Hakhung-ni",
+    "wof:parent_id":1108748105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.50943999999998,
+    39.96917,
+    124.50943999999998,
+    39.96917
+],
+  "geometry": {"coordinates":[124.50943999999998,39.96917],"type":"Point"}
+}

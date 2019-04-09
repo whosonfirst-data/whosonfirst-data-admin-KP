@@ -1,0 +1,71 @@
+{
+  "id": 1259971913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.36944,38.12944,126.36944,38.12944",
+    "geom:latitude":38.12944,
+    "geom:longitude":126.36944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Suttolmol",
+    "gn:country_code":"KP",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1966603,
+    "gn:latitude":38.12944,
+    "gn:longitude":126.36944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Suttolmol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc22b\ub3cc\ubab0",
+        "Suttolmol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1966603
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"825d79ea8bef9653c659833d251d49bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747061,
+            "locality_id":1259971913,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259971913,
+    "wof:lastmodified":1537655123,
+    "wof:name":"Suttolmol",
+    "wof:parent_id":1108747061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.36944,
+    38.12944,
+    126.36944,
+    38.12944
+],
+  "geometry": {"coordinates":[126.36944,38.12944],"type":"Point"}
+}

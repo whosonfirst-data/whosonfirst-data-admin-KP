@@ -1,0 +1,73 @@
+{
+  "id": 1293710977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.51861,38.52722,125.51861,38.52722",
+    "geom:latitude":38.52722,
+    "geom:longitude":125.51861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yongsong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947162,
+    "gn:latitude":38.52722,
+    "gn:longitude":125.51861,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yongs\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc11d\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Yongs\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947162
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bf8d27e0bd54743e8e9872d094a5c275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746843,
+            "locality_id":1293710977,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293710977,
+    "wof:lastmodified":1537655089,
+    "wof:name":"Yongsong-ni",
+    "wof:parent_id":1108746843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.51861,
+    38.52722,
+    125.51861,
+    38.52722
+],
+  "geometry": {"coordinates":[125.51861,38.52722],"type":"Point"}
+}

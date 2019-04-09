@@ -1,0 +1,71 @@
+{
+  "id": 1292895259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.08944,38.99056,127.08944,38.99056",
+    "geom:latitude":38.99056,
+    "geom:longitude":127.08944,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tonghwa-ri",
+    "gn:country_code":"KP",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888735,
+    "gn:latitude":38.99056,
+    "gn:longitude":127.08944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tonghwa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3d9\ud654\ub9ac",
+        "Tonghwa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888735
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8bdb72e04020441dda2c86876e61b45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747065,
+            "locality_id":1292895259,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1292895259,
+    "wof:lastmodified":1537654905,
+    "wof:name":"Tonghwa-ri",
+    "wof:parent_id":1108747065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.08944,
+    38.99056,
+    127.08944,
+    38.99056
+],
+  "geometry": {"coordinates":[127.08944,38.99056],"type":"Point"}
+}

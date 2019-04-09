@@ -1,0 +1,71 @@
+{
+  "id": 1293070913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.92583,40.0825,126.92583,40.0825",
+    "geom:latitude":40.0825,
+    "geom:longitude":126.92583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Soksap'a",
+    "gn:country_code":"KP",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281237,
+    "gn:latitude":40.0825,
+    "gn:longitude":126.92583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Soksap\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc18d\uc0ac\ud30c",
+        "Soksap\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281237
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ea2810c7fd755cebcc6ee3a7bc79a9ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748047,
+            "locality_id":1293070913,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1293070913,
+    "wof:lastmodified":1537655725,
+    "wof:name":"Soksap'a",
+    "wof:parent_id":1108748047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.92583,
+    40.0825,
+    126.92583,
+    40.0825
+],
+  "geometry": {"coordinates":[126.92583,40.0825],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225811761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.92333,42.11139,129.92333,42.11139",
+    "geom:latitude":42.11139,
+    "geom:longitude":129.92333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"P'anjang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042054,
+    "gn:latitude":42.11139,
+    "gn:longitude":129.92333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019anjang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019anjang-dong",
+        "\ud310\uc7a5\ub9ac",
+        "P\u2019anjang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042054
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8929c7eb65b08dba6af2b23d8c3773d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746863,
+            "locality_id":1225811761,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1225811761,
+    "wof:lastmodified":1537655322,
+    "wof:name":"P'anjang-ni",
+    "wof:parent_id":1108746863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.92333,
+    42.11139,
+    129.92333,
+    42.11139
+],
+  "geometry": {"coordinates":[129.92332999999999,42.11139],"type":"Point"}
+}

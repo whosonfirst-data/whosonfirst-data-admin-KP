@@ -1,0 +1,71 @@
+{
+  "id": 1293188179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.5475,40.12694,124.5475,40.12694",
+    "geom:latitude":40.12694,
+    "geom:longitude":124.5475,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"P'al-gol",
+    "gn:country_code":"KP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042095,
+    "gn:latitude":40.12694,
+    "gn:longitude":124.5475,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019al-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud314\uace8",
+        "P\u2019al-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042095
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"25bf34a2a47ba8f848f8844c77451da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747205,
+            "locality_id":1293188179,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1293188179,
+    "wof:lastmodified":1537655325,
+    "wof:name":"P'al-gol",
+    "wof:parent_id":1108747205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.5475,
+    40.12694000000001,
+    124.5475,
+    40.12694000000001
+],
+  "geometry": {"coordinates":[124.5475,40.12694000000001],"type":"Point"}
+}

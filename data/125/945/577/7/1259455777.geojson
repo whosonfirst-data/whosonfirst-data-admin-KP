@@ -1,0 +1,72 @@
+{
+  "id": 1259455777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.6375,39.72083,126.6375,39.72083",
+    "geom:latitude":39.72083,
+    "geom:longitude":126.6375,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Aech'ang",
+    "gn:country_code":"KP",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879736,
+    "gn:latitude":39.72083,
+    "gn:longitude":126.6375,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aech\u2019ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ais\u014d",
+        "\uc560\ucc3d",
+        "Aech\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879736
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7de549aa104a50cb073423a17fa944c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747005,
+            "locality_id":1259455777,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1259455777,
+    "wof:lastmodified":1537654874,
+    "wof:name":"Aech'ang",
+    "wof:parent_id":1108747005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.6375,
+    39.72083,
+    126.6375,
+    39.72083
+],
+  "geometry": {"coordinates":[126.6375,39.72083],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260056037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.39056,42.32611,129.39056,42.32611",
+    "geom:latitude":42.32611,
+    "geom:longitude":129.39056,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Oryong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042246,
+    "gn:latitude":42.32611,
+    "gn:longitude":129.39056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oryong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\ub8e1\ub3d9",
+        "Oryong-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042246
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"56a2649fdc841fa8354cde0f108cf073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746885,
+            "locality_id":1260056037,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1260056037,
+    "wof:lastmodified":1537655333,
+    "wof:name":"Oryong-dong",
+    "wof:parent_id":1108746885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.39056000000002,
+    42.32611,
+    129.39056000000002,
+    42.32611
+],
+  "geometry": {"coordinates":[129.39056000000002,42.32611],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327237867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.24262,40.18099,128.24262,40.18099",
+    "geom:latitude":40.18099,
+    "geom:longitude":128.24262,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moro-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330251,
+    "gn:latitude":40.18099,
+    "gn:longitude":128.24262,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Moro-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moro-ch\u2019on",
+        "\ubaa8\ub85c\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330251
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1bb9a72ffc1d1c1698aab01a2cbeb2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747941,
+            "locality_id":1327237867,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1327237867,
+    "wof:lastmodified":1537655944,
+    "wof:name":"Moro-ch'on",
+    "wof:parent_id":1108747941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.24262,
+    40.18099,
+    128.24262,
+    40.18099
+],
+  "geometry": {"coordinates":[128.24261999999999,40.18099],"type":"Point"}
+}

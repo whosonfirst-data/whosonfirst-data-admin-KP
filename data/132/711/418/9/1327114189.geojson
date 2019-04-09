@@ -1,0 +1,72 @@
+{
+  "id": 1327114189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.88645,38.91617,125.88645,38.91617",
+    "geom:latitude":38.91617,
+    "geom:longitude":125.88645,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Wang-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867163,
+    "gn:latitude":38.91617,
+    "gn:longitude":125.88645,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Wang-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc655\ucd0c",
+        "Wang-ch\u2019on",
+        "Wangchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867163
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"06beb8bf4201a01e2a05ac38b5d0f4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1327114189,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1327114189,
+    "wof:lastmodified":1537654218,
+    "wof:name":"Wang-ch'on",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.88645,
+    38.91617,
+    125.88645,
+    38.91617
+],
+  "geometry": {"coordinates":[125.88645,38.91617],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344249365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.91778,38.22167,125.91778,38.22167",
+    "geom:latitude":38.22167,
+    "geom:longitude":125.91778,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Panggu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947382,
+    "gn:latitude":38.22167,
+    "gn:longitude":125.91778,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"Panggu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947382
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b5fe0664ecd29dc860e296b68ecebfe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747093,
+            "locality_id":1344249365,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1344249365,
+    "wof:lastmodified":1537096931,
+    "wof:name":"Panggu-dong",
+    "wof:parent_id":1108747093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.91778,
+    38.22167,
+    125.91778,
+    38.22167
+],
+  "geometry": {"coordinates":[125.91777999999999,38.22167],"type":"Point"}
+}

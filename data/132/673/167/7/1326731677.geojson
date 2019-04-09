@@ -1,0 +1,71 @@
+{
+  "id": 1326731677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.50694,39.49639,127.50694,39.49639",
+    "geom:latitude":39.49639,
+    "geom:longitude":127.50694,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sangp'o",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274332,
+    "gn:latitude":39.49639,
+    "gn:longitude":127.50694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangp\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\ud3ec",
+        "Sangp\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274332
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"72ff7ea98fc253ae0630e9ee1aaa57d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1326731677,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1326731677,
+    "wof:lastmodified":1537655701,
+    "wof:name":"Sangp'o",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.50694,
+    39.49639000000001,
+    127.50694,
+    39.49639000000001
+],
+  "geometry": {"coordinates":[127.50694,39.49639000000001],"type":"Point"}
+}

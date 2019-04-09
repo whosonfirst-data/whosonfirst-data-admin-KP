@@ -1,0 +1,67 @@
+{
+  "id": 1209681467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.33333,42.38333,130.33333,42.38333",
+    "geom:latitude":42.38333,
+    "geom:longitude":130.33333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"S\u014fnbong-gun",
+    "gn:asciiname":"Surogok",
+    "gn:country_code":"KP",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040286,
+    "gn:latitude":42.38333,
+    "gn:longitude":130.33333,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Sur\u014fgok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc220\uc5b4\uace1",
+        "Sur\u014fgok",
+        "Sureogok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040286
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6bb6f6b3330f45ed4dd7cb77dffb5632",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209681467
+        }
+    ],
+    "wof:id":1209681467,
+    "wof:lastmodified":1537655218,
+    "wof:name":"Surogok",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.33333000000002,
+    42.38333,
+    130.33333000000002,
+    42.38333
+],
+  "geometry": {"coordinates":[130.33333000000002,42.38333],"type":"Point"}
+}

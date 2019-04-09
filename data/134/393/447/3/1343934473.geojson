@@ -1,0 +1,74 @@
+{
+  "id": 1343934473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.65638,38.90676,125.65638,38.90676",
+    "geom:latitude":38.90676,
+    "geom:longitude":125.65638,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Soksa-dong",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869876,
+    "gn:latitude":38.90676,
+    "gn:longitude":125.65638,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"S\u014fksa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\uc0ac\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "S\u014fksa-dong",
+        "Seoksadong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869876
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9d28a042c9b403cdedd01832df21b297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747815,
+            "locality_id":1343934473,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343934473,
+    "wof:lastmodified":1537654353,
+    "wof:name":"Soksa-dong",
+    "wof:parent_id":1108747815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.65638,
+    38.90676,
+    125.65638,
+    38.90676
+],
+  "geometry": {"coordinates":[125.65638,38.90676],"type":"Point"}
+}

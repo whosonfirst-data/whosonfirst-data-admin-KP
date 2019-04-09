@@ -1,0 +1,75 @@
+{
+  "id": 1327454277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73917,38.21333,126.73917,38.21333",
+    "geom:latitude":38.21333,
+    "geom:longitude":126.73917,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"T'osan-gun",
+    "gn:asciiname":"Soech'igol",
+    "gn:country_code":"KP",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875428,
+    "gn:latitude":38.21333,
+    "gn:longitude":126.73917,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Soech\u2019igol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1e0\uce58\uace8"
+    ],
+    "name:und_x_variant":[
+        "K\u016dmch\u2019i-ri",
+        "Soech\u2019igol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875428
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"acedb81661b505683a8a1f5a7d377ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747189,
+            "locality_id":1327454277,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327454277,
+    "wof:lastmodified":1537654629,
+    "wof:name":"Soech'igol",
+    "wof:parent_id":1108747189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73917,
+    38.21333,
+    126.73917,
+    38.21333
+],
+  "geometry": {"coordinates":[126.73917,38.21333],"type":"Point"}
+}

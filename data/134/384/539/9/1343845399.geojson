@@ -1,0 +1,67 @@
+{
+  "id": 1343845399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.95917,39.82444,125.95917,39.82444",
+    "geom:latitude":39.82444,
+    "geom:longitude":125.95917,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kangjong",
+    "gn:country_code":"KP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890359,
+    "gn:latitude":39.82444,
+    "gn:longitude":125.95917,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Kangj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890359
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"de8fb6e21b6e39abd0386c83909b6db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746979,
+            "locality_id":1343845399,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1343845399,
+    "wof:lastmodified":1536688431,
+    "wof:name":"Kangjong",
+    "wof:parent_id":1108746979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.95917,
+    39.82444,
+    125.95917,
+    39.82444
+],
+  "geometry": {"coordinates":[125.95917,39.82444],"type":"Point"}
+}

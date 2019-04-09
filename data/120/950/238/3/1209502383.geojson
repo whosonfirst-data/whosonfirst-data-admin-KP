@@ -1,0 +1,65 @@
+{
+  "id": 1209502383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.18639,40.41056,125.18639,40.41056",
+    "geom:latitude":40.41056,
+    "geom:longitude":125.18639,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chungdan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044515,
+    "gn:latitude":40.41056,
+    "gn:longitude":125.18639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chungdan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\ub2e8\ub3d9",
+        "Chungdan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044515
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bdecd7dda095a8f35af3f3af55ff9e4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209502383
+        }
+    ],
+    "wof:id":1209502383,
+    "wof:lastmodified":1537655463,
+    "wof:name":"Chungdan-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.18639,
+    40.41056,
+    125.18639,
+    40.41056
+],
+  "geometry": {"coordinates":[125.18639,40.41056],"type":"Point"}
+}

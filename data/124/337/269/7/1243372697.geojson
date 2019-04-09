@@ -1,0 +1,73 @@
+{
+  "id": 1243372697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.82222,40.49056,125.82222,40.49056",
+    "geom:latitude":40.49056,
+    "geom:longitude":125.82222,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yonggon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039118,
+    "gn:latitude":40.49056,
+    "gn:longitude":125.82222,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Yongg\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uac74\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Yongg\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039118
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0c5edf8f7ab49639230f7d606abd4ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1243372697,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1243372697,
+    "wof:lastmodified":1537655151,
+    "wof:name":"Yonggon-dong",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.82222,
+    40.49056,
+    125.82222,
+    40.49056
+],
+  "geometry": {"coordinates":[125.82222,40.49056],"type":"Point"}
+}

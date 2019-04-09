@@ -1,0 +1,67 @@
+{
+  "id": 1209082829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.82278,38.85361,125.82278,38.85361",
+    "geom:latitude":38.85361,
+    "geom:longitude":125.82278,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Yujong",
+    "gn:country_code":"KP",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873435,
+    "gn:latitude":38.85361,
+    "gn:longitude":125.82278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yuj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u016dr\u016dngmul",
+        "\uc720\uc815",
+        "\ub290\ub989\ubb3c",
+        "Yuj\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873435
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"64df16a216d8dd472b5c6ecc273ceba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209082829
+        }
+    ],
+    "wof:id":1209082829,
+    "wof:lastmodified":1537654531,
+    "wof:name":"Yujong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.82278,
+    38.85361,
+    125.82278,
+    38.85361
+],
+  "geometry": {"coordinates":[125.82277999999999,38.85361],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226652973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.39389,40.10426,128.39389,40.10426",
+    "geom:latitude":40.10426,
+    "geom:longitude":128.39389,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hach'angdol",
+    "gn:country_code":"KP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049758,
+    "gn:latitude":40.10426,
+    "gn:longitude":128.39389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hach\u2019angdol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hach\u2019angdol",
+        "\ud558\ucc3d\ub3cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049758
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"67eb3435c4dd9bdcf867a14b0a6bca9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748003,
+            "locality_id":1226652973,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1226652973,
+    "wof:lastmodified":1537655572,
+    "wof:name":"Hach'angdol",
+    "wof:parent_id":1108748003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.39389,
+    40.10426,
+    128.39389,
+    40.10426
+],
+  "geometry": {"coordinates":[128.39389,40.10426],"type":"Point"}
+}

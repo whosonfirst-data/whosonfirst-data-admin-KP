@@ -1,0 +1,67 @@
+{
+  "id": 1309889811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.25833,38.66583,127.25833,38.66583",
+    "geom:latitude":38.66583,
+    "geom:longitude":127.25833,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nup-kol",
+    "gn:country_code":"KP",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889222,
+    "gn:latitude":38.66583,
+    "gn:longitude":127.25833,
+    "gn:modification_date":"1996-03-13",
+    "gn:name":"Nup-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889222
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f2d07c714ff5ceeb7ef666d9ac342bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747119,
+            "locality_id":1309889811,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1309889811,
+    "wof:lastmodified":1536809627,
+    "wof:name":"Nup-kol",
+    "wof:parent_id":1108747119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.25833,
+    38.66583,
+    127.25833,
+    38.66583
+],
+  "geometry": {"coordinates":[127.25833,38.66583],"type":"Point"}
+}

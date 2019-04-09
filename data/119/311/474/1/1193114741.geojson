@@ -1,0 +1,73 @@
+{
+  "id": 1193114741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.39778,39.59722,125.39778,39.59722",
+    "geom:latitude":39.59722,
+    "geom:longitude":125.39778,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Unjondong",
+    "gn:country_code":"KP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6593112,
+    "gn:latitude":39.59722,
+    "gn:longitude":125.39778,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Unj\u014fndong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6b4\uc804\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Unj\u014fndong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6593112
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"52d2a2da2039c0d4d019d755f7a7c7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747213,
+            "locality_id":1193114741,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1193114741,
+    "wof:lastmodified":1537655944,
+    "wof:name":"Unjondong",
+    "wof:parent_id":1108747213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.39778,
+    39.59722,
+    125.39778,
+    39.59722
+],
+  "geometry": {"coordinates":[125.39778,39.59722],"type":"Point"}
+}

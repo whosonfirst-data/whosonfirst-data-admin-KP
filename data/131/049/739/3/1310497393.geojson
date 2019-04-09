@@ -1,0 +1,70 @@
+{
+  "id": 1310497393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73583,38.86083,126.73583,38.86083",
+    "geom:latitude":38.86083,
+    "geom:longitude":126.73583,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kwanmun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366907,
+    "gn:latitude":38.86083,
+    "gn:longitude":126.73583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kwanmun-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad00\ubb38\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366907
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7e6b3248825f5bd265d9b2ad79917052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748001,
+            "locality_id":1310497393,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310497393,
+    "wof:lastmodified":1537655897,
+    "wof:name":"Kwanmun-dong",
+    "wof:parent_id":1108748001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73583,
+    38.86083,
+    126.73583,
+    38.86083
+],
+  "geometry": {"coordinates":[126.73583000000001,38.86083],"type":"Point"}
+}

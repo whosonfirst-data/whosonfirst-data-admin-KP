@@ -1,0 +1,75 @@
+{
+  "id": 1276206065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.16028,39.13889,126.16028,39.13889",
+    "geom:latitude":39.13889,
+    "geom:longitude":126.16028,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kangdong-gun",
+    "gn:asciiname":"Maeum",
+    "gn:country_code":"KP",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950183,
+    "gn:latitude":39.13889,
+    "gn:longitude":126.16028,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Mae\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9e4\uc74c"
+    ],
+    "name:und_x_variant":[
+        "Mae\u016dm",
+        "Maeeum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950183
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9f2f1f54304ae42ebadc78b5d0d0c71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747811,
+            "locality_id":1276206065,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1276206065,
+    "wof:lastmodified":1537655106,
+    "wof:name":"Maeum",
+    "wof:parent_id":1108747811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.16028,
+    39.13889,
+    126.16028,
+    39.13889
+],
+  "geometry": {"coordinates":[126.16028,39.13889],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277068989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.42806,37.75472,125.42806,37.75472",
+    "geom:latitude":37.75472,
+    "geom:longitude":125.42806,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tolch'ang",
+    "gn:country_code":"KP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869973,
+    "gn:latitude":37.75472,
+    "gn:longitude":125.42806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tolch\u2019ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fkchangdae",
+        "S\u014fkchangsu",
+        "S\u014fkchangs\u016dng",
+        "\ub3cc\ucc3d",
+        "Tolchangs\u016dng",
+        "Tolch\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869973
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1732fb6afcd5b18219ede571e09511bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747817,
+            "locality_id":1277068989,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1277068989,
+    "wof:lastmodified":1537654358,
+    "wof:name":"Tolch'ang",
+    "wof:parent_id":1108747817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.42806000000002,
+    37.75472,
+    125.42806000000002,
+    37.75472
+],
+  "geometry": {"coordinates":[125.42806000000002,37.75472],"type":"Point"}
+}

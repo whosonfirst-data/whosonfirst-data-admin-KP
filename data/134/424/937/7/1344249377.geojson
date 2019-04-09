@@ -1,0 +1,72 @@
+{
+  "id": 1344249377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.01167,37.94917,126.01167,37.94917",
+    "geom:latitude":37.94917,
+    "geom:longitude":126.01167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kanmal",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871717,
+    "gn:latitude":37.94917,
+    "gn:longitude":126.01167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kanmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saen-ma\u016dl",
+        "Kanmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871717
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b13d0a95db8dee7bd52060e7c726e7c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1344249377,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1344249377,
+    "wof:lastmodified":1537654443,
+    "wof:name":"Kanmal",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.01167,
+    37.94917,
+    126.01167,
+    37.94917
+],
+  "geometry": {"coordinates":[126.01167,37.94917],"type":"Point"}
+}

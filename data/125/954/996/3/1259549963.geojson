@@ -1,0 +1,72 @@
+{
+  "id": 1259549963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.4425,40.98278,129.4425,40.98278",
+    "geom:latitude":40.98278,
+    "geom:longitude":129.4425,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chol-gol",
+    "gn:country_code":"KP",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044838,
+    "gn:latitude":40.98278,
+    "gn:longitude":129.4425,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u014fl-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagok",
+        "\uc808\uace8",
+        "Ch\u014fl-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044838
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"537f53f87f56689f646ad2bc12a440e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747015,
+            "locality_id":1259549963,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1259549963,
+    "wof:lastmodified":1537655480,
+    "wof:name":"Chol-gol",
+    "wof:parent_id":1108747015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.4425,
+    40.98278,
+    129.4425,
+    40.98278
+],
+  "geometry": {"coordinates":[129.4425,40.98278],"type":"Point"}
+}

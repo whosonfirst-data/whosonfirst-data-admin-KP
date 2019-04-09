@@ -1,0 +1,65 @@
+{
+  "id": 1209013679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4475,40.61694,126.4475,40.61694",
+    "geom:latitude":40.61694,
+    "geom:longitude":126.4475,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mason-gol",
+    "gn:country_code":"KP",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055306,
+    "gn:latitude":40.61694,
+    "gn:longitude":126.4475,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mas\u014fn-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9c8\uc120\uace8",
+        "Mas\u014fn-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055306
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b847a279939a5a9984fa1ca1aaa4be21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209013679
+        }
+    ],
+    "wof:id":1209013679,
+    "wof:lastmodified":1537655646,
+    "wof:name":"Mason-gol",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4475,
+    40.61694,
+    126.4475,
+    40.61694
+],
+  "geometry": {"coordinates":[126.44750000000001,40.61694],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309982077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.63,41.23444,129.63,41.23444",
+    "geom:latitude":41.23444,
+    "geom:longitude":129.63,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hagam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305818,
+    "gn:latitude":41.23444,
+    "gn:longitude":129.63,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hagam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud559\uc554\ub3d9",
+        "Hagam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305818
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"59c58c546601ce54ffcb1b057be3a28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747019,
+            "locality_id":1309982077,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1309982077,
+    "wof:lastmodified":1537655845,
+    "wof:name":"Hagam-dong",
+    "wof:parent_id":1108747019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.63,
+    41.23444,
+    129.63,
+    41.23444
+],
+  "geometry": {"coordinates":[129.63,41.23444],"type":"Point"}
+}

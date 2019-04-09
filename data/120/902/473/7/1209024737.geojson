@@ -1,0 +1,65 @@
+{
+  "id": 1209024737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33113,39.23079,127.33113,39.23079",
+    "geom:latitude":39.23079,
+    "geom:longitude":127.33113,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yomdong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888610,
+    "gn:latitude":39.23079,
+    "gn:longitude":127.33113,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u014fmdong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u014fmdong-ni",
+        "\uc5fc\ub3d9\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888610
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"865d04919ad97c31fd85627f3709bdb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209024737
+        }
+    ],
+    "wof:id":1209024737,
+    "wof:lastmodified":1537654901,
+    "wof:name":"Yomdong-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33113,
+    39.23079,
+    127.33113,
+    39.23079
+],
+  "geometry": {"coordinates":[127.33113,39.23079],"type":"Point"}
+}

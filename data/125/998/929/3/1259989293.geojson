@@ -1,0 +1,77 @@
+{
+  "id": 1259989293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.61667,38.6,125.61667,38.6",
+    "geom:latitude":38.6,
+    "geom:longitude":125.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chejung-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878958,
+    "gn:latitude":38.6,
+    "gn:longitude":125.61667,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chejung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc81c\uc911\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Saich\u016b",
+        "Chejung",
+        "Saich\u016b-ri",
+        "Chejung-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878958
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"18aedd4bba4de15a1ae6c464b8d03e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747207,
+            "locality_id":1259989293,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259989293,
+    "wof:lastmodified":1537654828,
+    "wof:name":"Chejung-ni",
+    "wof:parent_id":1108747207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.61667,
+    38.6,
+    125.61667,
+    38.6
+],
+  "geometry": {"coordinates":[125.61667,38.6],"type":"Point"}
+}

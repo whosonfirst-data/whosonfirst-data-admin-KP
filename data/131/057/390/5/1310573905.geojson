@@ -1,0 +1,71 @@
+{
+  "id": 1310573905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.62972,39.1775,126.62972,39.1775",
+    "geom:latitude":39.1775,
+    "geom:longitude":126.62972,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Yonghung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952247,
+    "gn:latitude":39.1775,
+    "gn:longitude":126.62972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yongh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\ud765\ub9ac",
+        "Yongh\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952247
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"315b7af3d1a8dda8421458e1647b6e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748101,
+            "locality_id":1310573905,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1310573905,
+    "wof:lastmodified":1537655111,
+    "wof:name":"Yonghung-ni",
+    "wof:parent_id":1108748101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.62972,
+    39.1775,
+    126.62972,
+    39.1775
+],
+  "geometry": {"coordinates":[126.62972000000001,39.1775],"type":"Point"}
+}

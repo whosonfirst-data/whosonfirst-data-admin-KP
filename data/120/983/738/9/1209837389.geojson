@@ -1,0 +1,73 @@
+{
+  "id": 1209837389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.19278,38.12111,126.19278,38.12111",
+    "geom:latitude":38.12111,
+    "geom:longitude":126.19278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tongmyong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890596,
+    "gn:latitude":38.12111,
+    "gn:longitude":126.19278,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"T\u014fngmy\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uba85\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "T\u014fngmy\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890596
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"22ed54a9dbfb3cb9bb1d6766464942d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747061,
+            "locality_id":1209837389,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1209837389,
+    "wof:lastmodified":1537654959,
+    "wof:name":"Tongmyong-dong",
+    "wof:parent_id":1108747061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.19278,
+    38.12111,
+    126.19278,
+    38.12111
+],
+  "geometry": {"coordinates":[126.19278,38.12111],"type":"Point"}
+}

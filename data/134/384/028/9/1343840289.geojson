@@ -1,0 +1,73 @@
+{
+  "id": 1343840289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4275,38.99639,126.4275,38.99639",
+    "geom:latitude":38.99639,
+    "geom:longitude":126.4275,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chonmun'gye",
+    "gn:country_code":"KP",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890292,
+    "gn:latitude":38.99639,
+    "gn:longitude":126.4275,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u014fnmun\u2019gye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc804\ubb38\uacc4"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u014fnmun\u2019gye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108746883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890292
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"af07912244e839c804a6f4417e058b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746883,
+            "locality_id":1343840289,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1343840289,
+    "wof:lastmodified":1537654950,
+    "wof:name":"Chonmun'gye",
+    "wof:parent_id":1108746883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4275,
+    38.99639000000001,
+    126.4275,
+    38.99639000000001
+],
+  "geometry": {"coordinates":[126.42749999999999,38.99639000000001],"type":"Point"}
+}

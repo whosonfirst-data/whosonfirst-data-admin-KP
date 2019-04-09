@@ -1,0 +1,65 @@
+{
+  "id": 1209609847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.29917,38.09917,126.29917,38.09917",
+    "geom:latitude":38.09917,
+    "geom:longitude":126.29917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kuhak-tong",
+    "gn:country_code":"KP",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890412,
+    "gn:latitude":38.09917,
+    "gn:longitude":126.29917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kuhak-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\ud559\ub3d9",
+        "Kuhak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890412
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fde5a4a253d5b594a93d6f93bbd65806",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209609847
+        }
+    ],
+    "wof:id":1209609847,
+    "wof:lastmodified":1537654954,
+    "wof:name":"Kuhak-tong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.29917,
+    38.09917,
+    126.29917,
+    38.09917
+],
+  "geometry": {"coordinates":[126.29917,38.09917],"type":"Point"}
+}

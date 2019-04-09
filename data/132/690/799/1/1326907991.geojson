@@ -1,0 +1,72 @@
+{
+  "id": 1326907991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.96444,40.28139,124.96444,40.28139",
+    "geom:latitude":40.28139,
+    "geom:longitude":124.96444,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chwa-ri",
+    "gn:country_code":"KP",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044354,
+    "gn:latitude":40.28139,
+    "gn:longitude":124.96444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chwa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chwa-dong",
+        "\uc88c\ub9ac",
+        "Chwa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044354
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"05fd843989d57e4643b8db22fed4c6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747105,
+            "locality_id":1326907991,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1326907991,
+    "wof:lastmodified":1537655452,
+    "wof:name":"Chwa-ri",
+    "wof:parent_id":1108747105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.96444,
+    40.28139,
+    124.96444,
+    40.28139
+],
+  "geometry": {"coordinates":[124.96444,40.28139],"type":"Point"}
+}

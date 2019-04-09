@@ -1,0 +1,70 @@
+{
+  "id": 1276759237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.29417,38.39972,125.29417,38.39972",
+    "geom:latitude":38.39972,
+    "geom:longitude":125.29417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Changhang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879227,
+    "gn:latitude":38.39972,
+    "gn:longitude":125.29417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Changhang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\ud56d\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879227
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1fdbf4b3323c3066df022f554c9c4110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747109,
+            "locality_id":1276759237,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276759237,
+    "wof:lastmodified":1537654844,
+    "wof:name":"Changhang-dong",
+    "wof:parent_id":1108747109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.29417,
+    38.39972,
+    125.29417,
+    38.39972
+],
+  "geometry": {"coordinates":[125.29416999999999,38.39972],"type":"Point"}
+}

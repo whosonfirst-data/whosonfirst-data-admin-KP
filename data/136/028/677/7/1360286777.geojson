@@ -1,0 +1,71 @@
+{
+  "id": 1360286777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.89528,40.47944,128.89528,40.47944",
+    "geom:latitude":40.47944,
+    "geom:longitude":128.89528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ch'onggyejang",
+    "gn:country_code":"KP",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2051854,
+    "gn:latitude":40.47944,
+    "gn:longitude":128.89528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019\u014fnggyejang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uccad\uacc4\uc7a5",
+        "Ch\u2019\u014fnggyejang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2051854
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"71cb6cbc62c2d7667d607ba4b6e80506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1360286777,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1360286777,
+    "wof:lastmodified":1537655609,
+    "wof:name":"Ch'onggyejang",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.89528,
+    40.47944,
+    128.89528,
+    40.47944
+],
+  "geometry": {"coordinates":[128.89528000000001,40.47944],"type":"Point"}
+}

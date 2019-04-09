@@ -1,0 +1,72 @@
+{
+  "id": 1226420067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.7775,39.78333,124.7775,39.78333",
+    "geom:latitude":39.78333,
+    "geom:longitude":124.7775,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ch'ongsong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874363,
+    "gn:latitude":39.78333,
+    "gn:longitude":124.7775,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019ongsong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moksadae-dong",
+        "Moksadae-ri",
+        "Ch\u2019ongsong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874363
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9c55e1bfaa66f1163b700455b7ce7621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747147,
+            "locality_id":1226420067,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1226420067,
+    "wof:lastmodified":1537654573,
+    "wof:name":"Ch'ongsong-ni",
+    "wof:parent_id":1108747147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.7775,
+    39.78333,
+    124.7775,
+    39.78333
+],
+  "geometry": {"coordinates":[124.7775,39.78333],"type":"Point"}
+}

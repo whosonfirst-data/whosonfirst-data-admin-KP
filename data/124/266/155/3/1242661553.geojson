@@ -1,0 +1,77 @@
+{
+  "id": 1242661553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.13611,39.08861,127.13611,39.08861",
+    "geom:latitude":39.08861,
+    "geom:longitude":127.13611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Toch'al-li",
+    "gn:country_code":"KP",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868294,
+    "gn:latitude":39.08861,
+    "gn:longitude":127.13611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Toch\u2019al-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ucc2c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Toch\u2019al-li"
+    ],
+    "name:und_x_variant":[
+        "Tony\u014fm-ni",
+        "Toch\u2019an-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868294
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"36828b541285ff08899d20a6e4738702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747065,
+            "locality_id":1242661553,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1242661553,
+    "wof:lastmodified":1537654275,
+    "wof:name":"Toch'al-li",
+    "wof:parent_id":1108747065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.13611000000002,
+    39.08861,
+    127.13611000000002,
+    39.08861
+],
+  "geometry": {"coordinates":[127.13611000000002,39.08861],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209309837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.29278,38.47073,128.29278,38.47073",
+    "geom:latitude":38.47073,
+    "geom:longitude":128.29278,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Wondae",
+    "gn:country_code":"KP",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1867004,
+    "gn:latitude":38.47073,
+    "gn:longitude":128.29278,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"W\u014fndae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kor_x_preferred":[
+        "\uc6d0\ub300"
+    ],
+    "name:und_x_variant":[
+        "W\u014fndae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867004
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6885ffb6b1a0748542e956ed20c798d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209309837
+        }
+    ],
+    "wof:id":1209309837,
+    "wof:lastmodified":1537654210,
+    "wof:name":"Wondae",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.29278,
+    38.47073,
+    128.29278,
+    38.47073
+],
+  "geometry": {"coordinates":[128.29277999999999,38.47073],"type":"Point"}
+}

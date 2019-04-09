@@ -1,0 +1,77 @@
+{
+  "id": 1293610953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.48944,38.56444,125.48944,38.56444",
+    "geom:latitude":38.56444,
+    "geom:longitude":125.48944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sanghung-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871201,
+    "gn:latitude":38.56444,
+    "gn:longitude":125.48944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ud765\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Sangh\u016dng-ni"
+    ],
+    "name:und_x_variant":[
+        "Sanghong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871201
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f9552702e83c1335c0f603f3bc097195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747207,
+            "locality_id":1293610953,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293610953,
+    "wof:lastmodified":1537654418,
+    "wof:name":"Sanghung-ni",
+    "wof:parent_id":1108747207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48944,
+    38.56444000000001,
+    125.48944,
+    38.56444000000001
+],
+  "geometry": {"coordinates":[125.48944,38.56444000000001],"type":"Point"}
+}

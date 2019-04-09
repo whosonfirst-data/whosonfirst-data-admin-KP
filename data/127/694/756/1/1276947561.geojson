@@ -1,0 +1,67 @@
+{
+  "id": 1276947561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.75694,39.43583,125.75694,39.43583",
+    "geom:latitude":39.43583,
+    "geom:longitude":125.75694,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Unp'yong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6269754,
+    "gn:latitude":39.43583,
+    "gn:longitude":125.75694,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Unp\u2019y\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6269754
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0e8a24ebe627a9de9515e076bb735b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748033,
+            "locality_id":1276947561,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1276947561,
+    "wof:lastmodified":1536950914,
+    "wof:name":"Unp'yong-ni",
+    "wof:parent_id":1108748033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.75694,
+    39.43583,
+    125.75694,
+    39.43583
+],
+  "geometry": {"coordinates":[125.75694,39.43583],"type":"Point"}
+}

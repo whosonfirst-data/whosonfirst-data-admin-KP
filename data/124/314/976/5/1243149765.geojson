@@ -1,0 +1,72 @@
+{
+  "id": 1243149765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.26194,39.95056,125.26194,39.95056",
+    "geom:latitude":39.95056,
+    "geom:longitude":125.26194,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sosan-dong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869252,
+    "gn:latitude":39.95056,
+    "gn:longitude":125.26194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fsan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fsan-ni",
+        "S\u014fsan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869252
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5a81fd937d4f939c156bfef3c94caf03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747859,
+            "locality_id":1243149765,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1243149765,
+    "wof:lastmodified":1537654321,
+    "wof:name":"Sosan-dong",
+    "wof:parent_id":1108747859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.26194,
+    39.95056,
+    125.26194,
+    39.95056
+],
+  "geometry": {"coordinates":[125.26194,39.95056],"type":"Point"}
+}

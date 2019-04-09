@@ -1,0 +1,73 @@
+{
+  "id": 1276642527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.96167,38.97,125.96167,38.97",
+    "geom:latitude":38.97,
+    "geom:longitude":125.96167,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Paejae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872960,
+    "gn:latitude":38.97,
+    "gn:longitude":125.96167,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Paejae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chury\u014fng-ni",
+        "\ubc30\uc7ac\ub9ac",
+        "Paejae-ri",
+        "Baejaeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872960
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ea2b28c47271a81c6e685a5668d4c85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":1276642527,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276642527,
+    "wof:lastmodified":1537654508,
+    "wof:name":"Paejae-ri",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.96167,
+    38.97,
+    125.96167,
+    38.97
+],
+  "geometry": {"coordinates":[125.96167,38.97],"type":"Point"}
+}

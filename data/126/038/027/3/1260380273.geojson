@@ -1,0 +1,73 @@
+{
+  "id": 1260380273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.97528,38.48528,127.97528,38.48528",
+    "geom:latitude":38.48528,
+    "geom:longitude":127.97528,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"K\u016dmgang-gun",
+    "gn:asciiname":"Sogol-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870107,
+    "gn:latitude":38.48528,
+    "gn:longitude":127.97528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sogol-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sogon-ni",
+        "Sogol-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870107
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"89910ec677b728fffbc6d50c3d5053a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747853,
+            "locality_id":1260380273,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1260380273,
+    "wof:lastmodified":1537654365,
+    "wof:name":"Sogol-li",
+    "wof:parent_id":1108747853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.97528,
+    38.48528,
+    127.97528,
+    38.48528
+],
+  "geometry": {"coordinates":[127.97528,38.48528],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242959145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.35111,38.87861,126.35111,38.87861",
+    "geom:latitude":38.87861,
+    "geom:longitude":126.35111,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sanggom",
+    "gn:country_code":"KP",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891336,
+    "gn:latitude":38.87861,
+    "gn:longitude":126.35111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangg\u014fm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\uac80"
+    ],
+    "name:kor_x_variant":[
+        "Sangg\u014fm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891336
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"02761cb9771bc3c2c86c4a0b7f1dd834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748111,
+            "locality_id":1242959145,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1242959145,
+    "wof:lastmodified":1537654976,
+    "wof:name":"Sanggom",
+    "wof:parent_id":1108748111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.35111,
+    38.87861,
+    126.35111,
+    38.87861
+],
+  "geometry": {"coordinates":[126.35111000000001,38.87861],"type":"Point"}
+}

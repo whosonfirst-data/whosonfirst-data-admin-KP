@@ -1,0 +1,67 @@
+{
+  "id": 1327120231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.19972,38.26083,126.19972,38.26083",
+    "geom:latitude":38.26083,
+    "geom:longitude":126.19972,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Namkkum-dong",
+    "gn:country_code":"KP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948078,
+    "gn:latitude":38.26083,
+    "gn:longitude":126.19972,
+    "gn:modification_date":"2006-07-17",
+    "gn:name":"Namkk\u016dm-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948078
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8680d09f7f4449ccc32583588c6bd3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747093,
+            "locality_id":1327120231,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327120231,
+    "wof:lastmodified":1536632256,
+    "wof:name":"Namkkum-dong",
+    "wof:parent_id":1108747093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.19972,
+    38.26083,
+    126.19972,
+    38.26083
+],
+  "geometry": {"coordinates":[126.19972,38.26083],"type":"Point"}
+}

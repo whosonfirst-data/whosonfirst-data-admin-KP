@@ -1,0 +1,72 @@
+{
+  "id": 1276427005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.525,41.27611,127.525,41.27611",
+    "geom:latitude":41.27611,
+    "geom:longitude":127.525,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yongha-nodongjagu",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039108,
+    "gn:latitude":41.27611,
+    "gn:longitude":127.525,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongha-nodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yongha-ri",
+        "Yongha-nodongjagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039108
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"007f28fb0999fb012a99dda4460f970a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746961,
+            "locality_id":1276427005,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1276427005,
+    "wof:lastmodified":1537655150,
+    "wof:name":"Yongha-nodongjagu",
+    "wof:parent_id":1108746961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.525,
+    41.27611,
+    127.525,
+    41.27611
+],
+  "geometry": {"coordinates":[127.52500000000001,41.27611],"type":"Point"}
+}

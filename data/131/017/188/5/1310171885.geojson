@@ -1,0 +1,71 @@
+{
+  "id": 1310171885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.89111,42.74028,129.89111,42.74028",
+    "geom:latitude":42.74028,
+    "geom:longitude":129.89111,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hungso-dong",
+    "gn:country_code":"KP",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305693,
+    "gn:latitude":42.74028,
+    "gn:longitude":129.89111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"H\u016dngs\u014f-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud765\uc11c\ub3d9",
+        "H\u016dngs\u014f-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305693
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"393960de2d81b4823649d106b922844f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746885,
+            "locality_id":1310171885,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1310171885,
+    "wof:lastmodified":1537655840,
+    "wof:name":"Hungso-dong",
+    "wof:parent_id":1108746885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.89111,
+    42.74028,
+    129.89111,
+    42.74028
+],
+  "geometry": {"coordinates":[129.89111,42.74028],"type":"Point"}
+}

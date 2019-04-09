@@ -1,0 +1,75 @@
+{
+  "id": 1309684949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.72556,39.46639,125.72556,39.46639",
+    "geom:latitude":39.46639,
+    "geom:longitude":125.72556,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Namyang-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873663,
+    "gn:latitude":39.46639,
+    "gn:longitude":125.72556,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Namyang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\uc591\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Nany\u014d-ri",
+        "Namyang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873663
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6aecf9e45aecca56d387f15a53e996aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748033,
+            "locality_id":1309684949,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1309684949,
+    "wof:lastmodified":1537654541,
+    "wof:name":"Namyang-ni",
+    "wof:parent_id":1108748033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.72556000000002,
+    39.46639,
+    125.72556000000002,
+    39.46639
+],
+  "geometry": {"coordinates":[125.72556000000002,39.46639],"type":"Point"}
+}

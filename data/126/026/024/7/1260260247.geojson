@@ -1,0 +1,70 @@
+{
+  "id": 1260260247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.42472,39.69083,125.42472,39.69083",
+    "geom:latitude":39.69083,
+    "geom:longitude":125.42472,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yongbong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866462,
+    "gn:latitude":39.69083,
+    "gn:longitude":125.42472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongbong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub8e1\ubd09\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866462
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"af3149ce8718b60b9cecbd224c67dcef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747213,
+            "locality_id":1260260247,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1260260247,
+    "wof:lastmodified":1537654184,
+    "wof:name":"Yongbong-ni",
+    "wof:parent_id":1108747213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.42472,
+    39.69083,
+    125.42472,
+    39.69083
+],
+  "geometry": {"coordinates":[125.42471999999999,39.69083],"type":"Point"}
+}

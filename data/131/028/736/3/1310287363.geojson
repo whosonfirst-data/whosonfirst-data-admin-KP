@@ -1,0 +1,68 @@
+{
+  "id": 1310287363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.44417,39.35556,125.44417,39.35556",
+    "geom:latitude":39.35556,
+    "geom:longitude":125.44417,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1869039",
+    "gn:asciiname":"Ongsong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873158,
+    "gn:latitude":39.35556,
+    "gn:longitude":125.44417,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Ongs\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873158
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8fcbda8579fee92f675d3a29232ef017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748033,
+            "locality_id":1310287363,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1310287363,
+    "wof:lastmodified":1536734290,
+    "wof:name":"Ongsong-dong",
+    "wof:parent_id":1108748033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.44417,
+    39.35556,
+    125.44417,
+    39.35556
+],
+  "geometry": {"coordinates":[125.44417,39.35556],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310487539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.14889,38.48111,126.14889,38.48111",
+    "geom:latitude":38.48111,
+    "geom:longitude":126.14889,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Paegam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873000,
+    "gn:latitude":38.48111,
+    "gn:longitude":126.14889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paegam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paegam-dong",
+        "\ubc31\uc554\ub9ac",
+        "Paegam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873000
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6a1a48b2d9042c6ea8771c4d238fd838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":1310487539,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310487539,
+    "wof:lastmodified":1537654510,
+    "wof:name":"Paegam-ni",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.14889,
+    38.48111,
+    126.14889,
+    38.48111
+],
+  "geometry": {"coordinates":[126.14888999999999,38.48111],"type":"Point"}
+}

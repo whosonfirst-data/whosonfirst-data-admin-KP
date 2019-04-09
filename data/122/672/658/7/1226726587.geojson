@@ -1,0 +1,74 @@
+{
+  "id": 1226726587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.59348,38.81858,125.59348,38.81858",
+    "geom:latitude":38.81858,
+    "geom:longitude":125.59348,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sokho-ri",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869941,
+    "gn:latitude":38.81858,
+    "gn:longitude":125.59348,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"S\u014fkho-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\ud638\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "S\u014fkho-ri",
+        "Seokho-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869941
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"52e2636ab6d98ff42b3cfe538d19c5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747815,
+            "locality_id":1226726587,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226726587,
+    "wof:lastmodified":1537654356,
+    "wof:name":"Sokho-ri",
+    "wof:parent_id":1108747815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.59348,
+    38.81858,
+    125.59348,
+    38.81858
+],
+  "geometry": {"coordinates":[125.59348,38.81858],"type":"Point"}
+}

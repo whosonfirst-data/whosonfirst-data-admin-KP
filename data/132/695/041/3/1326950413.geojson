@@ -1,0 +1,73 @@
+{
+  "id": 1326950413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.56333,38.51528,125.56333,38.51528",
+    "geom:latitude":38.51528,
+    "geom:longitude":125.56333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kaun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6407533,
+    "gn:latitude":38.51528,
+    "gn:longitude":125.56333,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ka\u016dn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc740\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Ka\u016dn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6407533
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d1019955d8eee1f8e80f65ca0a6b32be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746843,
+            "locality_id":1326950413,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1326950413,
+    "wof:lastmodified":1537655940,
+    "wof:name":"Kaun-dong",
+    "wof:parent_id":1108746843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.56333,
+    38.51528,
+    125.56333,
+    38.51528
+],
+  "geometry": {"coordinates":[125.56332999999999,38.51528],"type":"Point"}
+}

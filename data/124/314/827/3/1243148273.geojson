@@ -1,0 +1,71 @@
+{
+  "id": 1243148273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.14912,41.15184,129.14912,41.15184",
+    "geom:latitude":41.15184,
+    "geom:longitude":129.14912,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Songmunwoe-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7547716,
+    "gn:latitude":41.15184,
+    "gn:longitude":129.14912,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"S\u014fngmunwoe-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fngmunwoe-ch\u2019on",
+        "\uc131\ubb38\uc678\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7547716
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fe909884d10d482686f7313456016801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747019,
+            "locality_id":1243148273,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1243148273,
+    "wof:lastmodified":1537655950,
+    "wof:name":"Songmunwoe-ch'on",
+    "wof:parent_id":1108747019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.14911999999998,
+    41.15184,
+    129.14911999999998,
+    41.15184
+],
+  "geometry": {"coordinates":[129.14911999999998,41.15184],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209418503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3925,40.04556,126.3925,40.04556",
+    "geom:latitude":40.04556,
+    "geom:longitude":126.3925,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hyangsanch'am",
+    "gn:country_code":"KP",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043842,
+    "gn:latitude":40.04556,
+    "gn:longitude":126.3925,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hyangsanch\u2019am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haenggonaech\u2019am",
+        "\ud5a5\uc0b0\ucc38",
+        "Hyangsanch\u2019am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043842
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"58b43bbd8e65f02f370346d7fc0d335d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209418503
+        }
+    ],
+    "wof:id":1209418503,
+    "wof:lastmodified":1537655422,
+    "wof:name":"Hyangsanch'am",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3925,
+    40.04556,
+    126.3925,
+    40.04556
+],
+  "geometry": {"coordinates":[126.3925,40.04556],"type":"Point"}
+}

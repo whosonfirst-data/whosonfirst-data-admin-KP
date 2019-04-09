@@ -1,0 +1,77 @@
+{
+  "id": 1243239541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.69611,42.11278,129.69611,42.11278",
+    "geom:latitude":42.11278,
+    "geom:longitude":129.69611,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Komusal-lodongjagu",
+    "gn:country_code":"KP",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2038816,
+    "gn:latitude":42.11278,
+    "gn:longitude":129.69611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Komusal-lodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komusan-nodongjagu",
+        "Kaomusan",
+        "Komosan",
+        "Komusan-dong",
+        "Komusan",
+        "\uace0\ubb34\uc0b0\ub85c\ub3d9\uc790\uad6c",
+        "Komusan 2-dong",
+        "Komusal-lodongjagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038816
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d3c1ca1f0f539da783f7c8aac8177363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747943,
+            "locality_id":1243239541,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1243239541,
+    "wof:lastmodified":1537655130,
+    "wof:name":"Komusal-lodongjagu",
+    "wof:parent_id":1108747943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.69611,
+    42.11278,
+    129.69611,
+    42.11278
+],
+  "geometry": {"coordinates":[129.69611,42.11278],"type":"Point"}
+}

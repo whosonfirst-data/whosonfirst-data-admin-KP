@@ -1,0 +1,76 @@
+{
+  "id": 1276411417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.29944,41.51917,128.29944,41.51917",
+    "geom:latitude":41.51917,
+    "geom:longitude":128.29944,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Poch'on-up",
+    "gn:country_code":"KP",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041994,
+    "gn:latitude":41.51917,
+    "gn:longitude":128.29944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Poch\u2019\u014fn-\u016dp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Futempo",
+        "Poch\u2019\u014fn",
+        "Futenho",
+        "Poj\u014fl-li",
+        "Potyonpo",
+        "Poch\u2019onbo",
+        "Poch\u2019\u014fn-\u016dp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041994
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"703eda27be4e3a6da5030375283ccb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747927,
+            "locality_id":1276411417,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1276411417,
+    "wof:lastmodified":1537655319,
+    "wof:name":"Poch'on-up",
+    "wof:parent_id":1108747927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.29944,
+    41.51917,
+    128.29944,
+    41.51917
+],
+  "geometry": {"coordinates":[128.29944,41.51917],"type":"Point"}
+}

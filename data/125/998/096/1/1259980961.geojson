@@ -1,0 +1,70 @@
+{
+  "id": 1259980961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.17333,40.05801,128.17333,40.05801",
+    "geom:latitude":40.05801,
+    "geom:longitude":128.17333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"So-gol",
+    "gn:country_code":"KP",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330348,
+    "gn:latitude":40.05801,
+    "gn:longitude":128.17333,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"So-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc18c\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330348
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"356c60429b8aed4a9924f56f184aa954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748003,
+            "locality_id":1259980961,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259980961,
+    "wof:lastmodified":1537655948,
+    "wof:name":"So-gol",
+    "wof:parent_id":1108748003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.17333,
+    40.05801,
+    128.17333,
+    40.05801
+],
+  "geometry": {"coordinates":[128.17332999999999,40.05801],"type":"Point"}
+}

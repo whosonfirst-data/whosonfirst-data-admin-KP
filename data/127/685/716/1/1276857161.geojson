@@ -1,0 +1,70 @@
+{
+  "id": 1276857161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64056,38.56972,126.64056,38.56972",
+    "geom:latitude":38.56972,
+    "geom:longitude":126.64056,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hwagae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366729,
+    "gn:latitude":38.56972,
+    "gn:longitude":126.64056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hwagae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\uac1c\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366729
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d3780ecd0bd11e34dcb523283b810986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747999,
+            "locality_id":1276857161,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276857161,
+    "wof:lastmodified":1537655891,
+    "wof:name":"Hwagae-ri",
+    "wof:parent_id":1108747999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64056,
+    38.56972,
+    126.64056,
+    38.56972
+],
+  "geometry": {"coordinates":[126.64055999999999,38.56972],"type":"Point"}
+}

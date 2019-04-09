@@ -1,0 +1,73 @@
+{
+  "id": 1260146899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.6025,41.41083,129.6025,41.41083",
+    "geom:latitude":41.41083,
+    "geom:longitude":129.6025,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chuch'onhujang",
+    "gn:country_code":"KP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044590,
+    "gn:latitude":41.41083,
+    "gn:longitude":129.6025,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Chuch\u2019onhujang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shusonk\u014dj\u014d",
+        "Tyatyonsuzyan",
+        "\uc8fc\ucd0c\ud6c4\uc7a5",
+        "Chuch\u2019onhujang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044590
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"925f8c13edda42e1193b686b57e5e1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747903,
+            "locality_id":1260146899,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1260146899,
+    "wof:lastmodified":1537655467,
+    "wof:name":"Chuch'onhujang",
+    "wof:parent_id":1108747903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.6025,
+    41.41083,
+    129.6025,
+    41.41083
+],
+  "geometry": {"coordinates":[129.60249999999999,41.41083],"type":"Point"}
+}

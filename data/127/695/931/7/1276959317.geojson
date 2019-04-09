@@ -1,0 +1,75 @@
+{
+  "id": 1276959317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.62944,40.04861,124.62944,40.04861",
+    "geom:latitude":40.04861,
+    "geom:longitude":124.62944,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sinnam-gol",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040963,
+    "gn:latitude":40.04861,
+    "gn:longitude":124.62944,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Sinnam-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ub0a8\uace8"
+    ],
+    "name:und_x_variant":[
+        "Sinnam-kol",
+        "Sinnam-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040963
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f4cbfc31caf5d61ec67d360eae87641c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747047,
+            "locality_id":1276959317,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276959317,
+    "wof:lastmodified":1537655257,
+    "wof:name":"Sinnam-gol",
+    "wof:parent_id":1108747047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.62944,
+    40.04861,
+    124.62944,
+    40.04861
+],
+  "geometry": {"coordinates":[124.62944,40.04861],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242847237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.13806,39.33444,126.13806,39.33444",
+    "geom:latitude":39.33444,
+    "geom:longitude":126.13806,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sang-kol",
+    "gn:country_code":"KP",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889902,
+    "gn:latitude":39.33444,
+    "gn:longitude":126.13806,
+    "gn:modification_date":"2002-07-09",
+    "gn:name":"Sang-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889902
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"da3210ebc681eb0e12292e085ffb8459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748091,
+            "locality_id":1242847237,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1242847237,
+    "wof:lastmodified":1536675340,
+    "wof:name":"Sang-kol",
+    "wof:parent_id":1108748091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.13806,
+    39.33444,
+    126.13806,
+    39.33444
+],
+  "geometry": {"coordinates":[126.13806,39.33444],"type":"Point"}
+}

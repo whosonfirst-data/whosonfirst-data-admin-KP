@@ -1,0 +1,70 @@
+{
+  "id": 1225859383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.86667,40.81667,126.86667,40.81667",
+    "geom:latitude":40.81667,
+    "geom:longitude":126.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sayang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041162,
+    "gn:latitude":40.81667,
+    "gn:longitude":126.86667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Sayang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\uc591\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108748019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041162
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ffac336d7b15491a744a67ede02a57ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748019,
+            "locality_id":1225859383,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1225859383,
+    "wof:lastmodified":1537655269,
+    "wof:name":"Sayang-dong",
+    "wof:parent_id":1108748019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.86667,
+    40.81667,
+    126.86667,
+    40.81667
+],
+  "geometry": {"coordinates":[126.86667,40.81667],"type":"Point"}
+}

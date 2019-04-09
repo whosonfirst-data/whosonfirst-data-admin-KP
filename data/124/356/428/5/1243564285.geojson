@@ -1,0 +1,70 @@
+{
+  "id": 1243564285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57083,39.73861,125.57083,39.73861",
+    "geom:latitude":39.73861,
+    "geom:longitude":125.57083,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hanam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6272036,
+    "gn:latitude":39.73861,
+    "gn:longitude":125.57083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hanam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ub0a8\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6272036
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d0f42229ad543dec8fb6b178d68af035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747909,
+            "locality_id":1243564285,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1243564285,
+    "wof:lastmodified":1537655667,
+    "wof:name":"Hanam-ni",
+    "wof:parent_id":1108747909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57083,
+    39.73861,
+    125.57083,
+    39.73861
+],
+  "geometry": {"coordinates":[125.57083,39.73861],"type":"Point"}
+}

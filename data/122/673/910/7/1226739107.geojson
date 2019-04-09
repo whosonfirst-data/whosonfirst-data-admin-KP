@@ -1,0 +1,72 @@
+{
+  "id": 1226739107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.55528,38.52556,127.55528,38.52556",
+    "geom:latitude":38.52556,
+    "geom:longitude":127.55528,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tanghyol-li",
+    "gn:country_code":"KP",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868424,
+    "gn:latitude":38.52556,
+    "gn:longitude":127.55528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tanghy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanghy\u014fn-ni",
+        "\ub2f9\ud604\ub9ac",
+        "Tanghy\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868424
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3ffdb8cc5bb7aabae7f61887daf76559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746967,
+            "locality_id":1226739107,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226739107,
+    "wof:lastmodified":1537654282,
+    "wof:name":"Tanghyol-li",
+    "wof:parent_id":1108746967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.55528,
+    38.52556,
+    127.55528,
+    38.52556
+],
+  "geometry": {"coordinates":[127.55528,38.52556],"type":"Point"}
+}

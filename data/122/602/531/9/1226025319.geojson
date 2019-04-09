@@ -1,0 +1,67 @@
+{
+  "id": 1226025319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.64883,39.54076,124.64883,39.54076",
+    "geom:latitude":39.54076,
+    "geom:longitude":124.64883,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tomang-ch'i",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892323,
+    "gn:latitude":39.54076,
+    "gn:longitude":124.64883,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tomang-ch\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Tomang-ch\u2019i"
+    ],
+    "name:kor_x_variant":[
+        "\ub3c4\ub9dd\uce58"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892323
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b09df9b42785ca575807f895393feeaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226025319,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226025319,
+    "wof:lastmodified":1537655019,
+    "wof:name":"Tomang-ch'i",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.64883,
+    39.54076,
+    124.64883,
+    39.54076
+],
+  "geometry": {"coordinates":[124.64883,39.54076],"type":"Point"}
+}

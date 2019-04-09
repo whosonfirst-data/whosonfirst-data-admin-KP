@@ -1,0 +1,71 @@
+{
+  "id": 1343564623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.99389,40.67472,125.99389,40.67472",
+    "geom:latitude":40.67472,
+    "geom:longitude":125.99389,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Munam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282363,
+    "gn:latitude":40.67472,
+    "gn:longitude":125.99389,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Munam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubb38\uc554\ub3d9",
+        "Munam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282363
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"88bbcb683666d9eb259696aaf8e7d43d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1343564623,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1343564623,
+    "wof:lastmodified":1537655770,
+    "wof:name":"Munam-dong",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.99389,
+    40.67472,
+    125.99389,
+    40.67472
+],
+  "geometry": {"coordinates":[125.99388999999999,40.67472],"type":"Point"}
+}

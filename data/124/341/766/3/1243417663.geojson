@@ -1,0 +1,73 @@
+{
+  "id": 1243417663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.32694,40.80611,129.32694,40.80611",
+    "geom:latitude":40.80611,
+    "geom:longitude":129.32694,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Soksong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040710,
+    "gn:latitude":40.80611,
+    "gn:longitude":129.32694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fks\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019\u014flchu-ri",
+        "S\u014fks\u014fng-dong",
+        "\uc11d\uc131\ub9ac",
+        "S\u014fks\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040710
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fbdf6dd542868c888b948d3fe427a568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747763,
+            "locality_id":1243417663,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1243417663,
+    "wof:lastmodified":1537655243,
+    "wof:name":"Soksong-ni",
+    "wof:parent_id":1108747763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.32693999999998,
+    40.80611,
+    129.32693999999998,
+    40.80611
+],
+  "geometry": {"coordinates":[129.32693999999998,40.80611],"type":"Point"}
+}

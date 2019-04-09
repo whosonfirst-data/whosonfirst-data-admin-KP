@@ -1,0 +1,73 @@
+{
+  "id": 1293652673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.2775,40.88222,129.2775,40.88222",
+    "geom:latitude":40.88222,
+    "geom:longitude":129.2775,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Toksil-li",
+    "gn:country_code":"KP",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039909,
+    "gn:latitude":40.88222,
+    "gn:longitude":129.2775,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u014fksil-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u014fksin-dong",
+        "T\u014fksin-ni",
+        "\ub355\uc2e0\ub9ac",
+        "T\u014fksil-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039909
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ea26ab91664e6463d52075063279085e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746955,
+            "locality_id":1293652673,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1293652673,
+    "wof:lastmodified":1537655196,
+    "wof:name":"Toksil-li",
+    "wof:parent_id":1108746955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.2775,
+    40.88222,
+    129.2775,
+    40.88222
+],
+  "geometry": {"coordinates":[129.2775,40.88222],"type":"Point"}
+}

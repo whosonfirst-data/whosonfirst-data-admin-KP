@@ -1,0 +1,80 @@
+{
+  "id": 421192343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.75,39.0,125.75,39.0",
+    "geom:latitude":39.0,
+    "geom:longitude":125.75,
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:kor_x_preferred":[
+        "\uc0b0\uc5c5\ub3d9"
+    ],
+    "qs:gn_country":"KP",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":1870944,
+    "qs:gn_pop":0,
+    "qs:name":"San\u014fp-tong",
+    "qs:name_adm0":"North Korea",
+    "qs:name_adm1":"P\u00b4yongyang-si",
+    "qs:photos":114,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":114,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1167863,
+    "qs:woe_adm0":23424865,
+    "qs:woe_id":1083132,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        1108747951,
+        85676611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870944,
+        "gp:id":1083132,
+        "qs:id":1167863
+    },
+    "wof:country":"KP",
+    "wof:created":1459009733,
+    "wof:geomhash":"6f77e3539cba05cebbd15b50ee697bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":-1,
+            "neighbourhood_id":421192343,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":421192343,
+    "wof:lastmodified":1531858679,
+    "wof:name":"San\u014fp-tong",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.75,
+    39.0,
+    125.75,
+    39.0
+],
+  "geometry": {"coordinates":[125.75,39.0],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421192345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.18392,38.73894,128.18392,38.73894",
+    "geom:latitude":38.73894,
+    "geom:longitude":128.18392,
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:kor_x_preferred":[
+        "\uace0\uc131"
+    ],
+    "name:unk_x_variant":[
+        "Changj\u014fn-ni"
+    ],
+    "qs:gn_country":"KP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1875609,
+    "qs:gn_pop":0,
+    "qs:name":"Kosong",
+    "qs:name_adm0":"North Korea",
+    "qs:name_adm1":"Kangwon-do",
+    "qs:photos":90,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":90,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1167866,
+    "qs:woe_adm0":23424865,
+    "qs:woe_id":1093898,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875609,
+        "gp:id":1093898,
+        "qs:id":1167866
+    },
+    "wof:country":"KP",
+    "wof:created":1459009733,
+    "wof:geomhash":"e9baba241df9a9aab258b4ce275b7c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746975,
+            "locality_id":421192345,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":421192345,
+    "wof:lastmodified":1501223531,
+    "wof:name":"Kosong",
+    "wof:parent_id":1108746975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.18392,
+    38.73894,
+    128.18392,
+    38.73894
+],
+  "geometry": {"coordinates":[128.18392,38.73894],"type":"Point"}
+}

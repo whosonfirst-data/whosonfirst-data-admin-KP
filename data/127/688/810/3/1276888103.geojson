@@ -1,0 +1,73 @@
+{
+  "id": 1276888103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.88333,39.0,125.88333,39.0",
+    "geom:latitude":39.0,
+    "geom:longitude":125.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taeoryu-ri",
+    "gn:country_code":"KP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868666,
+    "gn:latitude":39.0,
+    "gn:longitude":125.88333,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Taeoryu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc624\ub958\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Daeoryuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868666
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8b808c35a309cb15f007f2db0c28195a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1276888103,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1276888103,
+    "wof:lastmodified":1537654294,
+    "wof:name":"Taeoryu-ri",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.88333,
+    39.0,
+    125.88333,
+    39.0
+],
+  "geometry": {"coordinates":[125.88333,39.0],"type":"Point"}
+}

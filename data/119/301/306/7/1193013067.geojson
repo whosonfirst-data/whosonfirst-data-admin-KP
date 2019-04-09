@@ -1,0 +1,68 @@
+{
+  "id": 1193013067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42167,37.88306,126.42167,37.88306",
+    "geom:latitude":37.88306,
+    "geom:longitude":126.42167,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Kaep'ung-gun",
+    "gn:asciiname":"Kanoji",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876091,
+    "gn:latitude":37.88306,
+    "gn:longitude":126.42167,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kanoji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876091
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b6d00597e5ae77b66fe90cf03b0e68ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747805,
+            "locality_id":1193013067,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1193013067,
+    "wof:lastmodified":1536381445,
+    "wof:name":"Kanoji",
+    "wof:parent_id":1108747805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42167,
+    37.88306,
+    126.42167,
+    37.88306
+],
+  "geometry": {"coordinates":[126.42167000000001,37.88306],"type":"Point"}
+}

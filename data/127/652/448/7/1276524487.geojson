@@ -1,0 +1,75 @@
+{
+  "id": 1276524487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.88059,38.95199,125.88059,38.95199",
+    "geom:latitude":38.95199,
+    "geom:longitude":125.88059,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Saejunggol",
+    "gn:country_code":"KP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871708,
+    "gn:latitude":38.95199,
+    "gn:longitude":125.88059,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Saejunggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\uc911\uace8"
+    ],
+    "name:und_x_variant":[
+        "Kanjung-dong",
+        "Saetchunggol",
+        "Saejunggol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871708
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"303c3f90379431d4cf5bc1c535d5b6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1276524487,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1276524487,
+    "wof:lastmodified":1537654443,
+    "wof:name":"Saejunggol",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.88058999999998,
+    38.95199,
+    125.88058999999998,
+    38.95199
+],
+  "geometry": {"coordinates":[125.88058999999998,38.95199],"type":"Point"}
+}

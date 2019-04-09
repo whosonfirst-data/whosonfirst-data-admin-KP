@@ -1,0 +1,82 @@
+{
+  "id": 1259762843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.75652,39.11718,125.75652,39.11718",
+    "geom:latitude":39.11718,
+    "geom:longitude":125.75652,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ongjang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873176,
+    "gn:latitude":39.11718,
+    "gn:longitude":125.75652,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ongjang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc639\uc7a5\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "K\u2019\u016dn\u2019gol",
+        "Samch\u2019igol",
+        "\ud070\uace8",
+        "\uc0bc\uce58\uace8"
+    ],
+    "name:und_x_variant":[
+        "Onjang-dong",
+        "Ongjanggol",
+        "Ongjang-dong",
+        "Ongjangdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873176
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a0c396d3b44a383aa2afd608f2256086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1259762843,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1259762843,
+    "wof:lastmodified":1537654519,
+    "wof:name":"Ongjang-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.75652,
+    39.11718,
+    125.75652,
+    39.11718
+],
+  "geometry": {"coordinates":[125.75651999999999,39.11718],"type":"Point"}
+}

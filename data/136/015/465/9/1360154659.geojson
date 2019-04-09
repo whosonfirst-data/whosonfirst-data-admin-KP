@@ -1,0 +1,73 @@
+{
+  "id": 1360154659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.4,39.18083,126.4,39.18083",
+    "geom:latitude":39.18083,
+    "geom:longitude":126.4,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sunghwa-dong",
+    "gn:country_code":"KP",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868995,
+    "gn:latitude":39.18083,
+    "gn:longitude":126.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u016dnghwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2b9\ud654\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "S\u016dnghwa-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108746883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868995
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e1a8b1db4b79439f5401bf4dc7a8b6af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746883,
+            "locality_id":1360154659,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1360154659,
+    "wof:lastmodified":1537654309,
+    "wof:name":"Sunghwa-dong",
+    "wof:parent_id":1108746883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.4,
+    39.18083,
+    126.4,
+    39.18083
+],
+  "geometry": {"coordinates":[126.40000000000001,39.18083],"type":"Point"}
+}

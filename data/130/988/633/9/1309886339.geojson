@@ -1,0 +1,76 @@
+{
+  "id": 1309886339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17139,39.69361,125.17139,39.69361",
+    "geom:latitude":39.69361,
+    "geom:longitude":125.17139,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ippau",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876499,
+    "gn:latitude":39.69361,
+    "gn:longitude":125.17139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ippau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc785\ubc14\uc6b0"
+    ],
+    "name:und_x_variant":[
+        "Ippawi",
+        "Ibam",
+        "Ippau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876499
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3d5f7a55fc5c43bf94fc76d3775a4020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747793,
+            "locality_id":1309886339,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1309886339,
+    "wof:lastmodified":1537654689,
+    "wof:name":"Ippau",
+    "wof:parent_id":1108747793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17139,
+    39.69361,
+    125.17139,
+    39.69361
+],
+  "geometry": {"coordinates":[125.17139,39.69361],"type":"Point"}
+}

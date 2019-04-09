@@ -1,0 +1,68 @@
+{
+  "id": 1243336279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.08611,39.71417,126.08611,39.71417",
+    "geom:latitude":39.71417,
+    "geom:longitude":126.08611,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"Kaech\u2019\u014fn-si",
+    "gn:asciiname":"Wawon",
+    "gn:country_code":"KP",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867124,
+    "gn:latitude":39.71417,
+    "gn:longitude":126.08611,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Waw\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867124
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"24768ce2a85986b5737e47dac47816fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747803,
+            "locality_id":1243336279,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1243336279,
+    "wof:lastmodified":1536964311,
+    "wof:name":"Wawon",
+    "wof:parent_id":1108747803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.08611,
+    39.71417,
+    126.08611,
+    39.71417
+],
+  "geometry": {"coordinates":[126.08611000000001,39.71417],"type":"Point"}
+}

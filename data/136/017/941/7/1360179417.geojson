@@ -1,0 +1,68 @@
+{
+  "id": 1360179417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.52667,37.94639,126.52667,37.94639",
+    "geom:latitude":37.94639,
+    "geom:longitude":126.52667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1876380",
+    "gn:asciiname":"Kwangdam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874999,
+    "gn:latitude":37.94639,
+    "gn:longitude":126.52667,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kwangdam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874999
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f46f58cfa20a92101312ec875ab2ce9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1360179417,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1360179417,
+    "wof:lastmodified":1536809211,
+    "wof:name":"Kwangdam-ni",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.52667,
+    37.94639,
+    126.52667,
+    37.94639
+],
+  "geometry": {"coordinates":[126.52667,37.94639],"type":"Point"}
+}

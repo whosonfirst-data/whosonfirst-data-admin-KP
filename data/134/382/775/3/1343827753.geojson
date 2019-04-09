@@ -1,0 +1,76 @@
+{
+  "id": 1343827753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.35361,39.61528,126.35361,39.61528",
+    "geom:latitude":39.61528,
+    "geom:longitude":126.35361,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Yongha-ri",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866334,
+    "gn:latitude":39.61528,
+    "gn:longitude":126.35361,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Yongha-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ud558\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ry\u016bka-ri",
+        "Ry\u016bka",
+        "Yongha-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866334
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"aa349e67f3b11585fd1ba895dac99b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747069,
+            "locality_id":1343827753,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1343827753,
+    "wof:lastmodified":1537654178,
+    "wof:name":"Yongha-ri",
+    "wof:parent_id":1108747069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.35361,
+    39.61528,
+    126.35361,
+    39.61528
+],
+  "geometry": {"coordinates":[126.35361,39.61528],"type":"Point"}
+}

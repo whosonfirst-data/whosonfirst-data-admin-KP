@@ -1,0 +1,76 @@
+{
+  "id": 1326852295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.25528,37.89917,126.25528,37.89917",
+    "geom:latitude":37.89917,
+    "geom:longitude":126.25528,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Paech'\u014fn-gun",
+    "gn:asciiname":"Hyangjong-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876785,
+    "gn:latitude":37.89917,
+    "gn:longitude":126.25528,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Hyangj\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud5a5\uc815\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Haengj\u014fng-ni",
+        "Hyangj\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876785
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fea13c7fa497d90543058fa5c1ecaae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747905,
+            "locality_id":1326852295,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1326852295,
+    "wof:lastmodified":1537654705,
+    "wof:name":"Hyangjong-ni",
+    "wof:parent_id":1108747905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.25528,
+    37.89917,
+    126.25528,
+    37.89917
+],
+  "geometry": {"coordinates":[126.25528,37.89917],"type":"Point"}
+}

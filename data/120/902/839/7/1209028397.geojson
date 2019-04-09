@@ -1,0 +1,66 @@
+{
+  "id": 1209028397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.415,38.21306,125.415,38.21306",
+    "geom:latitude":38.21306,
+    "geom:longitude":125.415,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Onch'ol-li",
+    "gn:country_code":"KP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873197,
+    "gn:latitude":38.21306,
+    "gn:longitude":125.415,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Onch\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onch\u2019\u014fn-ni",
+        "Onsen-ri",
+        "Onch\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873197
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c46917e3f116436ad0aebc28dd5629ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209028397
+        }
+    ],
+    "wof:id":1209028397,
+    "wof:lastmodified":1537654520,
+    "wof:name":"Onch'ol-li",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.415,
+    38.21306,
+    125.415,
+    38.21306
+],
+  "geometry": {"coordinates":[125.41500000000001,38.21306],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193025125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63444,41.00333,126.63444,41.00333",
+    "geom:latitude":41.00333,
+    "geom:longitude":126.63444,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Changja-dong",
+    "gn:country_code":"KP",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2045135,
+    "gn:latitude":41.00333,
+    "gn:longitude":126.63444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Changja-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc7a5\uc790\ub3d9",
+        "Changja-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2045135
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"431be465246c512d48fa9dd73f6fd128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746911,
+            "locality_id":1193025125,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1193025125,
+    "wof:lastmodified":1537655498,
+    "wof:name":"Changja-dong",
+    "wof:parent_id":1108746911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63443999999998,
+    41.00333,
+    126.63443999999998,
+    41.00333
+],
+  "geometry": {"coordinates":[126.63443999999998,41.00333],"type":"Point"}
+}

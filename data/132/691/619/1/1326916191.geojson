@@ -1,0 +1,73 @@
+{
+  "id": 1326916191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.70722,38.79722,126.70722,38.79722",
+    "geom:latitude":38.79722,
+    "geom:longitude":126.70722,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Takkun'gil",
+    "gn:country_code":"KP",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891645,
+    "gn:latitude":38.79722,
+    "gn:longitude":126.70722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Takk\u016dn\u2019gil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2e6\uc740\uae38"
+    ],
+    "name:kor_x_variant":[
+        "Takk\u016dn\u2019gil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108746969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891645
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"eb9357b533b45d58edb8c8df99fbed99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746969,
+            "locality_id":1326916191,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1326916191,
+    "wof:lastmodified":1537654990,
+    "wof:name":"Takkun'gil",
+    "wof:parent_id":1108746969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.70722,
+    38.79722,
+    126.70722,
+    38.79722
+],
+  "geometry": {"coordinates":[126.70722000000001,38.79722],"type":"Point"}
+}

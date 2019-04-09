@@ -1,0 +1,73 @@
+{
+  "id": 1193262441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35834,39.27019,127.35834,39.27019",
+    "geom:latitude":39.27019,
+    "geom:longitude":127.35834,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Munch\u2019\u0171n-si",
+    "gn:asciiname":"Munp'yong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874174,
+    "gn:latitude":39.27019,
+    "gn:longitude":127.35834,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Munp\u2019y\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munp\u2019y\u014fng-nodongjagu",
+        "Munp\u2019y\u014fng-dong",
+        "\ubb38\ud3c9\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874174
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"608335836ecf2707c5d0208082501ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747009,
+            "locality_id":1193262441,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1193262441,
+    "wof:lastmodified":1537654563,
+    "wof:name":"Munp'yong-dong",
+    "wof:parent_id":1108747009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35833999999998,
+    39.27019,
+    127.35833999999998,
+    39.27019
+],
+  "geometry": {"coordinates":[127.35833999999998,39.27019],"type":"Point"}
+}

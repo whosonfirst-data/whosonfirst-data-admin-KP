@@ -1,0 +1,71 @@
+{
+  "id": 1309721181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.47611,40.39361,126.47611,40.39361",
+    "geom:latitude":40.39361,
+    "geom:longitude":126.47611,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Paeksan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281013,
+    "gn:latitude":40.39361,
+    "gn:longitude":126.47611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paeksan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc31\uc0b0\ub3d9",
+        "Paeksan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281013
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"641e4efb369976fc9d1f24d27c1a7bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747789,
+            "locality_id":1309721181,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1309721181,
+    "wof:lastmodified":1537655713,
+    "wof:name":"Paeksan-dong",
+    "wof:parent_id":1108747789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.47611,
+    40.39361,
+    126.47611,
+    40.39361
+],
+  "geometry": {"coordinates":[126.47611000000001,40.39361],"type":"Point"}
+}

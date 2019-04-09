@@ -1,0 +1,69 @@
+{
+  "id": 1209402093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.00194,39.87944,125.00194,39.87944",
+    "geom:latitude":39.87944,
+    "geom:longitude":125.00194,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chindo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878793,
+    "gn:latitude":39.87944,
+    "gn:longitude":125.00194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chindo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c4\ub3c4\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Chinjo-dong",
+        "Chinjo-ri",
+        "Chindo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878793
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2ed9ca63b1830786d8d38db58f1034ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209402093
+        }
+    ],
+    "wof:id":1209402093,
+    "wof:lastmodified":1537654818,
+    "wof:name":"Chindo-ri",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.00194,
+    39.87944,
+    125.00194,
+    39.87944
+],
+  "geometry": {"coordinates":[125.00194,39.87944],"type":"Point"}
+}

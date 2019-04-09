@@ -1,0 +1,73 @@
+{
+  "id": 1259693605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.85,39.75,125.85,39.75",
+    "geom:latitude":39.75,
+    "geom:longitude":125.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sojinbyon",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869997,
+    "gn:latitude":39.75,
+    "gn:longitude":125.85,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"S\u014fjinby\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uc9c4\ubcc0"
+    ],
+    "name:und_x_variant":[
+        "S\u014fjinby\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869997
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"40c24ecd4ab6adae03df135bd90383db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747023,
+            "locality_id":1259693605,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259693605,
+    "wof:lastmodified":1537654359,
+    "wof:name":"Sojinbyon",
+    "wof:parent_id":1108747023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.85,
+    39.75,
+    125.85,
+    39.75
+],
+  "geometry": {"coordinates":[125.84999999999999,39.75],"type":"Point"}
+}

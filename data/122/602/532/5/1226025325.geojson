@@ -1,0 +1,76 @@
+{
+  "id": 1226025325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.47528,39.70278,125.47528,39.70278",
+    "geom:latitude":39.70278,
+    "geom:longitude":125.47528,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kasal-li",
+    "gn:country_code":"KP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876027,
+    "gn:latitude":39.70278,
+    "gn:longitude":125.47528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kasal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\uc0b0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Kasan",
+        "Kazan",
+        "Kasan-ni",
+        "Kasal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876027
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f4401f8d70a1dd5608dd77f003dc21c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747213,
+            "locality_id":1226025325,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1226025325,
+    "wof:lastmodified":1537654661,
+    "wof:name":"Kasal-li",
+    "wof:parent_id":1108747213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.47528,
+    39.70278,
+    125.47528,
+    39.70278
+],
+  "geometry": {"coordinates":[125.47528,39.70278],"type":"Point"}
+}

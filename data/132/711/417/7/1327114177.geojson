@@ -1,0 +1,74 @@
+{
+  "id": 1327114177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.02417,38.83417,126.02417,38.83417",
+    "geom:latitude":38.83417,
+    "geom:longitude":126.02417,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Sangw\u014fn-gun",
+    "gn:asciiname":"Kumsong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875300,
+    "gn:latitude":38.83417,
+    "gn:longitude":126.02417,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"K\u016dms\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uc131\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "K\u016dms\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875300
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"24751b8f30fb4eb89f8a726f17875c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":1327114177,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327114177,
+    "wof:lastmodified":1537654621,
+    "wof:name":"Kumsong-ni",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.02417,
+    38.83417,
+    126.02417,
+    38.83417
+],
+  "geometry": {"coordinates":[126.02417,38.83417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226546881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.29583,39.61028,127.29583,39.61028",
+    "geom:latitude":39.61028,
+    "geom:longitude":127.29583,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sagijom-gol",
+    "gn:country_code":"KP",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932123,
+    "gn:latitude":39.61028,
+    "gn:longitude":127.29583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sagij\u014fm-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0ac\uae30\uc810\uace8",
+        "Sagij\u014fm-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932123
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"dd8d9e7eab8924c27b85999dea291a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747795,
+            "locality_id":1226546881,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1226546881,
+    "wof:lastmodified":1537655073,
+    "wof:name":"Sagijom-gol",
+    "wof:parent_id":1108747795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.29583,
+    39.61028,
+    127.29583,
+    39.61028
+],
+  "geometry": {"coordinates":[127.29583,39.61028],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259460473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.91917,40.32667,124.91917,40.32667",
+    "geom:latitude":40.32667,
+    "geom:longitude":124.91917,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sanggwang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282084,
+    "gn:latitude":40.32667,
+    "gn:longitude":124.91917,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Sanggwang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282084
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"802f99a0b8c4f2d2ae3f3fe0840d016e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747105,
+            "locality_id":1259460473,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259460473,
+    "wof:lastmodified":1536891578,
+    "wof:name":"Sanggwang-dong",
+    "wof:parent_id":1108747105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.91917,
+    40.32667,
+    124.91917,
+    40.32667
+],
+  "geometry": {"coordinates":[124.91916999999999,40.32667],"type":"Point"}
+}

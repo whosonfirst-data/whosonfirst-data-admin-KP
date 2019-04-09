@@ -1,0 +1,70 @@
+{
+  "id": 1259475485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4,38.425,125.4,38.425",
+    "geom:latitude":38.425,
+    "geom:longitude":125.4,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kusan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875121,
+    "gn:latitude":38.425,
+    "gn:longitude":125.4,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kusan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\uc0b0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875121
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"018e31d4f88dd6b96ef749653b4dcf15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746843,
+            "locality_id":1259475485,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259475485,
+    "wof:lastmodified":1537654610,
+    "wof:name":"Kusan-dong",
+    "wof:parent_id":1108746843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4,
+    38.425,
+    125.4,
+    38.425
+],
+  "geometry": {"coordinates":[125.40000000000001,38.425],"type":"Point"}
+}

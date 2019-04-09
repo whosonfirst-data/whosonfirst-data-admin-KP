@@ -1,0 +1,73 @@
+{
+  "id": 1226519833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.67944,39.72722,125.67944,39.72722",
+    "geom:latitude":39.72722,
+    "geom:longitude":125.67944,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sokkye-ri",
+    "gn:country_code":"KP",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869916,
+    "gn:latitude":39.72722,
+    "gn:longitude":125.67944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fkkye-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11d\uacc4\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fkkye-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869916
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"18d635657c7fdff68e28683877b411be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747909,
+            "locality_id":1226519833,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1226519833,
+    "wof:lastmodified":1537654355,
+    "wof:name":"Sokkye-ri",
+    "wof:parent_id":1108747909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.67944,
+    39.72722,
+    125.67944,
+    39.72722
+],
+  "geometry": {"coordinates":[125.67944,39.72722],"type":"Point"}
+}

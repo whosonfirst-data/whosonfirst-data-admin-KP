@@ -1,0 +1,64 @@
+{
+  "id": 1209234785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58528,38.45444,126.58528,38.45444",
+    "geom:latitude":38.45444,
+    "geom:longitude":126.58528,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Karul-li",
+    "gn:country_code":"KP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891418,
+    "gn:latitude":38.45444,
+    "gn:longitude":126.58528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Karul-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uc6b4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891418
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bf0e831ce113377d7ced016376eb4102",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209234785
+        }
+    ],
+    "wof:id":1209234785,
+    "wof:lastmodified":1537654981,
+    "wof:name":"Karul-li",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58528,
+    38.45444000000001,
+    126.58528,
+    38.45444000000001
+],
+  "geometry": {"coordinates":[126.58528,38.45444000000001],"type":"Point"}
+}

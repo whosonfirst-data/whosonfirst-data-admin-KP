@@ -1,0 +1,67 @@
+{
+  "id": 1310322973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.36667,38.61667,128.36667,38.61667",
+    "geom:latitude":38.61667,
+    "geom:longitude":128.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"P'ooejin-ni",
+    "gn:country_code":"KP",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872303,
+    "gn:latitude":38.61667,
+    "gn:longitude":128.36667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019ooejin-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hogaishin-ri",
+        "P\u2019ooejin-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872303
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b7e72e23dbdb9851142800f3f91d045b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310322973,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310322973,
+    "wof:lastmodified":1537654475,
+    "wof:name":"P'ooejin-ni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.36667,
+    38.61667,
+    128.36667,
+    38.61667
+],
+  "geometry": {"coordinates":[128.36667,38.61667],"type":"Point"}
+}

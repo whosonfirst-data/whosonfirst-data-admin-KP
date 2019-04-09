@@ -1,0 +1,75 @@
+{
+  "id": 1260059737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.99384,39.1705,125.99384,39.1705",
+    "geom:latitude":39.1705,
+    "geom:longitude":125.99384,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kkokkol",
+    "gn:country_code":"KP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901943,
+    "gn:latitude":39.1705,
+    "gn:longitude":125.99384,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kkokkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uaf43\uace8"
+    ],
+    "name:und_x_variant":[
+        "Araetkol",
+        "Kkokkol",
+        "Ggotgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901943
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5229509c5d76f779b6912f9e98a93b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747811,
+            "locality_id":1260059737,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1260059737,
+    "wof:lastmodified":1537655025,
+    "wof:name":"Kkokkol",
+    "wof:parent_id":1108747811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.99384,
+    39.1705,
+    125.99384,
+    39.1705
+],
+  "geometry": {"coordinates":[125.99384000000001,39.1705],"type":"Point"}
+}

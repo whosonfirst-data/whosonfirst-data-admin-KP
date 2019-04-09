@@ -1,0 +1,68 @@
+{
+  "id": 1326752229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.77278,38.13083,126.77278,38.13083",
+    "geom:latitude":38.13083,
+    "geom:longitude":126.77278,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Changp\u2019ung-gun",
+    "gn:asciiname":"Tojik-kol",
+    "gn:country_code":"KP",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949005,
+    "gn:latitude":38.13083,
+    "gn:longitude":126.77278,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Tojik-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108746915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949005
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c7f6168f2dbf768e953fc7ce09fb68e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746915,
+            "locality_id":1326752229,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1326752229,
+    "wof:lastmodified":1536666932,
+    "wof:name":"Tojik-kol",
+    "wof:parent_id":1108746915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.77278,
+    38.13083,
+    126.77278,
+    38.13083
+],
+  "geometry": {"coordinates":[126.77278,38.13083],"type":"Point"}
+}

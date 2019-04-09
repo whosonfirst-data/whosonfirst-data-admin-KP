@@ -1,0 +1,67 @@
+{
+  "id": 1276464201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.13944,38.55361,126.13944,38.55361",
+    "geom:latitude":38.55361,
+    "geom:longitude":126.13944,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sinbong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931622,
+    "gn:latitude":38.55361,
+    "gn:longitude":126.13944,
+    "gn:modification_date":"2003-03-31",
+    "gn:name":"Sinbong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931622
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"54f4054bf1f76d53fee96c670c3e5676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":1276464201,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276464201,
+    "wof:lastmodified":1536600194,
+    "wof:name":"Sinbong-dong",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.13944,
+    38.55361,
+    126.13944,
+    38.55361
+],
+  "geometry": {"coordinates":[126.13943999999999,38.55361],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242883957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.88333,38.75,125.88333,38.75",
+    "geom:latitude":38.75,
+    "geom:longitude":125.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Samhun-ni",
+    "gn:country_code":"KP",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871482,
+    "gn:latitude":38.75,
+    "gn:longitude":125.88333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Samhun-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0bc\ud6c8\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871482
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"df951f996f77fd987f83d6c4e8ebc1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748117,
+            "locality_id":1242883957,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1242883957,
+    "wof:lastmodified":1537654431,
+    "wof:name":"Samhun-ni",
+    "wof:parent_id":1108748117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.88333,
+    38.75,
+    125.88333,
+    38.75
+],
+  "geometry": {"coordinates":[125.88333,38.75],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259685289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.22667,39.52556,127.22667,39.52556",
+    "geom:latitude":39.52556,
+    "geom:longitude":127.22667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"P'ilsong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891725,
+    "gn:latitude":39.52556,
+    "gn:longitude":127.22667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019ils\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud544\uc11d\ub9ac",
+        "P\u2019ils\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891725
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"071f0e2312c312c02ba18c89e6a1050d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1259685289,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259685289,
+    "wof:lastmodified":1537654994,
+    "wof:name":"P'ilsong-ni",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.22667,
+    39.52556,
+    127.22667,
+    39.52556
+],
+  "geometry": {"coordinates":[127.22667,39.52556],"type":"Point"}
+}

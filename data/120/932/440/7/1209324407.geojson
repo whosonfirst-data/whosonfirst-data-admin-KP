@@ -1,0 +1,64 @@
+{
+  "id": 1209324407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.63333,38.28333,125.63333,38.28333",
+    "geom:latitude":38.28333,
+    "geom:longitude":125.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sangnu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871126,
+    "gn:latitude":38.28333,
+    "gn:longitude":125.63333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Sangnu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ub8e8\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871126
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fd10b48855a05f70a426df5f640ef731",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209324407
+        }
+    ],
+    "wof:id":1209324407,
+    "wof:lastmodified":1537654414,
+    "wof:name":"Sangnu-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.63333,
+    38.28333,
+    125.63333,
+    38.28333
+],
+  "geometry": {"coordinates":[125.63333,38.28333],"type":"Point"}
+}

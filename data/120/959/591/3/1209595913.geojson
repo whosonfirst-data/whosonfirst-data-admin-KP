@@ -1,0 +1,61 @@
+{
+  "id": 1209595913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.97806,40.45278,124.97806,40.45278",
+    "geom:latitude":40.45278,
+    "geom:longitude":124.97806,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yonp'o-dong",
+    "gn:country_code":"KP",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282134,
+    "gn:latitude":40.45278,
+    "gn:longitude":124.97806,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Y\u014fnp\u2019o-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282134
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bc51d345fefbf5a0d3de3028ab613146",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209595913
+        }
+    ],
+    "wof:id":1209595913,
+    "wof:lastmodified":1536282325,
+    "wof:name":"Yonp'o-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.97806,
+    40.45278,
+    124.97806,
+    40.45278
+],
+  "geometry": {"coordinates":[124.97806,40.45278],"type":"Point"}
+}

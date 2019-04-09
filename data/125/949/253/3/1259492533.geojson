@@ -1,0 +1,72 @@
+{
+  "id": 1259492533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.37556,40.12333,126.37556,40.12333",
+    "geom:latitude":40.12333,
+    "geom:longitude":126.37556,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tongmun-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039770,
+    "gn:latitude":40.12333,
+    "gn:longitude":126.37556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tongmun-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tongmun-dong",
+        "Tongmun-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039770
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4dc0a807b6293a5a211dbb8461f227da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747201,
+            "locality_id":1259492533,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1259492533,
+    "wof:lastmodified":1537655187,
+    "wof:name":"Tongmun-ni",
+    "wof:parent_id":1108747201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.37556,
+    40.12333,
+    126.37556,
+    40.12333
+],
+  "geometry": {"coordinates":[126.37555999999999,40.12333],"type":"Point"}
+}

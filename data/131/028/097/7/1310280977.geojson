@@ -1,0 +1,71 @@
+{
+  "id": 1310280977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.03521,42.06919,129.03521,42.06919",
+    "geom:latitude":42.06919,
+    "geom:longitude":129.03521,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"K'unbaenamu-gol",
+    "gn:country_code":"KP",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043171,
+    "gn:latitude":42.06919,
+    "gn:longitude":129.03521,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019\u016dnbaenamu-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019\u016dnbaenamu-gol",
+        "\ud070\ubc30\ub098\ubb34\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108748113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043171
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5f2330b8862b7563aa14360e2ffca706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748113,
+            "locality_id":1310280977,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1310280977,
+    "wof:lastmodified":1537655387,
+    "wof:name":"K'unbaenamu-gol",
+    "wof:parent_id":1108748113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.03521,
+    42.06919,
+    129.03521,
+    42.06919
+],
+  "geometry": {"coordinates":[129.03521000000001,42.06919],"type":"Point"}
+}

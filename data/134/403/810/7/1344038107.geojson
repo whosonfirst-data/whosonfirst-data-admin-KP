@@ -1,0 +1,71 @@
+{
+  "id": 1344038107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.84306,40.39694,124.84306,40.39694",
+    "geom:latitude":40.39694,
+    "geom:longitude":124.84306,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Po-ri",
+    "gn:country_code":"KP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049042,
+    "gn:latitude":40.39694,
+    "gn:longitude":124.84306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Po-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubcf4\ub9ac",
+        "Po-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049042
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"70e3677329f1bbb00658b004d91e7426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747105,
+            "locality_id":1344038107,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1344038107,
+    "wof:lastmodified":1537655537,
+    "wof:name":"Po-ri",
+    "wof:parent_id":1108747105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.84306,
+    40.39694,
+    124.84306,
+    40.39694
+],
+  "geometry": {"coordinates":[124.84305999999999,40.39694],"type":"Point"}
+}

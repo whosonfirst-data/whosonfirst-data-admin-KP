@@ -1,0 +1,71 @@
+{
+  "id": 1293482153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.03778,38.58972,125.03778,38.58972",
+    "geom:latitude":38.58972,
+    "geom:longitude":125.03778,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taruji",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273517,
+    "gn:latitude":38.58972,
+    "gn:longitude":125.03778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taruji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub2ec\uc6b0\uc9c0",
+        "Taruji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273517
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7bf69b846ad2cb0b3ee43c7b217df28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747219,
+            "locality_id":1293482153,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293482153,
+    "wof:lastmodified":1537655696,
+    "wof:name":"Taruji",
+    "wof:parent_id":1108747219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.03778,
+    38.58972,
+    125.03778,
+    38.58972
+],
+  "geometry": {"coordinates":[125.03778,38.58972],"type":"Point"}
+}

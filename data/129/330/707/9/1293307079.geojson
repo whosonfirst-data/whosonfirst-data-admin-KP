@@ -1,0 +1,74 @@
+{
+  "id": 1293307079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.95,39.18333,125.95,39.18333",
+    "geom:latitude":39.18333,
+    "geom:longitude":125.95,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chunghwang-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877874,
+    "gn:latitude":39.18333,
+    "gn:longitude":125.95,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Chunghwang-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\ud669\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Chunghwang-ch\u2019on",
+        "Junghwangchon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877874
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"504f8540b789e70c0d8f394e95feb727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1293307079,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1293307079,
+    "wof:lastmodified":1537654767,
+    "wof:name":"Chunghwang-ch'on",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.95,
+    39.18333,
+    125.95,
+    39.18333
+],
+  "geometry": {"coordinates":[125.95,39.18333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326819635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.76194,38.49722,126.76194,38.49722",
+    "geom:latitude":38.49722,
+    "geom:longitude":126.76194,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hakpong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877491,
+    "gn:latitude":38.49722,
+    "gn:longitude":126.76194,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Hakpong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud559\ubd09\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877491
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"693ae55e77f0f3e303d739adeeb973ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746905,
+            "locality_id":1326819635,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1326819635,
+    "wof:lastmodified":1537654745,
+    "wof:name":"Hakpong-ni",
+    "wof:parent_id":1108746905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.76194,
+    38.49722,
+    126.76194,
+    38.49722
+],
+  "geometry": {"coordinates":[126.76194,38.49722],"type":"Point"}
+}

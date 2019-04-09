@@ -1,0 +1,71 @@
+{
+  "id": 1210022785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.7525,40.29278,127.7525,40.29278",
+    "geom:latitude":40.29278,
+    "geom:longitude":127.7525,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pansong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042033,
+    "gn:latitude":40.29278,
+    "gn:longitude":127.7525,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pans\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc18\uc11d\ub9ac",
+        "Pans\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042033
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8a91b9c049c02532935690b2cc1a0eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747129,
+            "locality_id":1210022785,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1210022785,
+    "wof:lastmodified":1537655321,
+    "wof:name":"Pansong-ni",
+    "wof:parent_id":1108747129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.7525,
+    40.29278,
+    127.7525,
+    40.29278
+],
+  "geometry": {"coordinates":[127.7525,40.29278],"type":"Point"}
+}

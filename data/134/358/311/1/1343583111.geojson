@@ -1,0 +1,71 @@
+{
+  "id": 1343583111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.15444,38.57,125.15444,38.57",
+    "geom:latitude":38.57,
+    "geom:longitude":125.15444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Waryong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1909752,
+    "gn:latitude":38.57,
+    "gn:longitude":125.15444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wary\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc640\ub8e1\ub9ac",
+        "Wary\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1909752
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"154581d21874f43f0056e27cea0ea990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747219,
+            "locality_id":1343583111,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1343583111,
+    "wof:lastmodified":1537655037,
+    "wof:name":"Waryong-ni",
+    "wof:parent_id":1108747219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.15444,
+    38.57,
+    125.15444,
+    38.57
+],
+  "geometry": {"coordinates":[125.15443999999999,38.57],"type":"Point"}
+}

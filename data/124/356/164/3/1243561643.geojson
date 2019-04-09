@@ -1,0 +1,77 @@
+{
+  "id": 1243561643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.76717,41.10305,128.76717,41.10305",
+    "geom:latitude":41.10305,
+    "geom:longitude":128.76717,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"Tanch\u2019\u014fn-si",
+    "gn:asciiname":"Sungbang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040312,
+    "gn:latitude":41.10305,
+    "gn:longitude":128.76717,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u016dngbang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2b9\ubc29\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "S\u016dngbang-kol",
+        "S\u016dngbang-gol",
+        "S\u016dngbang-dong",
+        "S\u016dngbang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040312
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"79472f7385005e655cc1efa82501cbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1243561643,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243561643,
+    "wof:lastmodified":1537655219,
+    "wof:name":"Sungbang-dong",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.76717,
+    41.10305,
+    128.76717,
+    41.10305
+],
+  "geometry": {"coordinates":[128.76716999999999,41.10305],"type":"Point"}
+}

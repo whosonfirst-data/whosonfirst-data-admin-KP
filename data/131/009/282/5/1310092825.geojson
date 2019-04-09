@@ -1,0 +1,72 @@
+{
+  "id": 1310092825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.35028,40.05444,124.35028,40.05444",
+    "geom:latitude":40.05444,
+    "geom:longitude":124.35028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yuch'o-ri",
+    "gn:country_code":"KP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2038880,
+    "gn:latitude":40.05444,
+    "gn:longitude":124.35028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yuch\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuch\u2019o-dong",
+        "\ub958\ucd08\ub9ac",
+        "Yuch\u2019o-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038880
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0ded00151d49496220cb48616c1b6925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748005,
+            "locality_id":1310092825,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1310092825,
+    "wof:lastmodified":1537655134,
+    "wof:name":"Yuch'o-ri",
+    "wof:parent_id":1108748005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.35028,
+    40.05444,
+    124.35028,
+    40.05444
+],
+  "geometry": {"coordinates":[124.35028,40.05444],"type":"Point"}
+}

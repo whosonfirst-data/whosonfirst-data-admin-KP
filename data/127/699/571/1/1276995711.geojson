@@ -1,0 +1,73 @@
+{
+  "id": 1276995711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.71335,39.77329,124.71335,39.77329",
+    "geom:latitude":39.77329,
+    "geom:longitude":124.71335,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tonghung",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867850,
+    "gn:latitude":39.77329,
+    "gn:longitude":124.71335,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tongh\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Tongh\u016dng"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\ud765"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867850
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ffd4981d6caa425e5d76934f80382542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747725,
+            "locality_id":1276995711,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276995711,
+    "wof:lastmodified":1537654252,
+    "wof:name":"Tonghung",
+    "wof:parent_id":1108747725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.71335,
+    39.77329,
+    124.71335,
+    39.77329
+],
+  "geometry": {"coordinates":[124.71335000000001,39.77329],"type":"Point"}
+}

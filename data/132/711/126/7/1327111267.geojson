@@ -1,0 +1,76 @@
+{
+  "id": 1327111267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.95167,39.12556,125.95167,39.12556",
+    "geom:latitude":39.12556,
+    "geom:longitude":125.95167,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Saesulmak",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870454,
+    "gn:latitude":39.12556,
+    "gn:longitude":125.95167,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Saesulmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\uc220\ub9c9"
+    ],
+    "name:und_x_variant":[
+        "Sinj\u014fm",
+        "Saesulmagu",
+        "Saesulmak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870454
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ed464f1723cf8649b7604f1b6d3139b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1327111267,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1327111267,
+    "wof:lastmodified":1537654382,
+    "wof:name":"Saesulmak",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.95167,
+    39.12556,
+    125.95167,
+    39.12556
+],
+  "geometry": {"coordinates":[125.95166999999999,39.12556],"type":"Point"}
+}

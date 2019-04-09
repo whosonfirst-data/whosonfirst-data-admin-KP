@@ -1,0 +1,79 @@
+{
+  "id": 1225930425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.87921,38.90754,125.87921,38.90754",
+    "geom:latitude":38.90754,
+    "geom:longitude":125.87921,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"An-maul",
+    "gn:country_code":"KP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879610,
+    "gn:latitude":38.90754,
+    "gn:longitude":125.87921,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"An-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "An-ma\u016dl"
+    ],
+    "name:kor_x_variant":[
+        "\uc548\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "Nae-ri",
+        "\uc548\ub9d0",
+        "Anmal",
+        "Anmaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879610
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f29e34526c2cbca5ba5f7f63826d042d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1225930425,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1225930425,
+    "wof:lastmodified":1537654867,
+    "wof:name":"An-maul",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.87921,
+    38.90754,
+    125.87921,
+    38.90754
+],
+  "geometry": {"coordinates":[125.87921,38.90754],"type":"Point"}
+}

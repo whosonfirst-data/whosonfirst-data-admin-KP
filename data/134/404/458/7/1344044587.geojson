@@ -1,0 +1,72 @@
+{
+  "id": 1344044587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.535,40.08083,124.535,40.08083",
+    "geom:latitude":40.08083,
+    "geom:longitude":124.535,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Saha-dong",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040783,
+    "gn:latitude":40.08083,
+    "gn:longitude":124.535,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saha-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0ac\ud558\ub3d9",
+        "S\u014fha-dong",
+        "Saha-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040783
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"741a7168628db1b7a77c41db6a662981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747047,
+            "locality_id":1344044587,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1344044587,
+    "wof:lastmodified":1537655247,
+    "wof:name":"Saha-dong",
+    "wof:parent_id":1108747047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.535,
+    40.08083,
+    124.535,
+    40.08083
+],
+  "geometry": {"coordinates":[124.535,40.08083],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310580293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.9375,41.33056,127.9375,41.33056",
+    "geom:latitude":41.33056,
+    "geom:longitude":127.9375,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hadaebong-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2046230,
+    "gn:latitude":41.33056,
+    "gn:longitude":127.9375,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hadaebong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ha-taebong-ni",
+        "Hadaebong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2046230
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d80954e31b0b5ca6269a2a2e8564aa66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747113,
+            "locality_id":1310580293,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1310580293,
+    "wof:lastmodified":1537655517,
+    "wof:name":"Hadaebong-ni",
+    "wof:parent_id":1108747113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.9375,
+    41.33056,
+    127.9375,
+    41.33056
+],
+  "geometry": {"coordinates":[127.9375,41.33056],"type":"Point"}
+}

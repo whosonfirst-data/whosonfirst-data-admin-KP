@@ -1,0 +1,67 @@
+{
+  "id": 1259780541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.50222,38.41917,125.50222,38.41917",
+    "geom:latitude":38.41917,
+    "geom:longitude":125.50222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soktang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869839,
+    "gn:latitude":38.41917,
+    "gn:longitude":125.50222,
+    "gn:modification_date":"2002-02-19",
+    "gn:name":"S\u014fktang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869839
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d4b2bc295f0653420cb28a0afbc393cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746843,
+            "locality_id":1259780541,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259780541,
+    "wof:lastmodified":1536928171,
+    "wof:name":"Soktang-ni",
+    "wof:parent_id":1108746843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.50222,
+    38.41917,
+    125.50222,
+    38.41917
+],
+  "geometry": {"coordinates":[125.50221999999999,38.41917],"type":"Point"}
+}

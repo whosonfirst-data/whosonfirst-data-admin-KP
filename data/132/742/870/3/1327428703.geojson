@@ -1,0 +1,68 @@
+{
+  "id": 1327428703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.57861,37.93306,126.57861,37.93306",
+    "geom:latitude":37.93306,
+    "geom:longitude":126.57861,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"P\u2019anmun-gun",
+    "gn:asciiname":"Nung-dong",
+    "gn:country_code":"KP",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873466,
+    "gn:latitude":37.93306,
+    "gn:longitude":126.57861,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"N\u016dng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873466
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"616bac624fb23284d6a50cb7f3315407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1327428703,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327428703,
+    "wof:lastmodified":1536686178,
+    "wof:name":"Nung-dong",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.57861,
+    37.93306,
+    126.57861,
+    37.93306
+],
+  "geometry": {"coordinates":[126.57861,37.93306],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259769799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.03222,38.83889,126.03222,38.83889",
+    "geom:latitude":38.83889,
+    "geom:longitude":126.03222,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Sangw\u014fn-gun",
+    "gn:asciiname":"Ch'omok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949936,
+    "gn:latitude":38.83889,
+    "gn:longitude":126.03222,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Ch\u2019omok-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949936
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0f41e8946c419a232b5dc41bbd5d3fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":1259769799,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1259769799,
+    "wof:lastmodified":1536943432,
+    "wof:name":"Ch'omok-tong",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.03222,
+    38.83889,
+    126.03222,
+    38.83889
+],
+  "geometry": {"coordinates":[126.03222,38.83889],"type":"Point"}
+}

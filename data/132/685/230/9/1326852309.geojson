@@ -1,0 +1,70 @@
+{
+  "id": 1326852309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.10306,38.23,125.10306,38.23",
+    "geom:latitude":38.23,
+    "geom:longitude":125.10306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chugu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878072,
+    "gn:latitude":38.23,
+    "gn:longitude":125.10306,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chugu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc8fc\uad6c\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878072
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2452f4c7fdf522f4611ab835ecd24da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746917,
+            "locality_id":1326852309,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1326852309,
+    "wof:lastmodified":1537654779,
+    "wof:name":"Chugu-dong",
+    "wof:parent_id":1108746917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.10306,
+    38.23,
+    125.10306,
+    38.23
+],
+  "geometry": {"coordinates":[125.10306,38.23],"type":"Point"}
+}

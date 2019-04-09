@@ -1,0 +1,72 @@
+{
+  "id": 1276541191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68611,38.17222,126.68611,38.17222",
+    "geom:latitude":38.17222,
+    "geom:longitude":126.68611,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Changp\u2019ung-gun",
+    "gn:asciiname":"Araedoe-gol",
+    "gn:country_code":"KP",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890767,
+    "gn:latitude":38.17222,
+    "gn:longitude":126.68611,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Araedoe-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Araetoe-kol",
+        "Araedoe-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108746915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890767
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5258d33f1e8ca16644d44d4c7b6365d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746915,
+            "locality_id":1276541191,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276541191,
+    "wof:lastmodified":1537654965,
+    "wof:name":"Araedoe-gol",
+    "wof:parent_id":1108746915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68611,
+    38.17222,
+    126.68611,
+    38.17222
+],
+  "geometry": {"coordinates":[126.68611,38.17222],"type":"Point"}
+}

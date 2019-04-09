@@ -1,0 +1,71 @@
+{
+  "id": 1226553071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.43389,41.13083,126.43389,41.13083",
+    "geom:latitude":41.13083,
+    "geom:longitude":126.43389,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Changsang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282767,
+    "gn:latitude":41.13083,
+    "gn:longitude":126.43389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Changsang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc7a5\uc0c1\ub3d9",
+        "Changsang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282767
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2cc4ff729f144956ddd281c3b8977352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747121,
+            "locality_id":1226553071,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1226553071,
+    "wof:lastmodified":1537655788,
+    "wof:name":"Changsang-dong",
+    "wof:parent_id":1108747121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.43389,
+    41.13083,
+    126.43389,
+    41.13083
+],
+  "geometry": {"coordinates":[126.43389000000001,41.13083],"type":"Point"}
+}

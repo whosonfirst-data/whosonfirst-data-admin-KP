@@ -1,0 +1,72 @@
+{
+  "id": 1327126561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58139,37.94222,126.58139,37.94222",
+    "geom:latitude":37.94222,
+    "geom:longitude":126.58139,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"P'anmun-gun",
+    "gn:asciiname":"Idam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876671,
+    "gn:latitude":37.94222,
+    "gn:longitude":126.58139,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Idam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paedam-dong",
+        "Idam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876671
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5ea90e5baed022f80bd608c289f7517c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1327126561,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327126561,
+    "wof:lastmodified":1537654699,
+    "wof:name":"Idam-dong",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58138999999998,
+    37.94222,
+    126.58138999999998,
+    37.94222
+],
+  "geometry": {"coordinates":[126.58138999999998,37.94222],"type":"Point"}
+}

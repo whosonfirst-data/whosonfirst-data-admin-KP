@@ -1,0 +1,72 @@
+{
+  "id": 1243357039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.78333,38.62944,125.78333,38.62944",
+    "geom:latitude":38.62944,
+    "geom:longitude":125.78333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sindae-dong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870639,
+    "gn:latitude":38.62944,
+    "gn:longitude":125.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sindae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shintai-d\u014d",
+        "Sindae-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870639
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"aba99a8e02360ea272462ae7a95de66f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748117,
+            "locality_id":1243357039,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1243357039,
+    "wof:lastmodified":1537654390,
+    "wof:name":"Sindae-dong",
+    "wof:parent_id":1108748117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.78333,
+    38.62944,
+    125.78333,
+    38.62944
+],
+  "geometry": {"coordinates":[125.78333000000001,38.62944],"type":"Point"}
+}

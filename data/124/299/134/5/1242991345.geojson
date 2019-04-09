@@ -1,0 +1,72 @@
+{
+  "id": 1242991345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53111,38.63333,127.53111,38.63333",
+    "geom:latitude":38.63333,
+    "geom:longitude":127.53111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kwirang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874857,
+    "gn:latitude":38.63333,
+    "gn:longitude":127.53111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kwirang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwiiang-ni",
+        "\uadc0\ub77d\ub9ac",
+        "Kwirang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874857
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7e655cbdaad5d7806e403d68db9c9fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747119,
+            "locality_id":1242991345,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1242991345,
+    "wof:lastmodified":1537654595,
+    "wof:name":"Kwirang-ni",
+    "wof:parent_id":1108747119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53111,
+    38.63333,
+    127.53111,
+    38.63333
+],
+  "geometry": {"coordinates":[127.53111,38.63333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209533503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.66667,39.86667,124.66667,39.86667",
+    "geom:latitude":39.86667,
+    "geom:longitude":124.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ch'aeryol-li",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879486,
+    "gn:latitude":39.86667,
+    "gn:longitude":124.66667,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ch\u2019aery\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc44\ub828\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019aery\u014fl-li",
+        "Ch\u2019aery\u014fn-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879486
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ed23c25adbc9712fdd7c6d835c54e9b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209533503
+        }
+    ],
+    "wof:id":1209533503,
+    "wof:lastmodified":1537654859,
+    "wof:name":"Ch'aeryol-li",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.66667,
+    39.86667,
+    124.66667,
+    39.86667
+],
+  "geometry": {"coordinates":[124.66667,39.86667],"type":"Point"}
+}

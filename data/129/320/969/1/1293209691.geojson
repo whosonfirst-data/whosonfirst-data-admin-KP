@@ -1,0 +1,74 @@
+{
+  "id": 1293209691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.69639,40.65472,126.69639,40.65472",
+    "geom:latitude":40.65472,
+    "geom:longitude":126.69639,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yongbau",
+    "gn:country_code":"KP",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302205,
+    "gn:latitude":40.65472,
+    "gn:longitude":126.69639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongbau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ubc14\uc6b0"
+    ],
+    "name:und_x_variant":[
+        "\uc6a9\ubc14\uc6b0",
+        "Yongbau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108748019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302205
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"30aeb2b88eb9a70bf3e96373a8054129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748019,
+            "locality_id":1293209691,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1293209691,
+    "wof:lastmodified":1537655792,
+    "wof:name":"Yongbau",
+    "wof:parent_id":1108748019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.69639,
+    40.65472000000001,
+    126.69639,
+    40.65472000000001
+],
+  "geometry": {"coordinates":[126.69638999999999,40.65472000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277157713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.81083,39.72722,125.81083,39.72722",
+    "geom:latitude":39.72722,
+    "geom:longitude":125.81083,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tae-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890463,
+    "gn:latitude":39.72722,
+    "gn:longitude":125.81083,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tae-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Tae-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890463
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fc5b09cdd9c8e6a5cb17f4f0fb1acaf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747023,
+            "locality_id":1277157713,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1277157713,
+    "wof:lastmodified":1537654956,
+    "wof:name":"Tae-ch'on",
+    "wof:parent_id":1108747023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.81083,
+    39.72722,
+    125.81083,
+    39.72722
+],
+  "geometry": {"coordinates":[125.81083,39.72722],"type":"Point"}
+}

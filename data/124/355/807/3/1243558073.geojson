@@ -1,0 +1,71 @@
+{
+  "id": 1243558073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.96694,40.71778,125.96694,40.71778",
+    "geom:latitude":40.71778,
+    "geom:longitude":125.96694,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hwasil-li",
+    "gn:country_code":"KP",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282348,
+    "gn:latitude":40.71778,
+    "gn:longitude":125.96694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hwasil-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud654\uc2e0\ub9ac",
+        "Hwasil-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282348
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"439c85f3b4d4b7b4cd2248df34229d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747741,
+            "locality_id":1243558073,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1243558073,
+    "wof:lastmodified":1537655769,
+    "wof:name":"Hwasil-li",
+    "wof:parent_id":1108747741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.96694,
+    40.71778,
+    125.96694,
+    40.71778
+],
+  "geometry": {"coordinates":[125.96693999999999,40.71778],"type":"Point"}
+}

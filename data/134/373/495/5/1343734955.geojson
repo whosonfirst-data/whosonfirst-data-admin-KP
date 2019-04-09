@@ -1,0 +1,67 @@
+{
+  "id": 1343734955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.51778,39.06917,125.51778,39.06917",
+    "geom:latitude":39.06917,
+    "geom:longitude":125.51778,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Puo-dong",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6269965,
+    "gn:latitude":39.06917,
+    "gn:longitude":125.51778,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Pu\u014f-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6269965
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6f61828899ab448bec1b50f91338c792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748039,
+            "locality_id":1343734955,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1343734955,
+    "wof:lastmodified":1536846641,
+    "wof:name":"Puo-dong",
+    "wof:parent_id":1108748039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.51778,
+    39.06917,
+    125.51778,
+    39.06917
+],
+  "geometry": {"coordinates":[125.51778,39.06917],"type":"Point"}
+}

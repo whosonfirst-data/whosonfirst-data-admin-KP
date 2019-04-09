@@ -1,0 +1,67 @@
+{
+  "id": 1276849911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.31222,41.60722,128.31222,41.60722",
+    "geom:latitude":41.60722,
+    "geom:longitude":128.31222,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nongsal-li",
+    "gn:country_code":"KP",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2054777,
+    "gn:latitude":41.60722,
+    "gn:longitude":128.31222,
+    "gn:modification_date":"2002-04-11",
+    "gn:name":"Nongsal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2054777
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"384683c8183b60ec9cb544e6e4ca08f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747111,
+            "locality_id":1276849911,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1276849911,
+    "wof:lastmodified":1537078156,
+    "wof:name":"Nongsal-li",
+    "wof:parent_id":1108747111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.31222,
+    41.60722,
+    128.31222,
+    41.60722
+],
+  "geometry": {"coordinates":[128.31222,41.60722],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293366289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.19222,40.66139,129.19222,40.66139",
+    "geom:latitude":40.66139,
+    "geom:longitude":129.19222,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Songnam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050653,
+    "gn:latitude":40.66139,
+    "gn:longitude":129.19222,
+    "gn:modification_date":"2006-02-23",
+    "gn:name":"S\u014fngnam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050653
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"515c1a39a3bf5bad2c4064ac2c2d2b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746957,
+            "locality_id":1293366289,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1293366289,
+    "wof:lastmodified":1536961722,
+    "wof:name":"Songnam-dong",
+    "wof:parent_id":1108746957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.19222,
+    40.66139,
+    129.19222,
+    40.66139
+],
+  "geometry": {"coordinates":[129.19221999999999,40.66139],"type":"Point"}
+}

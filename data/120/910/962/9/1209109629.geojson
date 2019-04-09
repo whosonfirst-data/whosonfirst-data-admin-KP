@@ -1,0 +1,65 @@
+{
+  "id": 1209109629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.33782,40.96005,126.33782,40.96005",
+    "geom:latitude":40.96005,
+    "geom:longitude":126.33782,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Puch'ang",
+    "gn:country_code":"KP",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634510,
+    "gn:latitude":40.96005,
+    "gn:longitude":126.33782,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Puch\u2019ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puch\u2019ang",
+        "\ubd80\ucc3d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634510
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6eba8a4035e147d3c8cd52fb1919d754",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209109629
+        }
+    ],
+    "wof:id":1209109629,
+    "wof:lastmodified":1537655952,
+    "wof:name":"Puch'ang",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.33782,
+    40.96005,
+    126.33782,
+    40.96005
+],
+  "geometry": {"coordinates":[126.33781999999999,40.96005],"type":"Point"}
+}

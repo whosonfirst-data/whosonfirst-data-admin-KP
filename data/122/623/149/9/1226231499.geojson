@@ -1,0 +1,68 @@
+{
+  "id": 1226231499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.31694,39.34,127.31694,39.34",
+    "geom:latitude":39.34,
+    "geom:longitude":127.31694,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Munch\u2019\u014fn-si",
+    "gn:asciiname":"Nungjang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952879,
+    "gn:latitude":39.34,
+    "gn:longitude":127.31694,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"N\u016dngjang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952879
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ea671cf6e5efac8ab0752185c4c8614d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747009,
+            "locality_id":1226231499,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226231499,
+    "wof:lastmodified":1536954274,
+    "wof:name":"Nungjang-ni",
+    "wof:parent_id":1108747009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.31694,
+    39.34,
+    127.31694,
+    39.34
+],
+  "geometry": {"coordinates":[127.31694,39.34],"type":"Point"}
+}

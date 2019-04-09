@@ -1,0 +1,70 @@
+{
+  "id": 1293798287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.95,38.08333,125.95,38.08333",
+    "geom:latitude":38.08333,
+    "geom:longitude":125.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chusan",
+    "gn:country_code":"KP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877745,
+    "gn:latitude":38.08333,
+    "gn:longitude":125.95,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chusan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc8fc\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877745
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f97a0be75df79e5c4bb7961785042469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1293798287,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293798287,
+    "wof:lastmodified":1537654759,
+    "wof:name":"Chusan",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.95,
+    38.08333,
+    125.95,
+    38.08333
+],
+  "geometry": {"coordinates":[125.95,38.08333],"type":"Point"}
+}

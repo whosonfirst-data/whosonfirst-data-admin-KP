@@ -1,0 +1,72 @@
+{
+  "id": 1293586283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.07694,38.44861,125.07694,38.44861",
+    "geom:latitude":38.44861,
+    "geom:longitude":125.07694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ch'olgwal-li",
+    "gn:country_code":"KP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878594,
+    "gn:latitude":38.44861,
+    "gn:longitude":125.07694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019\u014flgwal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucca0\uad00\ub9ac",
+        "Ch\u2019\u014flgwan-ni",
+        "Ch\u2019\u014flgwal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878594
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"19403a7c9d090e1f76d2ebecf431ffd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748021,
+            "locality_id":1293586283,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293586283,
+    "wof:lastmodified":1537654806,
+    "wof:name":"Ch'olgwal-li",
+    "wof:parent_id":1108748021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.07694,
+    38.44861,
+    125.07694,
+    38.44861
+],
+  "geometry": {"coordinates":[125.07693999999999,38.44861],"type":"Point"}
+}

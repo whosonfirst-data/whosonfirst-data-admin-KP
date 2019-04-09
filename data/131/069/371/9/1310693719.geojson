@@ -1,0 +1,67 @@
+{
+  "id": 1310693719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.81278,38.05917,125.81278,38.05917",
+    "geom:latitude":38.05917,
+    "geom:longitude":125.81278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oriyoul",
+    "gn:country_code":"KP",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873108,
+    "gn:latitude":38.05917,
+    "gn:longitude":125.81278,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"Oriy\u014ful",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873108
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1354a7f43de5aeb05a2861bf97bad277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1310693719,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310693719,
+    "wof:lastmodified":1536644820,
+    "wof:name":"Oriyoul",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.81278,
+    38.05917,
+    125.81278,
+    38.05917
+],
+  "geometry": {"coordinates":[125.81278,38.05917],"type":"Point"}
+}

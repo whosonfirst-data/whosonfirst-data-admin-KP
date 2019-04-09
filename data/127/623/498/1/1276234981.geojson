@@ -1,0 +1,71 @@
+{
+  "id": 1276234981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.57917,40.07556,127.57917,40.07556",
+    "geom:latitude":40.07556,
+    "geom:longitude":127.57917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hungbong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302472,
+    "gn:latitude":40.07556,
+    "gn:longitude":127.57917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"H\u016dngbong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud765\ubcf5\ub9ac",
+        "H\u016dngbong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302472
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"99d0ca2381a0ca1f71f3b9d079191c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747129,
+            "locality_id":1276234981,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1276234981,
+    "wof:lastmodified":1537655806,
+    "wof:name":"Hungbong-ni",
+    "wof:parent_id":1108747129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.57917,
+    40.07556,
+    127.57917,
+    40.07556
+],
+  "geometry": {"coordinates":[127.57917,40.07556],"type":"Point"}
+}

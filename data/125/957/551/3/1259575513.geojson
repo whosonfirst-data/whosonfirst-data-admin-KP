@@ -1,0 +1,74 @@
+{
+  "id": 1259575513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.85583,38.21444,126.85583,38.21444",
+    "geom:latitude":38.21444,
+    "geom:longitude":126.85583,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Changp\u2019ung-gun",
+    "gn:asciiname":"Wonhyon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866962,
+    "gn:latitude":38.21444,
+    "gn:longitude":126.85583,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"W\u014fnhy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inken-d\u014d",
+        "Yu\u014fnhy\u014fn-dong",
+        "Wonyondong",
+        "W\u014fnhy\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866962
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cb7aa48c1b6943a8d0b3dc160a826154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747189,
+            "locality_id":1259575513,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1259575513,
+    "wof:lastmodified":1537654208,
+    "wof:name":"Wonhyon-dong",
+    "wof:parent_id":1108747189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.85583,
+    38.21444,
+    126.85583,
+    38.21444
+],
+  "geometry": {"coordinates":[126.85583,38.21444],"type":"Point"}
+}

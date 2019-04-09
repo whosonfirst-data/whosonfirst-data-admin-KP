@@ -1,0 +1,67 @@
+{
+  "id": 1242569863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.00694,38.41889,125.00694,38.41889",
+    "geom:latitude":38.41889,
+    "geom:longitude":125.00694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sinhwa-dong",
+    "gn:country_code":"KP",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870468,
+    "gn:latitude":38.41889,
+    "gn:longitude":125.00694,
+    "gn:modification_date":"2003-02-13",
+    "gn:name":"Sinhwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870468
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f2748e7ec6fa5b8e3fcd10c4f35cd089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746993,
+            "locality_id":1242569863,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1242569863,
+    "wof:lastmodified":1537071737,
+    "wof:name":"Sinhwa-dong",
+    "wof:parent_id":1108746993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.00694,
+    38.41889000000001,
+    125.00694,
+    38.41889000000001
+],
+  "geometry": {"coordinates":[125.00694,38.41889000000001],"type":"Point"}
+}

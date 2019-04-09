@@ -1,0 +1,68 @@
+{
+  "id": 1193262433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.31639,38.33917,127.31639,38.33917",
+    "geom:latitude":38.33917,
+    "geom:longitude":127.31639,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"P\u2019y\u014fnggang-gun",
+    "gn:asciiname":"Kanun-gol",
+    "gn:country_code":"KP",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948446,
+    "gn:latitude":38.33917,
+    "gn:longitude":127.31639,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Kan\u016dn-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948446
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"099107eda3ad1d853d386c4180361854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747947,
+            "locality_id":1193262433,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1193262433,
+    "wof:lastmodified":1536379416,
+    "wof:name":"Kanun-gol",
+    "wof:parent_id":1108747947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.31638999999998,
+    38.33917,
+    127.31638999999998,
+    38.33917
+],
+  "geometry": {"coordinates":[127.31638999999998,38.33917],"type":"Point"}
+}

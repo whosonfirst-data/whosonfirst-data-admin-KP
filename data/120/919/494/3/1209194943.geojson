@@ -1,0 +1,65 @@
+{
+  "id": 1209194943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.43083,39.9425,124.43083,39.9425",
+    "geom:latitude":39.9425,
+    "geom:longitude":124.43083,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pukhyon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872183,
+    "gn:latitude":39.9425,
+    "gn:longitude":124.43083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pukhy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd81\ud604\ub3d9",
+        "Pukhy\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872183
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"35cd1a70b27d55799b8783b8e12234ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209194943
+        }
+    ],
+    "wof:id":1209194943,
+    "wof:lastmodified":1537654469,
+    "wof:name":"Pukhyon-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.43083,
+    39.9425,
+    124.43083,
+    39.9425
+],
+  "geometry": {"coordinates":[124.43083,39.9425],"type":"Point"}
+}

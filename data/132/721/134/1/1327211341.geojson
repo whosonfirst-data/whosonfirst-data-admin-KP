@@ -1,0 +1,73 @@
+{
+  "id": 1327211341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.88278,40.4475,124.88278,40.4475",
+    "geom:latitude":40.4475,
+    "geom:longitude":124.88278,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ch'ongsu",
+    "gn:country_code":"KP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282056,
+    "gn:latitude":40.4475,
+    "gn:longitude":124.88278,
+    "gn:modification_date":"2018-02-02",
+    "gn:name":"Ch\u2019\u014fngsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ch\u2019\u014fngsu"
+    ],
+    "name:kor_x_preferred":[
+        "\uc804\uc8fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282056
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a4ee958f40a18dc247b0ddd267a2c1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747105,
+            "locality_id":1327211341,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1327211341,
+    "wof:lastmodified":1537655762,
+    "wof:name":"Ch'ongsu",
+    "wof:parent_id":1108747105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.88278,
+    40.4475,
+    124.88278,
+    40.4475
+],
+  "geometry": {"coordinates":[124.88278,40.4475],"type":"Point"}
+}

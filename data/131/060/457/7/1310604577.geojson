@@ -1,0 +1,79 @@
+{
+  "id": 1310604577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65119,40.81593,126.65119,40.81593",
+    "geom:latitude":40.81593,
+    "geom:longitude":126.65119,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuch'ang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302275,
+    "gn:latitude":40.81593,
+    "gn:longitude":126.65119,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kuch\u2019ang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Kuch\u2019ang-dong"
+    ],
+    "name:kor_x_variant":[
+        "\uad6c\ucc3d\ub3d9",
+        "Kuch\u2019anggubi",
+        "\uad6c\ucc3d\uad6c\ube44"
+    ],
+    "name:und_x_variant":[
+        "\uad6c\ucc3d\uad6c\ube44",
+        "Kuch\u2019anggubi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108748019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302275
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"984b29b608eb9b29bc9dd5ebc90f10f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748019,
+            "locality_id":1310604577,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1310604577,
+    "wof:lastmodified":1537655796,
+    "wof:name":"Kuch'ang-dong",
+    "wof:parent_id":1108748019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65119,
+    40.81593,
+    126.65119,
+    40.81593
+],
+  "geometry": {"coordinates":[126.65119,40.81593],"type":"Point"}
+}

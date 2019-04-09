@@ -1,0 +1,70 @@
+{
+  "id": 1260057695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.26194,39.56194,125.26194,39.56194",
+    "geom:latitude":39.56194,
+    "geom:longitude":125.26194,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kobangsan",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875909,
+    "gn:latitude":39.56194,
+    "gn:longitude":125.26194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kobangsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ubc29\uc0b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875909
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8dbf52b0dccabdf5293a3d657d718f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747793,
+            "locality_id":1260057695,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1260057695,
+    "wof:lastmodified":1537654654,
+    "wof:name":"Kobangsan",
+    "wof:parent_id":1108747793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.26194,
+    39.56194,
+    125.26194,
+    39.56194
+],
+  "geometry": {"coordinates":[125.26194,39.56194],"type":"Point"}
+}

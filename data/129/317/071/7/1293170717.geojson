@@ -1,0 +1,71 @@
+{
+  "id": 1293170717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.95278,39.45917,125.95278,39.45917",
+    "geom:latitude":39.45917,
+    "geom:longitude":125.95278,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kangbyol-li",
+    "gn:country_code":"KP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889881,
+    "gn:latitude":39.45917,
+    "gn:longitude":125.95278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kangby\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangby\u014fn-ni",
+        "Kangby\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889881
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"57717dde4f99daf05d578688b4bba34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748035,
+            "locality_id":1293170717,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1293170717,
+    "wof:lastmodified":1537654938,
+    "wof:name":"Kangbyol-li",
+    "wof:parent_id":1108748035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.95278,
+    39.45917,
+    125.95278,
+    39.45917
+],
+  "geometry": {"coordinates":[125.95278,39.45917],"type":"Point"}
+}

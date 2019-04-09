@@ -1,0 +1,71 @@
+{
+  "id": 1293105739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.21421,40.23614,128.21421,40.23614",
+    "geom:latitude":40.23614,
+    "geom:longitude":128.21421,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ssango",
+    "gn:country_code":"KP",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330336,
+    "gn:latitude":40.23614,
+    "gn:longitude":128.21421,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ssang\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ssang\u014f",
+        "\uc30d\uac70"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330336
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"751be8b4cf5818b90e71820bb93cf6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747941,
+            "locality_id":1293105739,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293105739,
+    "wof:lastmodified":1537655948,
+    "wof:name":"Ssango",
+    "wof:parent_id":1108747941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.21421,
+    40.23614,
+    128.21421,
+    40.23614
+],
+  "geometry": {"coordinates":[128.21421000000001,40.23614],"type":"Point"}
+}

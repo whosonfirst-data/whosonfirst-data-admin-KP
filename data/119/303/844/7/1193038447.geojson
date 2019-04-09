@@ -1,0 +1,67 @@
+{
+  "id": 1193038447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.06417,38.4525,126.06417,38.4525",
+    "geom:latitude":38.4525,
+    "geom:longitude":126.06417,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sangsamch'on",
+    "gn:country_code":"KP",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948288,
+    "gn:latitude":38.4525,
+    "gn:longitude":126.06417,
+    "gn:modification_date":"2006-07-17",
+    "gn:name":"Sangsamch\u2019\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948288
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bc9ccb2bf42dec3772f6cb9878ca0bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":1193038447,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1193038447,
+    "wof:lastmodified":1536378503,
+    "wof:name":"Sangsamch'on",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.06417,
+    38.4525,
+    126.06417,
+    38.4525
+],
+  "geometry": {"coordinates":[126.06417,38.4525],"type":"Point"}
+}

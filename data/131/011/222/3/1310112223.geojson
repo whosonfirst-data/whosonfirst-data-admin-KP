@@ -1,0 +1,71 @@
+{
+  "id": 1310112223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34528,39.74583,127.34528,39.74583",
+    "geom:latitude":39.74583,
+    "geom:longitude":127.34528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Songch'ol-li",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932019,
+    "gn:latitude":39.74583,
+    "gn:longitude":127.34528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Songch\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\ucc9c\ub9ac",
+        "Songch\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932019
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"33a3bb2e642aa9997d9bc40439a5407f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747795,
+            "locality_id":1310112223,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1310112223,
+    "wof:lastmodified":1537655067,
+    "wof:name":"Songch'ol-li",
+    "wof:parent_id":1108747795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34528,
+    39.74583,
+    127.34528,
+    39.74583
+],
+  "geometry": {"coordinates":[127.34528,39.74583],"type":"Point"}
+}

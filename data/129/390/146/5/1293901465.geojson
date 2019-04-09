@@ -1,0 +1,67 @@
+{
+  "id": 1293901465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.38333,37.76667,125.38333,37.76667",
+    "geom:latitude":37.76667,
+    "geom:longitude":125.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Myong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874099,
+    "gn:latitude":37.76667,
+    "gn:longitude":125.38333,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"My\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba85\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "My\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874099
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5e5cf7f7f22c54253d0d626491025b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293901465,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293901465,
+    "wof:lastmodified":1537654560,
+    "wof:name":"Myong-dong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.38333,
+    37.76667,
+    125.38333,
+    37.76667
+],
+  "geometry": {"coordinates":[125.38333,37.76667],"type":"Point"}
+}

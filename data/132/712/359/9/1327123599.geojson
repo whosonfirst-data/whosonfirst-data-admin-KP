@@ -1,0 +1,71 @@
+{
+  "id": 1327123599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.43056,39.35417,127.43056,39.35417",
+    "geom:latitude":39.35417,
+    "geom:longitude":127.43056,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Munch'\u014fn-si",
+    "gn:asciiname":"Kansong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876080,
+    "gn:latitude":39.35417,
+    "gn:longitude":127.43056,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kansong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac04\uc1a1\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876080
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"79225a6a9fe445ad2048ffa062d9377a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747009,
+            "locality_id":1327123599,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1327123599,
+    "wof:lastmodified":1537654664,
+    "wof:name":"Kansong-ni",
+    "wof:parent_id":1108747009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.43056,
+    39.35417,
+    127.43056,
+    39.35417
+],
+  "geometry": {"coordinates":[127.43056,39.35417],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276443489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.03806,40.42333,128.03806,40.42333",
+    "geom:latitude":40.42333,
+    "geom:longitude":128.03806,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mongso-dong",
+    "gn:country_code":"KP",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050052,
+    "gn:latitude":40.42333,
+    "gn:longitude":128.03806,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Mongso-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubabd\uc18c\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050052
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c3d58e93d785c22886d8ac5a91fc243d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747193,
+            "locality_id":1276443489,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1276443489,
+    "wof:lastmodified":1537655588,
+    "wof:name":"Mongso-dong",
+    "wof:parent_id":1108747193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.03806,
+    40.42333,
+    128.03806,
+    40.42333
+],
+  "geometry": {"coordinates":[128.03806,40.42333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226119115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.74528,38.84556,125.74528,38.84556",
+    "geom:latitude":38.84556,
+    "geom:longitude":125.74528,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kalmae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876282,
+    "gn:latitude":38.84556,
+    "gn:longitude":125.74528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kalmae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac08\ub9e4\ub9ac",
+        "Kalmae-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876282
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"12d44056261c38468450446e197eea13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1226119115,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226119115,
+    "wof:lastmodified":1537654676,
+    "wof:name":"Kalmae-ri",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.74528,
+    38.84556,
+    125.74528,
+    38.84556
+],
+  "geometry": {"coordinates":[125.74527999999999,38.84556],"type":"Point"}
+}

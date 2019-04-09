@@ -1,0 +1,73 @@
+{
+  "id": 1276643261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7675,40.22889,125.7675,40.22889",
+    "geom:latitude":40.22889,
+    "geom:longitude":125.7675,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Toebawi-dong",
+    "gn:country_code":"KP",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2048911,
+    "gn:latitude":40.22889,
+    "gn:longitude":125.7675,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Toebawi-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub418\ubc14\uc704\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Toe-pawi-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2048911
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4fab9b3ceebb0e37ab71917b035001eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748089,
+            "locality_id":1276643261,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276643261,
+    "wof:lastmodified":1537655529,
+    "wof:name":"Toebawi-dong",
+    "wof:parent_id":1108748089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7675,
+    40.22889,
+    125.7675,
+    40.22889
+],
+  "geometry": {"coordinates":[125.7675,40.22889],"type":"Point"}
+}

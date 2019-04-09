@@ -1,0 +1,70 @@
+{
+  "id": 1209107441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.99194,39.41111,126.99194,39.41111",
+    "geom:latitude":39.41111,
+    "geom:longitude":126.99194,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Won'go-dong",
+    "gn:country_code":"KP",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866975,
+    "gn:latitude":39.41111,
+    "gn:longitude":126.99194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u014fn\u2019g\u014f-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\uac70\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "W\u014fn\u2019g\u014f-dong"
+    ],
+    "name:und_x_variant":[
+        "Inkyo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866975
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7fcee2d28d59381a630bab051546631f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209107441
+        }
+    ],
+    "wof:id":1209107441,
+    "wof:lastmodified":1537654209,
+    "wof:name":"Won'go-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.99194,
+    39.41111,
+    126.99194,
+    39.41111
+],
+  "geometry": {"coordinates":[126.99194,39.41111],"type":"Point"}
+}

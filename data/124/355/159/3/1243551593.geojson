@@ -1,0 +1,72 @@
+{
+  "id": 1243551593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.60417,37.85639,126.60417,37.85639",
+    "geom:latitude":37.85639,
+    "geom:longitude":126.60417,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"P\u2019anmun-gun",
+    "gn:asciiname":"Songsal-li",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869409,
+    "gn:latitude":37.85639,
+    "gn:longitude":126.60417,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Songsal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Songsan-ni",
+        "Songsal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869409
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"dc8ed4a8aeae8e547430c6ac4b47eec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1243551593,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1243551593,
+    "wof:lastmodified":1537654328,
+    "wof:name":"Songsal-li",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.60417,
+    37.85639000000001,
+    126.60417,
+    37.85639000000001
+],
+  "geometry": {"coordinates":[126.60417,37.85639000000001],"type":"Point"}
+}

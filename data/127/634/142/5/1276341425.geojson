@@ -1,0 +1,70 @@
+{
+  "id": 1276341425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.04583,39.62222,127.04583,39.62222",
+    "geom:latitude":39.62222,
+    "geom:longitude":127.04583,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chongnyul-gol",
+    "gn:country_code":"KP",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367277,
+    "gn:latitude":39.62222,
+    "gn:longitude":127.04583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chongnyul-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc885\ub960\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367277
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"53ef1af3c8ca621553cbb915d9e328ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748103,
+            "locality_id":1276341425,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1276341425,
+    "wof:lastmodified":1537655911,
+    "wof:name":"Chongnyul-gol",
+    "wof:parent_id":1108748103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.04583,
+    39.62222,
+    127.04583,
+    39.62222
+],
+  "geometry": {"coordinates":[127.04583,39.62222],"type":"Point"}
+}

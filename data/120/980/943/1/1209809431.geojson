@@ -1,0 +1,74 @@
+{
+  "id": 1209809431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53111,38.34667,127.53111,38.34667",
+    "geom:latitude":38.34667,
+    "geom:longitude":127.53111,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1875980",
+    "gn:asciiname":"Twijae",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867487,
+    "gn:latitude":38.34667,
+    "gn:longitude":127.53111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Twijae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huhy\u014fn",
+        "Hugae",
+        "Twijae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867487
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2e7eb37e4e1c1ad07759bab20926003b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746967,
+            "locality_id":1209809431,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1209809431,
+    "wof:lastmodified":1537654234,
+    "wof:name":"Twijae",
+    "wof:parent_id":1108746967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53111,
+    38.34667,
+    127.53111,
+    38.34667
+],
+  "geometry": {"coordinates":[127.53111,38.34667],"type":"Point"}
+}

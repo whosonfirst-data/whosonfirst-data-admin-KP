@@ -1,0 +1,72 @@
+{
+  "id": 1343365937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39222,39.47806,127.39222,39.47806",
+    "geom:latitude":39.47806,
+    "geom:longitude":127.39222,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"K\u016dmya-gun",
+    "gn:asciiname":"Sosongnae",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952628,
+    "gn:latitude":39.47806,
+    "gn:longitude":127.39222,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fs\u014fngnae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014fs\u014fngnae",
+        "\uc11c\uc131\ub0b4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952628
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"38c6401e946e55ceb9325c6d19c4bfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1343365937,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1343365937,
+    "wof:lastmodified":1537655114,
+    "wof:name":"Sosongnae",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39222,
+    39.47806,
+    127.39222,
+    39.47806
+],
+  "geometry": {"coordinates":[127.39221999999999,39.47806],"type":"Point"}
+}

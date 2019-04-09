@@ -1,0 +1,71 @@
+{
+  "id": 1193251173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.60083,39.71806,126.60083,39.71806",
+    "geom:latitude":39.71806,
+    "geom:longitude":126.60083,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kwanghwa-ri",
+    "gn:country_code":"KP",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874977,
+    "gn:latitude":39.71806,
+    "gn:longitude":126.60083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kwanghwa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad11\ud654\ub9ac",
+        "Kwanghwa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874977
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"df4286eb2b3f4967a06cebb6e9b33e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747005,
+            "locality_id":1193251173,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1193251173,
+    "wof:lastmodified":1537654602,
+    "wof:name":"Kwanghwa-ri",
+    "wof:parent_id":1108747005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.60083,
+    39.71806,
+    126.60083,
+    39.71806
+],
+  "geometry": {"coordinates":[126.60083,39.71806],"type":"Point"}
+}

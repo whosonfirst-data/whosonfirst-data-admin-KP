@@ -1,0 +1,67 @@
+{
+  "id": 1326622309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.44194,38.2625,125.44194,38.2625",
+    "geom:latitude":38.2625,
+    "geom:longitude":125.44194,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pugundang",
+    "gn:country_code":"KP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872223,
+    "gn:latitude":38.2625,
+    "gn:longitude":125.44194,
+    "gn:modification_date":"2002-02-19",
+    "gn:name":"Pugundang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872223
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"547d697c3de6997efd0a3b67e3243f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747123,
+            "locality_id":1326622309,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1326622309,
+    "wof:lastmodified":1536853045,
+    "wof:name":"Pugundang",
+    "wof:parent_id":1108747123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.44194,
+    38.2625,
+    125.44194,
+    38.2625
+],
+  "geometry": {"coordinates":[125.44194,38.2625],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343765573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.88083,40.52028,125.88083,40.52028",
+    "geom:latitude":40.52028,
+    "geom:longitude":125.88083,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ogu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282375,
+    "gn:latitude":40.52028,
+    "gn:longitude":125.88083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u014egu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc5b4\uad6c\ub3d9",
+        "\u014egu-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282375
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b26cce179fd760bc257fc819c931de45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1343765573,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1343765573,
+    "wof:lastmodified":1537655771,
+    "wof:name":"Ogu-dong",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.88083,
+    40.52028,
+    125.88083,
+    40.52028
+],
+  "geometry": {"coordinates":[125.88083,40.52028],"type":"Point"}
+}

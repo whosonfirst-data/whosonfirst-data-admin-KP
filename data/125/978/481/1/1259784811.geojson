@@ -1,0 +1,72 @@
+{
+  "id": 1259784811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6,40.61667,128.6,40.61667",
+    "geom:latitude":40.61667,
+    "geom:longitude":128.6,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ukkama-gol",
+    "gn:country_code":"KP",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041388,
+    "gn:latitude":40.61667,
+    "gn:longitude":128.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ukkama-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6c3\uac00\ub9c8\uace8",
+        "Sangbu-dong",
+        "Ukkama-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041388
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"dea9feb5991555f41b0d91e6ed401eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746881,
+            "locality_id":1259784811,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259784811,
+    "wof:lastmodified":1537655284,
+    "wof:name":"Ukkama-gol",
+    "wof:parent_id":1108746881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6,
+    40.61667,
+    128.6,
+    40.61667
+],
+  "geometry": {"coordinates":[128.59999999999999,40.61667],"type":"Point"}
+}

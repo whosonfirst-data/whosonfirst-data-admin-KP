@@ -1,0 +1,66 @@
+{
+  "id": 1209709569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.68972,39.11,127.68972,39.11",
+    "geom:latitude":39.11,
+    "geom:longitude":127.68972,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Narumal",
+    "gn:country_code":"KP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931393,
+    "gn:latitude":39.11,
+    "gn:longitude":127.68972,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Narumal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub098\ub8e8\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931393
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c521c18268c28c62c768f0b936bd930f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209709569,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209709569,
+    "wof:lastmodified":1537655061,
+    "wof:name":"Narumal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.68972,
+    39.11,
+    127.68972,
+    39.11
+],
+  "geometry": {"coordinates":[127.68971999999999,39.11],"type":"Point"}
+}

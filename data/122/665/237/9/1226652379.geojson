@@ -1,0 +1,72 @@
+{
+  "id": 1226652379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.76278,40.945,128.76278,40.945",
+    "geom:latitude":40.945,
+    "geom:longitude":128.76278,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"Tanch'\u014fn-si",
+    "gn:asciiname":"Hwangch'ol-gol",
+    "gn:country_code":"KP",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055474,
+    "gn:latitude":40.945,
+    "gn:longitude":128.76278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hwangch\u2019\u014fl-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud669\ucca0\uace8",
+        "Hwangch\u2019\u014fl-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055474
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b9cadfcadbef450fe084b90481058e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1226652379,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1226652379,
+    "wof:lastmodified":1537655654,
+    "wof:name":"Hwangch'ol-gol",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.76278,
+    40.945,
+    128.76278,
+    40.945
+],
+  "geometry": {"coordinates":[128.76277999999999,40.945],"type":"Point"}
+}

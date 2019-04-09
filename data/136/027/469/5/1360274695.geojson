@@ -1,0 +1,73 @@
+{
+  "id": 1360274695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.37219,39.06208,127.37219,39.06208",
+    "geom:latitude":39.06208,
+    "geom:longitude":127.37219,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yongdae-rodongjagu",
+    "gn:country_code":"KP",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866420,
+    "gn:latitude":39.06208,
+    "gn:longitude":127.37219,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongdae-rodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yongdae",
+        "Yongdae-ri",
+        "Yongdae-rodongjagu",
+        "\ub8e1\ub300\ub85c\ub3d9\uc790\uad6c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866420
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3b181d464556e08374f21e36446d2392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747229,
+            "locality_id":1360274695,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1360274695,
+    "wof:lastmodified":1537654181,
+    "wof:name":"Yongdae-rodongjagu",
+    "wof:parent_id":1108747229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.37219,
+    39.06208,
+    127.37219,
+    39.06208
+],
+  "geometry": {"coordinates":[127.37219,39.06208],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310487617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.31444,40.82167,128.31444,40.82167",
+    "geom:latitude":40.82167,
+    "geom:longitude":128.31444,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sach'op'yong",
+    "gn:country_code":"KP",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041618,
+    "gn:latitude":40.82167,
+    "gn:longitude":128.31444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sach\u2019op\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sas\u014dhei",
+        "Sach\u2019op\u2019y\u014fng",
+        "\uc0ac\ucd08\ud3c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041618
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cbacc4f9ccd2810af2f7b31abb0324f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746959,
+            "locality_id":1310487617,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1310487617,
+    "wof:lastmodified":1537655297,
+    "wof:name":"Sach'op'yong",
+    "wof:parent_id":1108746959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.31444,
+    40.82167000000001,
+    128.31444,
+    40.82167000000001
+],
+  "geometry": {"coordinates":[128.31443999999999,40.82167000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276327477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.69694,38.77611,125.69694,38.77611",
+    "geom:latitude":38.77611,
+    "geom:longitude":125.69694,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sokp'yong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869882,
+    "gn:latitude":38.77611,
+    "gn:longitude":125.69694,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"S\u014fkp\u2019y\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869882
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d5c10138a50302afb40d931db0d19631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747765,
+            "locality_id":1276327477,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276327477,
+    "wof:lastmodified":1536786968,
+    "wof:name":"Sokp'yong-ni",
+    "wof:parent_id":1108747765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.69693999999998,
+    38.77611,
+    125.69693999999998,
+    38.77611
+],
+  "geometry": {"coordinates":[125.69693999999998,38.77611],"type":"Point"}
+}

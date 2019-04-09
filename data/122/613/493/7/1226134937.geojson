@@ -1,0 +1,72 @@
+{
+  "id": 1226134937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.36306,37.91056,125.36306,37.91056",
+    "geom:latitude":37.91056,
+    "geom:longitude":125.36306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pan-gol",
+    "gn:country_code":"KP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872715,
+    "gn:latitude":37.91056,
+    "gn:longitude":125.36306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pan-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pan-dong",
+        "\ubc18\uace8",
+        "Pan-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872715
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6bf70772eb7571c542304fb4896a22b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1226134937,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1226134937,
+    "wof:lastmodified":1537654496,
+    "wof:name":"Pan-gol",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.36306,
+    37.91056,
+    125.36306,
+    37.91056
+],
+  "geometry": {"coordinates":[125.36306,37.91056],"type":"Point"}
+}

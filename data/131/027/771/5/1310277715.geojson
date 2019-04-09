@@ -1,0 +1,74 @@
+{
+  "id": 1310277715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.23611,39.39667,126.23611,39.39667",
+    "geom:latitude":39.39667,
+    "geom:longitude":126.23611,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kumgol",
+    "gn:country_code":"KP",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890029,
+    "gn:latitude":39.39667,
+    "gn:longitude":126.23611,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"K\u016dmgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae08\uace8"
+    ],
+    "name:und_x_variant":[
+        "K\u016dmgol",
+        "K\u016dmkol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890029
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a094f6f498db2034e44dcca1f205598e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747149,
+            "locality_id":1310277715,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1310277715,
+    "wof:lastmodified":1537654943,
+    "wof:name":"Kumgol",
+    "wof:parent_id":1108747149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.23611,
+    39.39667,
+    126.23611,
+    39.39667
+],
+  "geometry": {"coordinates":[126.23611,39.39667],"type":"Point"}
+}

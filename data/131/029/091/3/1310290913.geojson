@@ -1,0 +1,67 @@
+{
+  "id": 1310290913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.80194,41.22056,127.80194,41.22056",
+    "geom:latitude":41.22056,
+    "geom:longitude":127.80194,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pugaebong",
+    "gn:country_code":"KP",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2045895,
+    "gn:latitude":41.22056,
+    "gn:longitude":127.80194,
+    "gn:modification_date":"2002-03-12",
+    "gn:name":"Pugaebong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2045895
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a8014b89bea26e820fc6f5c48655e416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747113,
+            "locality_id":1310290913,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1310290913,
+    "wof:lastmodified":1536729386,
+    "wof:name":"Pugaebong",
+    "wof:parent_id":1108747113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.80194,
+    41.22056,
+    127.80194,
+    41.22056
+],
+  "geometry": {"coordinates":[127.80194,41.22056],"type":"Point"}
+}

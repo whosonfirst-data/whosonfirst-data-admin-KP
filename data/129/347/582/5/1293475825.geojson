@@ -1,0 +1,71 @@
+{
+  "id": 1293475825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.77889,38.7675,125.77889,38.7675",
+    "geom:latitude":38.7675,
+    "geom:longitude":125.77889,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Unmaeumul",
+    "gn:country_code":"KP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363537,
+    "gn:latitude":38.7675,
+    "gn:longitude":125.77889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Unmaeumul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6c3\ub9e4\uc6b0\ubb3c",
+        "Unmaeumul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363537
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cef9d7087d829b7848a7d12ad8c1dd03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747765,
+            "locality_id":1293475825,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293475825,
+    "wof:lastmodified":1537655857,
+    "wof:name":"Unmaeumul",
+    "wof:parent_id":1108747765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.77889,
+    38.7675,
+    125.77889,
+    38.7675
+],
+  "geometry": {"coordinates":[125.77889,38.7675],"type":"Point"}
+}

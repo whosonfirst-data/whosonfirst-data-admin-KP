@@ -1,0 +1,70 @@
+{
+  "id": 1310602417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1775,39.44944,127.1775,39.44944",
+    "geom:latitude":39.44944,
+    "geom:longitude":127.1775,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Puktu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367056,
+    "gn:latitude":39.44944,
+    "gn:longitude":127.1775,
+    "gn:modification_date":"2007-03-19",
+    "gn:name":"Puktu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd81\ub450\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367056
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5990e4c5dc3214bb6a6c170d3e4ea7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746977,
+            "locality_id":1310602417,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1310602417,
+    "wof:lastmodified":1537655904,
+    "wof:name":"Puktu-dong",
+    "wof:parent_id":1108746977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1775,
+    39.44944,
+    127.1775,
+    39.44944
+],
+  "geometry": {"coordinates":[127.17749999999999,39.44944],"type":"Point"}
+}

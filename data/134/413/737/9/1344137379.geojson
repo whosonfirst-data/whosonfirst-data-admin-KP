@@ -1,0 +1,71 @@
+{
+  "id": 1344137379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.825,40.08944,125.825,40.08944",
+    "geom:latitude":40.08944,
+    "geom:longitude":125.825,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Samdae",
+    "gn:country_code":"KP",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041496,
+    "gn:latitude":40.08944,
+    "gn:longitude":125.825,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Samdae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bc\ub300",
+        "Samdae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041496
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cbb579484d1a6aaee2fad033e778af3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748089,
+            "locality_id":1344137379,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1344137379,
+    "wof:lastmodified":1537655290,
+    "wof:name":"Samdae",
+    "wof:parent_id":1108748089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.825,
+    40.08944,
+    125.825,
+    40.08944
+],
+  "geometry": {"coordinates":[125.825,40.08944],"type":"Point"}
+}

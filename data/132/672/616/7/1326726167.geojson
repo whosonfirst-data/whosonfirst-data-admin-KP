@@ -1,0 +1,70 @@
+{
+  "id": 1326726167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.595,38.57583,125.595,38.57583",
+    "geom:latitude":38.57583,
+    "geom:longitude":125.595,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kamu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6407448,
+    "gn:latitude":38.57583,
+    "gn:longitude":125.595,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kamu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac10\uc6b0\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6407448
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b7a4c820ca52feac7a1aaf8b8389ac06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747207,
+            "locality_id":1326726167,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1326726167,
+    "wof:lastmodified":1537655935,
+    "wof:name":"Kamu-dong",
+    "wof:parent_id":1108747207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.595,
+    38.57583,
+    125.595,
+    38.57583
+],
+  "geometry": {"coordinates":[125.595,38.57583],"type":"Point"}
+}

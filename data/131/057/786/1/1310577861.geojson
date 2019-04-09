@@ -1,0 +1,71 @@
+{
+  "id": 1310577861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.9125,38.80306,125.9125,38.80306",
+    "geom:latitude":38.80306,
+    "geom:longitude":125.9125,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mokko",
+    "gn:country_code":"KP",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363604,
+    "gn:latitude":38.80306,
+    "gn:longitude":125.9125,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u014fkko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uba39\uace0",
+        "M\u014fkko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363604
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"16adc8d3e741554fc100e66465f26c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":1310577861,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310577861,
+    "wof:lastmodified":1537655861,
+    "wof:name":"Mokko",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.9125,
+    38.80306,
+    125.9125,
+    38.80306
+],
+  "geometry": {"coordinates":[125.91249999999999,38.80306],"type":"Point"}
+}

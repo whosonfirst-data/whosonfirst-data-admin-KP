@@ -1,0 +1,75 @@
+{
+  "id": 1259549959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.5225,40.80667,129.5225,40.80667",
+    "geom:latitude":40.80667,
+    "geom:longitude":129.5225,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sap'o-ri",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041192,
+    "gn:latitude":40.80667,
+    "gn:longitude":129.5225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sap\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sap\u2019o-dong",
+        "Sappodon",
+        "Sapo",
+        "Shiho-d\u014d",
+        "\uc0ac\ud3ec\ub9ac",
+        "Sap\u2019o-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041192
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f636c9dad5d91553883fa5717b6c5663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747763,
+            "locality_id":1259549959,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1259549959,
+    "wof:lastmodified":1537655271,
+    "wof:name":"Sap'o-ri",
+    "wof:parent_id":1108747763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.5225,
+    40.80667,
+    129.5225,
+    40.80667
+],
+  "geometry": {"coordinates":[129.52250000000001,40.80667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326806393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.87611,41.83778,129.87611,41.83778",
+    "geom:latitude":41.83778,
+    "geom:longitude":129.87611,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tat'an-dong",
+    "gn:country_code":"KP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040000,
+    "gn:latitude":41.83778,
+    "gn:longitude":129.87611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tat\u2019an-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadan-d\u014d",
+        "Tatan-d\u014d",
+        "\ub2e4\ud0c4\ub3d9",
+        "Tat\u2019an-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040000
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b3aef95d225b6d5559fb8fa70d5ef374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746863,
+            "locality_id":1326806393,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1326806393,
+    "wof:lastmodified":1537655202,
+    "wof:name":"Tat'an-dong",
+    "wof:parent_id":1108746863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.87611,
+    41.83778,
+    129.87611,
+    41.83778
+],
+  "geometry": {"coordinates":[129.87611000000001,41.83778],"type":"Point"}
+}

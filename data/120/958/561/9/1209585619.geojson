@@ -1,0 +1,64 @@
+{
+  "id": 1209585619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.50361,39.24194,126.50361,39.24194",
+    "geom:latitude":39.24194,
+    "geom:longitude":126.50361,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hwail-li",
+    "gn:country_code":"KP",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366874,
+    "gn:latitude":39.24194,
+    "gn:longitude":126.50361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hwail-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\uc778\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366874
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0a12d8716298daf02c95f80fa4365869",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209585619
+        }
+    ],
+    "wof:id":1209585619,
+    "wof:lastmodified":1537655896,
+    "wof:name":"Hwail-li",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.50361,
+    39.24194,
+    126.50361,
+    39.24194
+],
+  "geometry": {"coordinates":[126.50360999999999,39.24194],"type":"Point"}
+}

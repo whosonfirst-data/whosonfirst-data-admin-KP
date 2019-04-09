@@ -1,0 +1,75 @@
+{
+  "id": 1293777971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.96167,38.29972,126.96167,38.29972",
+    "geom:latitude":38.29972,
+    "geom:longitude":126.96167,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ipsong-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876484,
+    "gn:latitude":38.29972,
+    "gn:longitude":126.96167,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Ips\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc785\uc11d\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ut-chigy\u014fngae",
+        "Ips\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876484
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d5a98609fab711ae255ff6b4a3b68f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747727,
+            "locality_id":1293777971,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1293777971,
+    "wof:lastmodified":1537654688,
+    "wof:name":"Ipsong-ni",
+    "wof:parent_id":1108747727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.96167,
+    38.29972,
+    126.96167,
+    38.29972
+],
+  "geometry": {"coordinates":[126.96167,38.29972],"type":"Point"}
+}

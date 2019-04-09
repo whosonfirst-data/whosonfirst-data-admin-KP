@@ -1,0 +1,71 @@
+{
+  "id": 1309807127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.93306,40.53667,125.93306,40.53667",
+    "geom:latitude":40.53667,
+    "geom:longitude":125.93306,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chinam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049122,
+    "gn:latitude":40.53667,
+    "gn:longitude":125.93306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chinam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc9c0\ub0a8\ub3d9",
+        "Chinam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049122
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"661e09c38407e1003afaf6d1154615d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1309807127,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1309807127,
+    "wof:lastmodified":1537655541,
+    "wof:name":"Chinam-dong",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.93306,
+    40.53667,
+    125.93306,
+    40.53667
+],
+  "geometry": {"coordinates":[125.93306,40.53667],"type":"Point"}
+}

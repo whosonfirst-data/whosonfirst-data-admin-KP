@@ -1,0 +1,73 @@
+{
+  "id": 1327123591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.49194,38.75056,127.49194,38.75056",
+    "geom:latitude":38.75056,
+    "geom:longitude":127.49194,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sin-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870675,
+    "gn:latitude":38.75056,
+    "gn:longitude":127.49194,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Sin-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Sin-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870675
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b031853f0659e807c63f2285f116b613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746887,
+            "locality_id":1327123591,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1327123591,
+    "wof:lastmodified":1537654392,
+    "wof:name":"Sin-ch'on",
+    "wof:parent_id":1108746887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.49194,
+    38.75056,
+    127.49194,
+    38.75056
+],
+  "geometry": {"coordinates":[127.49194,38.75056],"type":"Point"}
+}

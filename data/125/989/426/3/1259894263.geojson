@@ -1,0 +1,83 @@
+{
+  "id": 1259894263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.38333,38.86667,125.38333,38.86667",
+    "geom:latitude":38.86667,
+    "geom:longitude":125.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chaein-maul",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879504,
+    "gn:latitude":38.86667,
+    "gn:longitude":125.38333,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chaein-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7ac\uc778\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "Chaein-ch\u2019on",
+        "Chaein-ma\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747969,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879504
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"568c711e488de3133ccc7af7044a79db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1259894263,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1259894263,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1259894263,
+    "wof:lastmodified":1537654860,
+    "wof:name":"Chaein-maul",
+    "wof:parent_id":1108747969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.38333,
+    38.86667,
+    125.38333,
+    38.86667
+],
+  "geometry": {"coordinates":[125.38333,38.86667],"type":"Point"}
+}

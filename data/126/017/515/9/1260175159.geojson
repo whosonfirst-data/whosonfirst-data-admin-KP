@@ -1,0 +1,70 @@
+{
+  "id": 1260175159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.61417,38.65222,126.61417,38.65222",
+    "geom:latitude":38.65222,
+    "geom:longitude":126.61417,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sanyang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1902175,
+    "gn:latitude":38.65222,
+    "gn:longitude":126.61417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sanyang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0b0\uc591\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1902175
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"855053ecfed166b564f5cf8eb04a5e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747999,
+            "locality_id":1260175159,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1260175159,
+    "wof:lastmodified":1537655031,
+    "wof:name":"Sanyang-ni",
+    "wof:parent_id":1108747999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.61417,
+    38.65222,
+    126.61417,
+    38.65222
+],
+  "geometry": {"coordinates":[126.61417,38.65222],"type":"Point"}
+}

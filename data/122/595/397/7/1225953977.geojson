@@ -1,0 +1,70 @@
+{
+  "id": 1225953977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.71667,40.08333,124.71667,40.08333",
+    "geom:latitude":40.08333,
+    "geom:longitude":124.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yanggong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039325,
+    "gn:latitude":40.08333,
+    "gn:longitude":124.71667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Yanggong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc591\uace1\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039325
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5c48ffbe0dd2aa01a1ec718f1214d724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746867,
+            "locality_id":1225953977,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1225953977,
+    "wof:lastmodified":1537655162,
+    "wof:name":"Yanggong-ni",
+    "wof:parent_id":1108746867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.71667,
+    40.08333,
+    124.71667,
+    40.08333
+],
+  "geometry": {"coordinates":[124.71666999999999,40.08333],"type":"Point"}
+}

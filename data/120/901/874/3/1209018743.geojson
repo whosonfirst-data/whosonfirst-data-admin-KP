@@ -1,0 +1,70 @@
+{
+  "id": 1209018743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.75,38.5,125.75,38.5",
+    "geom:latitude":38.5,
+    "geom:longitude":125.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sinhung-dong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870512,
+    "gn:latitude":38.5,
+    "gn:longitude":125.75,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Sinh\u016dng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ud765\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ogang-dong",
+        "Ogang-ni",
+        "Sinh\u016dng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870512
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8da975ba2a50dcc73605144f9f8d22b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209018743
+        }
+    ],
+    "wof:id":1209018743,
+    "wof:lastmodified":1537654384,
+    "wof:name":"Sinhung-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.75,
+    38.5,
+    125.75,
+    38.5
+],
+  "geometry": {"coordinates":[125.75,38.5],"type":"Point"}
+}

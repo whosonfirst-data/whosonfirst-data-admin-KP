@@ -1,0 +1,71 @@
+{
+  "id": 1226418545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.01389,42.02556,130.01389,42.02556",
+    "geom:latitude":42.02556,
+    "geom:longitude":130.01389,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Namnyang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042565,
+    "gn:latitude":42.02556,
+    "gn:longitude":130.01389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Namnyang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub0a8\ub7c9\ub3d9",
+        "Namnyang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042565
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4627315b986de4fa6e508e6e1e0d7925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746863,
+            "locality_id":1226418545,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1226418545,
+    "wof:lastmodified":1537655351,
+    "wof:name":"Namnyang-dong",
+    "wof:parent_id":1108746863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.01389,
+    42.02556,
+    130.01389,
+    42.02556
+],
+  "geometry": {"coordinates":[130.01389,42.02556],"type":"Point"}
+}

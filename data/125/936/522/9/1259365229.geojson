@@ -1,0 +1,70 @@
+{
+  "id": 1259365229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.41528,39.57444,126.41528,39.57444",
+    "geom:latitude":39.57444,
+    "geom:longitude":126.41528,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Taegogae",
+    "gn:country_code":"KP",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892202,
+    "gn:latitude":39.57444,
+    "gn:longitude":126.41528,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Taegogae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uace0\uac1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892202
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"51cbc0f528fcce1c9e86ae0a88208b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747069,
+            "locality_id":1259365229,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1259365229,
+    "wof:lastmodified":1537655016,
+    "wof:name":"Taegogae",
+    "wof:parent_id":1108747069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.41528,
+    39.57444,
+    126.41528,
+    39.57444
+],
+  "geometry": {"coordinates":[126.41528,39.57444],"type":"Point"}
+}

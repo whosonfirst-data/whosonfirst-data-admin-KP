@@ -1,0 +1,70 @@
+{
+  "id": 1292917919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.0,40.18333,125.0,40.18333",
+    "geom:latitude":40.18333,
+    "geom:longitude":125.0,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sanae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041403,
+    "gn:latitude":40.18333,
+    "gn:longitude":125.0,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Sanae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0ac\ub0b4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041403
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"90e19476fade283574faa4add0b08e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748041,
+            "locality_id":1292917919,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1292917919,
+    "wof:lastmodified":1537655285,
+    "wof:name":"Sanae-ri",
+    "wof:parent_id":1108748041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.0,
+    40.18333,
+    125.0,
+    40.18333
+],
+  "geometry": {"coordinates":[125.0,40.18333],"type":"Point"}
+}

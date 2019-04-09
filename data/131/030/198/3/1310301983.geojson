@@ -1,0 +1,75 @@
+{
+  "id": 1310301983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.46639,38.07639,125.46639,38.07639",
+    "geom:latitude":38.07639,
+    "geom:longitude":125.46639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nurumnigogae",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873436,
+    "gn:latitude":38.07639,
+    "gn:longitude":125.46639,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"N\u016dr\u016dmnigogae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub290\ub985\ub9ac\uace0\uac1c"
+    ],
+    "name:und_x_variant":[
+        "N\u016dr\u016dpkogae",
+        "N\u016dr\u016dmnigogae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873436
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fa4197cc67431d240e35c7cf0c39730f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747921,
+            "locality_id":1310301983,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310301983,
+    "wof:lastmodified":1537654531,
+    "wof:name":"Nurumnigogae",
+    "wof:parent_id":1108747921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.46639,
+    38.07639,
+    125.46639,
+    38.07639
+],
+  "geometry": {"coordinates":[125.46639,38.07639],"type":"Point"}
+}

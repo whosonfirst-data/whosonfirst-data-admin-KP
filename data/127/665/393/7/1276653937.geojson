@@ -1,0 +1,71 @@
+{
+  "id": 1276653937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.62028,37.82167,125.62028,37.82167",
+    "geom:latitude":37.82167,
+    "geom:longitude":125.62028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tohwa-ri",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868203,
+    "gn:latitude":37.82167,
+    "gn:longitude":125.62028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tohwa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c4\ud654\ub9ac",
+        "Tohwa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868203
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"882fe16e4af91f52264d7ff745b62c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747817,
+            "locality_id":1276653937,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276653937,
+    "wof:lastmodified":1537654270,
+    "wof:name":"Tohwa-ri",
+    "wof:parent_id":1108747817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.62028,
+    37.82167000000001,
+    125.62028,
+    37.82167000000001
+],
+  "geometry": {"coordinates":[125.62027999999999,37.82167000000001],"type":"Point"}
+}

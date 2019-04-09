@@ -1,0 +1,71 @@
+{
+  "id": 1343965089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81944,39.57028,126.81944,39.57028",
+    "geom:latitude":39.57028,
+    "geom:longitude":126.81944,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kkach'i-gol",
+    "gn:country_code":"KP",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891863,
+    "gn:latitude":39.57028,
+    "gn:longitude":126.81944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kkach\u2019i-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae4c\uce58\uace8",
+        "Kkach\u2019i-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891863
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4ff17968832f0a6cea05bdee40819a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748103,
+            "locality_id":1343965089,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1343965089,
+    "wof:lastmodified":1537655000,
+    "wof:name":"Kkach'i-gol",
+    "wof:parent_id":1108748103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81944,
+    39.57028,
+    126.81944,
+    39.57028
+],
+  "geometry": {"coordinates":[126.81944,39.57028],"type":"Point"}
+}

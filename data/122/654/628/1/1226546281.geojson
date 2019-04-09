@@ -1,0 +1,70 @@
+{
+  "id": 1226546281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65541,40.24101,128.65541,40.24101",
+    "geom:latitude":40.24101,
+    "geom:longitude":128.65541,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kalgumi",
+    "gn:country_code":"KP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049889,
+    "gn:latitude":40.24101,
+    "gn:longitude":128.65541,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kalgumi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac08\uad6c\ubbf8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049889
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c7ed463e83300830030ab68452aa0ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747095,
+            "locality_id":1226546281,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1226546281,
+    "wof:lastmodified":1537655578,
+    "wof:name":"Kalgumi",
+    "wof:parent_id":1108747095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65541000000002,
+    40.24101,
+    128.65541000000002,
+    40.24101
+],
+  "geometry": {"coordinates":[128.65541000000002,40.24101],"type":"Point"}
+}

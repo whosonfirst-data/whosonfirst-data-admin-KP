@@ -1,0 +1,67 @@
+{
+  "id": 1259957383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.24083,39.86611,126.24083,39.86611",
+    "geom:latitude":39.86611,
+    "geom:longitude":126.24083,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sungt'ong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892394,
+    "gn:latitude":39.86611,
+    "gn:longitude":126.24083,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Sungt\u2019ong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892394
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"822359d8988bb2f4d26b4c7b6739fbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746979,
+            "locality_id":1259957383,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259957383,
+    "wof:lastmodified":1536672724,
+    "wof:name":"Sungt'ong-dong",
+    "wof:parent_id":1108746979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.24083,
+    39.86611,
+    126.24083,
+    39.86611
+],
+  "geometry": {"coordinates":[126.24083,39.86611],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326609107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.93917,41.22389,127.93917,41.22389",
+    "geom:latitude":41.22389,
+    "geom:longitude":127.93917,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Soch'onggye-ri",
+    "gn:country_code":"KP",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2054478,
+    "gn:latitude":41.22389,
+    "gn:longitude":127.93917,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Soch\u2019\u014fnggye-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2054478
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c57946a9515e78a9e089038d9dd0401b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747113,
+            "locality_id":1326609107,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1326609107,
+    "wof:lastmodified":1536872255,
+    "wof:name":"Soch'onggye-ri",
+    "wof:parent_id":1108747113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.93917,
+    41.22389,
+    127.93917,
+    41.22389
+],
+  "geometry": {"coordinates":[127.93917,41.22389],"type":"Point"}
+}

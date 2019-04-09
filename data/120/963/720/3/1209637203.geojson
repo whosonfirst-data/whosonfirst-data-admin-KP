@@ -1,0 +1,61 @@
+{
+  "id": 1209637203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.11444,38.24833,125.11444,38.24833",
+    "geom:latitude":38.24833,
+    "geom:longitude":125.11444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malbaeam",
+    "gn:country_code":"KP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874598,
+    "gn:latitude":38.24833,
+    "gn:longitude":125.11444,
+    "gn:modification_date":"2003-01-15",
+    "gn:name":"Malbaeam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874598
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e1f8330d62b3a4f3a6c4f1098e1b599a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209637203
+        }
+    ],
+    "wof:id":1209637203,
+    "wof:lastmodified":1536281004,
+    "wof:name":"Malbaeam",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.11444,
+    38.24833,
+    125.11444,
+    38.24833
+],
+  "geometry": {"coordinates":[125.11444,38.24833],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226666401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.47167,38.16028,126.47167,38.16028",
+    "geom:latitude":38.16028,
+    "geom:longitude":126.47167,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pukpu",
+    "gn:country_code":"KP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1966618,
+    "gn:latitude":38.16028,
+    "gn:longitude":126.47167,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pukpu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd81\ubd80",
+        "Pukpu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1966618
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"064ea4a1cf010e8bfd1256d466f80dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747851,
+            "locality_id":1226666401,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226666401,
+    "wof:lastmodified":1537655124,
+    "wof:name":"Pukpu",
+    "wof:parent_id":1108747851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.47167,
+    38.16028,
+    126.47167,
+    38.16028
+],
+  "geometry": {"coordinates":[126.47167,38.16028],"type":"Point"}
+}

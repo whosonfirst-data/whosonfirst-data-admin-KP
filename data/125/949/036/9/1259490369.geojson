@@ -1,0 +1,71 @@
+{
+  "id": 1259490369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.92833,40.19444,127.92833,40.19444",
+    "geom:latitude":40.19444,
+    "geom:longitude":127.92833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chosal-li",
+    "gn:country_code":"KP",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302636,
+    "gn:latitude":40.19444,
+    "gn:longitude":127.92833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chosal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc870\uc0b0\ub9ac",
+        "Chosal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302636
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b318a2c4141bc284c420675dffd05377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746889,
+            "locality_id":1259490369,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259490369,
+    "wof:lastmodified":1537655815,
+    "wof:name":"Chosal-li",
+    "wof:parent_id":1108746889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.92833,
+    40.19444,
+    127.92833,
+    40.19444
+],
+  "geometry": {"coordinates":[127.92833,40.19444],"type":"Point"}
+}

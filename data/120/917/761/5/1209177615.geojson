@@ -1,0 +1,65 @@
+{
+  "id": 1209177615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.6375,42.34833,129.6375,42.34833",
+    "geom:latitude":42.34833,
+    "geom:longitude":129.6375,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chungp'yong",
+    "gn:country_code":"KP",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049187,
+    "gn:latitude":42.34833,
+    "gn:longitude":129.6375,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chungp\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\ud3c9",
+        "Chungp\u2019y\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049187
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5aae2829a25e291c559af1100933dd30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209177615
+        }
+    ],
+    "wof:id":1209177615,
+    "wof:lastmodified":1537655544,
+    "wof:name":"Chungp'yong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.6375,
+    42.34833,
+    129.6375,
+    42.34833
+],
+  "geometry": {"coordinates":[129.63749999999999,42.34833],"type":"Point"}
+}

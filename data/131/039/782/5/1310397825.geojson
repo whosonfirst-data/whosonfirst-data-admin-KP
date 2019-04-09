@@ -1,0 +1,72 @@
+{
+  "id": 1310397825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.13472,37.965,126.13472,37.965",
+    "geom:latitude":37.965,
+    "geom:longitude":126.13472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soppa-ri",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869209,
+    "gn:latitude":37.965,
+    "gn:longitude":126.13472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Soppa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sot\u2019pal",
+        "Soppa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869209
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ac14f0a706b70e35299e9b3ca748d0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1310397825,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310397825,
+    "wof:lastmodified":1537654318,
+    "wof:name":"Soppa-ri",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.13472,
+    37.965,
+    126.13472,
+    37.965
+],
+  "geometry": {"coordinates":[126.13472,37.965],"type":"Point"}
+}

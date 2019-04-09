@@ -1,0 +1,65 @@
+{
+  "id": 1209300967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.02389,39.20167,126.02389,39.20167",
+    "geom:latitude":39.20167,
+    "geom:longitude":126.02389,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kangdong-gun",
+    "gn:asciiname":"Hyangmong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876779,
+    "gn:latitude":39.20167,
+    "gn:longitude":126.02389,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Hyangmong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud5a5\ubaa9\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876779
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7e85bf0221b8dccb4beca6bc34098112",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209300967
+        }
+    ],
+    "wof:id":1209300967,
+    "wof:lastmodified":1537654704,
+    "wof:name":"Hyangmong-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.02389,
+    39.20167,
+    126.02389,
+    39.20167
+],
+  "geometry": {"coordinates":[126.02388999999999,39.20167],"type":"Point"}
+}

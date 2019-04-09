@@ -1,0 +1,72 @@
+{
+  "id": 1259986155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.16959,40.16569,128.16959,40.16569",
+    "geom:latitude":40.16569,
+    "geom:longitude":128.16959,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sohu-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040767,
+    "gn:latitude":40.16569,
+    "gn:longitude":128.16959,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sohu-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sok\u014dson",
+        "Sohu-ch\u2019on",
+        "\uc18c\ud6c4\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040767
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6bedff2b8ed73222ce72aa23b5d9c315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746889,
+            "locality_id":1259986155,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259986155,
+    "wof:lastmodified":1537655247,
+    "wof:name":"Sohu-ch'on",
+    "wof:parent_id":1108746889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.16959,
+    40.16569000000001,
+    128.16959,
+    40.16569000000001
+],
+  "geometry": {"coordinates":[128.16959,40.16569000000001],"type":"Point"}
+}

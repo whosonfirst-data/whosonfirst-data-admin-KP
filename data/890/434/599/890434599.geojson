@@ -1,0 +1,69 @@
+{
+  "id": 890434599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.46222,42.35778,130.46222,42.35778",
+    "geom:latitude":42.35778,
+    "geom:longitude":130.46222,
+    "gn:country":"KP",
+    "gn:fcode":"PPLL",
+    "gn:pop":8410,
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Ungsang-dong"
+    ],
+    "qs:name":"Ungsang-nodongjagu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676647,
+        1108747091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039557,
+        "gp:id":1093974,
+        "qs:id":137841
+    },
+    "wof:country":"KP",
+    "wof:created":1469052032,
+    "wof:geomhash":"a3b3a85fcecd88922996fb7c4ec819a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747091,
+            "locality_id":890434599,
+            "region_id":85676647
+        }
+    ],
+    "wof:id":890434599,
+    "wof:lastmodified":1505343542,
+    "wof:name":"Ungsang-nodongjagu",
+    "wof:parent_id":1108747091,
+    "wof:placetype":"locality",
+    "wof:population":8410,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.46222,
+    42.35778,
+    130.46222,
+    42.35778
+],
+  "geometry": {"coordinates":[130.46222,42.35778],"type":"Point"}
+}

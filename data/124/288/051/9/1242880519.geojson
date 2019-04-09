@@ -1,0 +1,70 @@
+{
+  "id": 1242880519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36056,39.64083,127.36056,39.64083",
+    "geom:latitude":39.64083,
+    "geom:longitude":127.36056,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"P'ungsong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932051,
+    "gn:latitude":39.64083,
+    "gn:longitude":127.36056,
+    "gn:modification_date":"2007-07-25",
+    "gn:name":"P\u2019ungs\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud48d\uc131\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932051
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"db0507cf3974d8d991641591a8b31f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747795,
+            "locality_id":1242880519,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1242880519,
+    "wof:lastmodified":1537655069,
+    "wof:name":"P'ungsong-ni",
+    "wof:parent_id":1108747795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36056,
+    39.64083,
+    127.36056,
+    39.64083
+],
+  "geometry": {"coordinates":[127.36056000000001,39.64083],"type":"Point"}
+}

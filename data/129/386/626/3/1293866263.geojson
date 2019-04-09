@@ -1,0 +1,79 @@
+{
+  "id": 1293866263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.37583,38.84333,125.37583,38.84333",
+    "geom:latitude":38.84333,
+    "geom:longitude":125.37583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kumhui-dong",
+    "gn:country_code":"KP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875357,
+    "gn:latitude":38.84333,
+    "gn:longitude":125.37583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u016dmh\u016di-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae08\ud76c\ub3d9",
+        "K\u016dmh\u016di-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747969,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875357
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4cb83d4bb6d39e37466d58c5b8438853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1293866263,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1293866263,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1293866263,
+    "wof:lastmodified":1537654625,
+    "wof:name":"Kumhui-dong",
+    "wof:parent_id":1108747969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.37583,
+    38.84333,
+    125.37583,
+    38.84333
+],
+  "geometry": {"coordinates":[125.37582999999999,38.84333],"type":"Point"}
+}

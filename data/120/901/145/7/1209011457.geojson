@@ -1,0 +1,67 @@
+{
+  "id": 1209011457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.57583,39.80694,127.57583,39.80694",
+    "geom:latitude":39.80694,
+    "geom:longitude":127.57583,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Honghung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890538,
+    "gn:latitude":39.80694,
+    "gn:longitude":127.57583,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Hongh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud64d\ud765\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Hongh\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890538
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3d6d62e2f0e402242ea2fb339bd7655d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209011457
+        }
+    ],
+    "wof:id":1209011457,
+    "wof:lastmodified":1537654956,
+    "wof:name":"Honghung-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.57583,
+    39.80694,
+    127.57583,
+    39.80694
+],
+  "geometry": {"coordinates":[127.57583,39.80694],"type":"Point"}
+}

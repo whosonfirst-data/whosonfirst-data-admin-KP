@@ -1,0 +1,71 @@
+{
+  "id": 1326610601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.73778,40.30417,124.73778,40.30417",
+    "geom:latitude":40.30417,
+    "geom:longitude":124.73778,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Habung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281553,
+    "gn:latitude":40.30417,
+    "gn:longitude":124.73778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Habung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud558\ubd81\ub9ac",
+        "Habung-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281553
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9972c0375077f6a79f74b2aa42492f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747105,
+            "locality_id":1326610601,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1326610601,
+    "wof:lastmodified":1537655737,
+    "wof:name":"Habung-ni",
+    "wof:parent_id":1108747105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.73778,
+    40.30417,
+    124.73778,
+    40.30417
+],
+  "geometry": {"coordinates":[124.73778,40.30417],"type":"Point"}
+}

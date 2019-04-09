@@ -1,0 +1,71 @@
+{
+  "id": 1276313563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.3075,40.53556,125.3075,40.53556",
+    "geom:latitude":40.53556,
+    "geom:longitude":125.3075,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Song-dong",
+    "gn:country_code":"KP",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282144,
+    "gn:latitude":40.53556,
+    "gn:longitude":125.3075,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Song-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\ub3d9",
+        "Song-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282144
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6f7a826409fa1552757c8612840861f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747945,
+            "locality_id":1276313563,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276313563,
+    "wof:lastmodified":1537655762,
+    "wof:name":"Song-dong",
+    "wof:parent_id":1108747945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.3075,
+    40.53556,
+    125.3075,
+    40.53556
+],
+  "geometry": {"coordinates":[125.3075,40.53556],"type":"Point"}
+}

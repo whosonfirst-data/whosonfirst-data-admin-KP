@@ -1,0 +1,74 @@
+{
+  "id": 1242566983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52667,38.35944,127.52667,38.35944",
+    "geom:latitude":38.35944,
+    "geom:longitude":127.52667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1875980",
+    "gn:asciiname":"Kundong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875266,
+    "gn:latitude":38.35944,
+    "gn:longitude":127.52667,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"K\u016dndong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uadfc\ub3d9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "K\u016dndong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875266
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"73581c809a5116eb8e15175b4ba2dfdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746967,
+            "locality_id":1242566983,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1242566983,
+    "wof:lastmodified":1537654619,
+    "wof:name":"Kundong-ni",
+    "wof:parent_id":1108746967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52667,
+    38.35944,
+    127.52667,
+    38.35944
+],
+  "geometry": {"coordinates":[127.52667,38.35944],"type":"Point"}
+}

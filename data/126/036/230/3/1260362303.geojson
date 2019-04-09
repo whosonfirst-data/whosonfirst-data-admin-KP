@@ -1,0 +1,67 @@
+{
+  "id": 1260362303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.82472,39.25778,125.82472,39.25778",
+    "geom:latitude":39.25778,
+    "geom:longitude":125.82472,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sinbae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889518,
+    "gn:latitude":39.25778,
+    "gn:longitude":125.82472,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Sinbae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889518
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7f0c4f14096730f1ff535a09ad283411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747949,
+            "locality_id":1260362303,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1260362303,
+    "wof:lastmodified":1536603295,
+    "wof:name":"Sinbae-dong",
+    "wof:parent_id":1108747949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.82472,
+    39.25778,
+    125.82472,
+    39.25778
+],
+  "geometry": {"coordinates":[125.82472,39.25778],"type":"Point"}
+}

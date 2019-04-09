@@ -1,0 +1,70 @@
+{
+  "id": 1309698201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.48306,38.32139,126.48306,38.32139",
+    "geom:latitude":38.32139,
+    "geom:longitude":126.48306,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Channamu-gol",
+    "gn:country_code":"KP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366297,
+    "gn:latitude":38.32139,
+    "gn:longitude":126.48306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Channamu-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a3\ub098\ubb34\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366297
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"be4335e5a99712d1c18b2a94c2e76544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747851,
+            "locality_id":1309698201,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1309698201,
+    "wof:lastmodified":1537655873,
+    "wof:name":"Channamu-gol",
+    "wof:parent_id":1108747851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.48306,
+    38.32139,
+    126.48306,
+    38.32139
+],
+  "geometry": {"coordinates":[126.48305999999999,38.32139],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209315853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.39342,40.15952,128.39342,40.15952",
+    "geom:latitude":40.15952,
+    "geom:longitude":128.39342,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yangch'onso-ri",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039345,
+    "gn:latitude":40.15952,
+    "gn:longitude":128.39342,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yangch\u2019\u014fns\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangch\u2019\u014fns\u014f-ri",
+        "\uc591\ucc9c\uc11c\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039345
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"64b191e01849cba422e80f55034446e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209315853
+        }
+    ],
+    "wof:id":1209315853,
+    "wof:lastmodified":1537655163,
+    "wof:name":"Yangch'onso-ri",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.39342,
+    40.15952,
+    128.39342,
+    40.15952
+],
+  "geometry": {"coordinates":[128.39341999999999,40.15952],"type":"Point"}
+}

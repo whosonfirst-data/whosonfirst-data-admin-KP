@@ -1,0 +1,67 @@
+{
+  "id": 1259468867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.69167,38.50111,125.69167,38.50111",
+    "geom:latitude":38.50111,
+    "geom:longitude":125.69167,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pangya",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926640,
+    "gn:latitude":38.50111,
+    "gn:longitude":125.69167,
+    "gn:modification_date":"2002-02-19",
+    "gn:name":"Pangya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926640
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a51be6e60b001ad9b72bc1ad2a5bd953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747117,
+            "locality_id":1259468867,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1259468867,
+    "wof:lastmodified":1536879003,
+    "wof:name":"Pangya",
+    "wof:parent_id":1108747117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.69167,
+    38.50111,
+    125.69167,
+    38.50111
+],
+  "geometry": {"coordinates":[125.69167,38.50111],"type":"Point"}
+}

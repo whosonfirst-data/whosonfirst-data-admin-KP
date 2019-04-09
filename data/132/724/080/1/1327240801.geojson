@@ -1,0 +1,72 @@
+{
+  "id": 1327240801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.67,40.41306,125.67,40.41306",
+    "geom:latitude":40.41306,
+    "geom:longitude":125.67,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chogul-li",
+    "gn:country_code":"KP",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044862,
+    "gn:latitude":40.41306,
+    "gn:longitude":125.67,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u014fg\u016dl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc801\uc740\ub9ac",
+        "Ch\u014fg\u016dnni",
+        "Ch\u014fg\u016dl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108748027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044862
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"486bafc173dfe75e6e9816c9209d69a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748027,
+            "locality_id":1327240801,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1327240801,
+    "wof:lastmodified":1537655481,
+    "wof:name":"Chogul-li",
+    "wof:parent_id":1108748027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.67,
+    40.41306,
+    125.67,
+    40.41306
+],
+  "geometry": {"coordinates":[125.67,40.41306],"type":"Point"}
+}

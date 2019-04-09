@@ -1,0 +1,71 @@
+{
+  "id": 1242741317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.38389,41.55833,129.38389,41.55833",
+    "geom:latitude":41.55833,
+    "geom:longitude":129.38389,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Twinolt'o",
+    "gn:country_code":"KP",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049917,
+    "gn:latitude":41.55833,
+    "gn:longitude":129.38389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Twinolt\u2019\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub4a4\ub180\ud130",
+        "Twinolt\u2019\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049917
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1a5ad823f27eb4a81602fafe36aa2850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747001,
+            "locality_id":1242741317,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1242741317,
+    "wof:lastmodified":1537655580,
+    "wof:name":"Twinolt'o",
+    "wof:parent_id":1108747001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.38388999999998,
+    41.55833,
+    129.38388999999998,
+    41.55833
+],
+  "geometry": {"coordinates":[129.38388999999998,41.55833],"type":"Point"}
+}

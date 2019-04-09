@@ -1,0 +1,73 @@
+{
+  "id": 1310711059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.73083,40.785,125.73083,40.785",
+    "geom:latitude":40.785,
+    "geom:longitude":125.73083,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chich'onsang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044980,
+    "gn:latitude":40.785,
+    "gn:longitude":125.73083,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chich\u2019\u014fnsang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\ucc9c\uc0c1\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Chich\u2019\u014fnsang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044980
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9adcf7511ba687c062e9a2f66b647b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747741,
+            "locality_id":1310711059,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1310711059,
+    "wof:lastmodified":1537655488,
+    "wof:name":"Chich'onsang-dong",
+    "wof:parent_id":1108747741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.73083,
+    40.785,
+    125.73083,
+    40.785
+],
+  "geometry": {"coordinates":[125.73083,40.785],"type":"Point"}
+}

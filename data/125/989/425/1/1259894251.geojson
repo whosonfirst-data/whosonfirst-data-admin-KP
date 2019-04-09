@@ -1,0 +1,73 @@
+{
+  "id": 1259894251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53333,39.63333,126.53333,39.63333",
+    "geom:latitude":39.63333,
+    "geom:longitude":126.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"P'yongji-ri",
+    "gn:country_code":"KP",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871913,
+    "gn:latitude":39.63333,
+    "gn:longitude":126.53333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"P\u2019y\u014fngji-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\uc9c0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "P\u2019y\u014fngji-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871913
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e9b6abed9447b3208554449a1210bd92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747005,
+            "locality_id":1259894251,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1259894251,
+    "wof:lastmodified":1537654457,
+    "wof:name":"P'yongji-ri",
+    "wof:parent_id":1108747005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53333,
+    39.63333,
+    126.53333,
+    39.63333
+],
+  "geometry": {"coordinates":[126.53333000000001,39.63333],"type":"Point"}
+}

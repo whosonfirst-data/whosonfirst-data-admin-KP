@@ -1,0 +1,71 @@
+{
+  "id": 1276556995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53556,40.80917,126.53556,40.80917",
+    "geom:latitude":40.80917,
+    "geom:longitude":126.53556,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sahach'am",
+    "gn:country_code":"KP",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282563,
+    "gn:latitude":40.80917,
+    "gn:longitude":126.53556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sahach\u2019am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0ac\ud558\ucc38",
+        "Sahach\u2019am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108748019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282563
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a67544386fa3ee7212adbfcf80626b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748019,
+            "locality_id":1276556995,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1276556995,
+    "wof:lastmodified":1537655778,
+    "wof:name":"Sahach'am",
+    "wof:parent_id":1108748019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53556,
+    40.80917,
+    126.53556,
+    40.80917
+],
+  "geometry": {"coordinates":[126.53556,40.80917],"type":"Point"}
+}

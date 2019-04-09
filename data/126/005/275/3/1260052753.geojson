@@ -1,0 +1,67 @@
+{
+  "id": 1260052753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.61083,39.15667,125.61083,39.15667",
+    "geom:latitude":39.15667,
+    "geom:longitude":125.61083,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Naengjong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6270012,
+    "gn:latitude":39.15667,
+    "gn:longitude":125.61083,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Naengj\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6270012
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e820d3231502b2e15f52decc7c654874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748039,
+            "locality_id":1260052753,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1260052753,
+    "wof:lastmodified":1537031062,
+    "wof:name":"Naengjong-dong",
+    "wof:parent_id":1108748039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.61083,
+    39.15667,
+    125.61083,
+    39.15667
+],
+  "geometry": {"coordinates":[125.61083000000001,39.15667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243461433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.42917,39.47111,127.42917,39.47111",
+    "geom:latitude":39.47111,
+    "geom:longitude":127.42917,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"K\u016dmya-gun",
+    "gn:asciiname":"Yongsal-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866139,
+    "gn:latitude":39.47111,
+    "gn:longitude":127.42917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongsal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yongsan-ni",
+        "Yongsang-ni",
+        "Yongsal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866139
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"863ebff1d8a09c6284cf20779a34e30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1243461433,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243461433,
+    "wof:lastmodified":1537654168,
+    "wof:name":"Yongsal-li",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.42917,
+    39.47111,
+    127.42917,
+    39.47111
+],
+  "geometry": {"coordinates":[127.42917,39.47111],"type":"Point"}
+}

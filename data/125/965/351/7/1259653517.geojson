@@ -1,0 +1,68 @@
+{
+  "id": 1259653517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.42083,39.91278,126.42083,39.91278",
+    "geom:latitude":39.91278,
+    "geom:longitude":126.42083,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"Y\u014fngw\u014fn-gun",
+    "gn:asciiname":"Taehyon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892429,
+    "gn:latitude":39.91278,
+    "gn:longitude":126.42083,
+    "gn:modification_date":"2000-06-07",
+    "gn:name":"Taehy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892429
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"420e1ea8d9b6c94ecfb9a8140dff4a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747025,
+            "locality_id":1259653517,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1259653517,
+    "wof:lastmodified":1536611386,
+    "wof:name":"Taehyon-dong",
+    "wof:parent_id":1108747025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.42083,
+    39.91278,
+    126.42083,
+    39.91278
+],
+  "geometry": {"coordinates":[126.42083,39.91278],"type":"Point"}
+}

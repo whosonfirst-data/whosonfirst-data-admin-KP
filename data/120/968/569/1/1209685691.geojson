@@ -1,0 +1,64 @@
+{
+  "id": 1209685691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.60389,38.71611,125.60389,38.71611",
+    "geom:latitude":38.71611,
+    "geom:longitude":125.60389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tanghwa-dong",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868431,
+    "gn:latitude":38.71611,
+    "gn:longitude":125.60389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tanghwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\ud654\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868431
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f32d3b9fe59c1ab8c39403a84af0e2fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209685691
+        }
+    ],
+    "wof:id":1209685691,
+    "wof:lastmodified":1537654283,
+    "wof:name":"Tanghwa-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.60389,
+    38.71611,
+    125.60389,
+    38.71611
+],
+  "geometry": {"coordinates":[125.60389000000001,38.71611],"type":"Point"}
+}

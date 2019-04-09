@@ -1,0 +1,79 @@
+{
+  "id": 1343835613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.33889,39.59944,125.33889,39.59944",
+    "geom:latitude":39.59944,
+    "geom:longitude":125.33889,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Worun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866861,
+    "gn:latitude":39.59944,
+    "gn:longitude":125.33889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u014frun-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\ud6c8\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "W\u014frun-dong"
+    ],
+    "name:und_x_variant":[
+        "Ketsuundo",
+        "W\u014frhun-dong",
+        "Getsuun-d\u014d",
+        "Getuundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866861
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a2d0fdbe5e48e0c4d775f396fa61f72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747213,
+            "locality_id":1343835613,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1343835613,
+    "wof:lastmodified":1537654202,
+    "wof:name":"Worun-dong",
+    "wof:parent_id":1108747213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.33889,
+    39.59944,
+    125.33889,
+    39.59944
+],
+  "geometry": {"coordinates":[125.33889000000001,39.59944],"type":"Point"}
+}

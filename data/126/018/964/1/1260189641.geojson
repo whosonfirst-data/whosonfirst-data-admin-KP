@@ -1,0 +1,71 @@
+{
+  "id": 1260189641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.41833,39.89111,127.41833,39.89111",
+    "geom:latitude":39.89111,
+    "geom:longitude":127.41833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Undong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867362,
+    "gn:latitude":39.89111,
+    "gn:longitude":127.41833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Undong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6b4\ub3d9\ub9ac",
+        "Undong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867362
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b2c387af0376e88708799f77076c1daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747747,
+            "locality_id":1260189641,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1260189641,
+    "wof:lastmodified":1537654228,
+    "wof:name":"Undong-ni",
+    "wof:parent_id":1108747747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.41833,
+    39.89111,
+    127.41833,
+    39.89111
+],
+  "geometry": {"coordinates":[127.41833,39.89111],"type":"Point"}
+}

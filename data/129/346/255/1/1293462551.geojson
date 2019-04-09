@@ -1,0 +1,68 @@
+{
+  "id": 1293462551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58833,39.38139,125.58833,39.38139",
+    "geom:latitude":39.38139,
+    "geom:longitude":125.58833,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1869039",
+    "gn:asciiname":"Chaejong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950860,
+    "gn:latitude":39.38139,
+    "gn:longitude":125.58833,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Chaej\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950860
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ab79aa4384aea79695e2b538429772db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748033,
+            "locality_id":1293462551,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1293462551,
+    "wof:lastmodified":1536822290,
+    "wof:name":"Chaejong-ni",
+    "wof:parent_id":1108748033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58833,
+    39.38139,
+    125.58833,
+    39.38139
+],
+  "geometry": {"coordinates":[125.58833,39.38139],"type":"Point"}
+}

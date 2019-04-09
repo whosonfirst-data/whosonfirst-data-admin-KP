@@ -1,0 +1,70 @@
+{
+  "id": 1293671487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.18944,39.37333,126.18944,39.37333",
+    "geom:latitude":39.37333,
+    "geom:longitude":126.18944,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Wadunji",
+    "gn:country_code":"KP",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889952,
+    "gn:latitude":39.37333,
+    "gn:longitude":126.18944,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Wadunji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc640\ub454\uc9c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889952
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4c5303a91cebbcdcf4f2902fa5079004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748091,
+            "locality_id":1293671487,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1293671487,
+    "wof:lastmodified":1537654940,
+    "wof:name":"Wadunji",
+    "wof:parent_id":1108748091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.18944,
+    39.37333,
+    126.18944,
+    39.37333
+],
+  "geometry": {"coordinates":[126.18944,39.37333],"type":"Point"}
+}

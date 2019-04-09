@@ -1,0 +1,71 @@
+{
+  "id": 1259976673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.99611,38.65139,124.99611,38.65139",
+    "geom:latitude":38.65139,
+    "geom:longitude":124.99611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chosa-dong",
+    "gn:country_code":"KP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878159,
+    "gn:latitude":38.65139,
+    "gn:longitude":124.99611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chosa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc870\uc0ac\ub3d9",
+        "Chosa-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878159
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"40e68d18fbb0f8ce05ebc4eea4af0bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747219,
+            "locality_id":1259976673,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259976673,
+    "wof:lastmodified":1537654785,
+    "wof:name":"Chosa-dong",
+    "wof:parent_id":1108747219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.99611000000002,
+    38.65139,
+    124.99611000000002,
+    38.65139
+],
+  "geometry": {"coordinates":[124.99611000000002,38.65139],"type":"Point"}
+}

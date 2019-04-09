@@ -1,0 +1,73 @@
+{
+  "id": 1276627625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.485,39.38806,126.485,39.38806",
+    "geom:latitude":39.38806,
+    "geom:longitude":126.485,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ch'inmal",
+    "gn:country_code":"KP",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889603,
+    "gn:latitude":39.38806,
+    "gn:longitude":126.485,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019inmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uce6b\ub9d0"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u2019inmal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889603
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d89438074564868a893d8c762f0ae010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747141,
+            "locality_id":1276627625,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1276627625,
+    "wof:lastmodified":1537654933,
+    "wof:name":"Ch'inmal",
+    "wof:parent_id":1108747141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.485,
+    39.38806,
+    126.485,
+    39.38806
+],
+  "geometry": {"coordinates":[126.485,39.38806],"type":"Point"}
+}

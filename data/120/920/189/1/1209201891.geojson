@@ -1,0 +1,64 @@
+{
+  "id": 1209201891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.25889,39.55111,125.25889,39.55111",
+    "geom:latitude":39.55111,
+    "geom:longitude":125.25889,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yongamjin",
+    "gn:country_code":"KP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947306,
+    "gn:latitude":39.55111,
+    "gn:longitude":125.25889,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yongamjin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc554\uc9c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947306
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ef755d64e515f54ab17e698b6b867537",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209201891
+        }
+    ],
+    "wof:id":1209201891,
+    "wof:lastmodified":1537655089,
+    "wof:name":"Yongamjin",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.25889,
+    39.55111,
+    125.25889,
+    39.55111
+],
+  "geometry": {"coordinates":[125.25888999999999,39.55111],"type":"Point"}
+}

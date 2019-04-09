@@ -1,0 +1,61 @@
+{
+  "id": 1209184055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.08667,39.32056,126.08667,39.32056",
+    "geom:latitude":39.32056,
+    "geom:longitude":126.08667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sungbang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1929251,
+    "gn:latitude":39.32056,
+    "gn:longitude":126.08667,
+    "gn:modification_date":"2002-07-09",
+    "gn:name":"S\u016dngbang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1929251
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"319f41946c84afb65181c7c7e8f648ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209184055
+        }
+    ],
+    "wof:id":1209184055,
+    "wof:lastmodified":1536295162,
+    "wof:name":"Sungbang-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.08667,
+    39.32056,
+    126.08667,
+    39.32056
+],
+  "geometry": {"coordinates":[126.08667,39.32056],"type":"Point"}
+}

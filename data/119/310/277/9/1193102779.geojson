@@ -1,0 +1,72 @@
+{
+  "id": 1193102779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.32667,42.24167,130.32667,42.24167",
+    "geom:latitude":42.24167,
+    "geom:longitude":130.32667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kanui-dong",
+    "gn:country_code":"KP",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305496,
+    "gn:latitude":42.24167,
+    "gn:longitude":130.32667,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Kan\u016di-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac04\uc758\ub3d9",
+        "Kan\u016di-dong",
+        "Ganuidong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676647,
+        1108747091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305496
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"90edfcd5e03d64fc3c34fd407eba0cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747091,
+            "locality_id":1193102779,
+            "region_id":85676647
+        }
+    ],
+    "wof:id":1193102779,
+    "wof:lastmodified":1537655836,
+    "wof:name":"Kanui-dong",
+    "wof:parent_id":1108747091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.32667,
+    42.24167,
+    130.32667,
+    42.24167
+],
+  "geometry": {"coordinates":[130.32667000000001,42.24167],"type":"Point"}
+}

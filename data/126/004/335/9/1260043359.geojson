@@ -1,0 +1,72 @@
+{
+  "id": 1260043359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.35,40.82167,129.35,40.82167",
+    "geom:latitude":40.82167,
+    "geom:longitude":129.35,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sijon-gol",
+    "gn:country_code":"KP",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041140,
+    "gn:latitude":40.82167,
+    "gn:longitude":129.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sij\u014fn-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sij\u014fn-dong",
+        "\uc2dc\uc804\uace8",
+        "Sij\u014fn-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041140
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6caf8286517c6352d0de75b026178bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747763,
+            "locality_id":1260043359,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1260043359,
+    "wof:lastmodified":1537655268,
+    "wof:name":"Sijon-gol",
+    "wof:parent_id":1108747763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.35,
+    40.82167000000001,
+    129.35,
+    40.82167000000001
+],
+  "geometry": {"coordinates":[129.34999999999999,40.82167000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276999453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.25,38.86667,126.25,38.86667",
+    "geom:latitude":38.86667,
+    "geom:longitude":126.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yul-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1865862,
+    "gn:latitude":38.86667,
+    "gn:longitude":126.25,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Yul-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc724\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ritsu-ri",
+        "Yul-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1865862
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"157e4e57592f4954529884d07d2cd676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748111,
+            "locality_id":1276999453,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276999453,
+    "wof:lastmodified":1537654152,
+    "wof:name":"Yul-li",
+    "wof:parent_id":1108748111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.25,
+    38.86667,
+    126.25,
+    38.86667
+],
+  "geometry": {"coordinates":[126.25,38.86667],"type":"Point"}
+}

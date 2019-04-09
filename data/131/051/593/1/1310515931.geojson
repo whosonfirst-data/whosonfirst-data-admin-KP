@@ -1,0 +1,73 @@
+{
+  "id": 1310515931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.05,40.48333,128.05,40.48333",
+    "geom:latitude":40.48333,
+    "geom:longitude":128.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Changmyong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2045113,
+    "gn:latitude":40.48333,
+    "gn:longitude":128.05,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Changmy\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\uba85\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Changmy\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2045113
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"71add92ee3f54c5827369056b32a614e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747193,
+            "locality_id":1310515931,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1310515931,
+    "wof:lastmodified":1537655496,
+    "wof:name":"Changmyong-dong",
+    "wof:parent_id":1108747193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.05,
+    40.48333,
+    128.05,
+    40.48333
+],
+  "geometry": {"coordinates":[128.05000000000001,40.48333],"type":"Point"}
+}

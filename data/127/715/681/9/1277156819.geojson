@@ -1,0 +1,72 @@
+{
+  "id": 1277156819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.91889,38.84944,125.91889,38.84944",
+    "geom:latitude":38.84944,
+    "geom:longitude":125.91889,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chiso-gol",
+    "gn:country_code":"KP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878748,
+    "gn:latitude":38.84944,
+    "gn:longitude":125.91889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chiso-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiso-dong",
+        "\uc9c0\uc18c\uace8",
+        "Chiso-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878748
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d2bb0fa4d4845c7de2544c9234133e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1277156819,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1277156819,
+    "wof:lastmodified":1537654816,
+    "wof:name":"Chiso-gol",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.91889,
+    38.84944,
+    125.91889,
+    38.84944
+],
+  "geometry": {"coordinates":[125.91889,38.84944],"type":"Point"}
+}

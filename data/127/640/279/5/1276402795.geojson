@@ -1,0 +1,71 @@
+{
+  "id": 1276402795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.51972,41.64083,129.51972,41.64083",
+    "geom:latitude":41.64083,
+    "geom:longitude":129.51972,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yondaedok",
+    "gn:country_code":"KP",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039219,
+    "gn:latitude":41.64083,
+    "gn:longitude":129.51972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u014fndaed\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc5f0\ub300\ub355",
+        "Y\u014fndaed\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039219
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7101d487b10912355e1526e6f5bc1b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747001,
+            "locality_id":1276402795,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1276402795,
+    "wof:lastmodified":1537655157,
+    "wof:name":"Yondaedok",
+    "wof:parent_id":1108747001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.51972,
+    41.64083,
+    129.51972,
+    41.64083
+],
+  "geometry": {"coordinates":[129.51972000000001,41.64083],"type":"Point"}
+}

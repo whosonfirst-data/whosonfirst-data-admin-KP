@@ -1,0 +1,67 @@
+{
+  "id": 1243285633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.3675,37.95611,125.3675,37.95611",
+    "geom:latitude":37.95611,
+    "geom:longitude":125.3675,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ongjil-lodongjagu",
+    "gn:country_code":"KP",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6369627,
+    "gn:latitude":37.95611,
+    "gn:longitude":125.3675,
+    "gn:modification_date":"2007-03-19",
+    "gn:name":"Ongjil-lodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6369627
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e02b8731177ba7a18c8898e96489c6c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1243285633,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243285633,
+    "wof:lastmodified":1537035870,
+    "wof:name":"Ongjil-lodongjagu",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.3675,
+    37.95611,
+    125.3675,
+    37.95611
+],
+  "geometry": {"coordinates":[125.36750000000001,37.95611],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309993165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.12056,39.66583,125.12056,39.66583",
+    "geom:latitude":39.66583,
+    "geom:longitude":125.12056,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hoch'ol-li",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947313,
+    "gn:latitude":39.66583,
+    "gn:longitude":125.12056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hoch\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud638\ucc9c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Hoch\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947313
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8c9b921c385281a5681a1dd2bb758c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1309993165,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1309993165,
+    "wof:lastmodified":1537655090,
+    "wof:name":"Hoch'ol-li",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.12056,
+    39.66583,
+    125.12056,
+    39.66583
+],
+  "geometry": {"coordinates":[125.12056,39.66583],"type":"Point"}
+}

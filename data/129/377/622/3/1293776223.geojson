@@ -1,0 +1,72 @@
+{
+  "id": 1293776223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.95944,38.06778,125.95944,38.06778",
+    "geom:latitude":38.06778,
+    "geom:longitude":125.95944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taesong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868604,
+    "gn:latitude":38.06778,
+    "gn:longitude":125.95944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taes\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daij\u014d",
+        "Taes\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868604
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"424b14e7a065b902253da64545c642e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1293776223,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293776223,
+    "wof:lastmodified":1537654291,
+    "wof:name":"Taesong",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.95944,
+    38.06778,
+    125.95944,
+    38.06778
+],
+  "geometry": {"coordinates":[125.95944,38.06778],"type":"Point"}
+}

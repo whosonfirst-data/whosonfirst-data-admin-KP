@@ -1,0 +1,72 @@
+{
+  "id": 1243164261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17639,37.99639,125.17639,37.99639",
+    "geom:latitude":37.99639,
+    "geom:longitude":125.17639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Konae",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875715,
+    "gn:latitude":37.99639,
+    "gn:longitude":125.17639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Konae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koch\u2019\u014fn",
+        "\uace0\ub0b4",
+        "Konae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875715
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a4c96a6375d781341b71b7fdc35f420d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1243164261,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243164261,
+    "wof:lastmodified":1537654644,
+    "wof:name":"Konae",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17638999999998,
+    37.99639000000001,
+    125.17638999999998,
+    37.99639000000001
+],
+  "geometry": {"coordinates":[125.17638999999998,37.99639000000001],"type":"Point"}
+}

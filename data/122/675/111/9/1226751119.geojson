@@ -1,0 +1,71 @@
+{
+  "id": 1226751119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.74361,40.55306,125.74361,40.55306",
+    "geom:latitude":40.55306,
+    "geom:longitude":125.74361,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Songmoe",
+    "gn:country_code":"KP",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282388,
+    "gn:latitude":40.55306,
+    "gn:longitude":125.74361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fngmoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc131\ubafc",
+        "S\u014fngmoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282388
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"57fb4e987ade499ebf7fcd0680a96a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1226751119,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1226751119,
+    "wof:lastmodified":1537655772,
+    "wof:name":"Songmoe",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.74361,
+    40.55306,
+    125.74361,
+    40.55306
+],
+  "geometry": {"coordinates":[125.74361,40.55306],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226049587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35417,39.47917,127.35417,39.47917",
+    "geom:latitude":39.47917,
+    "geom:longitude":127.35417,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"K\u016dmya-gun",
+    "gn:asciiname":"Paut'o-ri",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952639,
+    "gn:latitude":39.47917,
+    "gn:longitude":127.35417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Paut\u2019\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paut\u2019\u014f-ri",
+        "\ubc14\uc6b0\ud130\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952639
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bceb0b7d30258f06c886bab8ae973968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1226049587,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1226049587,
+    "wof:lastmodified":1537655114,
+    "wof:name":"Paut'o-ri",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35417,
+    39.47917,
+    127.35417,
+    39.47917
+],
+  "geometry": {"coordinates":[127.35417,39.47917],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293862899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.25667,41.03139,128.25667,41.03139",
+    "geom:latitude":41.03139,
+    "geom:longitude":128.25667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tongch'ol-li",
+    "gn:country_code":"KP",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039782,
+    "gn:latitude":41.03139,
+    "gn:longitude":128.25667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tongch\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\ucc9c\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Tongjo-ri",
+        "Tongch\u2019\u014fn-ni",
+        "Tongch\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039782
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c0eb893472df6646d94c7d2ce68f32a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746953,
+            "locality_id":1293862899,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1293862899,
+    "wof:lastmodified":1537655188,
+    "wof:name":"Tongch'ol-li",
+    "wof:parent_id":1108746953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.25667,
+    41.03139,
+    128.25667,
+    41.03139
+],
+  "geometry": {"coordinates":[128.25667000000001,41.03139],"type":"Point"}
+}

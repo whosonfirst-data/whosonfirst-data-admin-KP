@@ -1,0 +1,71 @@
+{
+  "id": 1225931155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.48083,40.25139,125.48083,40.25139",
+    "geom:latitude":40.25139,
+    "geom:longitude":125.48083,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Imong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282252,
+    "gn:latitude":40.25139,
+    "gn:longitude":125.48083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Imong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc774\ubaa9\ub9ac",
+        "Imong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282252
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2a3358646c1bb59f6b7181c52cfddb09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747195,
+            "locality_id":1225931155,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1225931155,
+    "wof:lastmodified":1537655766,
+    "wof:name":"Imong-ni",
+    "wof:parent_id":1108747195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48083,
+    40.25139,
+    125.48083,
+    40.25139
+],
+  "geometry": {"coordinates":[125.48083,40.25139],"type":"Point"}
+}

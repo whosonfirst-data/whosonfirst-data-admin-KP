@@ -1,0 +1,75 @@
+{
+  "id": 1226157397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.79051,40.32938,124.79051,40.32938",
+    "geom:latitude":40.32938,
+    "geom:longitude":124.79051,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ch'on'gamdongmaktae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044788,
+    "gn:latitude":40.32938,
+    "gn:longitude":124.79051,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ch\u2019\u014fn\u2019gamdongmaktae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc9c\uac10\ub3d9\ub9c9\ub300\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019\u014fn\u2019gam-dong",
+        "Ch\u2019\u014fn\u2019gam-ni",
+        "Ch\u2019\u014fn\u2019gamdongmaktae-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044788
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7fa28469ac0d57c1031516bae619f514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747105,
+            "locality_id":1226157397,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1226157397,
+    "wof:lastmodified":1537655478,
+    "wof:name":"Ch'on'gamdongmaktae-ri",
+    "wof:parent_id":1108747105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.79051,
+    40.32938,
+    124.79051,
+    40.32938
+],
+  "geometry": {"coordinates":[124.79051,40.32938],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360099421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.68333,38.01667,125.68333,38.01667",
+    "geom:latitude":38.01667,
+    "geom:longitude":125.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yongdang-ni",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866408,
+    "gn:latitude":38.01667,
+    "gn:longitude":125.68333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Yongdang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ub2f9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Yongdang-dong",
+        "Yongdang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866408
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b6c846965d0d64229d5806c29719ecaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1360099421,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360099421,
+    "wof:lastmodified":1537654181,
+    "wof:name":"Yongdang-ni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.68333,
+    38.01667,
+    125.68333,
+    38.01667
+],
+  "geometry": {"coordinates":[125.68333,38.01667],"type":"Point"}
+}

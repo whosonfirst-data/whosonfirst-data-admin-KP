@@ -1,0 +1,70 @@
+{
+  "id": 1243560965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79222,39.48278,126.79222,39.48278",
+    "geom:latitude":39.48278,
+    "geom:longitude":126.79222,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chungganjae",
+    "gn:country_code":"KP",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6275711,
+    "gn:latitude":39.48278,
+    "gn:longitude":126.79222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chungganjae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc911\uac04\uc7ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6275711
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"67d2ed0660cec5e841d519cb5598e926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748103,
+            "locality_id":1243560965,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243560965,
+    "wof:lastmodified":1537655705,
+    "wof:name":"Chungganjae",
+    "wof:parent_id":1108748103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79222,
+    39.48278,
+    126.79222,
+    39.48278
+],
+  "geometry": {"coordinates":[126.79222,39.48278],"type":"Point"}
+}

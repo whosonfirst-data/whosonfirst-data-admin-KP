@@ -1,0 +1,72 @@
+{
+  "id": 1226505883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.65861,41.65083,129.65861,41.65083",
+    "geom:latitude":41.65083,
+    "geom:longitude":129.65861,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hansang-gol",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044205,
+    "gn:latitude":41.65083,
+    "gn:longitude":129.65861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hansang-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hansanggok",
+        "\ud55c\uc0c1\uace8",
+        "Hansang-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044205
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9bb1d05cd02117ddc4e9e40069e51178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747001,
+            "locality_id":1226505883,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1226505883,
+    "wof:lastmodified":1537655443,
+    "wof:name":"Hansang-gol",
+    "wof:parent_id":1108747001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.65861,
+    41.65083,
+    129.65861,
+    41.65083
+],
+  "geometry": {"coordinates":[129.65861000000001,41.65083],"type":"Point"}
+}

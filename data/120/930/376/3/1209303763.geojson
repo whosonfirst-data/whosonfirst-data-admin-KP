@@ -1,0 +1,66 @@
+{
+  "id": 1209303763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.71694,38.52861,127.71694,38.52861",
+    "geom:latitude":38.52861,
+    "geom:longitude":127.71694,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sanggisong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882377,
+    "gn:latitude":38.52861,
+    "gn:longitude":127.71694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sanggis\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangkis\u014fng-ni",
+        "\uc0c1\uae30\uc131\ub9ac",
+        "Sanggis\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882377
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4b8beee8e9fc1f9d27b31b73a6f692ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209303763
+        }
+    ],
+    "wof:id":1209303763,
+    "wof:lastmodified":1537654876,
+    "wof:name":"Sanggisong-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.71694,
+    38.52861,
+    127.71694,
+    38.52861
+],
+  "geometry": {"coordinates":[127.71693999999999,38.52861],"type":"Point"}
+}

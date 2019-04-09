@@ -1,0 +1,73 @@
+{
+  "id": 1259976657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.13667,38.50028,125.13667,38.50028",
+    "geom:latitude":38.50028,
+    "geom:longitude":125.13667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kongch'on",
+    "gn:country_code":"KP",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875706,
+    "gn:latitude":38.50028,
+    "gn:longitude":125.13667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kongch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uacf5\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Kongch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875706
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"84ba235b0fdd18979231550af28375d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747219,
+            "locality_id":1259976657,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259976657,
+    "wof:lastmodified":1537654643,
+    "wof:name":"Kongch'on",
+    "wof:parent_id":1108747219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.13667,
+    38.50028,
+    125.13667,
+    38.50028
+],
+  "geometry": {"coordinates":[125.13667,38.50028],"type":"Point"}
+}

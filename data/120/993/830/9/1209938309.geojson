@@ -1,0 +1,71 @@
+{
+  "id": 1209938309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.10111,38.53194,125.10111,38.53194",
+    "geom:latitude":38.53194,
+    "geom:longitude":125.10111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chungunsong",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877772,
+    "gn:latitude":38.53194,
+    "gn:longitude":125.10111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chunguns\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\uc6b4\uc131",
+        "Chunguns\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877772
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a9812a24168a2a39fa8130b5e4abab26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747219,
+            "locality_id":1209938309,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1209938309,
+    "wof:lastmodified":1537654761,
+    "wof:name":"Chungunsong",
+    "wof:parent_id":1108747219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.10111,
+    38.53194000000001,
+    125.10111,
+    38.53194000000001
+],
+  "geometry": {"coordinates":[125.10111000000001,38.53194000000001],"type":"Point"}
+}

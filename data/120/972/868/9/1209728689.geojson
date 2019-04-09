@@ -1,0 +1,72 @@
+{
+  "id": 1209728689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.83611,41.42528,126.83611,41.42528",
+    "geom:latitude":41.42528,
+    "geom:longitude":126.83611,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tolchagap",
+    "gn:country_code":"KP",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049449,
+    "gn:latitude":41.42528,
+    "gn:longitude":126.83611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tolchagap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3cc\uc790\uac11",
+        "Toljagap",
+        "Tolchagap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049449
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d90c554e9e97b92b7750dae0576165c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746919,
+            "locality_id":1209728689,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1209728689,
+    "wof:lastmodified":1537655559,
+    "wof:name":"Tolchagap",
+    "wof:parent_id":1108746919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.83611,
+    41.42528,
+    126.83611,
+    41.42528
+],
+  "geometry": {"coordinates":[126.83611000000001,41.42528],"type":"Point"}
+}

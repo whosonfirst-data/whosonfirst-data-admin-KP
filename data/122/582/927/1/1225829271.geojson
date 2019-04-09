@@ -1,0 +1,70 @@
+{
+  "id": 1225829271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4622,39.09753,127.4622,39.09753",
+    "geom:latitude":39.09753,
+    "geom:longitude":127.4622,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Paeyang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872838,
+    "gn:latitude":39.09753,
+    "gn:longitude":127.4622,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paeyang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc30\uc591\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872838
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3bf5adc0d45f5437ea219c6429d83820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746845,
+            "locality_id":1225829271,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1225829271,
+    "wof:lastmodified":1537654503,
+    "wof:name":"Paeyang-ni",
+    "wof:parent_id":1108746845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4622,
+    39.09753,
+    127.4622,
+    39.09753
+],
+  "geometry": {"coordinates":[127.4622,39.09753],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259790575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32188,40.07468,128.32188,40.07468",
+    "geom:latitude":40.07468,
+    "geom:longitude":128.32188,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kangsang-nodongjagu",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043556,
+    "gn:latitude":40.07468,
+    "gn:longitude":128.32188,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kangsang-nodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangsang-ni",
+        "Kangsang-nodongjagu",
+        "\uac15\uc0c1\ub85c\ub3d9\uc790\uad6c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043556
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"128b637cb56d671c92422eca006e2214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748003,
+            "locality_id":1259790575,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259790575,
+    "wof:lastmodified":1537655407,
+    "wof:name":"Kangsang-nodongjagu",
+    "wof:parent_id":1108748003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32188,
+    40.07468,
+    128.32188,
+    40.07468
+],
+  "geometry": {"coordinates":[128.32187999999999,40.07468],"type":"Point"}
+}

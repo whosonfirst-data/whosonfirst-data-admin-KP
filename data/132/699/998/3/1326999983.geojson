@@ -1,0 +1,82 @@
+{
+  "id": 1326999983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.41667,38.75,125.41667,38.75",
+    "geom:latitude":38.75,
+    "geom:longitude":125.41667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sangdaedu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868797,
+    "gn:latitude":38.75,
+    "gn:longitude":125.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangdaedu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c1\ub300\ub450\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Taedu-ri",
+        "Sangdaedu-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747021,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868797
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a054575450bddb70afbeba91858c88ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":1326999983,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":1326999983,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1326999983,
+    "wof:lastmodified":1537654301,
+    "wof:name":"Sangdaedu-dong",
+    "wof:parent_id":1108747021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.41667,
+    38.75,
+    125.41667,
+    38.75
+],
+  "geometry": {"coordinates":[125.41667,38.75],"type":"Point"}
+}

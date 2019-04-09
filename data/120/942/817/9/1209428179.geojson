@@ -1,0 +1,65 @@
+{
+  "id": 1209428179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.14056,41.035,127.14056,41.035",
+    "geom:latitude":41.035,
+    "geom:longitude":127.14056,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Soksa-ri",
+    "gn:country_code":"KP",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040715,
+    "gn:latitude":41.035,
+    "gn:longitude":127.14056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Soksa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc18d\uc0ac\ub9ac",
+        "Soksa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040715
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3ed79c951fd5b4c0076cc64759074428",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209428179
+        }
+    ],
+    "wof:id":1209428179,
+    "wof:lastmodified":1537655243,
+    "wof:name":"Soksa-ri",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.14056,
+    41.035,
+    127.14056,
+    41.035
+],
+  "geometry": {"coordinates":[127.14055999999999,41.035],"type":"Point"}
+}

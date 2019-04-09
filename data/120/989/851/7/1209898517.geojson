@@ -1,0 +1,68 @@
+{
+  "id": 1209898517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.62694,39.42556,125.62694,39.42556",
+    "geom:latitude":39.42556,
+    "geom:longitude":125.62694,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1869039",
+    "gn:asciiname":"Tangsan",
+    "gn:country_code":"KP",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950885,
+    "gn:latitude":39.42556,
+    "gn:longitude":125.62694,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Tangsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950885
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b32e403b59e7a91ef3fed6f99854f535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748033,
+            "locality_id":1209898517,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1209898517,
+    "wof:lastmodified":1536387512,
+    "wof:name":"Tangsan",
+    "wof:parent_id":1108748033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.62694,
+    39.42556,
+    125.62694,
+    39.42556
+],
+  "geometry": {"coordinates":[125.62694,39.42556],"type":"Point"}
+}

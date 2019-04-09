@@ -1,0 +1,70 @@
+{
+  "id": 1193013101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.94778,38.09917,124.94778,38.09917",
+    "geom:latitude":38.09917,
+    "geom:longitude":124.94778,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874360,
+    "gn:latitude":38.09917,
+    "gn:longitude":124.94778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mok-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubaa9\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874360
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"09fc21e3b7283fd486ac23c2c61948dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747967,
+            "locality_id":1193013101,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1193013101,
+    "wof:lastmodified":1537654573,
+    "wof:name":"Mok-tong",
+    "wof:parent_id":1108747967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.94778,
+    38.09917,
+    124.94778,
+    38.09917
+],
+  "geometry": {"coordinates":[124.94777999999999,38.09917],"type":"Point"}
+}

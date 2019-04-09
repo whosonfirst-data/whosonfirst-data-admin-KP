@@ -1,0 +1,73 @@
+{
+  "id": 1326615973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58722,38.6425,126.58722,38.6425",
+    "geom:latitude":38.6425,
+    "geom:longitude":126.58722,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Padap'ogae",
+    "gn:country_code":"KP",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891491,
+    "gn:latitude":38.6425,
+    "gn:longitude":126.58722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Padap\u2019ogae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc14\ub2e4\ud3ec\uac1c"
+    ],
+    "name:kor_x_variant":[
+        "Padap\u2019ogae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891491
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"dd90a6b089e58acf5831ac37ecb45e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747999,
+            "locality_id":1326615973,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1326615973,
+    "wof:lastmodified":1537654983,
+    "wof:name":"Padap'ogae",
+    "wof:parent_id":1108747999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58722,
+    38.6425,
+    126.58722,
+    38.6425
+],
+  "geometry": {"coordinates":[126.58722,38.6425],"type":"Point"}
+}

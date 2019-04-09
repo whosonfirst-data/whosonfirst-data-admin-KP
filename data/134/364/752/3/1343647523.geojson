@@ -1,0 +1,67 @@
+{
+  "id": 1343647523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.43222,41.00917,128.43222,41.00917",
+    "geom:latitude":41.00917,
+    "geom:longitude":128.43222,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yonam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2046817,
+    "gn:latitude":41.00917,
+    "gn:longitude":128.43222,
+    "gn:modification_date":"1996-07-22",
+    "gn:name":"Y\u014fnam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2046817
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"200ff158fc4a13d81726b896e647f2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746953,
+            "locality_id":1343647523,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1343647523,
+    "wof:lastmodified":1536973293,
+    "wof:name":"Yonam-dong",
+    "wof:parent_id":1108746953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.43222,
+    41.00917000000001,
+    128.43222,
+    41.00917000000001
+],
+  "geometry": {"coordinates":[128.43222,41.00917000000001],"type":"Point"}
+}

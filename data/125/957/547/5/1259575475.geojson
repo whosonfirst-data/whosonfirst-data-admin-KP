@@ -1,0 +1,73 @@
+{
+  "id": 1259575475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.41472,38.54722,125.41472,38.54722",
+    "geom:latitude":38.54722,
+    "geom:longitude":125.41472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Togyang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883234,
+    "gn:latitude":38.54722,
+    "gn:longitude":125.41472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u014fgyang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uc591\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "T\u014fgyang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883234
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8f7d18886ba251e4bc3e456a3d9dee39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747207,
+            "locality_id":1259575475,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259575475,
+    "wof:lastmodified":1537654884,
+    "wof:name":"Togyang-ni",
+    "wof:parent_id":1108747207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.41472,
+    38.54722,
+    125.41472,
+    38.54722
+],
+  "geometry": {"coordinates":[125.41472,38.54722],"type":"Point"}
+}

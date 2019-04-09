@@ -1,0 +1,76 @@
+{
+  "id": 1293905321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.88111,37.99,125.88111,37.99",
+    "geom:latitude":37.99,
+    "geom:longitude":125.88111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ch'ogyanggol",
+    "gn:country_code":"KP",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878659,
+    "gn:latitude":37.99,
+    "gn:longitude":125.88111,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ch\u2019\u014fgyanggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc99\uc591\uace8"
+    ],
+    "name:und_x_variant":[
+        "Iyang-dong",
+        "Chayang-dong",
+        "Ch\u2019\u014fgyang-dong",
+        "Ch\u2019\u014fgyanggol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878659
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"331d881b2d8fd2ce3dbfbbcf68c7626c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1293905321,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1293905321,
+    "wof:lastmodified":1537654811,
+    "wof:name":"Ch'ogyanggol",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.88111,
+    37.99,
+    125.88111,
+    37.99
+],
+  "geometry": {"coordinates":[125.88111000000001,37.99],"type":"Point"}
+}

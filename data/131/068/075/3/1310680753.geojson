@@ -1,0 +1,76 @@
+{
+  "id": 1310680753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.59776,38.80808,125.59776,38.80808",
+    "geom:latitude":38.80808,
+    "geom:longitude":125.59776,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Inam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876558,
+    "gn:latitude":38.80808,
+    "gn:longitude":125.59776,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Inam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc774\ub0a8\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "\uc778\uc554\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Inamni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876558
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4f911972a1fc2fec3d8b17f3ae55f6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747815,
+            "locality_id":1310680753,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310680753,
+    "wof:lastmodified":1537654693,
+    "wof:name":"Inam-ni",
+    "wof:parent_id":1108747815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.59776,
+    38.80808,
+    125.59776,
+    38.80808
+],
+  "geometry": {"coordinates":[125.59775999999999,38.80808],"type":"Point"}
+}

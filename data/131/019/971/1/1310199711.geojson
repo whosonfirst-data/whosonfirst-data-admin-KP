@@ -1,0 +1,72 @@
+{
+  "id": 1310199711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64333,38.07694,126.64333,38.07694",
+    "geom:latitude":38.07694,
+    "geom:longitude":126.64333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Changp\u2019ung-gun",
+    "gn:asciiname":"Kungnyo-gol",
+    "gn:country_code":"KP",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890678,
+    "gn:latitude":38.07694,
+    "gn:longitude":126.64333,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kungny\u014f-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kungny\u014f-kol",
+        "Kungny\u014f-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108746915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890678
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"613256b4db3ab831f310baed6166110e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746915,
+            "locality_id":1310199711,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310199711,
+    "wof:lastmodified":1537654964,
+    "wof:name":"Kungnyo-gol",
+    "wof:parent_id":1108746915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64333,
+    38.07694,
+    126.64333,
+    38.07694
+],
+  "geometry": {"coordinates":[126.64333000000001,38.07694],"type":"Point"}
+}

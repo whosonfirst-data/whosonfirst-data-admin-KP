@@ -1,0 +1,70 @@
+{
+  "id": 1276222951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.48639,38.49472,126.48639,38.49472",
+    "geom:latitude":38.49472,
+    "geom:longitude":126.48639,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kurang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875160,
+    "gn:latitude":38.49472,
+    "gn:longitude":126.48639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kurang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub77d\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875160
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3cdd3948ddb64fb597bc89af6d15e44f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747999,
+            "locality_id":1276222951,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276222951,
+    "wof:lastmodified":1537654612,
+    "wof:name":"Kurang-ni",
+    "wof:parent_id":1108747999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.48639,
+    38.49472,
+    126.48639,
+    38.49472
+],
+  "geometry": {"coordinates":[126.48639,38.49472],"type":"Point"}
+}

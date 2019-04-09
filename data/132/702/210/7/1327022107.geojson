@@ -1,0 +1,71 @@
+{
+  "id": 1327022107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17833,38.05167,125.17833,38.05167",
+    "geom:latitude":38.05167,
+    "geom:longitude":125.17833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kurae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875163,
+    "gn:latitude":38.05167,
+    "gn:longitude":125.17833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kurae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad6c\ub798\ub3d9",
+        "Kurae-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875163
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cecc714f5f235a94ebf7d5720e043f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1327022107,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1327022107,
+    "wof:lastmodified":1537654612,
+    "wof:name":"Kurae-dong",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17833,
+    38.05167,
+    125.17833,
+    38.05167
+],
+  "geometry": {"coordinates":[125.17833,38.05167],"type":"Point"}
+}

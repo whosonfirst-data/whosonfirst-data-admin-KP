@@ -1,0 +1,68 @@
+{
+  "id": 1226364369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.51389,37.92222,126.51389,37.92222",
+    "geom:latitude":37.92222,
+    "geom:longitude":126.51389,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1876380",
+    "gn:asciiname":"Pakchok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872831,
+    "gn:latitude":37.92222,
+    "gn:longitude":126.51389,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Pakch\u014fk-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872831
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1405568c7dddc913ad6bbc0ba064649e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747805,
+            "locality_id":1226364369,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226364369,
+    "wof:lastmodified":1536763031,
+    "wof:name":"Pakchok-tong",
+    "wof:parent_id":1108747805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.51389,
+    37.92222,
+    126.51389,
+    37.92222
+],
+  "geometry": {"coordinates":[126.51389,37.92222],"type":"Point"}
+}

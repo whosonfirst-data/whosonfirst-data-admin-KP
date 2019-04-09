@@ -1,0 +1,73 @@
+{
+  "id": 1293066781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.29444,42.26028,130.29444,42.26028",
+    "geom:latitude":42.26028,
+    "geom:longitude":130.29444,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"Najins\u014fnbong-si",
+    "gn:asciiname":"Nok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305430,
+    "gn:latitude":42.26028,
+    "gn:longitude":130.29444,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Nok-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub179\ub3d9",
+        "Nok-tong",
+        "Nokdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676647,
+        1108747091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305430
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"919e3a9a808166d917e5b9029de5f778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747091,
+            "locality_id":1293066781,
+            "region_id":85676647
+        }
+    ],
+    "wof:id":1293066781,
+    "wof:lastmodified":1537655833,
+    "wof:name":"Nok-tong",
+    "wof:parent_id":1108747091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.29443999999998,
+    42.26028,
+    130.29443999999998,
+    42.26028
+],
+  "geometry": {"coordinates":[130.29443999999998,42.26028],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327114185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.00778,38.86028,126.00778,38.86028",
+    "geom:latitude":38.86028,
+    "geom:longitude":126.00778,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Sangw\u014fn-gun",
+    "gn:asciiname":"Taech'ol-li",
+    "gn:country_code":"KP",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868845,
+    "gn:latitude":38.86028,
+    "gn:longitude":126.00778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taech\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taech\u2019\u014fn-ni",
+        "Taech\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868845
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1a412c888545d89d6e1c128dcedc2c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":1327114185,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327114185,
+    "wof:lastmodified":1537654302,
+    "wof:name":"Taech'ol-li",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.00778,
+    38.86028,
+    126.00778,
+    38.86028
+],
+  "geometry": {"coordinates":[126.00778,38.86028],"type":"Point"}
+}

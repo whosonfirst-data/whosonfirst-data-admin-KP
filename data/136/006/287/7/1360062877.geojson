@@ -1,0 +1,70 @@
+{
+  "id": 1360062877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.26528,40.12028,125.26528,40.12028",
+    "geom:latitude":40.12028,
+    "geom:longitude":125.26528,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hwasang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043870,
+    "gn:latitude":40.12028,
+    "gn:longitude":125.26528,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Hwasang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\uc0c1\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043870
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"539a02c43b8c278e35ae4e12d5c86b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748041,
+            "locality_id":1360062877,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1360062877,
+    "wof:lastmodified":1537655424,
+    "wof:name":"Hwasang-dong",
+    "wof:parent_id":1108748041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.26528,
+    40.12028,
+    125.26528,
+    40.12028
+],
+  "geometry": {"coordinates":[125.26528,40.12028],"type":"Point"}
+}

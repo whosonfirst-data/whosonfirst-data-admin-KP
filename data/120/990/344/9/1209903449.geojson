@@ -1,0 +1,71 @@
+{
+  "id": 1209903449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.6175,40.26639,124.6175,40.26639",
+    "geom:latitude":40.26639,
+    "geom:longitude":124.6175,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pukkok",
+    "gn:country_code":"KP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281567,
+    "gn:latitude":40.26639,
+    "gn:longitude":124.6175,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pukkok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubd81\uace1",
+        "Pukkok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281567
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2e59b29b3788642d181676fba9198832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747205,
+            "locality_id":1209903449,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1209903449,
+    "wof:lastmodified":1537655738,
+    "wof:name":"Pukkok",
+    "wof:parent_id":1108747205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.6175,
+    40.26639,
+    124.6175,
+    40.26639
+],
+  "geometry": {"coordinates":[124.61750000000001,40.26639],"type":"Point"}
+}

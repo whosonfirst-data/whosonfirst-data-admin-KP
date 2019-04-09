@@ -1,0 +1,67 @@
+{
+  "id": 1326602693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.91556,39.27167,125.91556,39.27167",
+    "geom:latitude":39.27167,
+    "geom:longitude":125.91556,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chongch'on",
+    "gn:country_code":"KP",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889560,
+    "gn:latitude":39.27167,
+    "gn:longitude":125.91556,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Ch\u014fngch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889560
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"591805e851196be29ecd02cff1ab36e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747949,
+            "locality_id":1326602693,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1326602693,
+    "wof:lastmodified":1536881874,
+    "wof:name":"Chongch'on",
+    "wof:parent_id":1108747949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.91556,
+    39.27167,
+    125.91556,
+    39.27167
+],
+  "geometry": {"coordinates":[125.91556,39.27167],"type":"Point"}
+}

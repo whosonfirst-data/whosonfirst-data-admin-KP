@@ -1,0 +1,74 @@
+{
+  "id": 1310598291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.90444,37.89361,125.90444,37.89361",
+    "geom:latitude":37.89361,
+    "geom:longitude":125.90444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Twigolmol",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867488,
+    "gn:latitude":37.89361,
+    "gn:longitude":125.90444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Twigolmol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hugok-tong",
+        "Twigol-mal",
+        "Hugol-tong",
+        "Twigolmol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867488
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6e7dc9619788b7d9953eb324d610d266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1310598291,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310598291,
+    "wof:lastmodified":1537654234,
+    "wof:name":"Twigolmol",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.90444,
+    37.89361,
+    125.90444,
+    37.89361
+],
+  "geometry": {"coordinates":[125.90443999999999,37.89361],"type":"Point"}
+}

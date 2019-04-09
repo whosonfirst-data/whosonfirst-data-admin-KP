@@ -1,0 +1,71 @@
+{
+  "id": 1210004023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.7875,40.19861,124.7875,40.19861",
+    "geom:latitude":40.19861,
+    "geom:longitude":124.7875,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tonggong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281771,
+    "gn:latitude":40.19861,
+    "gn:longitude":124.7875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tonggong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3d9\uace1\ub9ac",
+        "Tonggong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281771
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"efc99e691381664c9e723f288661ed07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747105,
+            "locality_id":1210004023,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1210004023,
+    "wof:lastmodified":1537655750,
+    "wof:name":"Tonggong-ni",
+    "wof:parent_id":1108747105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.7875,
+    40.19861,
+    124.7875,
+    40.19861
+],
+  "geometry": {"coordinates":[124.78749999999999,40.19861],"type":"Point"}
+}

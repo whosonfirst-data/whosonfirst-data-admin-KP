@@ -1,0 +1,67 @@
+{
+  "id": 1243349279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.65278,38.27139,126.65278,38.27139",
+    "geom:latitude":38.27139,
+    "geom:longitude":126.65278,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chaekbau",
+    "gn:country_code":"KP",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931359,
+    "gn:latitude":38.27139,
+    "gn:longitude":126.65278,
+    "gn:modification_date":"2003-03-04",
+    "gn:name":"Chaekbau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931359
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bc4294601d6622623e1bf8be66283618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747189,
+            "locality_id":1243349279,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1243349279,
+    "wof:lastmodified":1536946100,
+    "wof:name":"Chaekbau",
+    "wof:parent_id":1108747189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.65278,
+    38.27139,
+    126.65278,
+    38.27139
+],
+  "geometry": {"coordinates":[126.65278000000001,38.27139],"type":"Point"}
+}

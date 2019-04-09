@@ -1,0 +1,75 @@
+{
+  "id": 1343834039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.41111,42.11389,129.41111,42.11389",
+    "geom:latitude":42.11389,
+    "geom:longitude":129.41111,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ch'ayu-ri",
+    "gn:country_code":"KP",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044999,
+    "gn:latitude":42.11389,
+    "gn:longitude":129.41111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019ayu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shinten",
+        "Ch\u2019ayu-dong",
+        "Shayu-d\u014f",
+        "Ch\u2019ayu-tong",
+        "\ucc28\uc720\ub9ac",
+        "Ch\u2019ayu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044999
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9c7513b7746f863284f58aaad11a7429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747013,
+            "locality_id":1343834039,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1343834039,
+    "wof:lastmodified":1537655489,
+    "wof:name":"Ch'ayu-ri",
+    "wof:parent_id":1108747013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.41111,
+    42.11389000000001,
+    129.41111,
+    42.11389000000001
+],
+  "geometry": {"coordinates":[129.41111000000001,42.11389000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259384027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.27325,40.07124,128.27325,40.07124",
+    "geom:latitude":40.07124,
+    "geom:longitude":128.27325,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tangjonch'on",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040051,
+    "gn:latitude":40.07124,
+    "gn:longitude":128.27325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tangj\u014fnch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tangj\u014fnch\u2019on",
+        "\ub2f9\uc804\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040051
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d8944cd1d344df742aee610ee7e7c073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748003,
+            "locality_id":1259384027,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259384027,
+    "wof:lastmodified":1537655205,
+    "wof:name":"Tangjonch'on",
+    "wof:parent_id":1108748003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.27325,
+    40.07124,
+    128.27325,
+    40.07124
+],
+  "geometry": {"coordinates":[128.27324999999999,40.07124],"type":"Point"}
+}

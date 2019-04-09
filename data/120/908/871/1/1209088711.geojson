@@ -1,0 +1,68 @@
+{
+  "id": 1209088711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.14833,39.675,126.14833,39.675",
+    "geom:latitude":39.675,
+    "geom:longitude":126.14833,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"T\u014fkch\u2019\u014fn-si",
+    "gn:asciiname":"Nujinmogi",
+    "gn:country_code":"KP",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874531,
+    "gn:latitude":39.675,
+    "gn:longitude":126.14833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u016djinmogi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manhangch\u2019am",
+        "N\u016dj\u016dnmok",
+        "N\u016dj\u016dnmogi",
+        "N\u016djinmogi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874531
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e60516fe80ead809d760ee6bd33cb573",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209088711
+        }
+    ],
+    "wof:id":1209088711,
+    "wof:lastmodified":1537654581,
+    "wof:name":"Nujinmogi",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.14833,
+    39.675,
+    126.14833,
+    39.675
+],
+  "geometry": {"coordinates":[126.14833,39.675],"type":"Point"}
+}

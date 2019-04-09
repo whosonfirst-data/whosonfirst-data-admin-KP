@@ -1,0 +1,70 @@
+{
+  "id": 1344043331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.35556,41.31028,128.35556,41.31028",
+    "geom:latitude":41.31028,
+    "geom:longitude":128.35556,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taemunjang",
+    "gn:country_code":"KP",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2054377,
+    "gn:latitude":41.31028,
+    "gn:longitude":128.35556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taemunjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\ubb38\uc7a5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2054377
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b3c6c83377febc9a12ba354a5d019a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746903,
+            "locality_id":1344043331,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1344043331,
+    "wof:lastmodified":1537655626,
+    "wof:name":"Taemunjang",
+    "wof:parent_id":1108746903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.35556,
+    41.31028,
+    128.35556,
+    41.31028
+],
+  "geometry": {"coordinates":[128.35556,41.31028],"type":"Point"}
+}

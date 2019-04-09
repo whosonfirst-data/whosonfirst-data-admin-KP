@@ -1,0 +1,74 @@
+{
+  "id": 1209938317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.9375,37.98611,125.9375,37.98611",
+    "geom:latitude":37.98611,
+    "geom:longitude":125.9375,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taegammol",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868787,
+    "gn:latitude":37.98611,
+    "gn:longitude":125.9375,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taegammol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taegang-ma\u016dl",
+        "Taegangch\u2019on",
+        "Taegang-dong",
+        "Taegammol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868787
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"880017736fe293858bc3892c5eb4c70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1209938317,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1209938317,
+    "wof:lastmodified":1537654300,
+    "wof:name":"Taegammol",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.9375,
+    37.98611,
+    125.9375,
+    37.98611
+],
+  "geometry": {"coordinates":[125.9375,37.98611],"type":"Point"}
+}

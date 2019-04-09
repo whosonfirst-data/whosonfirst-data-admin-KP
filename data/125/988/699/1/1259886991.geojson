@@ -1,0 +1,71 @@
+{
+  "id": 1259886991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.17028,39.93083,127.17028,39.93083",
+    "geom:latitude":39.93083,
+    "geom:longitude":127.17028,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moduregi",
+    "gn:country_code":"KP",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891833,
+    "gn:latitude":39.93083,
+    "gn:longitude":127.17028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moduregi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubaa8\ub450\ub808\uae30",
+        "Moduregi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891833
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c8433d144ebc2eb39676ed7e7f3606ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747747,
+            "locality_id":1259886991,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259886991,
+    "wof:lastmodified":1537654999,
+    "wof:name":"Moduregi",
+    "wof:parent_id":1108747747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.17028,
+    39.93083,
+    127.17028,
+    39.93083
+],
+  "geometry": {"coordinates":[127.17028000000001,39.93083],"type":"Point"}
+}

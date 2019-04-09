@@ -1,0 +1,111 @@
+{
+  "id": 85902747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10149773.912208,
+    "geom:bbox":"125.744278,39.002597,125.744278,39.002597",
+    "geom:latitude":39.002597,
+    "geom:longitude":125.744278,
+    "gn:latitude":39.0,
+    "gn:longitude":125.75,
+    "iso:country":"KP",
+    "lbl:latitude":39.002597,
+    "lbl:longitude":125.744278,
+    "mps:latitude":38.998571,
+    "mps:longitude":125.746831,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Kyogu-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uad50\uad6c\ub3d9"
+    ],
+    "name:unk_x_variant":[
+        "Kyogu-dong"
+    ],
+    "qs:gn_adm0_cc":"KP",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1871859,
+    "qs:gn_nam_loc":"Pyongyang",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Kyogu-dong",
+    "qs:local_max":3808,
+    "qs:local_sum":10152,
+    "qs:localhoods":11,
+    "qs:name":"Kyogu-dong",
+    "qs:name_adm0":"North Korea",
+    "qs:name_adm1":"P\u00b4yongyang-si",
+    "qs:name_local":"Pyongyang",
+    "qs:photo_max":318,
+    "qs:photo_sum":903,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":46,
+    "qs:woe_adm0":23424865,
+    "qs:woe_adm1":20070115,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1079132,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        1108747951,
+        85676611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874813,
+        "gp:id":1075003,
+        "qs:id":898569,
+        "qs_pg:id":898569
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9ac3f18c74b99b1651973bd63fc076a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":-1,
+            "neighbourhood_id":85902747,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":85902747,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935935,
+    "wof:name":"Kyogu-dong",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.744278,
+    39.002597,
+    125.744278,
+    39.002597
+],
+  "geometry": {"coordinates":[125.74427799999999,39.002597],"type":"Point"}
+}

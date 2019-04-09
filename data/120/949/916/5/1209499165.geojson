@@ -1,0 +1,65 @@
+{
+  "id": 1209499165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.07472,38.96028,127.07472,38.96028",
+    "geom:latitude":38.96028,
+    "geom:longitude":127.07472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sangch'uam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6279207,
+    "gn:latitude":38.96028,
+    "gn:longitude":127.07472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sangch\u2019uam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0c1\ucd94\uc554\ub9ac",
+        "Sangch\u2019uam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6279207
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"43ad0670344b93c96ec84509bc82ffe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209499165
+        }
+    ],
+    "wof:id":1209499165,
+    "wof:lastmodified":1537655709,
+    "wof:name":"Sangch'uam-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.07472,
+    38.96028,
+    127.07472,
+    38.96028
+],
+  "geometry": {"coordinates":[127.07472,38.96028],"type":"Point"}
+}

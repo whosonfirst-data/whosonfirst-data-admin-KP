@@ -1,0 +1,73 @@
+{
+  "id": 1242869981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.56389,38.70056,126.56389,38.70056",
+    "geom:latitude":38.70056,
+    "geom:longitude":126.56389,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taejong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366539,
+    "gn:latitude":38.70056,
+    "gn:longitude":126.56389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taej\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc815\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Taej\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108746969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366539
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6867e495c8fb95dee37dc1bd214f4a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746969,
+            "locality_id":1242869981,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1242869981,
+    "wof:lastmodified":1537655882,
+    "wof:name":"Taejong-ni",
+    "wof:parent_id":1108746969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.56389,
+    38.70056,
+    126.56389,
+    38.70056
+],
+  "geometry": {"coordinates":[126.56389,38.70056],"type":"Point"}
+}

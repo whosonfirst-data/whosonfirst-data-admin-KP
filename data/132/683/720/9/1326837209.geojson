@@ -1,0 +1,71 @@
+{
+  "id": 1326837209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.21139,39.98778,127.21139,39.98778",
+    "geom:latitude":39.98778,
+    "geom:longitude":127.21139,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Posi-dong",
+    "gn:country_code":"KP",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273204,
+    "gn:latitude":39.98778,
+    "gn:longitude":127.21139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Posi-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubcf4\uc2dc\ub3d9",
+        "Posi-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273204
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"59e8b1ec6574cb71fa4a1165ecf0cbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747747,
+            "locality_id":1326837209,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1326837209,
+    "wof:lastmodified":1537655681,
+    "wof:name":"Posi-dong",
+    "wof:parent_id":1108747747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.21139,
+    39.98778,
+    127.21139,
+    39.98778
+],
+  "geometry": {"coordinates":[127.21138999999999,39.98778],"type":"Point"}
+}

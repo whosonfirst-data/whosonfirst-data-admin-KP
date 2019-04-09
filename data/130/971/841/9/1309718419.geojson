@@ -1,0 +1,73 @@
+{
+  "id": 1309718419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.54222,40.96556,127.54222,40.96556",
+    "geom:latitude":40.96556,
+    "geom:longitude":127.54222,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sodang",
+    "gn:country_code":"KP",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6400199,
+    "gn:latitude":40.96556,
+    "gn:longitude":127.54222,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u014fdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\ub2f9"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fdang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6400199
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"494d6af1086503443610f380c6ffd791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747067,
+            "locality_id":1309718419,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1309718419,
+    "wof:lastmodified":1537655930,
+    "wof:name":"Sodang",
+    "wof:parent_id":1108747067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.54222,
+    40.96556,
+    127.54222,
+    40.96556
+],
+  "geometry": {"coordinates":[127.54222,40.96556],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209602519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.85167,39.80194,125.85167,39.80194",
+    "geom:latitude":39.80194,
+    "geom:longitude":125.85167,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kajok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890454,
+    "gn:latitude":39.80194,
+    "gn:longitude":125.85167,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Kaj\u014fk-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890454
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b8bece7b5a3677b3aea8c34f3a4436ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209602519
+        }
+    ],
+    "wof:id":1209602519,
+    "wof:lastmodified":1536282120,
+    "wof:name":"Kajok-tong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.85167,
+    39.80194,
+    125.85167,
+    39.80194
+],
+  "geometry": {"coordinates":[125.85167,39.80194],"type":"Point"}
+}

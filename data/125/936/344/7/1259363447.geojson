@@ -1,0 +1,71 @@
+{
+  "id": 1259363447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.30083,40.22639,125.30083,40.22639",
+    "geom:latitude":40.22639,
+    "geom:longitude":125.30083,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yongch'ang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281981,
+    "gn:latitude":40.22639,
+    "gn:longitude":125.30083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongch\u2019ang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub8e1\ucc3d\ub9ac",
+        "Yongch\u2019ang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281981
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e2bd9e2123b555136f56005682dcf55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748041,
+            "locality_id":1259363447,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259363447,
+    "wof:lastmodified":1537655760,
+    "wof:name":"Yongch'ang-ni",
+    "wof:parent_id":1108748041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.30083,
+    40.22639,
+    125.30083,
+    40.22639
+],
+  "geometry": {"coordinates":[125.30083,40.22639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209816839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.79389,39.89472,127.79389,39.89472",
+    "geom:latitude":39.89472,
+    "geom:longitude":127.79389,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ansogun",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879593,
+    "gn:latitude":39.89472,
+    "gn:longitude":127.79389,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Ans\u014fg\u016dn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uc11c\uadfc"
+    ],
+    "name:und_x_variant":[
+        "Naes\u014fg\u016dn",
+        "An-s\u014fg\u016dn",
+        "Anjog\u016dn",
+        "Ans\u014fg\u016dn",
+        "\uc548\uc11c\uadfc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879593
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ba70968b8f05e6a002fecbcf74a40964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209816839,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209816839,
+    "wof:lastmodified":1537654866,
+    "wof:name":"Ansogun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.79389,
+    39.89472,
+    127.79389,
+    39.89472
+],
+  "geometry": {"coordinates":[127.79389,39.89472],"type":"Point"}
+}

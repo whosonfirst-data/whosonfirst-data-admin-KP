@@ -1,0 +1,68 @@
+{
+  "id": 1259855443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.71667,41.66667,129.71667,41.66667",
+    "geom:latitude":41.66667,
+    "geom:longitude":129.71667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tokchin",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039950,
+    "gn:latitude":41.66667,
+    "gn:longitude":129.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tokchin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dokushin",
+        "Tokushin",
+        "Dokusin",
+        "Tokchin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039950
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ebccd5e6363672241da8b24af5b94dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259855443,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259855443,
+    "wof:lastmodified":1537655198,
+    "wof:name":"Tokchin",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.71667,
+    41.66667,
+    129.71667,
+    41.66667
+],
+  "geometry": {"coordinates":[129.71666999999999,41.66667],"type":"Point"}
+}

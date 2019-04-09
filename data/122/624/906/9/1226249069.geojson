@@ -1,0 +1,77 @@
+{
+  "id": 1226249069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.05694,40.48417,129.05694,40.48417",
+    "geom:latitude":40.48417,
+    "geom:longitude":129.05694,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yongdae-nodongjagu",
+    "gn:country_code":"KP",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039155,
+    "gn:latitude":40.48417,
+    "gn:longitude":129.05694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongdae-nodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ry\u016bdai-d\u014d",
+        "K\u016dmsong-ni",
+        "Yongdae",
+        "Ryutaid\u014d",
+        "Yongdae-ri",
+        "\uc6a9\ub300\ub85c\ub3d9\uc790\uad6c",
+        "Yongdae-dong",
+        "Yongdae-nodongjagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039155
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c38af9405c336f51096334b40d3c523f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1226249069,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1226249069,
+    "wof:lastmodified":1537655153,
+    "wof:name":"Yongdae-nodongjagu",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.05694,
+    40.48417,
+    129.05694,
+    40.48417
+],
+  "geometry": {"coordinates":[129.05694,40.48417],"type":"Point"}
+}

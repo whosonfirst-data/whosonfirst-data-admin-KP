@@ -1,0 +1,75 @@
+{
+  "id": 1259986669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.06944,39.67694,127.06944,39.67694",
+    "geom:latitude":39.67694,
+    "geom:longitude":127.06944,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sirubau",
+    "gn:country_code":"KP",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870262,
+    "gn:latitude":39.67694,
+    "gn:longitude":127.06944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sirubau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2dc\ub8e8\ubc14\uc6b0"
+    ],
+    "name:und_x_variant":[
+        "Ch\u016dngam",
+        "Sirubawi",
+        "Sirubau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870262
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a467d2b8e47d3e2c0aad93563f6dda49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748103,
+            "locality_id":1259986669,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259986669,
+    "wof:lastmodified":1537654372,
+    "wof:name":"Sirubau",
+    "wof:parent_id":1108748103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.06944,
+    39.67694,
+    127.06944,
+    39.67694
+],
+  "geometry": {"coordinates":[127.06944,39.67694],"type":"Point"}
+}

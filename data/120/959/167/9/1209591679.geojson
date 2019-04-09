@@ -1,0 +1,65 @@
+{
+  "id": 1209591679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.59111,40.85583,129.59111,40.85583",
+    "geom:latitude":40.85583,
+    "geom:longitude":129.59111,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"So-dong",
+    "gn:country_code":"KP",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040822,
+    "gn:latitude":40.85583,
+    "gn:longitude":129.59111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"So-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc18c\ub3d9",
+        "So-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040822
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8e732e8243f23930b82f15113e5e00b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209591679
+        }
+    ],
+    "wof:id":1209591679,
+    "wof:lastmodified":1537655249,
+    "wof:name":"So-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.59111,
+    40.85583,
+    129.59111,
+    40.85583
+],
+  "geometry": {"coordinates":[129.59110999999999,40.85583],"type":"Point"}
+}

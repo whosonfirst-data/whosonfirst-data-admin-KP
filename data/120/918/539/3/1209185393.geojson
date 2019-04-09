@@ -1,0 +1,64 @@
+{
+  "id": 1209185393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.91111,41.41222,127.91111,41.41222",
+    "geom:latitude":41.41222,
+    "geom:longitude":127.91111,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ibang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043805,
+    "gn:latitude":41.41222,
+    "gn:longitude":127.91111,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Ibang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc774\ubc29\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043805
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"dbccce3fd1330ae25bf036a12d4cd27b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209185393
+        }
+    ],
+    "wof:id":1209185393,
+    "wof:lastmodified":1537655420,
+    "wof:name":"Ibang-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.91111,
+    41.41222,
+    127.91111,
+    41.41222
+],
+  "geometry": {"coordinates":[127.91110999999999,41.41222],"type":"Point"}
+}

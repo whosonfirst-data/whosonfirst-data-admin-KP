@@ -1,0 +1,72 @@
+{
+  "id": 1326614179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.97111,38.35694,126.97111,38.35694",
+    "geom:latitude":38.35694,
+    "geom:longitude":126.97111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kal-gol",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889916,
+    "gn:latitude":38.35694,
+    "gn:longitude":126.97111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kal-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kal-kol",
+        "Kal-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889916
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"71d825d8bbb32726cee7ce9cced7adcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747727,
+            "locality_id":1326614179,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1326614179,
+    "wof:lastmodified":1537654939,
+    "wof:name":"Kal-gol",
+    "wof:parent_id":1108747727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97111,
+    38.35694,
+    126.97111,
+    38.35694
+],
+  "geometry": {"coordinates":[126.97111,38.35694],"type":"Point"}
+}

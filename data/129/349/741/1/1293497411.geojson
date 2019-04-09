@@ -1,0 +1,73 @@
+{
+  "id": 1293497411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.03333,40.41667,125.03333,40.41667",
+    "geom:latitude":40.41667,
+    "geom:longitude":125.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yonp'yong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2038915,
+    "gn:latitude":40.41667,
+    "gn:longitude":125.03333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Y\u014fnp\u2019y\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5f0\ud3c9\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Y\u014fnp\u2019y\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038915
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1dc78e11e69c6cfaf41a44c39b8b613e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747105,
+            "locality_id":1293497411,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1293497411,
+    "wof:lastmodified":1537655136,
+    "wof:name":"Yonp'yong-dong",
+    "wof:parent_id":1108747105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.03333,
+    40.41667,
+    125.03333,
+    40.41667
+],
+  "geometry": {"coordinates":[125.03333000000001,40.41667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242699621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.29194,37.93694,125.29194,37.93694",
+    "geom:latitude":37.93694,
+    "geom:longitude":125.29194,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soep'al-dong",
+    "gn:country_code":"KP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6369640,
+    "gn:latitude":37.93694,
+    "gn:longitude":125.29194,
+    "gn:modification_date":"2007-03-19",
+    "gn:name":"Soep\u2019al-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6369640
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c9eb5906f9bdafb1700f75577b082d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1242699621,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1242699621,
+    "wof:lastmodified":1536887620,
+    "wof:name":"Soep'al-dong",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.29194,
+    37.93694,
+    125.29194,
+    37.93694
+],
+  "geometry": {"coordinates":[125.29194,37.93694],"type":"Point"}
+}

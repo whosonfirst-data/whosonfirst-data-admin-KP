@@ -1,0 +1,72 @@
+{
+  "id": 1293274565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.50444,38.93333,125.50444,38.93333",
+    "geom:latitude":38.93333,
+    "geom:longitude":125.50444,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Amhwa-ri",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879697,
+    "gn:latitude":38.93333,
+    "gn:longitude":125.50444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Amhwa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014emhwa-ri",
+        "Amhwa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108746951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879697
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"526a352f77cf59286ddbbb5262fddfc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746951,
+            "locality_id":1293274565,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1293274565,
+    "wof:lastmodified":1537654872,
+    "wof:name":"Amhwa-ri",
+    "wof:parent_id":1108746951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.50444,
+    38.93333,
+    125.50444,
+    38.93333
+],
+  "geometry": {"coordinates":[125.50444,38.93333],"type":"Point"}
+}

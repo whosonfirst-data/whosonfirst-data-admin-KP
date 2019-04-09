@@ -1,0 +1,70 @@
+{
+  "id": 1260094595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4,40.05,127.4,40.05",
+    "geom:latitude":40.05,
+    "geom:longitude":127.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ssangsong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040391,
+    "gn:latitude":40.05,
+    "gn:longitude":127.4,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Ssangsong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc30d\uc1a1\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040391
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e4720b924ebb7a6f1d1edb51b8131c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748109,
+            "locality_id":1260094595,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1260094595,
+    "wof:lastmodified":1537655223,
+    "wof:name":"Ssangsong-ni",
+    "wof:parent_id":1108748109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4,
+    40.05,
+    127.4,
+    40.05
+],
+  "geometry": {"coordinates":[127.40000000000001,40.05],"type":"Point"}
+}

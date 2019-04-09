@@ -1,0 +1,70 @@
+{
+  "id": 1327340471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.88472,39.97722,127.88472,39.97722",
+    "geom:latitude":39.97722,
+    "geom:longitude":127.88472,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Songhae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869611,
+    "gn:latitude":39.97722,
+    "gn:longitude":127.88472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Songhae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc1a1\ud574\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869611
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"943893848a60b964136202e0eafb369a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747955,
+            "locality_id":1327340471,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1327340471,
+    "wof:lastmodified":1537654339,
+    "wof:name":"Songhae-ri",
+    "wof:parent_id":1108747955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.88472,
+    39.97722,
+    127.88472,
+    39.97722
+],
+  "geometry": {"coordinates":[127.88472,39.97722],"type":"Point"}
+}

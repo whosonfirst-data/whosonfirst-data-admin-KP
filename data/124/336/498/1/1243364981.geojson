@@ -1,0 +1,71 @@
+{
+  "id": 1243364981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.49997,40.34468,128.49997,40.34468",
+    "geom:latitude":40.34468,
+    "geom:longitude":128.49997,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sang-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050260,
+    "gn:latitude":40.34468,
+    "gn:longitude":128.49997,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sang-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sang-ch\u2019on",
+        "\uc0c1\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050260
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9cf6dcc0c579813dd8c7e39b89051c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747095,
+            "locality_id":1243364981,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243364981,
+    "wof:lastmodified":1537655598,
+    "wof:name":"Sang-ch'on",
+    "wof:parent_id":1108747095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.49997,
+    40.34468,
+    128.49997,
+    40.34468
+],
+  "geometry": {"coordinates":[128.49996999999999,40.34468],"type":"Point"}
+}

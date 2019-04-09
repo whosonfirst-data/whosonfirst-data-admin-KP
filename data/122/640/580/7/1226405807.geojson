@@ -1,0 +1,73 @@
+{
+  "id": 1226405807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.635,40.89889,129.635,40.89889",
+    "geom:latitude":40.89889,
+    "geom:longitude":129.635,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"Hwadae-gun",
+    "gn:asciiname":"Ap'togi",
+    "gn:country_code":"KP",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2045307,
+    "gn:latitude":40.89889,
+    "gn:longitude":129.635,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ap\u2019t\u014fgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ap\u2019t\u014fk",
+        "\uc555\ub355\uc774",
+        "Ap\u2019t\u014fgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2045307
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"aefe0a1a9deef708e05e6ab3012975f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747015,
+            "locality_id":1226405807,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1226405807,
+    "wof:lastmodified":1537655508,
+    "wof:name":"Ap'togi",
+    "wof:parent_id":1108747015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.635,
+    40.89889,
+    129.635,
+    40.89889
+],
+  "geometry": {"coordinates":[129.63499999999999,40.89889],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209076015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.85417,39.43917,125.85417,39.43917",
+    "geom:latitude":39.43917,
+    "geom:longitude":125.85417,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hongnyo-dong",
+    "gn:country_code":"KP",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6269810,
+    "gn:latitude":39.43917,
+    "gn:longitude":125.85417,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Hongny\u014f-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6269810
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"147906416db570eded51a7261c7fd97d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209076015
+        }
+    ],
+    "wof:id":1209076015,
+    "wof:lastmodified":1536298492,
+    "wof:name":"Hongnyo-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.85417,
+    39.43917,
+    125.85417,
+    39.43917
+],
+  "geometry": {"coordinates":[125.85417,39.43917],"type":"Point"}
+}

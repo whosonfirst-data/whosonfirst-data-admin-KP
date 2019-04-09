@@ -1,0 +1,73 @@
+{
+  "id": 1327002763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.49194,39.40833,126.49194,39.40833",
+    "geom:latitude":39.40833,
+    "geom:longitude":126.49194,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tok-kol",
+    "gn:country_code":"KP",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366632,
+    "gn:latitude":39.40833,
+    "gn:longitude":126.49194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u014fk-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uace8"
+    ],
+    "name:kor_x_variant":[
+        "T\u014fk-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366632
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6345fcb8a63ab5f79e7e97d9cf8e8b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747141,
+            "locality_id":1327002763,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1327002763,
+    "wof:lastmodified":1537655886,
+    "wof:name":"Tok-kol",
+    "wof:parent_id":1108747141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.49194,
+    39.40833,
+    126.49194,
+    39.40833
+],
+  "geometry": {"coordinates":[126.49194,39.40833],"type":"Point"}
+}

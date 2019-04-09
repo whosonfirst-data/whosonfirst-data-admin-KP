@@ -1,0 +1,71 @@
+{
+  "id": 1344132915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.21389,40.78306,129.21389,40.78306",
+    "geom:latitude":40.78306,
+    "geom:longitude":129.21389,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Komunu",
+    "gn:country_code":"KP",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2043367,
+    "gn:latitude":40.78306,
+    "gn:longitude":129.21389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u014fmunu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac70\ubb38\uc6b0",
+        "K\u014fmunu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2043367
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ed40c1ea9acdbfecc3eb0e524cc1b0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746957,
+            "locality_id":1344132915,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1344132915,
+    "wof:lastmodified":1537655398,
+    "wof:name":"Komunu",
+    "wof:parent_id":1108746957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.21389,
+    40.78306,
+    129.21389,
+    40.78306
+],
+  "geometry": {"coordinates":[129.21388999999999,40.78306],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259477197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.44972,38.87,127.44972,38.87",
+    "geom:latitude":38.87,
+    "geom:longitude":127.44972,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Songnam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367182,
+    "gn:latitude":38.87,
+    "gn:longitude":127.44972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fngnam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc131\ub0a8\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fngnam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367182
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"29ec62a51a26b67558e64740767da160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746973,
+            "locality_id":1259477197,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1259477197,
+    "wof:lastmodified":1537655907,
+    "wof:name":"Songnam-ni",
+    "wof:parent_id":1108746973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.44972,
+    38.87,
+    127.44972,
+    38.87
+],
+  "geometry": {"coordinates":[127.44972,38.87],"type":"Point"}
+}

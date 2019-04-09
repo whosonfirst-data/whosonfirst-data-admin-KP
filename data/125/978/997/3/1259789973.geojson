@@ -1,0 +1,70 @@
+{
+  "id": 1259789973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.00028,39.64972,127.00028,39.64972",
+    "geom:latitude":39.64972,
+    "geom:longitude":127.00028,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ibang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367237,
+    "gn:latitude":39.64972,
+    "gn:longitude":127.00028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ibang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc785\uc559\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367237
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6c1a5837718c1d34125c923e4acc3507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748103,
+            "locality_id":1259789973,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1259789973,
+    "wof:lastmodified":1537655909,
+    "wof:name":"Ibang-dong",
+    "wof:parent_id":1108748103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.00028,
+    39.64972,
+    127.00028,
+    39.64972
+],
+  "geometry": {"coordinates":[127.00028,39.64972],"type":"Point"}
+}

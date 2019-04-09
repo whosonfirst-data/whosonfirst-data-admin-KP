@@ -1,0 +1,71 @@
+{
+  "id": 1326809413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.16083,41.53722,127.16083,41.53722",
+    "geom:latitude":41.53722,
+    "geom:longitude":127.16083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ogubae",
+    "gn:country_code":"KP",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049490,
+    "gn:latitude":41.53722,
+    "gn:longitude":127.16083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ogubae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\uad6c\ubc30",
+        "Ogubae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049490
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"843f9ae1f6074d3f8fb2cbbcbb094453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746965,
+            "locality_id":1326809413,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1326809413,
+    "wof:lastmodified":1537655561,
+    "wof:name":"Ogubae",
+    "wof:parent_id":1108746965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.16083,
+    41.53722,
+    127.16083,
+    41.53722
+],
+  "geometry": {"coordinates":[127.16083,41.53722],"type":"Point"}
+}

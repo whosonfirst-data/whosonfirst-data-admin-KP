@@ -1,0 +1,67 @@
+{
+  "id": 1310621221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.88361,38.425,125.88361,38.425",
+    "geom:latitude":38.425,
+    "geom:longitude":125.88361,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Simsan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926298,
+    "gn:latitude":38.425,
+    "gn:longitude":125.88361,
+    "gn:modification_date":"2002-02-14",
+    "gn:name":"Simsan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926298
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"455a2ae1eb3187fffa7c06c728a2f5c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747063,
+            "locality_id":1310621221,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310621221,
+    "wof:lastmodified":1536749932,
+    "wof:name":"Simsan-dong",
+    "wof:parent_id":1108747063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.88361,
+    38.425,
+    125.88361,
+    38.425
+],
+  "geometry": {"coordinates":[125.88361,38.425],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310277713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93806,40.20417,126.93806,40.20417",
+    "geom:latitude":40.20417,
+    "geom:longitude":126.93806,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sobaeng-ni",
+    "gn:country_code":"KP",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040856,
+    "gn:latitude":40.20417,
+    "gn:longitude":126.93806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sobaeng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc18c\ubc31\ub9ac",
+        "Sobaeng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040856
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4a1820f77fea4c17559a772c8570beac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748047,
+            "locality_id":1310277713,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1310277713,
+    "wof:lastmodified":1537655251,
+    "wof:name":"Sobaeng-ni",
+    "wof:parent_id":1108748047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93806,
+    40.20417,
+    126.93806,
+    40.20417
+],
+  "geometry": {"coordinates":[126.93805999999999,40.20417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326710879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.79222,39.99222,124.79222,39.99222",
+    "geom:latitude":39.99222,
+    "geom:longitude":124.79222,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hwasam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876835,
+    "gn:latitude":39.99222,
+    "gn:longitude":124.79222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hwasam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud654\uc0bc\ub9ac",
+        "Hwasam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876835
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4b3c654c4223b46ee003605c97b0870a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747199,
+            "locality_id":1326710879,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1326710879,
+    "wof:lastmodified":1537654707,
+    "wof:name":"Hwasam-ni",
+    "wof:parent_id":1108747199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.79222,
+    39.99222,
+    124.79222,
+    39.99222
+],
+  "geometry": {"coordinates":[124.79222,39.99222],"type":"Point"}
+}

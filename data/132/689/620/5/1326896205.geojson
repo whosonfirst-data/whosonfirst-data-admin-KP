@@ -1,0 +1,73 @@
+{
+  "id": 1326896205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.46139,42.48111,130.46139,42.48111",
+    "geom:latitude":42.48111,
+    "geom:longitude":130.46139,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"S\u014fnbong-gun",
+    "gn:asciiname":"Hahoe-ri",
+    "gn:country_code":"KP",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2044283,
+    "gn:latitude":42.48111,
+    "gn:longitude":130.46139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hahoe-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hahoe-dong",
+        "\ud558\ud68c\ub9ac",
+        "Hahoe-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676647,
+        1108747091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044283
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"caff6c41da1b2535a2e1dbd39094d2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747091,
+            "locality_id":1326896205,
+            "region_id":85676647
+        }
+    ],
+    "wof:id":1326896205,
+    "wof:lastmodified":1537655448,
+    "wof:name":"Hahoe-ri",
+    "wof:parent_id":1108747091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.46139,
+    42.48111,
+    130.46139,
+    42.48111
+],
+  "geometry": {"coordinates":[130.46138999999999,42.48111],"type":"Point"}
+}

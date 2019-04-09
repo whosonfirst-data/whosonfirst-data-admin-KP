@@ -1,0 +1,68 @@
+{
+  "id": 1209822423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34083,39.49806,127.34083,39.49806",
+    "geom:latitude":39.49806,
+    "geom:longitude":127.34083,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"K\u016dmya-gun",
+    "gn:asciiname":"P'oha-ri",
+    "gn:country_code":"KP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888761,
+    "gn:latitude":39.49806,
+    "gn:longitude":127.34083,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"P\u2019oha-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888761
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"69db9c39ed2026e8ce5a86b3eabe3df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1209822423,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1209822423,
+    "wof:lastmodified":1536377301,
+    "wof:name":"P'oha-ri",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34083,
+    39.49806,
+    127.34083,
+    39.49806
+],
+  "geometry": {"coordinates":[127.34083,39.49806],"type":"Point"}
+}

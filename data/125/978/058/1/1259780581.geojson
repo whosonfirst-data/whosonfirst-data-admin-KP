@@ -1,0 +1,73 @@
+{
+  "id": 1259780581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7,38.13306,125.7,38.13306",
+    "geom:latitude":38.13306,
+    "geom:longitude":125.7,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chongch'wi-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878463,
+    "gn:latitude":38.13306,
+    "gn:longitude":125.7,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ch\u014fngch\u2019wi-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\ucde8\ucd0c"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fngch\u2019wi-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878463
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"291fa179c2b015431f1645ee8b26038a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748009,
+            "locality_id":1259780581,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259780581,
+    "wof:lastmodified":1537654798,
+    "wof:name":"Chongch'wi-ch'on",
+    "wof:parent_id":1108748009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7,
+    38.13306,
+    125.7,
+    38.13306
+],
+  "geometry": {"coordinates":[125.7,38.13306],"type":"Point"}
+}

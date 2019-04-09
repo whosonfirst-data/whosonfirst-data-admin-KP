@@ -1,0 +1,71 @@
+{
+  "id": 1292904791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.81556,40.40722,128.81556,40.40722",
+    "geom:latitude":40.40722,
+    "geom:longitude":128.81556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Suryon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2051796,
+    "gn:latitude":40.40722,
+    "gn:longitude":128.81556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sury\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc218\ub828\ub3d9",
+        "Sury\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2051796
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1f2e67f5b092266d7d70207317a03764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1292904791,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1292904791,
+    "wof:lastmodified":1537655606,
+    "wof:name":"Suryon-dong",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.81556,
+    40.40722,
+    128.81556,
+    40.40722
+],
+  "geometry": {"coordinates":[128.81556,40.40722],"type":"Point"}
+}

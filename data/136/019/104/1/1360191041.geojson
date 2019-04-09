@@ -1,0 +1,72 @@
+{
+  "id": 1360191041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.50528,39.45528,127.50528,39.45528",
+    "geom:latitude":39.45528,
+    "geom:longitude":127.50528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wonsang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866917,
+    "gn:latitude":39.45528,
+    "gn:longitude":127.50528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u014fnsang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u014fngsang-ni",
+        "\uc6d0\uc0c1\ub9ac",
+        "W\u014fnsang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866917
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9f3644800e3aed1b64f99fa8b6f54d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1360191041,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1360191041,
+    "wof:lastmodified":1537654205,
+    "wof:name":"Wonsang-ni",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.50528,
+    39.45528,
+    127.50528,
+    39.45528
+],
+  "geometry": {"coordinates":[127.50528,39.45528],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327043285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63417,41.01139,126.63417,41.01139",
+    "geom:latitude":41.01139,
+    "geom:longitude":126.63417,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chumakko-ri",
+    "gn:country_code":"KP",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044555,
+    "gn:latitude":41.01139,
+    "gn:longitude":126.63417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chumakk\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc8fc\ub9c9\uac70\ub9ac",
+        "Chumakk\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044555
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"95919bfc5dcfb5f9e59a82d4a932053d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746911,
+            "locality_id":1327043285,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1327043285,
+    "wof:lastmodified":1537655465,
+    "wof:name":"Chumakko-ri",
+    "wof:parent_id":1108746911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63417,
+    41.01139000000001,
+    126.63417,
+    41.01139000000001
+],
+  "geometry": {"coordinates":[126.63417,41.01139000000001],"type":"Point"}
+}

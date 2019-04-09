@@ -1,0 +1,67 @@
+{
+  "id": 1226435889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.21806,38.34806,126.21806,38.34806",
+    "geom:latitude":38.34806,
+    "geom:longitude":126.21806,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Misan-gol",
+    "gn:country_code":"KP",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948195,
+    "gn:latitude":38.34806,
+    "gn:longitude":126.21806,
+    "gn:modification_date":"2000-09-01",
+    "gn:name":"Misan-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948195
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5a7029c3f8ae547aea30800f432a33af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747923,
+            "locality_id":1226435889,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226435889,
+    "wof:lastmodified":1536659773,
+    "wof:name":"Misan-gol",
+    "wof:parent_id":1108747923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.21806,
+    38.34806,
+    126.21806,
+    38.34806
+],
+  "geometry": {"coordinates":[126.21805999999999,38.34806],"type":"Point"}
+}

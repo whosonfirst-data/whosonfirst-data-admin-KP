@@ -1,0 +1,72 @@
+{
+  "id": 1293467291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.42472,40.05972,124.42472,40.05972",
+    "geom:latitude":40.05972,
+    "geom:longitude":124.42472,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Wai-dong",
+    "gn:country_code":"KP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039484,
+    "gn:latitude":40.05972,
+    "gn:longitude":124.42472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wai-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaji-d\u014d",
+        "\uc640\uc774\ub3d9",
+        "Wai-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039484
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cc075cc4ce034bef8fcd193433e7e347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748005,
+            "locality_id":1293467291,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1293467291,
+    "wof:lastmodified":1537655172,
+    "wof:name":"Wai-dong",
+    "wof:parent_id":1108748005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.42472,
+    40.05972,
+    124.42472,
+    40.05972
+],
+  "geometry": {"coordinates":[124.42471999999999,40.05972],"type":"Point"}
+}

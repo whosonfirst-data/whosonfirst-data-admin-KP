@@ -1,0 +1,70 @@
+{
+  "id": 1193143565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.11166,40.08158,128.11166,40.08158",
+    "geom:latitude":40.08158,
+    "geom:longitude":128.11166,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sinal-li",
+    "gn:country_code":"KP",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330315,
+    "gn:latitude":40.08158,
+    "gn:longitude":128.11166,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sinal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\uc548\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330315
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"23e43ae62a1f1e959a03c568f0a8b9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748003,
+            "locality_id":1193143565,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1193143565,
+    "wof:lastmodified":1537655947,
+    "wof:name":"Sinal-li",
+    "wof:parent_id":1108748003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.11166,
+    40.08158,
+    128.11166,
+    40.08158
+],
+  "geometry": {"coordinates":[128.11166,40.08158],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209424199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.77083,40.87861,125.77083,40.87861",
+    "geom:latitude":40.87861,
+    "geom:longitude":125.77083,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yongsong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039001,
+    "gn:latitude":40.87861,
+    "gn:longitude":125.77083,
+    "gn:modification_date":"2003-03-20",
+    "gn:name":"Y\u014fngs\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039001
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"368bf7366ca8b808489ac77fd84d4d37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209424199
+        }
+    ],
+    "wof:id":1209424199,
+    "wof:lastmodified":1536287432,
+    "wof:name":"Yongsong-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.77083,
+    40.87861,
+    125.77083,
+    40.87861
+],
+  "geometry": {"coordinates":[125.77083,40.87861],"type":"Point"}
+}

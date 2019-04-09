@@ -1,0 +1,68 @@
+{
+  "id": 1242747893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57056,39.34167,125.57056,39.34167",
+    "geom:latitude":39.34167,
+    "geom:longitude":125.57056,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1869039",
+    "gn:asciiname":"Ch'aryung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889667,
+    "gn:latitude":39.34167,
+    "gn:longitude":125.57056,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Ch\u2019aryung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889667
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6b7aafc3129dee7dd2731dd563fddac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748033,
+            "locality_id":1242747893,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1242747893,
+    "wof:lastmodified":1536817674,
+    "wof:name":"Ch'aryung-ni",
+    "wof:parent_id":1108748033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57056,
+    39.34167,
+    125.57056,
+    39.34167
+],
+  "geometry": {"coordinates":[125.57056,39.34167],"type":"Point"}
+}

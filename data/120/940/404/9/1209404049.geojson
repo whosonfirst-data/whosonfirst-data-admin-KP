@@ -1,0 +1,68 @@
+{
+  "id": 1209404049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68528,38.62278,126.68528,38.62278",
+    "geom:latitude":38.62278,
+    "geom:longitude":126.68528,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chiha-ri",
+    "gn:country_code":"KP",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878900,
+    "gn:latitude":38.62278,
+    "gn:longitude":126.68528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chiha-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc9c0\ud558\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Shika-ri",
+        "Chiha-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878900
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a9899c64fad6c786730fc0b1d45fb63a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209404049
+        }
+    ],
+    "wof:id":1209404049,
+    "wof:lastmodified":1537654825,
+    "wof:name":"Chiha-ri",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68528,
+    38.62278,
+    126.68528,
+    38.62278
+],
+  "geometry": {"coordinates":[126.68528000000001,38.62278],"type":"Point"}
+}

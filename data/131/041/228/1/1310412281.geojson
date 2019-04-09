@@ -1,0 +1,70 @@
+{
+  "id": 1310412281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02694,39.44944,127.02694,39.44944",
+    "geom:latitude":39.44944,
+    "geom:longitude":127.02694,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ando-ri",
+    "gn:country_code":"KP",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888909,
+    "gn:latitude":39.44944,
+    "gn:longitude":127.02694,
+    "gn:modification_date":"2007-03-19",
+    "gn:name":"Ando-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\ub3c4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888909
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"43820595e09ed6941d1bcee7a6278d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746977,
+            "locality_id":1310412281,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1310412281,
+    "wof:lastmodified":1537654910,
+    "wof:name":"Ando-ri",
+    "wof:parent_id":1108746977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02694,
+    39.44944,
+    127.02694,
+    39.44944
+],
+  "geometry": {"coordinates":[127.02694,39.44944],"type":"Point"}
+}

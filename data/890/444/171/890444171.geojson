@@ -1,0 +1,75 @@
+{
+  "id": 890444171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.61556,38.39917,125.61556,38.39917",
+    "geom:latitude":38.39917,
+    "geom:longitude":125.61556,
+    "gn:country":"KP",
+    "gn:fcode":"PPL",
+    "gn:pop":53330,
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7ac\ub839\uc74d"
+    ],
+    "name:unk_x_variant":[
+        "Sainei-men"
+    ],
+    "qs:name":"Chaery\u014fng-\u016dp",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":220,
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879487,
+        "gp:id":1093850,
+        "qs:id":1033408,
+        "wd:id":"Q705265",
+        "wk:page":"Chaeryong County"
+    },
+    "wof:country":"KP",
+    "wof:created":1469052454,
+    "wof:geomhash":"7b2905d7c8b52cc8d428333964d24767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746907,
+            "locality_id":890444171,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":890444171,
+    "wof:lastmodified":1527787056,
+    "wof:name":"Chaery\u014fng-\u016dp",
+    "wof:parent_id":1108746907,
+    "wof:placetype":"locality",
+    "wof:population":53330,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.61556,
+    38.39917,
+    125.61556,
+    38.39917
+],
+  "geometry": {"coordinates":[125.61556,38.39917],"type":"Point"}
+}

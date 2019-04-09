@@ -1,0 +1,67 @@
+{
+  "id": 1343453187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.07778,37.9325,126.07778,37.9325",
+    "geom:latitude":37.9325,
+    "geom:longitude":126.07778,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tokkogae",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868112,
+    "gn:latitude":37.9325,
+    "gn:longitude":126.07778,
+    "gn:modification_date":"2003-01-09",
+    "gn:name":"T\u014fkkogae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868112
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f00ed84a97cc24518873440752e4c821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1343453187,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1343453187,
+    "wof:lastmodified":1536756819,
+    "wof:name":"Tokkogae",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.07778,
+    37.9325,
+    126.07778,
+    37.9325
+],
+  "geometry": {"coordinates":[126.07778,37.9325],"type":"Point"}
+}

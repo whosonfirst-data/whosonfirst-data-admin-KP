@@ -1,0 +1,67 @@
+{
+  "id": 1259463535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17639,39.83972,125.17639,39.83972",
+    "geom:latitude":39.83972,
+    "geom:longitude":125.17639,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Oryong",
+    "gn:country_code":"KP",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873103,
+    "gn:latitude":39.83972,
+    "gn:longitude":125.17639,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Oryong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873103
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e8df1fd0a107bcf39d4528bab31b5fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747859,
+            "locality_id":1259463535,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259463535,
+    "wof:lastmodified":1536887031,
+    "wof:name":"Oryong",
+    "wof:parent_id":1108747859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17638999999998,
+    39.83972,
+    125.17638999999998,
+    39.83972
+],
+  "geometry": {"coordinates":[125.17638999999998,39.83972],"type":"Point"}
+}

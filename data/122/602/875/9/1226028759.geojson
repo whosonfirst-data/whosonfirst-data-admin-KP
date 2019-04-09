@@ -1,0 +1,71 @@
+{
+  "id": 1226028759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.79861,38.70528,127.79861,38.70528",
+    "geom:latitude":38.70528,
+    "geom:longitude":127.79861,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Pangyon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872703,
+    "gn:latitude":38.70528,
+    "gn:longitude":127.79861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pangy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubc29\uc5f0\ub3d9",
+        "Pangy\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872703
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"236e6090bffb75372dded7bab9ebca37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747853,
+            "locality_id":1226028759,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226028759,
+    "wof:lastmodified":1537654495,
+    "wof:name":"Pangyon-dong",
+    "wof:parent_id":1108747853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.79861,
+    38.70528,
+    127.79861,
+    38.70528
+],
+  "geometry": {"coordinates":[127.79861,38.70528],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309995231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.4725,38.69306,127.4725,38.69306",
+    "geom:latitude":38.69306,
+    "geom:longitude":127.4725,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kurimok",
+    "gn:country_code":"KP",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889017,
+    "gn:latitude":38.69306,
+    "gn:longitude":127.4725,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kurimok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad6c\ub9ac\ubaa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889017
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bfe57f12285a48cb812e7b3f79437545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747119,
+            "locality_id":1309995231,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1309995231,
+    "wof:lastmodified":1537654916,
+    "wof:name":"Kurimok",
+    "wof:parent_id":1108747119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.4725,
+    38.69306,
+    127.4725,
+    38.69306
+],
+  "geometry": {"coordinates":[127.4725,38.69306],"type":"Point"}
+}

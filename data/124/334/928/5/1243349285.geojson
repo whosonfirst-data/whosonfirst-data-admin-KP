@@ -1,0 +1,73 @@
+{
+  "id": 1243349285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.53167,38.6075,125.53167,38.6075",
+    "geom:latitude":38.6075,
+    "geom:longitude":125.53167,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chong-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6407411,
+    "gn:latitude":38.6075,
+    "gn:longitude":125.53167,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u014fng-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc815\ucd0c"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u014fng-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6407411
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"39246850500b899d89356cb8e3333835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747207,
+            "locality_id":1243349285,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243349285,
+    "wof:lastmodified":1537655933,
+    "wof:name":"Chong-ch'on",
+    "wof:parent_id":1108747207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.53167,
+    38.6075,
+    125.53167,
+    38.6075
+],
+  "geometry": {"coordinates":[125.53167000000001,38.6075],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226343495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.02472,39.60917,127.02472,39.60917",
+    "geom:latitude":39.60917,
+    "geom:longitude":127.02472,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"P'yongandok",
+    "gn:country_code":"KP",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367273,
+    "gn:latitude":39.60917,
+    "gn:longitude":127.02472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019y\u014fngand\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\uc548\ub355"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019y\u014fngand\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367273
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"426aae5ea095f77b61288f1a91a6c64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748103,
+            "locality_id":1226343495,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1226343495,
+    "wof:lastmodified":1537655910,
+    "wof:name":"P'yongandok",
+    "wof:parent_id":1108748103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.02472,
+    39.60917,
+    127.02472,
+    39.60917
+],
+  "geometry": {"coordinates":[127.02472,39.60917],"type":"Point"}
+}

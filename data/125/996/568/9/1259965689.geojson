@@ -1,0 +1,73 @@
+{
+  "id": 1259965689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.67956,41.41553,127.67956,41.41553",
+    "geom:latitude":41.41553,
+    "geom:longitude":127.67956,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Top'yong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039713,
+    "gn:latitude":41.41553,
+    "gn:longitude":127.67956,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Top\u2019y\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\ud3c9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Top\u2019y\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039713
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2e235d43b762b731871ec3457c32cf79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746961,
+            "locality_id":1259965689,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1259965689,
+    "wof:lastmodified":1537655184,
+    "wof:name":"Top'yong-ni",
+    "wof:parent_id":1108746961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.67956,
+    41.41553,
+    127.67956,
+    41.41553
+],
+  "geometry": {"coordinates":[127.67956,41.41553],"type":"Point"}
+}

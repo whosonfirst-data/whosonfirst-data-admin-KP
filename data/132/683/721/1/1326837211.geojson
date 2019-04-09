@@ -1,0 +1,72 @@
+{
+  "id": 1326837211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.21806,39.49083,127.21806,39.49083",
+    "geom:latitude":39.49083,
+    "geom:longitude":127.21806,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"K\u016dmya-gun",
+    "gn:asciiname":"Hagoun-ni",
+    "gn:country_code":"KP",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952545,
+    "gn:latitude":39.49083,
+    "gn:longitude":127.21806,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hago\u016dn-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hago\u016dn-ni",
+        "\ud558\uace0\uc74d\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952545
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3bd616a81ca32dbea93ca89a0a8bdd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1326837211,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1326837211,
+    "wof:lastmodified":1537655112,
+    "wof:name":"Hagoun-ni",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.21806,
+    39.49083,
+    127.21806,
+    39.49083
+],
+  "geometry": {"coordinates":[127.21805999999999,39.49083],"type":"Point"}
+}

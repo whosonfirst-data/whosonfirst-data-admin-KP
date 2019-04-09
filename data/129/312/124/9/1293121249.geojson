@@ -1,0 +1,72 @@
+{
+  "id": 1293121249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.41917,38.21722,126.41917,38.21722",
+    "geom:latitude":38.21722,
+    "geom:longitude":126.41917,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"P'iltae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872620,
+    "gn:latitude":38.21722,
+    "gn:longitude":126.41917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019iltae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puttae-ri",
+        "\ud544\ub300\ub9ac",
+        "P\u2019iltae-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872620
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f573438c6ccb4049ec5c7d07d955e3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747851,
+            "locality_id":1293121249,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293121249,
+    "wof:lastmodified":1537654491,
+    "wof:name":"P'iltae-ri",
+    "wof:parent_id":1108747851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.41917,
+    38.21722000000001,
+    126.41917,
+    38.21722000000001
+],
+  "geometry": {"coordinates":[126.41916999999999,38.21722000000001],"type":"Point"}
+}

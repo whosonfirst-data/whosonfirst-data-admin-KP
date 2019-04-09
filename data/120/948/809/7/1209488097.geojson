@@ -1,0 +1,62 @@
+{
+  "id": 1209488097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.52361,39.27444,125.52361,39.27444",
+    "geom:latitude":39.27444,
+    "geom:longitude":125.52361,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1871865",
+    "gn:asciiname":"Obong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950731,
+    "gn:latitude":39.27444,
+    "gn:longitude":125.52361,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Obong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950731
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f941bfc8ddcc957c48510e4cf39d4d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209488097
+        }
+    ],
+    "wof:id":1209488097,
+    "wof:lastmodified":1536285573,
+    "wof:name":"Obong-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.52361,
+    39.27444000000001,
+    125.52361,
+    39.27444000000001
+],
+  "geometry": {"coordinates":[125.52361000000001,39.27444000000001],"type":"Point"}
+}

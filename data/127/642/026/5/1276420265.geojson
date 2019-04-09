@@ -1,0 +1,74 @@
+{
+  "id": 1276420265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58194,38.81722,125.58194,38.81722",
+    "geom:latitude":38.81722,
+    "geom:longitude":125.58194,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sinanp'o-ri",
+    "gn:country_code":"KP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870736,
+    "gn:latitude":38.81722,
+    "gn:longitude":125.58194,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Sinanp\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uc548\ud3ec\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Sinanp\u2019o-ri",
+        "Sinanpori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870736
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c867d55424060bf813195e51847da0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747815,
+            "locality_id":1276420265,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276420265,
+    "wof:lastmodified":1537654395,
+    "wof:name":"Sinanp'o-ri",
+    "wof:parent_id":1108747815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58194,
+    38.81722,
+    125.58194,
+    38.81722
+],
+  "geometry": {"coordinates":[125.58194,38.81722],"type":"Point"}
+}

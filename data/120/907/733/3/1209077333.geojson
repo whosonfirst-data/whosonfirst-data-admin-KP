@@ -1,0 +1,66 @@
+{
+  "id": 1209077333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.41111,41.43722,128.41111,41.43722",
+    "geom:latitude":41.43722,
+    "geom:longitude":128.41111,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Toksoksin'gok",
+    "gn:country_code":"KP",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039907,
+    "gn:latitude":41.43722,
+    "gn:longitude":128.41111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u014fksoksin\u2019gok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u014fksok-Sae-Kol",
+        "T\u014fksoksae-gol",
+        "T\u014fksoksin\u2019gok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039907
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"276b31c7826c53d640091dfcfee257ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209077333
+        }
+    ],
+    "wof:id":1209077333,
+    "wof:lastmodified":1537655195,
+    "wof:name":"Toksoksin'gok",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.41111,
+    41.43722,
+    128.41111,
+    41.43722
+],
+  "geometry": {"coordinates":[128.41111000000001,41.43722],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326695941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.26806,42.22222,130.26806,42.22222",
+    "geom:latitude":42.22222,
+    "geom:longitude":130.26806,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Yuhyon-dong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2038867,
+    "gn:latitude":42.22222,
+    "gn:longitude":130.26806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yuhy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuhy\u014fn-ni",
+        "\uc720\ud604\ub3d9",
+        "Yuhy\u014fl-li",
+        "Yuhy\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676647,
+        1108747091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038867
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ec1b82f659212b278fbce7c44498ffff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747091,
+            "locality_id":1326695941,
+            "region_id":85676647
+        }
+    ],
+    "wof:id":1326695941,
+    "wof:lastmodified":1537655133,
+    "wof:name":"Yuhyon-dong",
+    "wof:parent_id":1108747091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.26806000000002,
+    42.22222,
+    130.26806000000002,
+    42.22222
+],
+  "geometry": {"coordinates":[130.26806000000002,42.22222],"type":"Point"}
+}

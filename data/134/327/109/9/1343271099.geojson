@@ -1,0 +1,71 @@
+{
+  "id": 1343271099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.59222,41.01,126.59222,41.01",
+    "geom:latitude":41.01,
+    "geom:longitude":126.59222,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kodang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282784,
+    "gn:latitude":41.01,
+    "gn:longitude":126.59222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kodang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uace0\ub2f9\ub3d9",
+        "Kodang-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282784
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a86614534628282574a2f97a074cc8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747813,
+            "locality_id":1343271099,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1343271099,
+    "wof:lastmodified":1537655789,
+    "wof:name":"Kodang-dong",
+    "wof:parent_id":1108747813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.59222,
+    41.01,
+    126.59222,
+    41.01
+],
+  "geometry": {"coordinates":[126.59222,41.01],"type":"Point"}
+}

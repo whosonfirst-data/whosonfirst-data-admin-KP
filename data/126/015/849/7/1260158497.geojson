@@ -1,0 +1,70 @@
+{
+  "id": 1260158497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.27028,40.03472,125.27028,40.03472",
+    "geom:latitude":40.03472,
+    "geom:longitude":125.27028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kuram-ni",
+    "gn:country_code":"KP",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2048789,
+    "gn:latitude":40.03472,
+    "gn:longitude":125.27028,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kuram-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uad74\uc554\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2048789
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"163efc6a6cdb746c494d2e376c7e5d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748041,
+            "locality_id":1260158497,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1260158497,
+    "wof:lastmodified":1537655521,
+    "wof:name":"Kuram-ni",
+    "wof:parent_id":1108748041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.27028,
+    40.03472,
+    125.27028,
+    40.03472
+],
+  "geometry": {"coordinates":[125.27028,40.03472],"type":"Point"}
+}

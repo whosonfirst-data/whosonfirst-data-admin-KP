@@ -1,0 +1,65 @@
+{
+  "id": 1277154661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.66667,39.53333,124.66667,39.53333",
+    "geom:latitude":39.53333,
+    "geom:longitude":124.66667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"K'unp'andegi",
+    "gn:country_code":"KP",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875195,
+    "gn:latitude":39.53333,
+    "gn:longitude":124.66667,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"K\u2019\u016dnp\u2019andegi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taep\u2019an",
+        "K\u2019\u016dnp\u2019andegi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875195
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5f5cc6c3accaa5e52c479d5db8c853be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277154661,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277154661,
+    "wof:lastmodified":1537654614,
+    "wof:name":"K'unp'andegi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.66667,
+    39.53333,
+    124.66667,
+    39.53333
+],
+  "geometry": {"coordinates":[124.66667,39.53333],"type":"Point"}
+}

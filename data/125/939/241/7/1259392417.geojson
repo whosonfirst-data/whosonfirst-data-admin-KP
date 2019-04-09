@@ -1,0 +1,70 @@
+{
+  "id": 1259392417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4,38.33333,125.4,38.33333",
+    "geom:latitude":38.33333,
+    "geom:longitude":125.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Andol-gol",
+    "gn:country_code":"KP",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879666,
+    "gn:latitude":38.33333,
+    "gn:longitude":125.4,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Andol-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\ub3cc\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879666
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fe77e787cafb2f2133d3d87f80d75ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747123,
+            "locality_id":1259392417,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259392417,
+    "wof:lastmodified":1537654871,
+    "wof:name":"Andol-gol",
+    "wof:parent_id":1108747123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4,
+    38.33333,
+    125.4,
+    38.33333
+],
+  "geometry": {"coordinates":[125.40000000000001,38.33333],"type":"Point"}
+}

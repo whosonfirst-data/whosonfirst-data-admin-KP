@@ -1,0 +1,68 @@
+{
+  "id": 1242845653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.95361,40.80972,127.95361,40.80972",
+    "geom:latitude":40.80972,
+    "geom:longitude":127.95361,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"2041726",
+    "gn:asciiname":"Nohung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042465,
+    "gn:latitude":40.80972,
+    "gn:longitude":127.95361,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Noh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042465
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"93bc6c623753ad9dba950a42acb99828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746959,
+            "locality_id":1242845653,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1242845653,
+    "wof:lastmodified":1536677647,
+    "wof:name":"Nohung-ni",
+    "wof:parent_id":1108746959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.95361,
+    40.80972,
+    127.95361,
+    40.80972
+],
+  "geometry": {"coordinates":[127.95361,40.80972],"type":"Point"}
+}

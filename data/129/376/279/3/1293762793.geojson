@@ -1,0 +1,68 @@
+{
+  "id": 1293762793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.93667,40.76528,127.93667,40.76528",
+    "geom:latitude":40.76528,
+    "geom:longitude":127.93667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"2041726",
+    "gn:asciiname":"Kwangdaep'yong",
+    "gn:country_code":"KP",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055491,
+    "gn:latitude":40.76528,
+    "gn:longitude":127.93667,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Kwangdaep\u2019y\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055491
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f9bf39273c623bce43afd8ea9276a71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747049,
+            "locality_id":1293762793,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1293762793,
+    "wof:lastmodified":1536886818,
+    "wof:name":"Kwangdaep'yong",
+    "wof:parent_id":1108747049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.93667,
+    40.76528,
+    127.93667,
+    40.76528
+],
+  "geometry": {"coordinates":[127.93667000000001,40.76528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260176623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17722,37.94083,125.17722,37.94083",
+    "geom:latitude":37.94083,
+    "geom:longitude":125.17722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ch'oe-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6369602,
+    "gn:latitude":37.94083,
+    "gn:longitude":125.17722,
+    "gn:modification_date":"2007-03-19",
+    "gn:name":"Ch\u2019oe-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6369602
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fecfd86b6bb8adde9d2a01b49a1a2e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1260176623,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1260176623,
+    "wof:lastmodified":1536856262,
+    "wof:name":"Ch'oe-ch'on",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17722,
+    37.94083,
+    125.17722,
+    37.94083
+],
+  "geometry": {"coordinates":[125.17722000000001,37.94083],"type":"Point"}
+}

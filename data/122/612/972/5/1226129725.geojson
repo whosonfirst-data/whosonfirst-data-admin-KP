@@ -1,0 +1,71 @@
+{
+  "id": 1226129725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.38417,40.05278,124.38417,40.05278",
+    "geom:latitude":40.05278,
+    "geom:longitude":124.38417,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Toktaesogok",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2056794,
+    "gn:latitude":40.05278,
+    "gn:longitude":124.38417,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u014fktaes\u014fgok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub355\ub300\uc11c\uace1",
+        "T\u014fktaes\u014fgok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2056794
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b31f6d1d6308539a19bf68f6c4352748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748005,
+            "locality_id":1226129725,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1226129725,
+    "wof:lastmodified":1537655661,
+    "wof:name":"Toktaesogok",
+    "wof:parent_id":1108748005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.38417,
+    40.05278,
+    124.38417,
+    40.05278
+],
+  "geometry": {"coordinates":[124.38417,40.05278],"type":"Point"}
+}

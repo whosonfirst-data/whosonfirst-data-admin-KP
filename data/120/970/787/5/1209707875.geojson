@@ -1,0 +1,67 @@
+{
+  "id": 1209707875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.81694,38.0575,124.81694,38.0575",
+    "geom:latitude":38.0575,
+    "geom:longitude":124.81694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Wollae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867072,
+    "gn:latitude":38.0575,
+    "gn:longitude":124.81694,
+    "gn:modification_date":"2017-08-11",
+    "gn:name":"W\u014fllae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wolnae-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\ub798\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867072
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"50a4a556171f8a63373628e4122a174c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209707875,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209707875,
+    "wof:lastmodified":1537654214,
+    "wof:name":"Wollae-dong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.81694,
+    38.0575,
+    124.81694,
+    38.0575
+],
+  "geometry": {"coordinates":[124.81694,38.0575],"type":"Point"}
+}

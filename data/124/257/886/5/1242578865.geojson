@@ -1,0 +1,73 @@
+{
+  "id": 1242578865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.11278,40.10566,128.11278,40.10566",
+    "geom:latitude":40.10566,
+    "geom:longitude":128.11278,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tajon-li",
+    "gn:country_code":"KP",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040077,
+    "gn:latitude":40.10566,
+    "gn:longitude":128.11278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taj\u014fn-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taden-ri",
+        "Taj\u014fn-li",
+        "\ub2e4\uc804\ub9ac",
+        "Taj\u014fn-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040077
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"44a3aa9a6c62a53c1aa3e7945b61958a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746889,
+            "locality_id":1242578865,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1242578865,
+    "wof:lastmodified":1537655207,
+    "wof:name":"Tajon-li",
+    "wof:parent_id":1108746889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.11278,
+    40.10566,
+    128.11278,
+    40.10566
+],
+  "geometry": {"coordinates":[128.11277999999999,40.10566],"type":"Point"}
+}

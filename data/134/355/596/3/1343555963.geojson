@@ -1,0 +1,68 @@
+{
+  "id": 1343555963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.66444,38.07611,126.66444,38.07611",
+    "geom:latitude":38.07611,
+    "geom:longitude":126.66444,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Changp\u2019ung-gun",
+    "gn:asciiname":"Sinch'on-dong",
+    "gn:country_code":"KP",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1890676,
+    "gn:latitude":38.07611,
+    "gn:longitude":126.66444,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Sinch\u2019on-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108746915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1890676
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0b5bcf20826bbbc1569ad4da81fc1d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746915,
+            "locality_id":1343555963,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343555963,
+    "wof:lastmodified":1536605456,
+    "wof:name":"Sinch'on-dong",
+    "wof:parent_id":1108746915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.66443999999998,
+    38.07611,
+    126.66443999999998,
+    38.07611
+],
+  "geometry": {"coordinates":[126.66443999999998,38.07611],"type":"Point"}
+}

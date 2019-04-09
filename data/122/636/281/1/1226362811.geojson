@@ -1,0 +1,73 @@
+{
+  "id": 1226362811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.33,38.46833,126.33,38.46833",
+    "geom:latitude":38.46833,
+    "geom:longitude":126.33,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Togam-ni",
+    "gn:country_code":"KP",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891204,
+    "gn:latitude":38.46833,
+    "gn:longitude":126.33,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u014fgam-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub355\uc554\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "T\u014fgam-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891204
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"19d41de70bb1d5a2ef92e23e1895ff68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":1226362811,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226362811,
+    "wof:lastmodified":1537654974,
+    "wof:name":"Togam-ni",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.33,
+    38.46833,
+    126.33,
+    38.46833
+],
+  "geometry": {"coordinates":[126.33,38.46833],"type":"Point"}
+}

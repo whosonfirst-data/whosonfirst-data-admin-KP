@@ -1,0 +1,73 @@
+{
+  "id": 1293756361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.07139,39.38194,126.07139,39.38194",
+    "geom:latitude":39.38194,
+    "geom:longitude":126.07139,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Unsan-nodongjagu",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867238,
+    "gn:latitude":39.38194,
+    "gn:longitude":126.07139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u016cnsan-nodongjagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Insan",
+        "W\u014fnsan-ni",
+        "\u016cnsan-nodongjagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867238
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f618d02085111ed85730a538349254ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748091,
+            "locality_id":1293756361,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1293756361,
+    "wof:lastmodified":1537654222,
+    "wof:name":"Unsan-nodongjagu",
+    "wof:parent_id":1108748091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.07139,
+    39.38194,
+    126.07139,
+    39.38194
+],
+  "geometry": {"coordinates":[126.07138999999999,39.38194],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293893261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.26667,40.11667,127.26667,40.11667",
+    "geom:latitude":40.11667,
+    "geom:longitude":127.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sinch'ang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2041088,
+    "gn:latitude":40.11667,
+    "gn:longitude":127.26667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Sinch\u2019ang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ucc3d\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Sinch\u2019ang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041088
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"af83ce9aa0612234ffa0d2ac65e4715d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748109,
+            "locality_id":1293893261,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293893261,
+    "wof:lastmodified":1537655265,
+    "wof:name":"Sinch'ang-ni",
+    "wof:parent_id":1108748109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.26667,
+    40.11667,
+    127.26667,
+    40.11667
+],
+  "geometry": {"coordinates":[127.26667,40.11667],"type":"Point"}
+}

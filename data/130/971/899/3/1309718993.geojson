@@ -1,0 +1,74 @@
+{
+  "id": 1309718993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3775,39.44278,127.3775,39.44278",
+    "geom:latitude":39.44278,
+    "geom:longitude":127.3775,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"K\u016dmya-gun",
+    "gn:asciiname":"Yangt'al-li",
+    "gn:country_code":"KP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866673,
+    "gn:latitude":39.44278,
+    "gn:longitude":127.3775,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yangt\u2019al-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangt\u2019an",
+        "Yangt\u2019an-ni",
+        "Yangt\u2019al-li",
+        "\ub7c9\ud0c4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866673
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b4f8c1713d786c9d110eeea0788102e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1309718993,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1309718993,
+    "wof:lastmodified":1537654193,
+    "wof:name":"Yangt'al-li",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3775,
+    39.44278,
+    127.3775,
+    39.44278
+],
+  "geometry": {"coordinates":[127.3775,39.44278],"type":"Point"}
+}

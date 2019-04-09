@@ -1,0 +1,73 @@
+{
+  "id": 1293363149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.29389,38.95167,125.29389,38.95167",
+    "geom:latitude":38.95167,
+    "geom:longitude":125.29389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pisokko-ri",
+    "gn:country_code":"KP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872587,
+    "gn:latitude":38.95167,
+    "gn:longitude":125.29389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pis\u014fkk\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pisokkol",
+        "Pis\u014fkka",
+        "\ube44\uc11d\uac70\ub9ac",
+        "Pis\u014fkk\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108747027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872587
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5ec035ebd6d6fac5bc0829769a117d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747027,
+            "locality_id":1293363149,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1293363149,
+    "wof:lastmodified":1537654489,
+    "wof:name":"Pisokko-ri",
+    "wof:parent_id":1108747027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.29389,
+    38.95167,
+    125.29389,
+    38.95167
+],
+  "geometry": {"coordinates":[125.29389,38.95167],"type":"Point"}
+}

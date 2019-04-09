@@ -1,0 +1,67 @@
+{
+  "id": 1343947235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.19194,38.74278,127.19194,38.74278",
+    "geom:latitude":38.74278,
+    "geom:longitude":127.19194,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kuryongdae",
+    "gn:country_code":"KP",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1927032,
+    "gn:latitude":38.74278,
+    "gn:longitude":127.19194,
+    "gn:modification_date":"2002-02-20",
+    "gn:name":"Kury\u014fngdae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1927032
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"35a29e5a52cb18ea86fd5e246334c1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747119,
+            "locality_id":1343947235,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1343947235,
+    "wof:lastmodified":1537037512,
+    "wof:name":"Kuryongdae",
+    "wof:parent_id":1108747119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.19194,
+    38.74278,
+    127.19194,
+    38.74278
+],
+  "geometry": {"coordinates":[127.19194,38.74278],"type":"Point"}
+}

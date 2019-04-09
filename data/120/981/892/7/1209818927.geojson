@@ -1,0 +1,73 @@
+{
+  "id": 1209818927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.99472,40.83917,125.99472,40.83917",
+    "geom:latitude":40.83917,
+    "geom:longitude":125.99472,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sinyol-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040878,
+    "gn:latitude":40.83917,
+    "gn:longitude":125.99472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Siny\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siny\u014fn-dong",
+        "Siny\u014fn-ni",
+        "Siny\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040878
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1a1d495fecea9d4af28a14a9556462a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747227,
+            "locality_id":1209818927,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1209818927,
+    "wof:lastmodified":1537655251,
+    "wof:name":"Sinyol-li",
+    "wof:parent_id":1108747227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.99472,
+    40.83917,
+    125.99472,
+    40.83917
+],
+  "geometry": {"coordinates":[125.99472,40.83917],"type":"Point"}
+}

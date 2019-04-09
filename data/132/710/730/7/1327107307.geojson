@@ -1,0 +1,73 @@
+{
+  "id": 1327107307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.96528,39.21917,125.96528,39.21917",
+    "geom:latitude":39.21917,
+    "geom:longitude":125.96528,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Songu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1929355,
+    "gn:latitude":39.21917,
+    "gn:longitude":125.96528,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Songu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\uc6b0\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Songudong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1929355
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fb00aebdf01827f50a1732dbc0479816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747949,
+            "locality_id":1327107307,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1327107307,
+    "wof:lastmodified":1537655058,
+    "wof:name":"Songu-dong",
+    "wof:parent_id":1108747949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.96528,
+    39.21917,
+    125.96528,
+    39.21917
+],
+  "geometry": {"coordinates":[125.96528000000001,39.21917],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310319629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.47361,39.64972,125.47361,39.64972",
+    "geom:latitude":39.64972,
+    "geom:longitude":125.47361,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Songsan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869396,
+    "gn:latitude":39.64972,
+    "gn:longitude":125.47361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fngsan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc131\uc0c1\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fngsan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869396
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e9b0bd4bb0727dde2ea94c954322af2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747213,
+            "locality_id":1310319629,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1310319629,
+    "wof:lastmodified":1537654328,
+    "wof:name":"Songsan-dong",
+    "wof:parent_id":1108747213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.47361,
+    39.64972,
+    125.47361,
+    39.64972
+],
+  "geometry": {"coordinates":[125.47360999999999,39.64972],"type":"Point"}
+}

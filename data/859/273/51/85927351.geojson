@@ -1,0 +1,101 @@
+{
+  "id": 85927351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":45517071.20202,
+    "geom:bbox":"126.384996,37.434675,126.384996,37.434675",
+    "geom:latitude":37.434675,
+    "geom:longitude":126.384996,
+    "gn:latitude":38.06194,
+    "gn:longitude":125.885,
+    "iso:country":"KP",
+    "lbl:latitude":37.434675,
+    "lbl:longitude":126.384996,
+    "mps:latitude":37.438875,
+    "mps:longitude":126.397355,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:kor_x_preferred":[
+        "\uc6a9\uc720\ub3d9"
+    ],
+    "name:unk_x_variant":[
+        "\uc6a9\uc720\ub3d9"
+    ],
+    "qs:gn_adm0_cc":"KR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1843564,
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Yongsu-dong",
+    "qs:local_max":2394,
+    "qs:local_sum":10431,
+    "qs:localhoods":47,
+    "qs:name":"\uc6a9\uc720\ub3d9",
+    "qs:name_adm0":"\ud55c\uad6d",
+    "qs:name_adm1":"\uc778\ucc9c",
+    "qs:name_adm2":"\uc911\uad6c",
+    "qs:name_lau":"\uc6a9\uc720\ub3d9",
+    "qs:name_local":"\uc778\ucc9c",
+    "qs:photo_max":243,
+    "qs:photo_sum":837,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":57,
+    "qs:woe_adm0":23424868,
+    "qs:woe_adm1":20069922,
+    "qs:woe_adm2":28289230,
+    "qs:woe_lau":28806310,
+    "qs:woe_local":1132496,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866076,
+        "gp:id":28995153,
+        "qs:id":241689
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0ef027a06e69e62d4f9da797be76536c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85927351,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85927351,
+    "wof:lang":[
+        "kor"
+    ],
+    "wof:lastmodified":1531938942,
+    "wof:name":"\uc6a9\uc720\ub3d9",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.384996,
+    37.434675,
+    126.384996,
+    37.434675
+],
+  "geometry": {"coordinates":[126.384996,37.434675],"type":"Point"}
+}

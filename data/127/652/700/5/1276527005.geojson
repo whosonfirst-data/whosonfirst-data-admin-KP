@@ -1,0 +1,67 @@
+{
+  "id": 1276527005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.85417,41.29028,127.85417,41.29028",
+    "geom:latitude":41.29028,
+    "geom:longitude":127.85417,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yonggyo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2046235,
+    "gn:latitude":41.29028,
+    "gn:longitude":127.85417,
+    "gn:modification_date":"2002-03-08",
+    "gn:name":"Yonggyo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2046235
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5d43e27c095a0aeb9e9a43dcbd4a9995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747113,
+            "locality_id":1276527005,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1276527005,
+    "wof:lastmodified":1537015847,
+    "wof:name":"Yonggyo-ri",
+    "wof:parent_id":1108747113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.85417,
+    41.29028,
+    127.85417,
+    41.29028
+],
+  "geometry": {"coordinates":[127.85417,41.29028],"type":"Point"}
+}

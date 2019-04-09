@@ -1,0 +1,65 @@
+{
+  "id": 1209502385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.27222,39.86694,126.27222,39.86694",
+    "geom:latitude":39.86694,
+    "geom:longitude":126.27222,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sindok-tong",
+    "gn:country_code":"KP",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892427,
+    "gn:latitude":39.86694,
+    "gn:longitude":126.27222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sind\u014fk-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc2e0\ub355\ub3d9",
+        "Sind\u014fk-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892427
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f9902bb4a84d121882ac8f009c78c586",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209502385
+        }
+    ],
+    "wof:id":1209502385,
+    "wof:lastmodified":1537655021,
+    "wof:name":"Sindok-tong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.27222,
+    39.86694,
+    126.27222,
+    39.86694
+],
+  "geometry": {"coordinates":[126.27222,39.86694],"type":"Point"}
+}

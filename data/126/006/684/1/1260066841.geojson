@@ -1,0 +1,68 @@
+{
+  "id": 1260066841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.04944,38.80833,126.04944,38.80833",
+    "geom:latitude":38.80833,
+    "geom:longitude":126.04944,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Sangw\u014fn-gun",
+    "gn:asciiname":"Taehungnisaet'o",
+    "gn:country_code":"KP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949928,
+    "gn:latitude":38.80833,
+    "gn:longitude":126.04944,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Taeh\u016dngnisaet\u2019\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949928
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"101a160f180b7b057890d404959da0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":1260066841,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1260066841,
+    "wof:lastmodified":1537011310,
+    "wof:name":"Taehungnisaet'o",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.04944,
+    38.80833,
+    126.04944,
+    38.80833
+],
+  "geometry": {"coordinates":[126.04944,38.80833],"type":"Point"}
+}

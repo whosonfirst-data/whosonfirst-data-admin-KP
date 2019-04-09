@@ -1,0 +1,67 @@
+{
+  "id": 1343782321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.01194,38.66306,126.01194,38.66306",
+    "geom:latitude":38.66306,
+    "geom:longitude":126.01194,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hwangsanjom",
+    "gn:country_code":"KP",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891108,
+    "gn:latitude":38.66306,
+    "gn:longitude":126.01194,
+    "gn:modification_date":"2003-03-31",
+    "gn:name":"Hwangsanj\u014fm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891108
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2ca5aa536c5fd633c6366c87647b3eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748117,
+            "locality_id":1343782321,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343782321,
+    "wof:lastmodified":1536779999,
+    "wof:name":"Hwangsanjom",
+    "wof:parent_id":1108748117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.01194,
+    38.66306,
+    126.01194,
+    38.66306
+],
+  "geometry": {"coordinates":[126.01194,38.66306],"type":"Point"}
+}

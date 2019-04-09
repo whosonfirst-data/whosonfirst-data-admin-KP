@@ -1,0 +1,74 @@
+{
+  "id": 1225834377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.78333,38.45083,127.78333,38.45083",
+    "geom:latitude":38.45083,
+    "geom:longitude":127.78333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Ch\u2019angdo-gun",
+    "gn:asciiname":"Masach'on",
+    "gn:country_code":"KP",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874496,
+    "gn:latitude":38.45083,
+    "gn:longitude":127.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Masach\u2019\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bashisen",
+        "Taejon-ni",
+        "Mashisen",
+        "Masach\u2019\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874496
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8b6817ee4e3a9bebe8252737e8137616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746849,
+            "locality_id":1225834377,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1225834377,
+    "wof:lastmodified":1537654580,
+    "wof:name":"Masach'on",
+    "wof:parent_id":1108746849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.78333,
+    38.45083,
+    127.78333,
+    38.45083
+],
+  "geometry": {"coordinates":[127.78333000000001,38.45083],"type":"Point"}
+}

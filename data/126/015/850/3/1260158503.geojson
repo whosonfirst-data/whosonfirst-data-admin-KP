@@ -1,0 +1,73 @@
+{
+  "id": 1260158503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.43333,39.69778,125.43333,39.69778",
+    "geom:latitude":39.69778,
+    "geom:longitude":125.43333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"P'yongjiwon",
+    "gn:country_code":"KP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871910,
+    "gn:latitude":39.69778,
+    "gn:longitude":125.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019y\u014fngjiw\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud3c9\uc9c0\uc6d0"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019y\u014fngjiw\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871910
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cda50d0a09efb231600397ea15a898a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747213,
+            "locality_id":1260158503,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1260158503,
+    "wof:lastmodified":1537654456,
+    "wof:name":"P'yongjiwon",
+    "wof:parent_id":1108747213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.43333,
+    39.69778,
+    125.43333,
+    39.69778
+],
+  "geometry": {"coordinates":[125.43333,39.69778],"type":"Point"}
+}

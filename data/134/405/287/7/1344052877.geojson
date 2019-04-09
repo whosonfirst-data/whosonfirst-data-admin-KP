@@ -1,0 +1,67 @@
+{
+  "id": 1344052877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.24083,38.40389,126.24083,38.40389",
+    "geom:latitude":38.40389,
+    "geom:longitude":126.24083,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chugyo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948209,
+    "gn:latitude":38.40389,
+    "gn:longitude":126.24083,
+    "gn:modification_date":"2000-09-01",
+    "gn:name":"Chugyo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948209
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bb529750b78cc19ee6f6eb82ae6aaa88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":1344052877,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1344052877,
+    "wof:lastmodified":1536886111,
+    "wof:name":"Chugyo-ri",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.24083,
+    38.40389,
+    126.24083,
+    38.40389
+],
+  "geometry": {"coordinates":[126.24083,38.40389],"type":"Point"}
+}

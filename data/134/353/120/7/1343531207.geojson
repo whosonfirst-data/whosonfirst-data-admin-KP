@@ -1,0 +1,81 @@
+{
+  "id": 1343531207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.61222,38.72333,125.61222,38.72333",
+    "geom:latitude":38.72333,
+    "geom:longitude":125.61222,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kijinp'o",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875994,
+    "gn:latitude":38.72333,
+    "gn:longitude":125.61222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kijinp\u2019o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae30\uc9c4\ud3ec"
+    ],
+    "name:kor_x_variant":[
+        "Kijinp\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747969,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875994
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"840c89d5976fd3a414367bb613cae354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1343531207,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1343531207,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1343531207,
+    "wof:lastmodified":1537654659,
+    "wof:name":"Kijinp'o",
+    "wof:parent_id":1108747969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.61222,
+    38.72333,
+    125.61222,
+    38.72333
+],
+  "geometry": {"coordinates":[125.61221999999999,38.72333],"type":"Point"}
+}

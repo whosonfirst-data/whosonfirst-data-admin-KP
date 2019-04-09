@@ -1,0 +1,72 @@
+{
+  "id": 1360154675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.42417,39.09194,125.42417,39.09194",
+    "geom:latitude":39.09194,
+    "geom:longitude":125.42417,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tokjom",
+    "gn:country_code":"KP",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868114,
+    "gn:latitude":39.09194,
+    "gn:longitude":125.42417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tokj\u014fm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ongj\u014fm",
+        "Tokjom",
+        "Tokj\u014fm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868114
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c6f4d42e83d094525c67f2befc5ed998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747801,
+            "locality_id":1360154675,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1360154675,
+    "wof:lastmodified":1537654265,
+    "wof:name":"Tokjom",
+    "wof:parent_id":1108747801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.42417,
+    39.09194,
+    125.42417,
+    39.09194
+],
+  "geometry": {"coordinates":[125.42417,39.09194],"type":"Point"}
+}

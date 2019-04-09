@@ -1,0 +1,70 @@
+{
+  "id": 1259976653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.49194,38.66389,125.49194,38.66389",
+    "geom:latitude":38.66389,
+    "geom:longitude":125.49194,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hamun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877440,
+    "gn:latitude":38.66389,
+    "gn:longitude":125.49194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hamun-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud558\ubb38\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877440
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"712f055acc14a6e277b7e39b4e97b0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747207,
+            "locality_id":1259976653,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259976653,
+    "wof:lastmodified":1537654742,
+    "wof:name":"Hamun-dong",
+    "wof:parent_id":1108747207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.49194,
+    38.66389,
+    125.49194,
+    38.66389
+],
+  "geometry": {"coordinates":[125.49194,38.66389],"type":"Point"}
+}

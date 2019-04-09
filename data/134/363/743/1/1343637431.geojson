@@ -1,0 +1,71 @@
+{
+  "id": 1343637431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.09639,40.86556,129.09639,40.86556",
+    "geom:latitude":40.86556,
+    "geom:longitude":129.09639,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ch'a-dong",
+    "gn:country_code":"KP",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2045290,
+    "gn:latitude":40.86556,
+    "gn:longitude":129.09639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019a-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucc28\ub3d9",
+        "Ch\u2019a-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2045290
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3e3a2fb44134d1ad04e87b18f2266946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746957,
+            "locality_id":1343637431,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1343637431,
+    "wof:lastmodified":1537655507,
+    "wof:name":"Ch'a-dong",
+    "wof:parent_id":1108746957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.09639,
+    40.86556,
+    129.09639,
+    40.86556
+],
+  "geometry": {"coordinates":[129.09639000000001,40.86556],"type":"Point"}
+}

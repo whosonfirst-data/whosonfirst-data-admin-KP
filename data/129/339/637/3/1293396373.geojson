@@ -1,0 +1,75 @@
+{
+  "id": 1293396373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.19245,40.48011,127.19245,40.48011",
+    "geom:latitude":40.48011,
+    "geom:longitude":127.19245,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ch'ongdam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181893,
+    "gn:latitude":40.48011,
+    "gn:longitude":127.19245,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ch\u2019\u014fngdam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Ch\u2019\u014fngdam-dong"
+    ],
+    "name:kor_x_variant":[
+        "Hosuy\u014fp-ma\u016dl",
+        "\uccad\ub2f4\ub3d9",
+        "\ud638\uc218\uc606\ub9c8\uc744"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181893
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fd92f0b713cc4c827e709d91a863f799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746913,
+            "locality_id":1293396373,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293396373,
+    "wof:lastmodified":1537655954,
+    "wof:name":"Ch'ongdam-dong",
+    "wof:parent_id":1108746913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.19245,
+    40.48011,
+    127.19245,
+    40.48011
+],
+  "geometry": {"coordinates":[127.19244999999999,40.48011],"type":"Point"}
+}

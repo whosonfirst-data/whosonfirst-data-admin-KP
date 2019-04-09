@@ -1,0 +1,72 @@
+{
+  "id": 890434569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.59833,38.71028,127.59833,38.71028",
+    "geom:latitude":38.71028,
+    "geom:longitude":127.59833,
+    "gn:country":"KP",
+    "gn:fcode":"PPL",
+    "gn:pop":21111,
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Junyo"
+    ],
+    "qs:name":"Hoeyang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":211,
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877148,
+        "gp:id":1093870,
+        "qs:id":137247,
+        "wd:id":"Q490927",
+        "wk:page":"Hoeyang County"
+    },
+    "wof:country":"KP",
+    "wof:created":1469052031,
+    "wof:geomhash":"fb87cb6596939bcb083897d8828b9a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746887,
+            "locality_id":890434569,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":890434569,
+    "wof:lastmodified":1527792942,
+    "wof:name":"Hoeyang",
+    "wof:parent_id":1108746887,
+    "wof:placetype":"locality",
+    "wof:population":21111,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.59833,
+    38.71028,
+    127.59833,
+    38.71028
+],
+  "geometry": {"coordinates":[127.59833,38.71028],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1210012419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.98806,38.47944,125.98806,38.47944",
+    "geom:latitude":38.47944,
+    "geom:longitude":125.98806,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ch'ongye-ri",
+    "gn:country_code":"KP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947159,
+    "gn:latitude":38.47944,
+    "gn:longitude":125.98806,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u2019\u014fngye-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u016dngsu-ri",
+        "Ch\u2019\u014fngye-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947159
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2b43b2359a78e38983f302d2f557d9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747063,
+            "locality_id":1210012419,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1210012419,
+    "wof:lastmodified":1537655089,
+    "wof:name":"Ch'ongye-ri",
+    "wof:parent_id":1108747063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.98806,
+    38.47944,
+    125.98806,
+    38.47944
+],
+  "geometry": {"coordinates":[125.98806,38.47944],"type":"Point"}
+}

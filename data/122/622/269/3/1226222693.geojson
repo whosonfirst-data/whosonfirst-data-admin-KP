@@ -1,0 +1,73 @@
+{
+  "id": 1226222693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.05611,39.94972,125.05611,39.94972",
+    "geom:latitude":39.94972,
+    "geom:longitude":125.05611,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Omt'aegok",
+    "gn:country_code":"KP",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892305,
+    "gn:latitude":39.94972,
+    "gn:longitude":125.05611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u014emt\u2019aegok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\u014emt\u2019aegok"
+    ],
+    "name:kor_x_variant":[
+        "\uc5c4\ud0dc\uace1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892305
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"33d764cc57231013d78f66618c36cec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746867,
+            "locality_id":1226222693,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1226222693,
+    "wof:lastmodified":1537655018,
+    "wof:name":"Omt'aegok",
+    "wof:parent_id":1108746867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.05611,
+    39.94972,
+    125.05611,
+    39.94972
+],
+  "geometry": {"coordinates":[125.05611,39.94972],"type":"Point"}
+}

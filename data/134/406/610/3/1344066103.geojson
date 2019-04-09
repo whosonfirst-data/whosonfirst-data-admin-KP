@@ -1,0 +1,71 @@
+{
+  "id": 1344066103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.67861,40.68611,125.67861,40.68611",
+    "geom:latitude":40.68611,
+    "geom:longitude":125.67861,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Uha-dong",
+    "gn:country_code":"KP",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281525,
+    "gn:latitude":40.68611,
+    "gn:longitude":125.67861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Uha-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6b0\ud558\ub3d9",
+        "Uha-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281525
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"34485a7dee5e3bc5c8bfd2fc1369a596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747225,
+            "locality_id":1344066103,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1344066103,
+    "wof:lastmodified":1537655736,
+    "wof:name":"Uha-dong",
+    "wof:parent_id":1108747225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.67861,
+    40.68611,
+    125.67861,
+    40.68611
+],
+  "geometry": {"coordinates":[125.67861000000001,40.68611],"type":"Point"}
+}

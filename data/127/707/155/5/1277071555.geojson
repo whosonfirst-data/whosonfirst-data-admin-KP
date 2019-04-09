@@ -1,0 +1,72 @@
+{
+  "id": 1277071555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.43694,37.91167,126.43694,37.91167",
+    "geom:latitude":37.91167,
+    "geom:longitude":126.43694,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1876380",
+    "gn:asciiname":"Pan'gae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872746,
+    "gn:latitude":37.91167,
+    "gn:longitude":126.43694,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Pan\u2019gae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pan\u2019gye-dong",
+        "Pan\u2019gae-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872746
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6a89317b2008752977ce87f0440abefd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747805,
+            "locality_id":1277071555,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1277071555,
+    "wof:lastmodified":1537654497,
+    "wof:name":"Pan'gae-dong",
+    "wof:parent_id":1108747805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.43694,
+    37.91167,
+    126.43694,
+    37.91167
+],
+  "geometry": {"coordinates":[126.43694000000001,37.91167],"type":"Point"}
+}

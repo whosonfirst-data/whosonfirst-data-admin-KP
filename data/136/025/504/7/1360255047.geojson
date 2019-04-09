@@ -1,0 +1,70 @@
+{
+  "id": 1360255047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3,39.41667,126.3,39.41667",
+    "geom:latitude":39.41667,
+    "geom:longitude":126.3,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Solmo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366583,
+    "gn:latitude":39.41667,
+    "gn:longitude":126.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Solmo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc194\ubaa8\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366583
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"65ad42dea9f093d3f0c2ac3de34cd9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747149,
+            "locality_id":1360255047,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1360255047,
+    "wof:lastmodified":1537655884,
+    "wof:name":"Solmo-ri",
+    "wof:parent_id":1108747149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3,
+    39.41667,
+    126.3,
+    39.41667
+],
+  "geometry": {"coordinates":[126.3,39.41667],"type":"Point"}
+}

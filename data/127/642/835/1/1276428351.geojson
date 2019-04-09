@@ -1,0 +1,72 @@
+{
+  "id": 1276428351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.25694,40.34111,125.25694,40.34111",
+    "geom:latitude":40.34111,
+    "geom:longitude":125.25694,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yoha",
+    "gn:country_code":"KP",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2048999,
+    "gn:latitude":40.34111,
+    "gn:longitude":125.25694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yoha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc694\ud558",
+        "Yoha-ri",
+        "Yoha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2048999
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f8fc2e52ee3637b61834316a87fe3304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748041,
+            "locality_id":1276428351,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276428351,
+    "wof:lastmodified":1537655534,
+    "wof:name":"Yoha",
+    "wof:parent_id":1108748041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.25694,
+    40.34111,
+    125.25694,
+    40.34111
+],
+  "geometry": {"coordinates":[125.25694,40.34111],"type":"Point"}
+}

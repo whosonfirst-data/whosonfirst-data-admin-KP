@@ -1,0 +1,78 @@
+{
+  "id": 1344035201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.96217,39.71472,124.96217,39.71472",
+    "geom:latitude":39.71472,
+    "geom:longitude":124.96217,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kun'gol-maul",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875239,
+    "gn:latitude":39.71472,
+    "gn:longitude":124.96217,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"K\u016dn\u2019gol-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud070\uace8"
+    ],
+    "name:kor_x_variant":[
+        "K\u2019\u016dn-gol",
+        "K\u016dn\u2019gol-ma\u016dl",
+        "\ud070\uace8\ub9c8\uc744"
+    ],
+    "name:und_x_variant":[
+        "T\u014fk-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875239
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"40dadc5ec07b0abaa123f751efbf16aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":1344035201,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1344035201,
+    "wof:lastmodified":1537654617,
+    "wof:name":"Kun'gol-maul",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.96217,
+    39.71472,
+    124.96217,
+    39.71472
+],
+  "geometry": {"coordinates":[124.96217,39.71472],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310464475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.62738,42.40475,130.62738,42.40475",
+    "geom:latitude":42.40475,
+    "geom:longitude":130.62738,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Yonghyon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039085,
+    "gn:latitude":42.40475,
+    "gn:longitude":130.62738,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Yonghy\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6a9\ud604\ub3d9",
+        "Chosal-li",
+        "Yonghy\u014fn-dong",
+        "Yonghyeondong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676647,
+        1108747091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039085
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"acb1d6805fd4a86931f5abb7050f2bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747091,
+            "locality_id":1310464475,
+            "region_id":85676647
+        }
+    ],
+    "wof:id":1310464475,
+    "wof:lastmodified":1537655148,
+    "wof:name":"Yonghyon-dong",
+    "wof:parent_id":1108747091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.62738000000002,
+    42.40475,
+    130.62738000000002,
+    42.40475
+],
+  "geometry": {"coordinates":[130.62738000000002,42.40475],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193103569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.48944,40.89861,129.48944,40.89861",
+    "geom:latitude":40.89861,
+    "geom:longitude":129.48944,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hoch'on-dong",
+    "gn:country_code":"KP",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044128,
+    "gn:latitude":40.89861,
+    "gn:longitude":129.48944,
+    "gn:modification_date":"2006-02-23",
+    "gn:name":"H\u014fch\u2019on-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044128
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9ebd00a43e05ed122532a4a9f65bc887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747015,
+            "locality_id":1193103569,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1193103569,
+    "wof:lastmodified":1536380897,
+    "wof:name":"Hoch'on-dong",
+    "wof:parent_id":1108747015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.48944,
+    40.89861,
+    129.48944,
+    40.89861
+],
+  "geometry": {"coordinates":[129.48944,40.89861],"type":"Point"}
+}

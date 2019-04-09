@@ -1,0 +1,70 @@
+{
+  "id": 1344078695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.13972,37.87778,126.13972,37.87778",
+    "geom:latitude":37.87778,
+    "geom:longitude":126.13972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chadal-li",
+    "gn:country_code":"KP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879534,
+    "gn:latitude":37.87778,
+    "gn:longitude":126.13972,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chadal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc790\ub2e8\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879534
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"147c3ffd3f50ed99959bfc7289311364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1344078695,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1344078695,
+    "wof:lastmodified":1537654862,
+    "wof:name":"Chadal-li",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.13972,
+    37.87778,
+    126.13972,
+    37.87778
+],
+  "geometry": {"coordinates":[126.13972,37.87778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277046757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.05444,41.10028,128.05444,41.10028",
+    "geom:latitude":41.10028,
+    "geom:longitude":128.05444,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Namp'ung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042557,
+    "gn:latitude":41.10028,
+    "gn:longitude":128.05444,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Namp\u2019ung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042557
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"88692ef672a483321c4acf6191952de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747113,
+            "locality_id":1277046757,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1277046757,
+    "wof:lastmodified":1536816714,
+    "wof:name":"Namp'ung-ni",
+    "wof:parent_id":1108747113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.05444,
+    41.10028,
+    128.05444,
+    41.10028
+],
+  "geometry": {"coordinates":[128.05444,41.10028],"type":"Point"}
+}

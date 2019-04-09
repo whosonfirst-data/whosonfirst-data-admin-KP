@@ -1,0 +1,73 @@
+{
+  "id": 1326700009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.615,39.58167,125.615,39.58167",
+    "geom:latitude":39.58167,
+    "geom:longitude":125.615,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tongch'il-li",
+    "gn:country_code":"KP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867941,
+    "gn:latitude":39.58167,
+    "gn:longitude":125.615,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tongch\u2019il-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uce60\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Tongch\u2019il-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108746847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867941
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"100b333be9c1fd7d0aaa9d72497e0b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746847,
+            "locality_id":1326700009,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1326700009,
+    "wof:lastmodified":1537654257,
+    "wof:name":"Tongch'il-li",
+    "wof:parent_id":1108746847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.615,
+    39.58167,
+    125.615,
+    39.58167
+],
+  "geometry": {"coordinates":[125.61499999999999,39.58167],"type":"Point"}
+}

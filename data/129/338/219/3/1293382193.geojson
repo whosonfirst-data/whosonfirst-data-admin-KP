@@ -1,0 +1,72 @@
+{
+  "id": 1293382193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.55722,37.80806,126.55722,37.80806",
+    "geom:latitude":37.80806,
+    "geom:longitude":126.55722,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"P\u2019anmun-gun",
+    "gn:asciiname":"Sajong-mal",
+    "gn:country_code":"KP",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871610,
+    "gn:latitude":37.80806,
+    "gn:longitude":126.55722,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Saj\u014fng-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saj\u014fngch\u2019on",
+        "Saj\u014fng-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871610
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f0e266c2d88a0844d22886992ff394b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1293382193,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293382193,
+    "wof:lastmodified":1537654437,
+    "wof:name":"Sajong-mal",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.55722,
+    37.80806,
+    126.55722,
+    37.80806
+],
+  "geometry": {"coordinates":[126.55722,37.80806],"type":"Point"}
+}

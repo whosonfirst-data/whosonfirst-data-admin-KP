@@ -1,0 +1,67 @@
+{
+  "id": 1327216125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.94056,39.765,125.94056,39.765",
+    "geom:latitude":39.765,
+    "geom:longitude":125.94056,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sangch'am",
+    "gn:country_code":"KP",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6270259,
+    "gn:latitude":39.765,
+    "gn:longitude":125.94056,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Sangch\u2019am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6270259
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"790a381bb754882087801eec921f97e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747803,
+            "locality_id":1327216125,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1327216125,
+    "wof:lastmodified":1536992325,
+    "wof:name":"Sangch'am",
+    "wof:parent_id":1108747803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.94056,
+    39.765,
+    125.94056,
+    39.765
+],
+  "geometry": {"coordinates":[125.94056,39.765],"type":"Point"}
+}

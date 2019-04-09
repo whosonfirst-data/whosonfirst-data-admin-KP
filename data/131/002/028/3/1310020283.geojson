@@ -1,0 +1,73 @@
+{
+  "id": 1310020283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.55,39.35,127.55,39.35",
+    "geom:latitude":39.35,
+    "geom:longitude":127.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Naeryongmi-ri",
+    "gn:country_code":"KP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873890,
+    "gn:latitude":39.35,
+    "gn:longitude":127.55,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Naeryongmi-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\ub8e1\ubbf8\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Naeyongmi-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873890
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a3ee24e325b3978e7dee53493bb1a9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1310020283,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1310020283,
+    "wof:lastmodified":1537654552,
+    "wof:name":"Naeryongmi-ri",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.55,
+    39.35,
+    127.55,
+    39.35
+],
+  "geometry": {"coordinates":[127.55,39.35],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310425981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.54333,38.53667,125.54333,38.53667",
+    "geom:latitude":38.53667,
+    "geom:longitude":125.54333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Samsang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6407563,
+    "gn:latitude":38.53667,
+    "gn:longitude":125.54333,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Samsang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0bc\uc0c1\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6407563
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b6d6448fb1fe61e43cad172f48163fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746843,
+            "locality_id":1310425981,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310425981,
+    "wof:lastmodified":1537655942,
+    "wof:name":"Samsang-dong",
+    "wof:parent_id":1108746843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.54333,
+    38.53667,
+    125.54333,
+    38.53667
+],
+  "geometry": {"coordinates":[125.54333,38.53667],"type":"Point"}
+}

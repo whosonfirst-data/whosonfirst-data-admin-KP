@@ -1,0 +1,71 @@
+{
+  "id": 1276523751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.32028,42.18306,129.32028,42.18306",
+    "geom:latitude":42.18306,
+    "geom:longitude":129.32028,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ch'il-tong",
+    "gn:country_code":"KP",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044924,
+    "gn:latitude":42.18306,
+    "gn:longitude":129.32028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019il-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uce60\ub3d9",
+        "Ch\u2019il-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044924
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2d1a9e5cf13b73915dbd5934feac6e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747013,
+            "locality_id":1276523751,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1276523751,
+    "wof:lastmodified":1537655485,
+    "wof:name":"Ch'il-tong",
+    "wof:parent_id":1108747013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.32028,
+    42.18306,
+    129.32028,
+    42.18306
+],
+  "geometry": {"coordinates":[129.32028,42.18306],"type":"Point"}
+}

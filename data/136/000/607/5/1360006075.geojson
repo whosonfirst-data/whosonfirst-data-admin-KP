@@ -1,0 +1,72 @@
+{
+  "id": 1360006075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.07222,38.58056,126.07222,38.58056",
+    "geom:latitude":38.58056,
+    "geom:longitude":126.07222,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nongul-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873516,
+    "gn:latitude":38.58056,
+    "gn:longitude":126.07222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nongul-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nongun-ni",
+        "Nongul-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873516
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ac6045cb7909d4ef0e78fbb09bd6ffd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747063,
+            "locality_id":1360006075,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1360006075,
+    "wof:lastmodified":1537654535,
+    "wof:name":"Nongul-li",
+    "wof:parent_id":1108747063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.07222,
+    38.58056,
+    126.07222,
+    38.58056
+],
+  "geometry": {"coordinates":[126.07222,38.58056],"type":"Point"}
+}

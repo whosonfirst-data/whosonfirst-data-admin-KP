@@ -1,0 +1,73 @@
+{
+  "id": 1344129547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.505,39.745,126.505,39.745",
+    "geom:latitude":39.745,
+    "geom:longitude":126.505,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ch'aryokkol",
+    "gn:country_code":"KP",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892096,
+    "gn:latitude":39.745,
+    "gn:longitude":126.505,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ch\u2019ary\u014fkkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucc28\ub825\uace8"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019ary\u014fkkol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892096
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"231c728471b2f34f641d506cb9767f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747005,
+            "locality_id":1344129547,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1344129547,
+    "wof:lastmodified":1537655012,
+    "wof:name":"Ch'aryokkol",
+    "wof:parent_id":1108747005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.505,
+    39.745,
+    126.505,
+    39.745
+],
+  "geometry": {"coordinates":[126.505,39.745],"type":"Point"}
+}

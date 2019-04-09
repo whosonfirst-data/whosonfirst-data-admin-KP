@@ -1,0 +1,65 @@
+{
+  "id": 1343754131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57833,37.74278,125.57833,37.74278",
+    "geom:latitude":37.74278,
+    "geom:longitude":125.57833,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Kangny\u014fng-gun",
+    "gn:asciiname":"Mudo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874310,
+    "gn:latitude":37.74278,
+    "gn:longitude":125.57833,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Mudo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874310
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ed0b604090d41457e9b37b856946f3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "locality_id":1343754131,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343754131,
+    "wof:lastmodified":1536819208,
+    "wof:name":"Mudo-ri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57833,
+    37.74278,
+    125.57833,
+    37.74278
+],
+  "geometry": {"coordinates":[125.57832999999999,37.74278],"type":"Point"}
+}

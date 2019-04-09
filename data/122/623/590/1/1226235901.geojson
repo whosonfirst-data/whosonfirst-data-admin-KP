@@ -1,0 +1,76 @@
+{
+  "id": 1226235901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.475,38.87667,126.475,38.87667",
+    "geom:latitude":38.87667,
+    "geom:longitude":126.475,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yuhyol-li",
+    "gn:country_code":"KP",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891544,
+    "gn:latitude":38.87667,
+    "gn:longitude":126.475,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yuhy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc720\ud604\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Yuhy\u014fl-li"
+    ],
+    "name:und_x_variant":[
+        "Yuhyon-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891544
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e27002c231ab9b289fa8304551aaa763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748111,
+            "locality_id":1226235901,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226235901,
+    "wof:lastmodified":1537654985,
+    "wof:name":"Yuhyol-li",
+    "wof:parent_id":1108748111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.475,
+    38.87667,
+    126.475,
+    38.87667
+],
+  "geometry": {"coordinates":[126.47499999999999,38.87667],"type":"Point"}
+}

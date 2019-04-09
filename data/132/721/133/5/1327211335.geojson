@@ -1,0 +1,67 @@
+{
+  "id": 1327211335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.88556,39.88056,125.88556,39.88056",
+    "geom:latitude":39.88056,
+    "geom:longitude":125.88556,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Urha-dong",
+    "gn:country_code":"KP",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6270269,
+    "gn:latitude":39.88056,
+    "gn:longitude":125.88556,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Urha-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6270269
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9c58e2737901f5cf50e10e72d0449411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747023,
+            "locality_id":1327211335,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1327211335,
+    "wof:lastmodified":1536999370,
+    "wof:name":"Urha-dong",
+    "wof:parent_id":1108747023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.88556,
+    39.88056,
+    125.88556,
+    39.88056
+],
+  "geometry": {"coordinates":[125.88556,39.88056],"type":"Point"}
+}

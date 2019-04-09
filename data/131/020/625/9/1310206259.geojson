@@ -1,0 +1,72 @@
+{
+  "id": 1310206259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.51861,39.63889,127.51861,39.63889",
+    "geom:latitude":39.63889,
+    "geom:longitude":127.51861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chungha-ri",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877903,
+    "gn:latitude":39.63889,
+    "gn:longitude":127.51861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chungha-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u016bka-ri",
+        "\uc911\ud558\ub9ac",
+        "Chungha-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877903
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"32f3baccd92d05e324e3f5cb9eef4ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747795,
+            "locality_id":1310206259,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1310206259,
+    "wof:lastmodified":1537654769,
+    "wof:name":"Chungha-ri",
+    "wof:parent_id":1108747795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.51861,
+    39.63889,
+    127.51861,
+    39.63889
+],
+  "geometry": {"coordinates":[127.51861,39.63889],"type":"Point"}
+}

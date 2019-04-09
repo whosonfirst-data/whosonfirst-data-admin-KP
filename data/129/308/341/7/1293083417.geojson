@@ -1,0 +1,68 @@
+{
+  "id": 1293083417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.05917,39.62778,126.05917,39.62778",
+    "geom:latitude":39.62778,
+    "geom:longitude":126.05917,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"Kaech\u2019\u014fn-si",
+    "gn:asciiname":"Kumgwang",
+    "gn:country_code":"KP",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892254,
+    "gn:latitude":39.62778,
+    "gn:longitude":126.05917,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"K\u016dmgwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892254
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"31ef84e53991687a0d479ddb9fdcc06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747803,
+            "locality_id":1293083417,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1293083417,
+    "wof:lastmodified":1536871626,
+    "wof:name":"Kumgwang",
+    "wof:parent_id":1108747803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.05917,
+    39.62778,
+    126.05917,
+    39.62778
+],
+  "geometry": {"coordinates":[126.05916999999999,39.62778],"type":"Point"}
+}

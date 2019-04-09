@@ -1,0 +1,71 @@
+{
+  "id": 1259360535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.785,39.83972,124.785,39.83972",
+    "geom:latitude":39.83972,
+    "geom:longitude":124.785,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ungbong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867353,
+    "gn:latitude":39.83972,
+    "gn:longitude":124.785,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u016cngbong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc751\ubd09\ub3d9",
+        "\u016cngbong-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867353
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"521da2fa9bc9a119ff08ae16932edbee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747199,
+            "locality_id":1259360535,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1259360535,
+    "wof:lastmodified":1537654227,
+    "wof:name":"Ungbong-dong",
+    "wof:parent_id":1108747199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.785,
+    39.83972,
+    124.785,
+    39.83972
+],
+  "geometry": {"coordinates":[124.785,39.83972],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343538033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.72389,39.11528,125.72389,39.11528",
+    "geom:latitude":39.11528,
+    "geom:longitude":125.72389,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ch'oejaegong",
+    "gn:country_code":"KP",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889230,
+    "gn:latitude":39.11528,
+    "gn:longitude":125.72389,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ch\u2019oejaegong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucd5c\uc7ac\uacf5"
+    ],
+    "name:und_x_variant":[
+        "Ch\u014fngjaegong",
+        "Ch\u2019oejaegong",
+        "Choejaegong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889230
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"93a832fc7c5d9273d7e3f91d11b0f7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1343538033,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1343538033,
+    "wof:lastmodified":1537654923,
+    "wof:name":"Ch'oejaegong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.72389,
+    39.11528,
+    125.72389,
+    39.11528
+],
+  "geometry": {"coordinates":[125.72389,39.11528],"type":"Point"}
+}

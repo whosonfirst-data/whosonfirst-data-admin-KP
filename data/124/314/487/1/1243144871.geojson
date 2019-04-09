@@ -1,0 +1,68 @@
+{
+  "id": 1243144871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.12528,39.64417,126.12528,39.64417",
+    "geom:latitude":39.64417,
+    "geom:longitude":126.12528,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"T\u014fkch\u2019\u014fn-si",
+    "gn:asciiname":"Malguri",
+    "gn:country_code":"KP",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892256,
+    "gn:latitude":39.64417,
+    "gn:longitude":126.12528,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Malguri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892256
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"50f1b1c3235e6b05d2e3d1e4a93f1696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747203,
+            "locality_id":1243144871,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1243144871,
+    "wof:lastmodified":1536743210,
+    "wof:name":"Malguri",
+    "wof:parent_id":1108747203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.12528,
+    39.64417,
+    126.12528,
+    39.64417
+],
+  "geometry": {"coordinates":[126.12528,39.64417],"type":"Point"}
+}

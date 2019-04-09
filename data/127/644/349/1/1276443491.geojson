@@ -1,0 +1,73 @@
+{
+  "id": 1276443491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.86861,40.41139,128.86861,40.41139",
+    "geom:latitude":40.41139,
+    "geom:longitude":128.86861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Panga-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042085,
+    "gn:latitude":40.41139,
+    "gn:longitude":128.86861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Panga-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u014dason",
+        "Pingaech\u2019on",
+        "\ubc29\uc544\ucd0c",
+        "Panga-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042085
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1a529f66d5d38ee30f6a096b5d3e7c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":1276443491,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1276443491,
+    "wof:lastmodified":1537655324,
+    "wof:name":"Panga-ch'on",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.86861000000002,
+    40.41139,
+    128.86861000000002,
+    40.41139
+],
+  "geometry": {"coordinates":[128.86861000000002,40.41139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225815197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.44333,38.97722,125.44333,38.97722",
+    "geom:latitude":38.97722,
+    "geom:longitude":125.44333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kwanghyangnihyanggyo-dong",
+    "gn:country_code":"KP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883451,
+    "gn:latitude":38.97722,
+    "gn:longitude":125.44333,
+    "gn:modification_date":"1994-12-01",
+    "gn:name":"Kwanghyangnihyanggyo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108746951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883451
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4b7efe7817d3866531e86a72e276f6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746951,
+            "locality_id":1225815197,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1225815197,
+    "wof:lastmodified":1537055464,
+    "wof:name":"Kwanghyangnihyanggyo-dong",
+    "wof:parent_id":1108746951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.44333,
+    38.97722,
+    125.44333,
+    38.97722
+],
+  "geometry": {"coordinates":[125.44333,38.97722],"type":"Point"}
+}

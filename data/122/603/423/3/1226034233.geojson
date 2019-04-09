@@ -1,0 +1,71 @@
+{
+  "id": 1226034233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.36833,39.41083,127.36833,39.41083",
+    "geom:latitude":39.41083,
+    "geom:longitude":127.36833,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Ch\u2019\u014fnnae-gun",
+    "gn:asciiname":"Obong",
+    "gn:country_code":"KP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888729,
+    "gn:latitude":39.41083,
+    "gn:longitude":127.36833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Obong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\ubd09"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888729
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e2c52c40a10bcf85d76c42c61c07308a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746869,
+            "locality_id":1226034233,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226034233,
+    "wof:lastmodified":1537654904,
+    "wof:name":"Obong",
+    "wof:parent_id":1108746869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.36833,
+    39.41083,
+    127.36833,
+    39.41083
+],
+  "geometry": {"coordinates":[127.36833,39.41083],"type":"Point"}
+}

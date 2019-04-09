@@ -1,0 +1,73 @@
+{
+  "id": 1243249975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.89451,38.90122,125.89451,38.90122",
+    "geom:latitude":38.90122,
+    "geom:longitude":125.89451,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kuksugol",
+    "gn:country_code":"KP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875465,
+    "gn:latitude":38.90122,
+    "gn:longitude":125.89451,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kuksugol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuksu-dong",
+        "\uad6d\uc218\uace8",
+        "Kuksugol",
+        "Guksugol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875465
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0a2e81b3521d9ac5d3524b7c1588b4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1243249975,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1243249975,
+    "wof:lastmodified":1537654631,
+    "wof:name":"Kuksugol",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.89451,
+    38.90122,
+    125.89451,
+    38.90122
+],
+  "geometry": {"coordinates":[125.89451,38.90122],"type":"Point"}
+}

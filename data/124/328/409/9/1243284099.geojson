@@ -1,0 +1,67 @@
+{
+  "id": 1243284099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7775,38.55917,125.7775,38.55917",
+    "geom:latitude":38.55917,
+    "geom:longitude":125.7775,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kanch'on-dong",
+    "gn:country_code":"KP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1925853,
+    "gn:latitude":38.55917,
+    "gn:longitude":125.7775,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Kanch\u2019on-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1925853
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"44f9aba6cc4bfdb1d7929f4900cfb32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747063,
+            "locality_id":1243284099,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1243284099,
+    "wof:lastmodified":1537037999,
+    "wof:name":"Kanch'on-dong",
+    "wof:parent_id":1108747063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7775,
+    38.55917,
+    125.7775,
+    38.55917
+],
+  "geometry": {"coordinates":[125.7775,38.55917],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310083145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.23417,39.80639,124.23417,39.80639",
+    "geom:latitude":39.80639,
+    "geom:longitude":124.23417,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sindo",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870586,
+    "gn:latitude":39.80639,
+    "gn:longitude":124.23417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sindo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sindo-ri",
+        "\uc2e0\ub3c4",
+        "Sindo-\u016dp",
+        "Sindo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870586,
+        "wk:page":"Sindo_County"
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"53e1fae8f10774922e1c77785b1ab62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747127,
+            "locality_id":1310083145,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1310083145,
+    "wof:lastmodified":1537654388,
+    "wof:name":"Sindo",
+    "wof:parent_id":1108747127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.23417,
+    39.80639,
+    124.23417,
+    39.80639
+],
+  "geometry": {"coordinates":[124.23417000000001,39.80639],"type":"Point"}
+}

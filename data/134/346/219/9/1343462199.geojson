@@ -1,0 +1,71 @@
+{
+  "id": 1343462199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58361,41.07444,126.58361,41.07444",
+    "geom:latitude":41.07444,
+    "geom:longitude":126.58361,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Such'ong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282787,
+    "gn:latitude":41.07444,
+    "gn:longitude":126.58361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Such\u2019\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc218\uccad\ub3d9",
+        "Such\u2019\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282787
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e9883123781ff0b4db6f96ac621e14da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746911,
+            "locality_id":1343462199,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1343462199,
+    "wof:lastmodified":1537655789,
+    "wof:name":"Such'ong-dong",
+    "wof:parent_id":1108746911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58361,
+    41.07444,
+    126.58361,
+    41.07444
+],
+  "geometry": {"coordinates":[126.58360999999999,41.07444],"type":"Point"}
+}

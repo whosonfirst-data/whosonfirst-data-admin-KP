@@ -1,0 +1,69 @@
+{
+  "id": 1209512435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.12694,38.36056,125.12694,38.36056",
+    "geom:latitude":38.36056,
+    "geom:longitude":125.12694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tolmol",
+    "gn:country_code":"KP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868011,
+    "gn:latitude":38.36056,
+    "gn:longitude":125.12694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tolmol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3cc\ubab0"
+    ],
+    "name:und_x_variant":[
+        "S\u014fgu",
+        "Tolmoru",
+        "Tolmol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868011
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6a9f6e22185a679dfc781ba9f7b1bd0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209512435
+        }
+    ],
+    "wof:id":1209512435,
+    "wof:lastmodified":1537654260,
+    "wof:name":"Tolmol",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.12694,
+    38.36056,
+    125.12694,
+    38.36056
+],
+  "geometry": {"coordinates":[125.12694,38.36056],"type":"Point"}
+}

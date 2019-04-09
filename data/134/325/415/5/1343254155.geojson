@@ -1,0 +1,68 @@
+{
+  "id": 1343254155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.73833,38.0475,126.73833,38.0475",
+    "geom:latitude":38.0475,
+    "geom:longitude":126.73833,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Changp\u2019ung-gun",
+    "gn:asciiname":"Sodumulchang",
+    "gn:country_code":"KP",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948919,
+    "gn:latitude":38.0475,
+    "gn:longitude":126.73833,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"S\u014fdumulchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108746915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948919
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4047d20e52a64e9e69ca8bda6870af3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746915,
+            "locality_id":1343254155,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343254155,
+    "wof:lastmodified":1537042271,
+    "wof:name":"Sodumulchang",
+    "wof:parent_id":1108746915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.73833,
+    38.0475,
+    126.73833,
+    38.0475
+],
+  "geometry": {"coordinates":[126.73833,38.0475],"type":"Point"}
+}

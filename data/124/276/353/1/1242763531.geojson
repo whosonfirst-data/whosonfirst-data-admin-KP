@@ -1,0 +1,73 @@
+{
+  "id": 1242763531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.39417,38.66167,126.39417,38.66167",
+    "geom:latitude":38.66167,
+    "geom:longitude":126.39417,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Komsom-dong",
+    "gn:country_code":"KP",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6366418,
+    "gn:latitude":38.66167,
+    "gn:longitude":126.39417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u014fms\u014fm-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac80\uc12c\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "K\u014fms\u014fm-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366418
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"75cda5e87569b8aab3e351bfa7f5934a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748029,
+            "locality_id":1242763531,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1242763531,
+    "wof:lastmodified":1537655876,
+    "wof:name":"Komsom-dong",
+    "wof:parent_id":1108748029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.39417,
+    38.66167,
+    126.39417,
+    38.66167
+],
+  "geometry": {"coordinates":[126.39417,38.66167],"type":"Point"}
+}

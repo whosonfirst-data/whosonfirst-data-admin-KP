@@ -1,0 +1,71 @@
+{
+  "id": 1276634571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.15889,40.785,128.15889,40.785",
+    "geom:latitude":40.785,
+    "geom:longitude":128.15889,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Majo-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050198,
+    "gn:latitude":40.785,
+    "gn:longitude":128.15889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maj\u014f-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9c8\uc800\ucd0c",
+        "Maj\u014f-ch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050198
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a5b42f9c642b0663a8ca9166d7185664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746959,
+            "locality_id":1276634571,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1276634571,
+    "wof:lastmodified":1537655595,
+    "wof:name":"Majo-ch'on",
+    "wof:parent_id":1108746959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.15889,
+    40.785,
+    128.15889,
+    40.785
+],
+  "geometry": {"coordinates":[128.15889000000001,40.785],"type":"Point"}
+}

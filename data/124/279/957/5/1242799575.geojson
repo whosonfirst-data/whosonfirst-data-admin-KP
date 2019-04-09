@@ -1,0 +1,71 @@
+{
+  "id": 1242799575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.85833,38.51278,124.85833,38.51278",
+    "geom:latitude":38.51278,
+    "geom:longitude":124.85833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Noksa",
+    "gn:country_code":"KP",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873558,
+    "gn:latitude":38.51278,
+    "gn:longitude":124.85833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Noksa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub179\uc0ac",
+        "Noksa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873558
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f02b1b2717ddcd562d27dafb370a10a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746993,
+            "locality_id":1242799575,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1242799575,
+    "wof:lastmodified":1537654537,
+    "wof:name":"Noksa",
+    "wof:parent_id":1108746993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.85833,
+    38.51278,
+    124.85833,
+    38.51278
+],
+  "geometry": {"coordinates":[124.85833,38.51278],"type":"Point"}
+}

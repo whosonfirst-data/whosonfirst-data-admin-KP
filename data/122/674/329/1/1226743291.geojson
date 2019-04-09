@@ -1,0 +1,67 @@
+{
+  "id": 1226743291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67611,38.32611,126.67611,38.32611",
+    "geom:latitude":38.32611,
+    "geom:longitude":126.67611,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kosal-li",
+    "gn:country_code":"KP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931318,
+    "gn:latitude":38.32611,
+    "gn:longitude":126.67611,
+    "gn:modification_date":"2003-03-04",
+    "gn:name":"Kosal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931318
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4151aef15c3a78c382cf8464153725b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747189,
+            "locality_id":1226743291,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1226743291,
+    "wof:lastmodified":1536719425,
+    "wof:name":"Kosal-li",
+    "wof:parent_id":1108747189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67611,
+    38.32611,
+    126.67611,
+    38.32611
+],
+  "geometry": {"coordinates":[126.67610999999999,38.32611],"type":"Point"}
+}

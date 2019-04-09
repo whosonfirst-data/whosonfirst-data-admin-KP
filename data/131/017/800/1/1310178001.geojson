@@ -1,0 +1,67 @@
+{
+  "id": 1310178001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.64833,39.09028,125.64833,39.09028",
+    "geom:latitude":39.09028,
+    "geom:longitude":125.64833,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ap'huktari",
+    "gn:country_code":"KP",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6270080,
+    "gn:latitude":39.09028,
+    "gn:longitude":125.64833,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Ap\u2019h\u016dktari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6270080
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"613559ae116ffb4132a6b211e3ec8fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1310178001,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1310178001,
+    "wof:lastmodified":1536891760,
+    "wof:name":"Ap'huktari",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.64833,
+    39.09028,
+    125.64833,
+    39.09028
+],
+  "geometry": {"coordinates":[125.64833,39.09028],"type":"Point"}
+}

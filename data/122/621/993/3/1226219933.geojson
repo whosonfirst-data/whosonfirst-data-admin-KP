@@ -1,0 +1,70 @@
+{
+  "id": 1226219933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.59417,39.8525,124.59417,39.8525",
+    "geom:latitude":39.8525,
+    "geom:longitude":124.59417,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tangbong",
+    "gn:country_code":"KP",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868490,
+    "gn:latitude":39.8525,
+    "gn:longitude":124.59417,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tangbong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2f9\ubd09"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868490
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d84fe1e794a1fb3cff003e2488c0e8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747725,
+            "locality_id":1226219933,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1226219933,
+    "wof:lastmodified":1537654285,
+    "wof:name":"Tangbong",
+    "wof:parent_id":1108747725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.59417,
+    39.8525,
+    124.59417,
+    39.8525
+],
+  "geometry": {"coordinates":[124.59417000000001,39.8525],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209421379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34306,39.43806,127.34306,39.43806",
+    "geom:latitude":39.43806,
+    "geom:longitude":127.34306,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"K\u016dmya-gun",
+    "gn:asciiname":"Sosal-li",
+    "gn:country_code":"KP",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952583,
+    "gn:latitude":39.43806,
+    "gn:longitude":127.34306,
+    "gn:modification_date":"2001-05-21",
+    "gn:name":"Sosal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952583
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9fb402f0a736c09a39d73849f8334122",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209421379
+        }
+    ],
+    "wof:id":1209421379,
+    "wof:lastmodified":1536287520,
+    "wof:name":"Sosal-li",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34306,
+    39.43806,
+    127.34306,
+    39.43806
+],
+  "geometry": {"coordinates":[127.34305999999999,39.43806],"type":"Point"}
+}

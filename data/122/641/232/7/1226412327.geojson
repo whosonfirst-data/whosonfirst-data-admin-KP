@@ -1,0 +1,67 @@
+{
+  "id": 1226412327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.60833,39.12111,125.60833,39.12111",
+    "geom:latitude":39.12111,
+    "geom:longitude":125.60833,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ttang'gal-li",
+    "gn:country_code":"KP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6270076,
+    "gn:latitude":39.12111,
+    "gn:longitude":125.60833,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Ttang\u2019gal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6270076
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5ef6d31575be6c80407f3e6c02f252b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748039,
+            "locality_id":1226412327,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1226412327,
+    "wof:lastmodified":1536693977,
+    "wof:name":"Ttang'gal-li",
+    "wof:parent_id":1108748039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.60833,
+    39.12111,
+    125.60833,
+    39.12111
+],
+  "geometry": {"coordinates":[125.60833,39.12111],"type":"Point"}
+}

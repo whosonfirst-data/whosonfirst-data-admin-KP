@@ -1,0 +1,76 @@
+{
+  "id": 1242866401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.70671,38.39217,125.70671,38.39217",
+    "geom:latitude":38.39217,
+    "geom:longitude":125.70671,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sinwa-dong",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926586,
+    "gn:latitude":38.39217,
+    "gn:longitude":125.70671,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Sinwa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uc640\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "\uc2e0\uc640"
+    ],
+    "name:und_x_variant":[
+        "Sinwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926586
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"50ed63e52692dc6284a70d47d56dc602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746907,
+            "locality_id":1242866401,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1242866401,
+    "wof:lastmodified":1537655039,
+    "wof:name":"Sinwa-dong",
+    "wof:parent_id":1108746907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.70671000000002,
+    38.39217,
+    125.70671000000002,
+    38.39217
+],
+  "geometry": {"coordinates":[125.70671000000002,38.39217],"type":"Point"}
+}

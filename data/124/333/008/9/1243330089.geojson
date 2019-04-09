@@ -1,0 +1,72 @@
+{
+  "id": 1243330089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.65333,41.5625,129.65333,41.5625",
+    "geom:latitude":41.5625,
+    "geom:longitude":129.65333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chopsam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2044893,
+    "gn:latitude":41.5625,
+    "gn:longitude":129.65333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u014fpsam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc811\uc0bc\ub3d9",
+        "Chipsam-dong",
+        "Ch\u014fpsam-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2044893
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c73d9fe6d7499ce2ec303864a1d1a04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747001,
+            "locality_id":1243330089,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1243330089,
+    "wof:lastmodified":1537655484,
+    "wof:name":"Chopsam-dong",
+    "wof:parent_id":1108747001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.65333,
+    41.5625,
+    129.65333,
+    41.5625
+],
+  "geometry": {"coordinates":[129.65333000000001,41.5625],"type":"Point"}
+}

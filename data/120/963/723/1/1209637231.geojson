@@ -1,0 +1,61 @@
+{
+  "id": 1209637231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.26778,38.16194,126.26778,38.16194",
+    "geom:latitude":38.16194,
+    "geom:longitude":126.26778,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Segwal-li",
+    "gn:country_code":"KP",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1947703,
+    "gn:latitude":38.16194,
+    "gn:longitude":126.26778,
+    "gn:modification_date":"2000-03-15",
+    "gn:name":"Segwal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1947703
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"40646eda5959e729a6e4d9ce4c3100a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209637231
+        }
+    ],
+    "wof:id":1209637231,
+    "wof:lastmodified":1536281003,
+    "wof:name":"Segwal-li",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.26778,
+    38.16194,
+    126.26778,
+    38.16194
+],
+  "geometry": {"coordinates":[126.26778,38.16194],"type":"Point"}
+}

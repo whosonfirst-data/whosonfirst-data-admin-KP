@@ -1,0 +1,73 @@
+{
+  "id": 1327205267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.29389,41.04083,128.29389,41.04083",
+    "geom:latitude":41.04083,
+    "geom:longitude":128.29389,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Namp'yong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042553,
+    "gn:latitude":41.04083,
+    "gn:longitude":128.29389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Namp\u2019y\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\ud3c9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Namp\u2019y\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042553
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"92c484fd9ec852781258f403bc7554f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746953,
+            "locality_id":1327205267,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1327205267,
+    "wof:lastmodified":1537655350,
+    "wof:name":"Namp'yong-ni",
+    "wof:parent_id":1108746953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.29389,
+    41.04083,
+    128.29389,
+    41.04083
+],
+  "geometry": {"coordinates":[128.29389,41.04083],"type":"Point"}
+}

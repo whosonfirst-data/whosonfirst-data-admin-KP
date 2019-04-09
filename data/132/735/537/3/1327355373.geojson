@@ -1,0 +1,74 @@
+{
+  "id": 1327355373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.585,38.43972,125.585,38.43972",
+    "geom:latitude":38.43972,
+    "geom:longitude":125.585,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tosa-dong",
+    "gn:country_code":"KP",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1926838,
+    "gn:latitude":38.43972,
+    "gn:longitude":125.585,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Tosa-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\uc0ac\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Sinh\u016dng-dong",
+        "\uc2e0\ud765\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1926838
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2b80174cd1ebb24fa17d031992ea1583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746907,
+            "locality_id":1327355373,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1327355373,
+    "wof:lastmodified":1537655046,
+    "wof:name":"Tosa-dong",
+    "wof:parent_id":1108746907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.585,
+    38.43972,
+    125.585,
+    38.43972
+],
+  "geometry": {"coordinates":[125.58499999999999,38.43972],"type":"Point"}
+}

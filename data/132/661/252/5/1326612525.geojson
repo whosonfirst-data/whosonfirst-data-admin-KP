@@ -1,0 +1,67 @@
+{
+  "id": 1326612525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.83222,39.23028,125.83222,39.23028",
+    "geom:latitude":39.23028,
+    "geom:longitude":125.83222,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kwansan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932296,
+    "gn:latitude":39.23028,
+    "gn:longitude":125.83222,
+    "gn:modification_date":"2003-09-04",
+    "gn:name":"Kwansan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932296
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e3d9a0bd38e45e77ef53d9240860359a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747949,
+            "locality_id":1326612525,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1326612525,
+    "wof:lastmodified":1536867045,
+    "wof:name":"Kwansan-dong",
+    "wof:parent_id":1108747949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.83222,
+    39.23028,
+    125.83222,
+    39.23028
+],
+  "geometry": {"coordinates":[125.83222000000001,39.23028],"type":"Point"}
+}

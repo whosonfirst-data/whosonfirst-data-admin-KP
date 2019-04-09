@@ -1,0 +1,72 @@
+{
+  "id": 1242784283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.26694,39.48889,127.26694,39.48889",
+    "geom:latitude":39.48889,
+    "geom:longitude":127.26694,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"K\u016dmya-gun",
+    "gn:asciiname":"T'aejugi",
+    "gn:country_code":"KP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952570,
+    "gn:latitude":39.48889,
+    "gn:longitude":127.26694,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u2019aejugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019aejugi",
+        "\ud0dc\uc8fc\uae30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952570
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"99b64d4260b7226f8b63c67f79034b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":1242784283,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1242784283,
+    "wof:lastmodified":1537655113,
+    "wof:name":"T'aejugi",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.26694,
+    39.48889000000001,
+    127.26694,
+    39.48889000000001
+],
+  "geometry": {"coordinates":[127.26694000000001,39.48889000000001],"type":"Point"}
+}

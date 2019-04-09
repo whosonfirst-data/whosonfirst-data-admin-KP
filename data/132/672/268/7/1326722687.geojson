@@ -1,0 +1,73 @@
+{
+  "id": 1326722687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.30917,37.85528,125.30917,37.85528",
+    "geom:latitude":37.85528,
+    "geom:longitude":125.30917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mulgol-mal",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874268,
+    "gn:latitude":37.85528,
+    "gn:longitude":125.30917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mulgol-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sugok-tong",
+        "Sugong-mal",
+        "\ubb3c\uace8\ub9d0",
+        "Mulgol-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874268
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7a35e19b00d6751f2b6764b0d05b893e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1326722687,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1326722687,
+    "wof:lastmodified":1537654568,
+    "wof:name":"Mulgol-mal",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.30917,
+    37.85528,
+    125.30917,
+    37.85528
+],
+  "geometry": {"coordinates":[125.30916999999999,37.85528],"type":"Point"}
+}

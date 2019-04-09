@@ -1,0 +1,65 @@
+{
+  "id": 1209402075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.48694,40.04222,124.48694,40.04222",
+    "geom:latitude":40.04222,
+    "geom:longitude":124.48694,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"I-gol",
+    "gn:country_code":"KP",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281839,
+    "gn:latitude":40.04222,
+    "gn:longitude":124.48694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"I-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc774\uace8",
+        "I-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281839
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"50f07ace5cce65d5d46a709bec4e5c98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209402075
+        }
+    ],
+    "wof:id":1209402075,
+    "wof:lastmodified":1537655754,
+    "wof:name":"I-gol",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.48694,
+    40.04222,
+    124.48694,
+    40.04222
+],
+  "geometry": {"coordinates":[124.48694,40.04222],"type":"Point"}
+}

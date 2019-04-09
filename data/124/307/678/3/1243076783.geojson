@@ -1,0 +1,71 @@
+{
+  "id": 1243076783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.16472,40.78333,126.16472,40.78333",
+    "geom:latitude":40.78333,
+    "geom:longitude":126.16472,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wolmyong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282696,
+    "gn:latitude":40.78333,
+    "gn:longitude":126.16472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u014flmy\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d4\uba85\ub9ac",
+        "W\u014flmy\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282696
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"918022d66bc11d3a7b78ab1724a83159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747227,
+            "locality_id":1243076783,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1243076783,
+    "wof:lastmodified":1537655785,
+    "wof:name":"Wolmyong-ni",
+    "wof:parent_id":1108747227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.16472,
+    40.78333,
+    126.16472,
+    40.78333
+],
+  "geometry": {"coordinates":[126.16472,40.78333],"type":"Point"}
+}

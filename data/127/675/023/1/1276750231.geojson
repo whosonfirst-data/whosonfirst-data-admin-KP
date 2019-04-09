@@ -1,0 +1,75 @@
+{
+  "id": 1276750231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.30984,39.04232,126.30984,39.04232",
+    "geom:latitude":39.04232,
+    "geom:longitude":126.30984,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kakhulgol",
+    "gn:country_code":"KP",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888285,
+    "gn:latitude":39.04232,
+    "gn:longitude":126.30984,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kakh\u016dlgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac01\ud758\uace8"
+    ],
+    "name:und_x_variant":[
+        "Kakh\u016dlkol",
+        "Kakh\u016dlgol",
+        "Gakheulgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888285
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1f9246bd43fa916b70f7821497188ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747811,
+            "locality_id":1276750231,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1276750231,
+    "wof:lastmodified":1537654889,
+    "wof:name":"Kakhulgol",
+    "wof:parent_id":1108747811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.30984,
+    39.04232,
+    126.30984,
+    39.04232
+],
+  "geometry": {"coordinates":[126.30983999999999,39.04232],"type":"Point"}
+}

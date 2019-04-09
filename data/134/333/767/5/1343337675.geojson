@@ -1,0 +1,71 @@
+{
+  "id": 1343337675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.94083,42.42,129.94083,42.42",
+    "geom:latitude":42.42,
+    "geom:longitude":129.94083,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tomak-tong",
+    "gn:country_code":"KP",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305268,
+    "gn:latitude":42.42,
+    "gn:longitude":129.94083,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Tomak-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3c4\ub9c9\ub3d9",
+        "Tomak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305268
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3cec151f523b7979e3f39e0e243cf2f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746885,
+            "locality_id":1343337675,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1343337675,
+    "wof:lastmodified":1537655827,
+    "wof:name":"Tomak-tong",
+    "wof:parent_id":1108746885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.94083,
+    42.42,
+    129.94083,
+    42.42
+],
+  "geometry": {"coordinates":[129.94083000000001,42.42],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260089375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.26278,40.79472,126.26278,40.79472",
+    "geom:latitude":40.79472,
+    "geom:longitude":126.26278,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pogil-li",
+    "gn:country_code":"KP",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282705,
+    "gn:latitude":40.79472,
+    "gn:longitude":126.26278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pogil-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubcf5\uc778\ub9ac",
+        "Pogil-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282705
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"19e07af77f3bf59a7a5597c6640ea77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747227,
+            "locality_id":1260089375,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1260089375,
+    "wof:lastmodified":1537655786,
+    "wof:name":"Pogil-li",
+    "wof:parent_id":1108747227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.26278,
+    40.79472,
+    126.26278,
+    40.79472
+],
+  "geometry": {"coordinates":[126.26278000000001,40.79472],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193257931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.80626,39.17443,125.80626,39.17443",
+    "geom:latitude":39.17443,
+    "geom:longitude":125.80626,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Masanjang",
+    "gn:country_code":"KP",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932339,
+    "gn:latitude":39.17443,
+    "gn:longitude":125.80626,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Masanjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\uc0b0\uc7a5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932339
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4e4f1c0a146dee23eb0e1c6c1d71a30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1193257931,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1193257931,
+    "wof:lastmodified":1537655082,
+    "wof:name":"Masanjang",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.80626,
+    39.17443,
+    125.80626,
+    39.17443
+],
+  "geometry": {"coordinates":[125.80625999999999,39.17443],"type":"Point"}
+}

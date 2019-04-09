@@ -1,0 +1,74 @@
+{
+  "id": 1310376667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.42211,41.45763,127.42211,41.45763",
+    "geom:latitude":41.45763,
+    "geom:longitude":127.42211,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Maebol-tong",
+    "gn:country_code":"KP",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042979,
+    "gn:latitude":41.45763,
+    "gn:longitude":127.42211,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Maeb\u014fl-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9e4\ubc8c\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Maeb\u014fl-tong",
+        "Mab\u014fl-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042979
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1ac57b7413ce2306412e48028e90cc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746965,
+            "locality_id":1310376667,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1310376667,
+    "wof:lastmodified":1537655376,
+    "wof:name":"Maebol-tong",
+    "wof:parent_id":1108746965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.42211,
+    41.45763,
+    127.42211,
+    41.45763
+],
+  "geometry": {"coordinates":[127.42211,41.45763],"type":"Point"}
+}

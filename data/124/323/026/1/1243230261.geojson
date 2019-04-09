@@ -1,0 +1,71 @@
+{
+  "id": 1243230261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.73028,41.25083,129.73028,41.25083",
+    "geom:latitude":41.25083,
+    "geom:longitude":129.73028,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Samp'o-ri",
+    "gn:country_code":"KP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305817,
+    "gn:latitude":41.25083,
+    "gn:longitude":129.73028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Samp\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc0bc\ud3ec\ub9ac",
+        "Samp\u2019o-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305817
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"60dd7bce6917fe63a1c39d36cafe102a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747903,
+            "locality_id":1243230261,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1243230261,
+    "wof:lastmodified":1537655845,
+    "wof:name":"Samp'o-ri",
+    "wof:parent_id":1108747903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.73028,
+    41.25083,
+    129.73028,
+    41.25083
+],
+  "geometry": {"coordinates":[129.73027999999999,41.25083],"type":"Point"}
+}

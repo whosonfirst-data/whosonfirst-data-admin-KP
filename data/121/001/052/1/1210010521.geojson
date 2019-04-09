@@ -1,0 +1,67 @@
+{
+  "id": 1210010521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.81472,38.74611,127.81472,38.74611",
+    "geom:latitude":38.74611,
+    "geom:longitude":127.81472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hwasal-li",
+    "gn:country_code":"KP",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931731,
+    "gn:latitude":38.74611,
+    "gn:longitude":127.81472,
+    "gn:modification_date":"2003-04-21",
+    "gn:name":"Hwasal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931731
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f08754acd7c956b474207d050cb903b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747853,
+            "locality_id":1210010521,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1210010521,
+    "wof:lastmodified":1536368843,
+    "wof:name":"Hwasal-li",
+    "wof:parent_id":1108747853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.81472,
+    38.74611,
+    127.81472,
+    38.74611
+],
+  "geometry": {"coordinates":[127.81471999999999,38.74611],"type":"Point"}
+}

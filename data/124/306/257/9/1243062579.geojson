@@ -1,0 +1,77 @@
+{
+  "id": 1243062579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.25278,38.35528,125.25278,38.35528",
+    "geom:latitude":38.35528,
+    "geom:longitude":125.25278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sojae",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870002,
+    "gn:latitude":38.35528,
+    "gn:longitude":125.25278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fjae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uc7ac"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fjae"
+    ],
+    "name:und_x_variant":[
+        "S\u014fje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870002
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7a069968f1f130c39dd3ace20d9092bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747109,
+            "locality_id":1243062579,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243062579,
+    "wof:lastmodified":1537654359,
+    "wof:name":"Sojae",
+    "wof:parent_id":1108747109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.25278,
+    38.35528,
+    125.25278,
+    38.35528
+],
+  "geometry": {"coordinates":[125.25278,38.35528],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226063473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.39472,38.98417,127.39472,38.98417",
+    "geom:latitude":38.98417,
+    "geom:longitude":127.39472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chomch'on-dong",
+    "gn:country_code":"KP",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367199,
+    "gn:latitude":38.98417,
+    "gn:longitude":127.39472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u014fmch\u2019on-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc810\ucd0c\ub3d9"
+    ],
+    "name:kor_x_variant":[
+        "Ch\u014fmch\u2019on-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367199
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c03420346eadabbce0cbb9a85e8ca1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746973,
+            "locality_id":1226063473,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226063473,
+    "wof:lastmodified":1537655908,
+    "wof:name":"Chomch'on-dong",
+    "wof:parent_id":1108746973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.39472,
+    38.98417,
+    127.39472,
+    38.98417
+],
+  "geometry": {"coordinates":[127.39472000000001,38.98417],"type":"Point"}
+}

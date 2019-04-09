@@ -1,0 +1,71 @@
+{
+  "id": 1343842001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.87111,38.45583,127.87111,38.45583",
+    "geom:latitude":38.45583,
+    "geom:longitude":127.87111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hoe-gol",
+    "gn:country_code":"KP",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1927153,
+    "gn:latitude":38.45583,
+    "gn:longitude":127.87111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hoe-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud68c\uace8",
+        "Hoe-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1927153
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7016166b4aff21318db1301fe1ad96f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746849,
+            "locality_id":1343842001,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1343842001,
+    "wof:lastmodified":1537655050,
+    "wof:name":"Hoe-gol",
+    "wof:parent_id":1108746849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.87111000000002,
+    38.45583,
+    127.87111000000002,
+    38.45583
+],
+  "geometry": {"coordinates":[127.87111000000002,38.45583],"type":"Point"}
+}

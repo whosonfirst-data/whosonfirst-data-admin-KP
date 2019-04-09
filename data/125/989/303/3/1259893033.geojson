@@ -1,0 +1,73 @@
+{
+  "id": 1259893033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.28706,40.55688,126.28706,40.55688",
+    "geom:latitude":40.55688,
+    "geom:longitude":126.28706,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"K'ungori",
+    "gn:country_code":"KP",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282629,
+    "gn:latitude":40.55688,
+    "gn:longitude":126.28706,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019\u016dng\u014fri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uad70\uace8",
+        "Kun-gol",
+        "K\u2019\u016dng\u014fri",
+        "\ud070\uac70\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282629
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"01ed14a8c00eb853ea184627a5480916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747789,
+            "locality_id":1259893033,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1259893033,
+    "wof:lastmodified":1537655782,
+    "wof:name":"K'ungori",
+    "wof:parent_id":1108747789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.28706,
+    40.55688,
+    126.28706,
+    40.55688
+],
+  "geometry": {"coordinates":[126.28706,40.55688],"type":"Point"}
+}

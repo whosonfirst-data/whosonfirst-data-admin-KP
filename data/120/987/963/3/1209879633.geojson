@@ -1,0 +1,67 @@
+{
+  "id": 1209879633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.0,42.05,129.0,42.05",
+    "geom:latitude":42.05,
+    "geom:longitude":129.0,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Makpol",
+    "gn:country_code":"KP",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042920,
+    "gn:latitude":42.05,
+    "gn:longitude":129.0,
+    "gn:modification_date":"2002-05-02",
+    "gn:name":"Makp\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108748045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042920
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b9418b66bd94236e63819a026c13e951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748045,
+            "locality_id":1209879633,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1209879633,
+    "wof:lastmodified":1536395639,
+    "wof:name":"Makpol",
+    "wof:parent_id":1108748045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.0,
+    42.05,
+    129.0,
+    42.05
+],
+  "geometry": {"coordinates":[129.0,42.05],"type":"Point"}
+}

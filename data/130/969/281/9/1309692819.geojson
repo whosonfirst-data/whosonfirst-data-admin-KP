@@ -1,0 +1,67 @@
+{
+  "id": 1309692819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.61667,39.61667,124.61667,39.61667",
+    "geom:latitude":39.61667,
+    "geom:longitude":124.61667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Paesan",
+    "gn:country_code":"KP",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1872845,
+    "gn:latitude":39.61667,
+    "gn:longitude":124.61667,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Paesan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubc30\uc0b0\ubb3c"
+    ],
+    "name:und_x_variant":[
+        "Paesanmul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1872845
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4325b30b95d3bfdf4a42596147357dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309692819,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309692819,
+    "wof:lastmodified":1537654503,
+    "wof:name":"Paesan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.61667,
+    39.61667,
+    124.61667,
+    39.61667
+],
+  "geometry": {"coordinates":[124.61667,39.61667],"type":"Point"}
+}

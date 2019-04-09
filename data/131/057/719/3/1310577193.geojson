@@ -1,0 +1,72 @@
+{
+  "id": 1310577193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.16917,41.25667,129.16917,41.25667",
+    "geom:latitude":41.25667,
+    "geom:longitude":129.16917,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"K'ungae-gol",
+    "gn:country_code":"KP",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049711,
+    "gn:latitude":41.25667,
+    "gn:longitude":129.16917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019ungae-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019ungae-kol",
+        "K\u2019ungae-gol",
+        "\ud070\uac1c\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049711
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f2525b0324e3d3285fe45be2cdee0e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747019,
+            "locality_id":1310577193,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1310577193,
+    "wof:lastmodified":1537655569,
+    "wof:name":"K'ungae-gol",
+    "wof:parent_id":1108747019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.16917,
+    41.25667,
+    129.16917,
+    41.25667
+],
+  "geometry": {"coordinates":[129.16917000000001,41.25667],"type":"Point"}
+}

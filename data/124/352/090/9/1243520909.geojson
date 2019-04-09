@@ -1,0 +1,72 @@
+{
+  "id": 1243520909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.60583,41.83083,129.60583,41.83083",
+    "geom:latitude":41.83083,
+    "geom:longitude":129.60583,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chagun'gae",
+    "gn:country_code":"KP",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2045259,
+    "gn:latitude":41.83083,
+    "gn:longitude":129.60583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chag\u016dn\u2019gae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sop\u2019o",
+        "\uc791\uc740\uac1c",
+        "Chag\u016dn\u2019gae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2045259
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"dd5232888a1598a7195e96ecd07985f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746863,
+            "locality_id":1243520909,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1243520909,
+    "wof:lastmodified":1537655505,
+    "wof:name":"Chagun'gae",
+    "wof:parent_id":1108746863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.60583,
+    41.83083,
+    129.60583,
+    41.83083
+],
+  "geometry": {"coordinates":[129.60583,41.83083],"type":"Point"}
+}

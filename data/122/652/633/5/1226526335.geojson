@@ -1,0 +1,70 @@
+{
+  "id": 1226526335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.59667,38.77583,127.59667,38.77583",
+    "geom:latitude":38.77583,
+    "geom:longitude":127.59667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sae-mal",
+    "gn:country_code":"KP",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882443,
+    "gn:latitude":38.77583,
+    "gn:longitude":127.59667,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Sae-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\ub9d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882443
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1dffe3e07196926972f4ffbc2d5d78f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746887,
+            "locality_id":1226526335,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226526335,
+    "wof:lastmodified":1537654880,
+    "wof:name":"Sae-mal",
+    "wof:parent_id":1108746887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.59667,
+    38.77583,
+    127.59667,
+    38.77583
+],
+  "geometry": {"coordinates":[127.59667,38.77583],"type":"Point"}
+}

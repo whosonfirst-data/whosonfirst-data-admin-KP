@@ -1,0 +1,76 @@
+{
+  "id": 1309993189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.95417,39.98556,124.95417,39.98556",
+    "geom:latitude":39.98556,
+    "geom:longitude":124.95417,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sinsi-ri",
+    "gn:country_code":"KP",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870331,
+    "gn:latitude":39.98556,
+    "gn:longitude":124.95417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sinsi-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uc2dc\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Shinshi",
+        "Sinsi-dong",
+        "Shinshi-d\u014d",
+        "Sinsi-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870331
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b8f055c093e09ee367545b48e9f62adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747199,
+            "locality_id":1309993189,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1309993189,
+    "wof:lastmodified":1537654375,
+    "wof:name":"Sinsi-ri",
+    "wof:parent_id":1108747199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.95417,
+    39.98556,
+    124.95417,
+    39.98556
+],
+  "geometry": {"coordinates":[124.95417,39.98556],"type":"Point"}
+}

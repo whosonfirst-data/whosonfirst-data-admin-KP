@@ -1,0 +1,66 @@
+{
+  "id": 1310211419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.53361,39.34583,127.53361,39.34583",
+    "geom:latitude":39.34583,
+    "geom:longitude":127.53361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hodo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877196,
+    "gn:latitude":39.34583,
+    "gn:longitude":127.53361,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Hodo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud638\ub3c4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877196
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"78ded52bae335cad68ed10530aa1d691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310211419,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310211419,
+    "wof:lastmodified":1537654728,
+    "wof:name":"Hodo-ri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.53361,
+    39.34583,
+    127.53361,
+    39.34583
+],
+  "geometry": {"coordinates":[127.53361,39.34583],"type":"Point"}
+}

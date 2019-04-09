@@ -1,0 +1,75 @@
+{
+  "id": 1226119111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17675,38.98613,126.17675,38.98613",
+    "geom:latitude":38.98613,
+    "geom:longitude":126.17675,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kangdong-gun",
+    "gn:asciiname":"Yoriul",
+    "gn:country_code":"KP",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1949880,
+    "gn:latitude":38.98613,
+    "gn:longitude":126.17675,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Y\u014friul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5ec\ub9ac\uc6b8"
+    ],
+    "name:und_x_variant":[
+        "Y\u014friul",
+        "Yeoriul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1949880
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d339015c3ae0887ce8fdea78787618e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747811,
+            "locality_id":1226119111,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1226119111,
+    "wof:lastmodified":1537655098,
+    "wof:name":"Yoriul",
+    "wof:parent_id":1108747811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17675,
+    38.98613,
+    126.17675,
+    38.98613
+],
+  "geometry": {"coordinates":[126.17675,38.98613],"type":"Point"}
+}

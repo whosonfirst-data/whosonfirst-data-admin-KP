@@ -1,0 +1,68 @@
+{
+  "id": 1225923713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.01444,39.05278,126.01444,39.05278",
+    "geom:latitude":39.05278,
+    "geom:longitude":126.01444,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"S\u016dngho-guy\u014fk",
+    "gn:asciiname":"Chungt'ap",
+    "gn:country_code":"KP",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888276,
+    "gn:latitude":39.05278,
+    "gn:longitude":126.01444,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Chungt\u2019ap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888276
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c28e25bad99daa551a81bb15f6a63b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":1225923713,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1225923713,
+    "wof:lastmodified":1536901381,
+    "wof:name":"Chungt'ap",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.01444,
+    39.05278,
+    126.01444,
+    39.05278
+],
+  "geometry": {"coordinates":[126.01443999999999,39.05278],"type":"Point"}
+}

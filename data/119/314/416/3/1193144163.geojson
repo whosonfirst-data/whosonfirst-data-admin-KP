@@ -1,0 +1,70 @@
+{
+  "id": 1193144163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.19724,40.21547,127.19724,40.21547",
+    "geom:latitude":40.21547,
+    "geom:longitude":127.19724,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Namsu-dong",
+    "gn:country_code":"KP",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181897,
+    "gn:latitude":40.21547,
+    "gn:longitude":127.19724,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Namsu-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0a8\uc218\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181897
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d73b28d9644e75f2a5b9d9e646454d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746913,
+            "locality_id":1193144163,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1193144163,
+    "wof:lastmodified":1537655954,
+    "wof:name":"Namsu-dong",
+    "wof:parent_id":1108746913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.19724,
+    40.21547,
+    127.19724,
+    40.21547
+],
+  "geometry": {"coordinates":[127.19723999999999,40.21547],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343332857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.24833,41.0425,128.24833,41.0425",
+    "geom:latitude":41.0425,
+    "geom:longitude":128.24833,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yongp'yong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2045995,
+    "gn:latitude":41.0425,
+    "gn:longitude":128.24833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yongp\u2019y\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6a9\ud3c9\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Yongp\u2019\u014fng-ni",
+        "Yongp\u2019y\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2045995
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"99f03fa9f383291bf65d51800789e692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746953,
+            "locality_id":1343332857,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1343332857,
+    "wof:lastmodified":1537655516,
+    "wof:name":"Yongp'yong-ni",
+    "wof:parent_id":1108746953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.24833,
+    41.0425,
+    128.24833,
+    41.0425
+],
+  "geometry": {"coordinates":[128.24833000000001,41.0425],"type":"Point"}
+}

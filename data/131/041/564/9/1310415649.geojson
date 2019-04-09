@@ -1,0 +1,69 @@
+{
+  "id": 1310415649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.16667,37.81667,125.16667,37.81667",
+    "geom:latitude":37.81667,
+    "geom:longitude":125.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tojin-dong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868182,
+    "gn:latitude":37.81667,
+    "gn:longitude":125.16667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tojin-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3c4\uc9c4\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Tojindo",
+        "Tojin-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868182
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b7ff74d374df77b2936059ea282b0c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310415649,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310415649,
+    "wof:lastmodified":1537654269,
+    "wof:name":"Tojin-dong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.16667,
+    37.81667,
+    125.16667,
+    37.81667
+],
+  "geometry": {"coordinates":[125.16667,37.81667],"type":"Point"}
+}

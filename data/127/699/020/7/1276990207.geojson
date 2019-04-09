@@ -1,0 +1,71 @@
+{
+  "id": 1276990207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7525,40.5475,125.7525,40.5475",
+    "geom:latitude":40.5475,
+    "geom:longitude":125.7525,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yuryang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282386,
+    "gn:latitude":40.5475,
+    "gn:longitude":125.7525,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yuryang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc728\uc591\ub9ac",
+        "Yuryang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282386
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bd31bebad0313936968f797e7646f42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1276990207,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1276990207,
+    "wof:lastmodified":1537655772,
+    "wof:name":"Yuryang-ni",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7525,
+    40.5475,
+    125.7525,
+    40.5475
+],
+  "geometry": {"coordinates":[125.7525,40.5475],"type":"Point"}
+}

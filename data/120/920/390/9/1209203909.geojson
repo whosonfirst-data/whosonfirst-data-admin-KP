@@ -1,0 +1,70 @@
+{
+  "id": 1209203909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81639,38.62333,126.81639,38.62333",
+    "geom:latitude":38.62333,
+    "geom:longitude":126.81639,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"P'ungjol-li",
+    "gn:country_code":"KP",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889297,
+    "gn:latitude":38.62333,
+    "gn:longitude":126.81639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019ungj\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud48d\uc804\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "P\u2019ungj\u014fl-li"
+    ],
+    "name:und_x_variant":[
+        "P\u2019ungj\u014fn-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889297
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"84ea3f4e7f498418f326d1162d9e3373",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209203909
+        }
+    ],
+    "wof:id":1209203909,
+    "wof:lastmodified":1537654926,
+    "wof:name":"P'ungjol-li",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81638999999998,
+    38.62333,
+    126.81638999999998,
+    38.62333
+],
+  "geometry": {"coordinates":[126.81638999999998,38.62333],"type":"Point"}
+}

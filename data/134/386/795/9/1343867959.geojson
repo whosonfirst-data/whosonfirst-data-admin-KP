@@ -1,0 +1,69 @@
+{
+  "id": 1343867959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.11667,39.58333,125.11667,39.58333",
+    "geom:latitude":39.58333,
+    "geom:longitude":125.11667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sonmi",
+    "gn:country_code":"KP",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869328,
+    "gn:latitude":39.58333,
+    "gn:longitude":125.11667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"S\u014fnmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc120\ubbf8"
+    ],
+    "name:und_x_variant":[
+        "S\u014fnmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869328
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e580a4a16761f81848b51e1e7dcfec62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343867959,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343867959,
+    "wof:lastmodified":1537654324,
+    "wof:name":"Sonmi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.11667,
+    39.58333,
+    125.11667,
+    39.58333
+],
+  "geometry": {"coordinates":[125.11667,39.58333],"type":"Point"}
+}

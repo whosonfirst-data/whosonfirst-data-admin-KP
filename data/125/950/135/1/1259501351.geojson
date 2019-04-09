@@ -1,0 +1,70 @@
+{
+  "id": 1259501351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58333,37.76667,125.58333,37.76667",
+    "geom:latitude":37.76667,
+    "geom:longitude":125.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sae-mal",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871771,
+    "gn:latitude":37.76667,
+    "gn:longitude":125.58333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Sae-mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\ub9d0"
+    ],
+    "name:und_x_variant":[
+        "Saemari",
+        "Sin-ch\u2019on",
+        "Sae-mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871771
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"da9baca7f723532735483dec5ce60637",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259501351,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259501351,
+    "wof:lastmodified":1537654448,
+    "wof:name":"Sae-mal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58333,
+    37.76667,
+    125.58333,
+    37.76667
+],
+  "geometry": {"coordinates":[125.58333,37.76667],"type":"Point"}
+}

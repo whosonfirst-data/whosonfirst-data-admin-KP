@@ -1,0 +1,67 @@
+{
+  "id": 1276465805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.54111,38.00556,125.54111,38.00556",
+    "geom:latitude":38.00556,
+    "geom:longitude":125.54111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yullam-dong",
+    "gn:country_code":"KP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1865867,
+    "gn:latitude":38.00556,
+    "gn:longitude":125.54111,
+    "gn:modification_date":"2003-02-11",
+    "gn:name":"Yullam-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1865867
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"640147a671b7204141ac2e24a2f414cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747817,
+            "locality_id":1276465805,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276465805,
+    "wof:lastmodified":1537095154,
+    "wof:name":"Yullam-dong",
+    "wof:parent_id":1108747817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.54111,
+    38.00556,
+    125.54111,
+    38.00556
+],
+  "geometry": {"coordinates":[125.54111,38.00556],"type":"Point"}
+}

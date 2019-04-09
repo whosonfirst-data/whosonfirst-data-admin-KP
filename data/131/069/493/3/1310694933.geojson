@@ -1,0 +1,73 @@
+{
+  "id": 1310694933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.68056,38.50556,125.68056,38.50556",
+    "geom:latitude":38.50556,
+    "geom:longitude":125.68056,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Haeso-ri",
+    "gn:country_code":"KP",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877586,
+    "gn:latitude":38.50556,
+    "gn:longitude":125.68056,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Haes\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud574\uc11c\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Haes\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108746907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877586
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0d3ae17f8ee24839c1075840ae829e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746907,
+            "locality_id":1310694933,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1310694933,
+    "wof:lastmodified":1537654751,
+    "wof:name":"Haeso-ri",
+    "wof:parent_id":1108746907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.68056,
+    38.50556,
+    125.68056,
+    38.50556
+],
+  "geometry": {"coordinates":[125.68056,38.50556],"type":"Point"}
+}

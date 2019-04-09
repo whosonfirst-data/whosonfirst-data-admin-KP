@@ -1,0 +1,71 @@
+{
+  "id": 1310192439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.665,40.07222,124.665,40.07222",
+    "geom:latitude":40.07222,
+    "geom:longitude":124.665,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yangso-ri",
+    "gn:country_code":"KP",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6281723,
+    "gn:latitude":40.07222,
+    "gn:longitude":124.665,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yangs\u014f-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc591\uc11c\ub9ac",
+        "Yangs\u014f-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281723
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e63e45dbf949216cea53eaf45853efc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747047,
+            "locality_id":1310192439,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1310192439,
+    "wof:lastmodified":1537655747,
+    "wof:name":"Yangso-ri",
+    "wof:parent_id":1108747047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.665,
+    40.07222,
+    124.665,
+    40.07222
+],
+  "geometry": {"coordinates":[124.66500000000001,40.07222],"type":"Point"}
+}

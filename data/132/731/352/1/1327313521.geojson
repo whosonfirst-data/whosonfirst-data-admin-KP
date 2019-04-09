@@ -1,0 +1,83 @@
+{
+  "id": 1327313521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.90278,38.89944,125.90278,38.89944",
+    "geom:latitude":38.89944,
+    "geom:longitude":125.90278,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mujinjang-maul",
+    "gn:country_code":"KP",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874286,
+    "gn:latitude":38.89944,
+    "gn:longitude":125.90278,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mujinjang-ma\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Mujinjang-ma\u016dl"
+    ],
+    "name:kor_x_variant":[
+        "\ubb34\uc9c4\uc7a5\ub9c8\uc744",
+        "\ubb34\uc9c4\uc7a5\ub9ac",
+        "\ubb34\uc9c4\uc7a5"
+    ],
+    "name:und_x_variant":[
+        "Boshinj\u014d",
+        "Mujinjang",
+        "Boshindo",
+        "Mujin-ni",
+        "Mujinjang-ni",
+        "Mujinjangmaeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874286
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e3a3047a6646ccc595b8541d6ef18917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747799,
+            "locality_id":1327313521,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1327313521,
+    "wof:lastmodified":1537654570,
+    "wof:name":"Mujinjang-maul",
+    "wof:parent_id":1108747799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.90278,
+    38.89944000000001,
+    125.90278,
+    38.89944000000001
+],
+  "geometry": {"coordinates":[125.90278000000001,38.89944000000001],"type":"Point"}
+}

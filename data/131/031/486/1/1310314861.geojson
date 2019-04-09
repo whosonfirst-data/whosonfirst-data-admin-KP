@@ -1,0 +1,70 @@
+{
+  "id": 1310314861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.26667,39.98333,125.26667,39.98333",
+    "geom:latitude":39.98333,
+    "geom:longitude":125.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tongyang",
+    "gn:country_code":"KP",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867663,
+    "gn:latitude":39.98333,
+    "gn:longitude":125.26667,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tongyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub3d9\uc591"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867663
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1c79bab14b0987c341ca361dbd257d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747859,
+            "locality_id":1310314861,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1310314861,
+    "wof:lastmodified":1537654242,
+    "wof:name":"Tongyang",
+    "wof:parent_id":1108747859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.26667,
+    39.98333,
+    125.26667,
+    39.98333
+],
+  "geometry": {"coordinates":[125.26667,39.98333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243152631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.60361,39.82722,125.60361,39.82722",
+    "geom:latitude":39.82722,
+    "geom:longitude":125.60361,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ch'ungmak-tong",
+    "gn:country_code":"KP",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891989,
+    "gn:latitude":39.82722,
+    "gn:longitude":125.60361,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ch\u2019ungmak-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ucda9\ub9c9\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019ungmak-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891989
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9c76b43fd9b8cec065cb807ba0cf6eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747183,
+            "locality_id":1243152631,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1243152631,
+    "wof:lastmodified":1537655006,
+    "wof:name":"Ch'ungmak-tong",
+    "wof:parent_id":1108747183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.60361,
+    39.82722,
+    125.60361,
+    39.82722
+],
+  "geometry": {"coordinates":[125.60361,39.82722],"type":"Point"}
+}

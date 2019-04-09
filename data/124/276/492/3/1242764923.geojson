@@ -1,0 +1,72 @@
+{
+  "id": 1242764923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.66861,39.54389,124.66861,39.54389",
+    "geom:latitude":39.54389,
+    "geom:longitude":124.66861,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"K'unmulchu",
+    "gn:country_code":"KP",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875199,
+    "gn:latitude":39.54389,
+    "gn:longitude":124.66861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019\u016dnmulchu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taemulchu",
+        "\ud070\ubb3c\uc8fc",
+        "K\u2019\u016dnmulchu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875199
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e558997bd50fb1ac7c23f61686b0c92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747725,
+            "locality_id":1242764923,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1242764923,
+    "wof:lastmodified":1537654615,
+    "wof:name":"K'unmulchu",
+    "wof:parent_id":1108747725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.66861000000002,
+    39.54389000000001,
+    124.66861000000002,
+    39.54389000000001
+],
+  "geometry": {"coordinates":[124.66861000000002,39.54389000000001],"type":"Point"}
+}

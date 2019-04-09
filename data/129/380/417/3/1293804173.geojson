@@ -1,0 +1,71 @@
+{
+  "id": 1293804173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.80222,38.76028,125.80222,38.76028",
+    "geom:latitude":38.76028,
+    "geom:longitude":125.80222,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Araemoru-gol",
+    "gn:country_code":"KP",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6363521,
+    "gn:latitude":38.76028,
+    "gn:longitude":125.80222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Araem\u014fru-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc544\ub798\uba38\ub8e8\uace8",
+        "Araem\u014fru-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6363521
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0802610a69bf23648455fa14d8ee9d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747765,
+            "locality_id":1293804173,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293804173,
+    "wof:lastmodified":1537655856,
+    "wof:name":"Araemoru-gol",
+    "wof:parent_id":1108747765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.80222,
+    38.76028,
+    125.80222,
+    38.76028
+],
+  "geometry": {"coordinates":[125.80222000000001,38.76028],"type":"Point"}
+}

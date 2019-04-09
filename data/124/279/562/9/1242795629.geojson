@@ -1,0 +1,70 @@
+{
+  "id": 1242795629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.43333,39.55,126.43333,39.55",
+    "geom:latitude":39.55,
+    "geom:longitude":126.43333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Songsa-ri",
+    "gn:country_code":"KP",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869378,
+    "gn:latitude":39.55,
+    "gn:longitude":126.43333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Songsa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc1a1\uc0ac\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869378
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"539253d64ba8dfa7fde5ce03f499f855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747069,
+            "locality_id":1242795629,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1242795629,
+    "wof:lastmodified":1537654326,
+    "wof:name":"Songsa-ri",
+    "wof:parent_id":1108747069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.43333,
+    39.55,
+    126.43333,
+    39.55
+],
+  "geometry": {"coordinates":[126.43333,39.55],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225953383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.9475,40.6425,125.9475,40.6425",
+    "geom:latitude":40.6425,
+    "geom:longitude":125.9475,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nup-tong",
+    "gn:country_code":"KP",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042400,
+    "gn:latitude":40.6425,
+    "gn:longitude":125.9475,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u016dp-tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub2a1\ub3d9",
+        "N\u016dp-kol",
+        "N\u016dp-tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042400
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9dbdffc766048ad53e2ce9e2c8d34ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":1225953383,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1225953383,
+    "wof:lastmodified":1537655341,
+    "wof:name":"Nup-tong",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.9475,
+    40.6425,
+    125.9475,
+    40.6425
+],
+  "geometry": {"coordinates":[125.94750000000001,40.6425],"type":"Point"}
+}

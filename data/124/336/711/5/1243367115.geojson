@@ -1,0 +1,85 @@
+{
+  "id": 1243367115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.56271,40.79466,126.56271,40.79466",
+    "geom:latitude":40.79466,
+    "geom:longitude":126.56271,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Songgan-up",
+    "gn:country_code":"KP",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2040629,
+    "gn:latitude":40.79466,
+    "gn:longitude":126.56271,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fnggan-\u016dp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc131\uac04\uc74d"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fnggan-\u016dp",
+        "S\u014fnggan",
+        "\uc131\uac04"
+    ],
+    "name:und_x_variant":[
+        "Bekka-d\u014d",
+        "Py\u014frha-ri",
+        "Bekka-ri",
+        "Betsukari",
+        "Py\u014frha-dong",
+        "\uc131\uac04",
+        "S\u014fnggan-\u016dp",
+        "S\u014fnggan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108748019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2040629
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bcdb18da7aa5e387d14a8c1a46240942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748019,
+            "locality_id":1243367115,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1243367115,
+    "wof:lastmodified":1537655239,
+    "wof:name":"Songgan-up",
+    "wof:parent_id":1108748019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.56271,
+    40.79466,
+    126.56271,
+    40.79466
+],
+  "geometry": {"coordinates":[126.56271,40.79466],"type":"Point"}
+}

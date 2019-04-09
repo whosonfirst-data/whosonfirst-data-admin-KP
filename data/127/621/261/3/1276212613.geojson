@@ -1,0 +1,67 @@
+{
+  "id": 1276212613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.23139,38.26083,126.23139,38.26083",
+    "geom:latitude":38.26083,
+    "geom:longitude":126.23139,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yoju-dong",
+    "gn:country_code":"KP",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948086,
+    "gn:latitude":38.26083,
+    "gn:longitude":126.23139,
+    "gn:modification_date":"2006-07-17",
+    "gn:name":"Y\u014fju-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948086
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a09fb20a2f76670ec663445d3c778903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747923,
+            "locality_id":1276212613,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276212613,
+    "wof:lastmodified":1536941520,
+    "wof:name":"Yoju-dong",
+    "wof:parent_id":1108747923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.23139,
+    38.26083,
+    126.23139,
+    38.26083
+],
+  "geometry": {"coordinates":[126.23139,38.26083],"type":"Point"}
+}

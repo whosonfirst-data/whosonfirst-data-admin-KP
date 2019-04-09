@@ -1,0 +1,71 @@
+{
+  "id": 1259675891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.59917,37.935,125.59917,37.935",
+    "geom:latitude":37.935,
+    "geom:longitude":125.59917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"P'yo-dong",
+    "gn:country_code":"KP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871981,
+    "gn:latitude":37.935,
+    "gn:longitude":125.59917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019yo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud45c\ub3d9",
+        "P\u2019yo-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871981
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"27cd44520190ab962b6b149225159dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747817,
+            "locality_id":1259675891,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259675891,
+    "wof:lastmodified":1537654460,
+    "wof:name":"P'yo-dong",
+    "wof:parent_id":1108747817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.59917,
+    37.935,
+    125.59917,
+    37.935
+],
+  "geometry": {"coordinates":[125.59917,37.935],"type":"Point"}
+}

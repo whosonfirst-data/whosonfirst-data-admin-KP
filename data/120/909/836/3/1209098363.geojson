@@ -1,0 +1,65 @@
+{
+  "id": 1209098363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.04333,37.94361,126.04333,37.94361",
+    "geom:latitude":37.94361,
+    "geom:longitude":126.04333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tangch'on",
+    "gn:country_code":"KP",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868483,
+    "gn:latitude":37.94361,
+    "gn:longitude":126.04333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tangch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tangnamu",
+        "Tangch\u2019on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868483
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c4e5d3b71f13505a4367f886f6a4f4dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209098363
+        }
+    ],
+    "wof:id":1209098363,
+    "wof:lastmodified":1537654285,
+    "wof:name":"Tangch'on",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.04333,
+    37.94361,
+    126.04333,
+    37.94361
+],
+  "geometry": {"coordinates":[126.04333,37.94361],"type":"Point"}
+}

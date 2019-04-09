@@ -1,0 +1,73 @@
+{
+  "id": 1309791873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.30333,41.46417,128.30333,41.46417",
+    "geom:latitude":41.46417,
+    "geom:longitude":128.30333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Uihwa-ri",
+    "gn:country_code":"KP",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2039626,
+    "gn:latitude":41.46417,
+    "gn:longitude":128.30333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u016cihwa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc758\ud654\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "\u016cihwa-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2039626
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4b3e4ea77ae0defe1b719b95669680c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747927,
+            "locality_id":1309791873,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1309791873,
+    "wof:lastmodified":1537655180,
+    "wof:name":"Uihwa-ri",
+    "wof:parent_id":1108747927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.30333000000002,
+    41.46417,
+    128.30333000000002,
+    41.46417
+],
+  "geometry": {"coordinates":[128.30333000000002,41.46417],"type":"Point"}
+}

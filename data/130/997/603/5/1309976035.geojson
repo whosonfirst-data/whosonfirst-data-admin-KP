@@ -1,0 +1,67 @@
+{
+  "id": 1309976035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.49306,39.06694,125.49306,39.06694",
+    "geom:latitude":39.06694,
+    "geom:longitude":125.49306,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ch'imgyo-dong",
+    "gn:country_code":"KP",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878840,
+    "gn:latitude":39.06694,
+    "gn:longitude":125.49306,
+    "gn:modification_date":"2006-05-31",
+    "gn:name":"Ch\u2019imgyo-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878840
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4b85e539ebec50a2edd5be42a5a41567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748039,
+            "locality_id":1309976035,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1309976035,
+    "wof:lastmodified":1536685858,
+    "wof:name":"Ch'imgyo-dong",
+    "wof:parent_id":1108748039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.49306,
+    39.06694,
+    125.49306,
+    39.06694
+],
+  "geometry": {"coordinates":[125.49306,39.06694],"type":"Point"}
+}

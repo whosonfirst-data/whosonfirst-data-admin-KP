@@ -1,0 +1,75 @@
+{
+  "id": 1343756609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.73972,38.11556,125.73972,38.11556",
+    "geom:latitude":38.11556,
+    "geom:longitude":125.73972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chappakkol",
+    "gn:country_code":"KP",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879017,
+    "gn:latitude":38.11556,
+    "gn:longitude":125.73972,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chappakkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a1\ubc27\uace8"
+    ],
+    "name:und_x_variant":[
+        "Chabat-kol",
+        "Chappat-kol",
+        "Chappakkol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879017
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"45a42a9138304cd499f7f24acd3b2316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747743,
+            "locality_id":1343756609,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1343756609,
+    "wof:lastmodified":1537654832,
+    "wof:name":"Chappakkol",
+    "wof:parent_id":1108747743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.73972,
+    38.11556,
+    125.73972,
+    38.11556
+],
+  "geometry": {"coordinates":[125.73972000000001,38.11556],"type":"Point"}
+}

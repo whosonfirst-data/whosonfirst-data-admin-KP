@@ -1,0 +1,71 @@
+{
+  "id": 1259973559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.38806,39.33,127.38806,39.33",
+    "geom:latitude":39.33,
+    "geom:longitude":127.38806,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Munch\u2019\u014fn-si",
+    "gn:asciiname":"Hwihu-ri",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952851,
+    "gn:latitude":39.33,
+    "gn:longitude":127.38806,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Hwihu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud718\ud6c4\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952851
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"860ba726708c0b15384eaeb4c11a89ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747009,
+            "locality_id":1259973559,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1259973559,
+    "wof:lastmodified":1537655117,
+    "wof:name":"Hwihu-ri",
+    "wof:parent_id":1108747009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.38806,
+    39.33,
+    127.38806,
+    39.33
+],
+  "geometry": {"coordinates":[127.38806,39.33],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310020277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58306,39.57056,125.58306,39.57056",
+    "geom:latitude":39.57056,
+    "geom:longitude":125.58306,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sosong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869225,
+    "gn:latitude":39.57056,
+    "gn:longitude":125.58306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u014fs\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc11c\uc131\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "S\u014fs\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869225
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d61568b5068f164dfbb8e44b9a829973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747011,
+            "locality_id":1310020277,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1310020277,
+    "wof:lastmodified":1537654319,
+    "wof:name":"Sosong-ni",
+    "wof:parent_id":1108747011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58306,
+    39.57056,
+    125.58306,
+    39.57056
+],
+  "geometry": {"coordinates":[125.58306,39.57056],"type":"Point"}
+}

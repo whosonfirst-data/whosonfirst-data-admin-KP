@@ -1,0 +1,67 @@
+{
+  "id": 1276966587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.24556,39.68389,125.24556,39.68389",
+    "geom:latitude":39.68389,
+    "geom:longitude":125.24556,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sanjong",
+    "gn:country_code":"KP",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870957,
+    "gn:latitude":39.68389,
+    "gn:longitude":125.24556,
+    "gn:modification_date":"2000-03-14",
+    "gn:name":"Sanj\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870957
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"81dae4f3f31548fc93562c71ecb46f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747793,
+            "locality_id":1276966587,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1276966587,
+    "wof:lastmodified":1536925820,
+    "wof:name":"Sanjong",
+    "wof:parent_id":1108747793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.24556,
+    39.68389000000001,
+    125.24556,
+    39.68389000000001
+],
+  "geometry": {"coordinates":[125.24556,39.68389000000001],"type":"Point"}
+}

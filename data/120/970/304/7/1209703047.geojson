@@ -1,0 +1,75 @@
+{
+  "id": 1209703047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.41667,39.9,125.41667,39.9",
+    "geom:latitude":39.9,
+    "geom:longitude":125.41667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Taesal-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868608,
+    "gn:latitude":39.9,
+    "gn:longitude":125.41667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Taesal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\uc0b0\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Taesan-ni",
+        "Taesal-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868608
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fc5b2b00017d35cc017ac288fa8d3ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747183,
+            "locality_id":1209703047,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1209703047,
+    "wof:lastmodified":1537654291,
+    "wof:name":"Taesal-li",
+    "wof:parent_id":1108747183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.41667,
+    39.9,
+    125.41667,
+    39.9
+],
+  "geometry": {"coordinates":[125.41667,39.9],"type":"Point"}
+}

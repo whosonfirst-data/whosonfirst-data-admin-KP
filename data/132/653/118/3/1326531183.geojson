@@ -1,0 +1,67 @@
+{
+  "id": 1326531183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.97444,40.02111,127.97444,40.02111",
+    "geom:latitude":40.02111,
+    "geom:longitude":127.97444,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ch'onjung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302634,
+    "gn:latitude":40.02111,
+    "gn:longitude":127.97444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019\u014fnjung-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ucc9c\uc911\ub9ac",
+        "Ch\u2019\u014fnjung-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302634
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8d7848006a0d4f03f3ffaec3aa816e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1326531183,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326531183,
+    "wof:lastmodified":1537655815,
+    "wof:name":"Ch'onjung-ni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.97444,
+    40.02111,
+    127.97444,
+    40.02111
+],
+  "geometry": {"coordinates":[127.97444,40.02111],"type":"Point"}
+}

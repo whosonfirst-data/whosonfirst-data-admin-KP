@@ -1,0 +1,79 @@
+{
+  "id": 1276302115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.375,38.82139,125.375,38.82139",
+    "geom:latitude":38.82139,
+    "geom:longitude":125.375,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maha-dong",
+    "gn:country_code":"KP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874650,
+    "gn:latitude":38.82139,
+    "gn:longitude":125.375,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maha-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9c8\ud558\ub3d9",
+        "Maha-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747969,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874650
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3f1e614ea370f0ff24cb8c83ab365145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1276302115,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1276302115,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1276302115,
+    "wof:lastmodified":1537654586,
+    "wof:name":"Maha-dong",
+    "wof:parent_id":1108747969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.375,
+    38.82139,
+    125.375,
+    38.82139
+],
+  "geometry": {"coordinates":[125.375,38.82139],"type":"Point"}
+}

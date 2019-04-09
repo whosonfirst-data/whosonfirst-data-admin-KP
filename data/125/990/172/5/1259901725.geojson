@@ -1,0 +1,73 @@
+{
+  "id": 1259901725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.23139,37.96333,126.23139,37.96333",
+    "geom:latitude":37.96333,
+    "geom:longitude":126.23139,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"K'unmok",
+    "gn:country_code":"KP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875204,
+    "gn:latitude":37.96333,
+    "gn:longitude":126.23139,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"K\u2019\u016dnm\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud070\uba39"
+    ],
+    "name:und_x_variant":[
+        "K\u2019\u016dnm\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875204
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"40a50a72716a4952773bc3535093c0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747905,
+            "locality_id":1259901725,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1259901725,
+    "wof:lastmodified":1537654615,
+    "wof:name":"K'unmok",
+    "wof:parent_id":1108747905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.23139,
+    37.96333,
+    126.23139,
+    37.96333
+],
+  "geometry": {"coordinates":[126.23139,37.96333],"type":"Point"}
+}

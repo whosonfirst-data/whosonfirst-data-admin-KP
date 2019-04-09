@@ -1,0 +1,67 @@
+{
+  "id": 1310325311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.59556,38.76528,125.59556,38.76528",
+    "geom:latitude":38.76528,
+    "geom:longitude":125.59556,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"To-ri",
+    "gn:country_code":"KP",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867639,
+    "gn:latitude":38.76528,
+    "gn:longitude":125.59556,
+    "gn:modification_date":"2004-09-23",
+    "gn:name":"To-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867639
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ff6a06a8334d7fd3a414b338d63c397f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748023,
+            "locality_id":1310325311,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310325311,
+    "wof:lastmodified":1536679401,
+    "wof:name":"To-ri",
+    "wof:parent_id":1108748023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.59556,
+    38.76528,
+    125.59556,
+    38.76528
+],
+  "geometry": {"coordinates":[125.59556000000001,38.76528],"type":"Point"}
+}

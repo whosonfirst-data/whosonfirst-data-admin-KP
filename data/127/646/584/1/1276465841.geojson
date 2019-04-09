@@ -1,0 +1,71 @@
+{
+  "id": 1276465841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.19694,38.24528,125.19694,38.24528",
+    "geom:latitude":38.24528,
+    "geom:longitude":125.19694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tongdae-dong",
+    "gn:country_code":"KP",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867923,
+    "gn:latitude":38.24528,
+    "gn:longitude":125.19694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tongdae-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3d9\ub300\ub3d9",
+        "Tongdae-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867923
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1a716c30b36c771bc6aa3bf413edac09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747185,
+            "locality_id":1276465841,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1276465841,
+    "wof:lastmodified":1537654256,
+    "wof:name":"Tongdae-dong",
+    "wof:parent_id":1108747185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.19693999999998,
+    38.24528,
+    125.19693999999998,
+    38.24528
+],
+  "geometry": {"coordinates":[125.19693999999998,38.24528],"type":"Point"}
+}

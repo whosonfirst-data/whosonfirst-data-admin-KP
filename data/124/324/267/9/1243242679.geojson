@@ -1,0 +1,72 @@
+{
+  "id": 1243242679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.97,40.87306,127.97,40.87306",
+    "geom:latitude":40.87306,
+    "geom:longitude":127.97,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"2041726",
+    "gn:asciiname":"Munjo-ri",
+    "gn:country_code":"KP",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042755,
+    "gn:latitude":40.87306,
+    "gn:longitude":127.97,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Munjo-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munjop\u2019y\u014fng-ni",
+        "Munjo-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108747049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042755
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"acae8117c39a3a8573178975ee5626c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747049,
+            "locality_id":1243242679,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1243242679,
+    "wof:lastmodified":1537655363,
+    "wof:name":"Munjo-ri",
+    "wof:parent_id":1108747049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.97,
+    40.87306,
+    127.97,
+    40.87306
+],
+  "geometry": {"coordinates":[127.97,40.87306],"type":"Point"}
+}

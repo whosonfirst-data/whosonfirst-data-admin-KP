@@ -1,0 +1,68 @@
+{
+  "id": 1343827757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17028,39.57389,126.17028,39.57389",
+    "geom:latitude":39.57389,
+    "geom:longitude":126.17028,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"Pukch\u2019ang-gun",
+    "gn:asciiname":"Simson-dong",
+    "gn:country_code":"KP",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892220,
+    "gn:latitude":39.57389,
+    "gn:longitude":126.17028,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Sims\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892220
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"47d04134921297cf9a83c776d460abcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747203,
+            "locality_id":1343827757,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1343827757,
+    "wof:lastmodified":1536714234,
+    "wof:name":"Simson-dong",
+    "wof:parent_id":1108747203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17028,
+    39.57389000000001,
+    126.17028,
+    39.57389000000001
+],
+  "geometry": {"coordinates":[126.17028000000001,39.57389000000001],"type":"Point"}
+}

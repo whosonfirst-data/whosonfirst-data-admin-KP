@@ -1,0 +1,73 @@
+{
+  "id": 1243241021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.53472,39.84,125.53472,39.84",
+    "geom:latitude":39.84,
+    "geom:longitude":125.53472,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Majangnyong",
+    "gn:country_code":"KP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892059,
+    "gn:latitude":39.84,
+    "gn:longitude":125.53472,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Majangny\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9c8\uc7a5\ub839"
+    ],
+    "name:und_x_variant":[
+        "Majangny\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892059
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5b70dd87bbadf72e3bb3b1b5200feea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747183,
+            "locality_id":1243241021,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1243241021,
+    "wof:lastmodified":1537655011,
+    "wof:name":"Majangnyong",
+    "wof:parent_id":1108747183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.53472,
+    39.84,
+    125.53472,
+    39.84
+],
+  "geometry": {"coordinates":[125.53471999999999,39.84],"type":"Point"}
+}

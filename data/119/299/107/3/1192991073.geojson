@@ -1,0 +1,71 @@
+{
+  "id": 1192991073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.28361,38.95,125.28361,38.95",
+    "geom:latitude":38.95,
+    "geom:longitude":125.28361,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chungyong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877766,
+    "gn:latitude":38.95,
+    "gn:longitude":125.28361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chungy\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc911\uc601\ub3d9",
+        "Chungy\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        421199693,
+        1108747027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877766
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d00f91b47c29acfc447684f53d666a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747027,
+            "locality_id":1192991073,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1192991073,
+    "wof:lastmodified":1537654761,
+    "wof:name":"Chungyong-dong",
+    "wof:parent_id":1108747027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.28361,
+    38.95,
+    125.28361,
+    38.95
+],
+  "geometry": {"coordinates":[125.28361,38.95],"type":"Point"}
+}

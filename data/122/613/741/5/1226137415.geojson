@@ -1,0 +1,72 @@
+{
+  "id": 1226137415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.85889,37.94528,125.85889,37.94528",
+    "geom:latitude":37.94528,
+    "geom:longitude":125.85889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mangson-gol",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874539,
+    "gn:latitude":37.94528,
+    "gn:longitude":125.85889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mangs\u014fn-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangs\u014fn-dong",
+        "Mangs\u014fn-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874539
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"db70a1ce007c686a2d3bb21ca8f30953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747729,
+            "locality_id":1226137415,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1226137415,
+    "wof:lastmodified":1537654582,
+    "wof:name":"Mangson-gol",
+    "wof:parent_id":1108747729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.85889,
+    37.94528,
+    125.85889,
+    37.94528
+],
+  "geometry": {"coordinates":[125.85889,37.94528],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226630263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.16639,39.20556,127.16639,39.20556",
+    "geom:latitude":39.20556,
+    "geom:longitude":127.16639,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Taep'o-ri",
+    "gn:country_code":"KP",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868664,
+    "gn:latitude":39.20556,
+    "gn:longitude":127.16639,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Taep\u2019o-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\ud3ec\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Taep\u2019o-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868664
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6cf84b84b79429ff462f6fbf0fdf628b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747009,
+            "locality_id":1226630263,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226630263,
+    "wof:lastmodified":1537654294,
+    "wof:name":"Taep'o-ri",
+    "wof:parent_id":1108747009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.16639,
+    39.20556,
+    127.16639,
+    39.20556
+],
+  "geometry": {"coordinates":[127.16639000000001,39.20556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209885995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.32389,39.01806,125.32389,39.01806",
+    "geom:latitude":39.01806,
+    "geom:longitude":125.32389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chinsa-ri",
+    "gn:country_code":"KP",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878774,
+    "gn:latitude":39.01806,
+    "gn:longitude":125.32389,
+    "gn:modification_date":"2006-05-30",
+    "gn:name":"Chinsa-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878774
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"762d59aae9841880a7a3178b857a6a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747801,
+            "locality_id":1209885995,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1209885995,
+    "wof:lastmodified":1536392910,
+    "wof:name":"Chinsa-ri",
+    "wof:parent_id":1108747801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.32389,
+    39.01806,
+    125.32389,
+    39.01806
+],
+  "geometry": {"coordinates":[125.32389000000001,39.01806],"type":"Point"}
+}

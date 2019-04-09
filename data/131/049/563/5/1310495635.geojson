@@ -1,0 +1,71 @@
+{
+  "id": 1310495635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.44876,39.11957,127.44876,39.11957",
+    "geom:latitude":39.11957,
+    "geom:longitude":127.44876,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ch'unsal-li",
+    "gn:country_code":"KP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1877764,
+    "gn:latitude":39.11957,
+    "gn:longitude":127.44876,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019unsal-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019unsal-li",
+        "\ucd98\uc0b0\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1877764
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2f0a0d59bc14024b45f2ef0410eb0832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747229,
+            "locality_id":1310495635,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1310495635,
+    "wof:lastmodified":1537654760,
+    "wof:name":"Ch'unsal-li",
+    "wof:parent_id":1108747229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.44876,
+    39.11957,
+    127.44876,
+    39.11957
+],
+  "geometry": {"coordinates":[127.44875999999999,39.11957],"type":"Point"}
+}

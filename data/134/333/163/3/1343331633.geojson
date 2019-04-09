@@ -1,0 +1,75 @@
+{
+  "id": 1343331633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.44278,38.87806,125.44278,38.87806",
+    "geom:latitude":38.87806,
+    "geom:longitude":125.44278,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Andojang",
+    "gn:country_code":"KP",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883440,
+    "gn:latitude":38.87806,
+    "gn:longitude":125.44278,
+    "gn:modification_date":"1994-12-01",
+    "gn:name":"Andojang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747969,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883440
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c3ea4d714069373b49ed1c7a1f6e3fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1343331633,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747969,
+            "locality_id":1343331633,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1343331633,
+    "wof:lastmodified":1536933073,
+    "wof:name":"Andojang",
+    "wof:parent_id":1108747969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.44278,
+    38.87806,
+    125.44278,
+    38.87806
+],
+  "geometry": {"coordinates":[125.44278,38.87806],"type":"Point"}
+}

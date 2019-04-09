@@ -1,0 +1,71 @@
+{
+  "id": 1309694683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64972,39.82611,126.64972,39.82611",
+    "geom:latitude":39.82611,
+    "geom:longitude":126.64972,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chiksang",
+    "gn:country_code":"KP",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892497,
+    "gn:latitude":39.82611,
+    "gn:longitude":126.64972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chiksang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc9c1\uc0c1",
+        "Chiksang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892497
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"14cea9b044cf438be7370fe63200af42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747025,
+            "locality_id":1309694683,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1309694683,
+    "wof:lastmodified":1537655023,
+    "wof:name":"Chiksang",
+    "wof:parent_id":1108747025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64972,
+    39.82611,
+    126.64972,
+    39.82611
+],
+  "geometry": {"coordinates":[126.64972,39.82611],"type":"Point"}
+}

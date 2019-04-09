@@ -1,0 +1,70 @@
+{
+  "id": 1327249239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.6,39.53333,125.6,39.53333",
+    "geom:latitude":39.53333,
+    "geom:longitude":125.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Samsan-ni",
+    "gn:country_code":"KP",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871421,
+    "gn:latitude":39.53333,
+    "gn:longitude":125.6,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Samsan-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0bc\uc0b0\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871421
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ec9b496fa54ebc2c44a30f7e973fe601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747011,
+            "locality_id":1327249239,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1327249239,
+    "wof:lastmodified":1537654429,
+    "wof:name":"Samsan-ni",
+    "wof:parent_id":1108747011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.6,
+    39.53333,
+    125.6,
+    39.53333
+],
+  "geometry": {"coordinates":[125.59999999999999,39.53333],"type":"Point"}
+}

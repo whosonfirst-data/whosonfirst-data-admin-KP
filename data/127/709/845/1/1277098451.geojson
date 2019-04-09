@@ -1,0 +1,65 @@
+{
+  "id": 1277098451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.08361,37.88167,125.08361,37.88167",
+    "geom:latitude":37.88167,
+    "geom:longitude":125.08361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mahang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874647,
+    "gn:latitude":37.88167,
+    "gn:longitude":125.08361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mahang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9c8\ud56d\ub9ac",
+        "Mahang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874647
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6e4a332b82cc132bc97561a5b6f82dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277098451,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277098451,
+    "wof:lastmodified":1537654586,
+    "wof:name":"Mahang-ni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.08361,
+    37.88167,
+    125.08361,
+    37.88167
+],
+  "geometry": {"coordinates":[125.08360999999999,37.88167],"type":"Point"}
+}

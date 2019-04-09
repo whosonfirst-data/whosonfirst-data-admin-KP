@@ -1,0 +1,73 @@
+{
+  "id": 1243048557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.88722,39.7575,124.88722,39.7575",
+    "geom:latitude":39.7575,
+    "geom:longitude":124.88722,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ipsokch'on",
+    "gn:country_code":"KP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876490,
+    "gn:latitude":39.7575,
+    "gn:longitude":124.88722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ips\u014fkch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Ips\u014fkch\u2019on"
+    ],
+    "name:kor_x_variant":[
+        "\uc785\uc11d\ucd0c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876490
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f240cf85c8a21a7bfb3be40cf11308b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747147,
+            "locality_id":1243048557,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1243048557,
+    "wof:lastmodified":1537654689,
+    "wof:name":"Ipsokch'on",
+    "wof:parent_id":1108747147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.88722,
+    39.7575,
+    124.88722,
+    39.7575
+],
+  "geometry": {"coordinates":[124.88722,39.7575],"type":"Point"}
+}

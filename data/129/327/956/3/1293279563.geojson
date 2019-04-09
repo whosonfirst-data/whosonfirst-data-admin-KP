@@ -1,0 +1,73 @@
+{
+  "id": 1293279563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.81667,39.935,124.81667,39.935",
+    "geom:latitude":39.935,
+    "geom:longitude":124.81667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ch'ollyong",
+    "gn:country_code":"KP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878588,
+    "gn:latitude":39.935,
+    "gn:longitude":124.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019\u014flly\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Ch\u2019\u014flly\u014fng"
+    ],
+    "name:kor_x_variant":[
+        "\ucc9c\ub839"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108747199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878588
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a161b2de580d319b5d987875424e6744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747199,
+            "locality_id":1293279563,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1293279563,
+    "wof:lastmodified":1537654806,
+    "wof:name":"Ch'ollyong",
+    "wof:parent_id":1108747199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.81667,
+    39.935,
+    124.81667,
+    39.935
+],
+  "geometry": {"coordinates":[124.81667,39.935],"type":"Point"}
+}

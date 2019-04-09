@@ -1,0 +1,67 @@
+{
+  "id": 1209323883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63646,40.70526,126.63646,40.70526",
+    "geom:latitude":40.70526,
+    "geom:longitude":126.63646,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pongch'un-dong",
+    "gn:country_code":"KP",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7642726,
+    "gn:latitude":40.70526,
+    "gn:longitude":126.63646,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pongch\u2019un-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ubd09\ucd98\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Pongch\u2019un-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7642726
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8c6ca5ebaaec4e045248e591dfd14ce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209323883
+        }
+    ],
+    "wof:id":1209323883,
+    "wof:lastmodified":1537655952,
+    "wof:name":"Pongch'un-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63646,
+    40.70526,
+    126.63646,
+    40.70526
+],
+  "geometry": {"coordinates":[126.63646,40.70526],"type":"Point"}
+}

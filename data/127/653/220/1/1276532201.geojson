@@ -1,0 +1,73 @@
+{
+  "id": 1276532201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.13556,38.45222,128.13556,38.45222",
+    "geom:latitude":38.45222,
+    "geom:longitude":128.13556,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hwajung-dong",
+    "gn:country_code":"KP",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988452,
+    "gn:latitude":38.45222,
+    "gn:longitude":128.13556,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hwajung-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\uc911\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Hwajung-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988452
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"63f54cea1b737d9103975409703a2dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747853,
+            "locality_id":1276532201,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1276532201,
+    "wof:lastmodified":1537655129,
+    "wof:name":"Hwajung-dong",
+    "wof:parent_id":1108747853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.13556,
+    38.45222,
+    128.13556,
+    38.45222
+],
+  "geometry": {"coordinates":[128.13556,38.45222],"type":"Point"}
+}

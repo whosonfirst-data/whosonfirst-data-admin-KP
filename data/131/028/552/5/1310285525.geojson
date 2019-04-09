@@ -1,0 +1,73 @@
+{
+  "id": 1310285525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17,39.95611,126.17,39.95611",
+    "geom:latitude":39.95611,
+    "geom:longitude":126.17,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hwasangch'am",
+    "gn:country_code":"KP",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876826,
+    "gn:latitude":39.95611,
+    "gn:longitude":126.17,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Hwasangch\u2019am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud654\uc0c1\ucc38"
+    ],
+    "name:und_x_variant":[
+        "Hwasangch\u2019am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108746901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876826
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"92139a40201431a1b2a5a707fb27f105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746901,
+            "locality_id":1310285525,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1310285525,
+    "wof:lastmodified":1537654707,
+    "wof:name":"Hwasangch'am",
+    "wof:parent_id":1108746901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17,
+    39.95611,
+    126.17,
+    39.95611
+],
+  "geometry": {"coordinates":[126.17,39.95611],"type":"Point"}
+}

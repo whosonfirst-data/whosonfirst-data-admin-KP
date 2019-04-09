@@ -1,0 +1,79 @@
+{
+  "id": 1293274583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.3075,38.74556,125.3075,38.74556",
+    "geom:latitude":38.74556,
+    "geom:longitude":125.3075,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sach'ol-li",
+    "gn:country_code":"KP",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871834,
+    "gn:latitude":38.74556,
+    "gn:longitude":125.3075,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sach\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sach\u2019\u014fn-ni",
+        "Sach\u2019\u014fl-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747021,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871834
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"771997ac2edf7d00776206117a06b2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":1293274583,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":1293274583,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1293274583,
+    "wof:lastmodified":1537654452,
+    "wof:name":"Sach'ol-li",
+    "wof:parent_id":1108747021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.3075,
+    38.74556,
+    125.3075,
+    38.74556
+],
+  "geometry": {"coordinates":[125.3075,38.74556],"type":"Point"}
+}

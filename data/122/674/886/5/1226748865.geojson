@@ -1,0 +1,71 @@
+{
+  "id": 1226748865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.28361,40.31194,127.28361,40.31194",
+    "geom:latitude":40.31194,
+    "geom:longitude":127.28361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Konjagae",
+    "gn:country_code":"KP",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302596,
+    "gn:latitude":40.31194,
+    "gn:longitude":127.28361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u014fnjagae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uac74\uc790\uac1c",
+        "K\u014fnjagae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302596
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8e88c07906ed655eb0daf6306031cbdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746913,
+            "locality_id":1226748865,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1226748865,
+    "wof:lastmodified":1537655813,
+    "wof:name":"Konjagae",
+    "wof:parent_id":1108746913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.28361,
+    40.31194,
+    127.28361,
+    40.31194
+],
+  "geometry": {"coordinates":[127.28361,40.31194],"type":"Point"}
+}

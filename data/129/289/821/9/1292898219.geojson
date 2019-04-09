@@ -1,0 +1,67 @@
+{
+  "id": 1292898219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.11917,38.37944,125.11917,38.37944",
+    "geom:latitude":38.37944,
+    "geom:longitude":125.11917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hwadang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1930969,
+    "gn:latitude":38.37944,
+    "gn:longitude":125.11917,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Hwadang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1930969
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bafd329974d7687fb05518ab4fcb82a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748021,
+            "locality_id":1292898219,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1292898219,
+    "wof:lastmodified":1536641690,
+    "wof:name":"Hwadang-ni",
+    "wof:parent_id":1108748021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.11917,
+    38.37944,
+    125.11917,
+    38.37944
+],
+  "geometry": {"coordinates":[125.11917,38.37944],"type":"Point"}
+}

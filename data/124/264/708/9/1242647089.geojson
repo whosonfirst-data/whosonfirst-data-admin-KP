@@ -1,0 +1,68 @@
+{
+  "id": 1242647089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58194,39.33139,125.58194,39.33139",
+    "geom:latitude":39.33139,
+    "geom:longitude":125.58194,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1871865",
+    "gn:asciiname":"P'yongch'on-dong",
+    "gn:country_code":"KP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950810,
+    "gn:latitude":39.33139,
+    "gn:longitude":125.58194,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"P\u2019y\u014fngch\u2019on-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950810
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"640bff5cdb8549d31d02eaa72d4bd31a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748033,
+            "locality_id":1242647089,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1242647089,
+    "wof:lastmodified":1536963697,
+    "wof:name":"P'yongch'on-dong",
+    "wof:parent_id":1108748033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58194,
+    39.33139,
+    125.58194,
+    39.33139
+],
+  "geometry": {"coordinates":[125.58194,39.33139],"type":"Point"}
+}

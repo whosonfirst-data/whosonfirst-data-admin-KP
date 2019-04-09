@@ -1,0 +1,71 @@
+{
+  "id": 1293296305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.19167,41.08083,126.19167,41.08083",
+    "geom:latitude":41.08083,
+    "geom:longitude":126.19167,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ogasan-dong",
+    "gn:country_code":"KP",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282819,
+    "gn:latitude":41.08083,
+    "gn:longitude":126.19167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ogasan-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc624\uac00\uc0b0\ub3d9",
+        "Ogasan-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282819
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e5fcf05e25212b7fae935f7af36fec10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747007,
+            "locality_id":1293296305,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1293296305,
+    "wof:lastmodified":1537655791,
+    "wof:name":"Ogasan-dong",
+    "wof:parent_id":1108747007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.19167,
+    41.08083,
+    126.19167,
+    41.08083
+],
+  "geometry": {"coordinates":[126.19167,41.08083],"type":"Point"}
+}

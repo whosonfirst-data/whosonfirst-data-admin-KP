@@ -1,0 +1,70 @@
+{
+  "id": 1360055369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.93194,39.53944,125.93194,39.53944",
+    "geom:latitude":39.53944,
+    "geom:longitude":125.93194,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chamjung-dong",
+    "gn:country_code":"KP",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889906,
+    "gn:latitude":39.53944,
+    "gn:longitude":125.93194,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chamjung-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a0\uc911\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889906
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"450939f3f213285ec7c366dfe79dd405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748035,
+            "locality_id":1360055369,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1360055369,
+    "wof:lastmodified":1537654939,
+    "wof:name":"Chamjung-dong",
+    "wof:parent_id":1108748035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.93194,
+    39.53944,
+    125.93194,
+    39.53944
+],
+  "geometry": {"coordinates":[125.93194,39.53944],"type":"Point"}
+}

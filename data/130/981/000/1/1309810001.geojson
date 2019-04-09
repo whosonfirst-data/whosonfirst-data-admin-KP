@@ -1,0 +1,77 @@
+{
+  "id": 1309810001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.15972,39.48222,127.15972,39.48222",
+    "geom:latitude":39.48222,
+    "geom:longitude":127.15972,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tach'ol-li",
+    "gn:country_code":"KP",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1868503,
+    "gn:latitude":39.48222,
+    "gn:longitude":127.15972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tach\u2019\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub2e4\ucc9c\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Tach\u2019\u014fl-li"
+    ],
+    "name:und_x_variant":[
+        "Tach\u2019\u014fn-ni",
+        "Tanch\u2019\u014fn-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1868503
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7321f5e4261cdb22bc8784483760d633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746977,
+            "locality_id":1309810001,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1309810001,
+    "wof:lastmodified":1537654286,
+    "wof:name":"Tach'ol-li",
+    "wof:parent_id":1108746977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.15972,
+    39.48222,
+    127.15972,
+    39.48222
+],
+  "geometry": {"coordinates":[127.15971999999999,39.48222],"type":"Point"}
+}

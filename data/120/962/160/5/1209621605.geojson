@@ -1,0 +1,65 @@
+{
+  "id": 1209621605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.57611,39.84278,127.57611,39.84278",
+    "geom:latitude":39.84278,
+    "geom:longitude":127.57611,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Unsang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273419,
+    "gn:latitude":39.84278,
+    "gn:longitude":127.57611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Unsang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6b4\uc0c1\ub9ac",
+        "Unsang-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273419
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9d53acb756b390a1d504063af9c54d37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209621605
+        }
+    ],
+    "wof:id":1209621605,
+    "wof:lastmodified":1537655693,
+    "wof:name":"Unsang-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.57611,
+    39.84278,
+    127.57611,
+    39.84278
+],
+  "geometry": {"coordinates":[127.57611,39.84278],"type":"Point"}
+}

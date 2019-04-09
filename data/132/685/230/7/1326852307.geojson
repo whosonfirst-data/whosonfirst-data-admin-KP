@@ -1,0 +1,72 @@
+{
+  "id": 1326852307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.80583,38.0425,125.80583,38.0425",
+    "geom:latitude":38.0425,
+    "geom:longitude":125.80583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pyolsan",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871961,
+    "gn:latitude":38.0425,
+    "gn:longitude":125.80583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Py\u014flsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osan",
+        "Py\u014flsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871961
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0a66d6d49ad2c649c67d601a4faf1d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747743,
+            "locality_id":1326852307,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1326852307,
+    "wof:lastmodified":1537654459,
+    "wof:name":"Pyolsan",
+    "wof:parent_id":1108747743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.80583,
+    38.0425,
+    125.80583,
+    38.0425
+],
+  "geometry": {"coordinates":[125.80583,38.0425],"type":"Point"}
+}

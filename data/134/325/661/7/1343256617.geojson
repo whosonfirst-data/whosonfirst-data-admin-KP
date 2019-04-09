@@ -1,0 +1,75 @@
+{
+  "id": 1343256617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.22611,38.62139,125.22611,38.62139",
+    "geom:latitude":38.62139,
+    "geom:longitude":125.22611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yong-ch'on",
+    "gn:country_code":"KP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866446,
+    "gn:latitude":38.62139,
+    "gn:longitude":125.22611,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Y\u014fng-ch\u2019on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747021,
+        421199693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866446
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a312b2214252e06dd7df0c0ea84a25cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":1343256617,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":1343256617,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":1343256617,
+    "wof:lastmodified":1537038796,
+    "wof:name":"Yong-ch'on",
+    "wof:parent_id":1108747021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.22611,
+    38.62139000000001,
+    125.22611,
+    38.62139000000001
+],
+  "geometry": {"coordinates":[125.22611000000001,38.62139000000001],"type":"Point"}
+}

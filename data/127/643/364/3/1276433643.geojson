@@ -1,0 +1,72 @@
+{
+  "id": 1276433643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63944,37.79722,126.63944,37.79722",
+    "geom:latitude":37.79722,
+    "geom:longitude":126.63944,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"P\u2019anmun-gun",
+    "gn:asciiname":"Songan",
+    "gn:country_code":"KP",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1869714,
+    "gn:latitude":37.79722,
+    "gn:longitude":126.63944,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"S\u014fngan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Songnae",
+        "S\u014fngan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869714
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d51a2349a7298044204879333bf592f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":1276433643,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1276433643,
+    "wof:lastmodified":1537654344,
+    "wof:name":"Songan",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63944,
+    37.79722,
+    126.63944,
+    37.79722
+],
+  "geometry": {"coordinates":[126.63943999999999,37.79722],"type":"Point"}
+}

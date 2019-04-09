@@ -1,0 +1,67 @@
+{
+  "id": 1209224371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.5,38.01667,125.5,38.01667",
+    "geom:latitude":38.01667,
+    "geom:longitude":125.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Wolchon-dong",
+    "gn:country_code":"KP",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1867092,
+    "gn:latitude":38.01667,
+    "gn:longitude":125.5,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"W\u014flch\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\uc804\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "W\u014flch\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1867092
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6ac2f2e6d168054e9f43e6d218d44592",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209224371
+        }
+    ],
+    "wof:id":1209224371,
+    "wof:lastmodified":1537654215,
+    "wof:name":"Wolchon-dong",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.5,
+    38.01667,
+    125.5,
+    38.01667
+],
+  "geometry": {"coordinates":[125.5,38.01667],"type":"Point"}
+}

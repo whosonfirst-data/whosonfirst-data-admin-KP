@@ -1,0 +1,67 @@
+{
+  "id": 1293375921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.15333,38.635,126.15333,38.635",
+    "geom:latitude":38.635,
+    "geom:longitude":126.15333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kuktae-ri",
+    "gn:country_code":"KP",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1931527,
+    "gn:latitude":38.635,
+    "gn:longitude":126.15333,
+    "gn:modification_date":"2003-03-31",
+    "gn:name":"Kuktae-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931527
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0cad52ddfa469ce4bf3016c77e86bc7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":1293375921,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293375921,
+    "wof:lastmodified":1536948233,
+    "wof:name":"Kuktae-ri",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.15333,
+    38.635,
+    126.15333,
+    38.635
+],
+  "geometry": {"coordinates":[126.15333,38.635],"type":"Point"}
+}

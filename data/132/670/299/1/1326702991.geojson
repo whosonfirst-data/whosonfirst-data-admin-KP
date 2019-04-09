@@ -1,0 +1,68 @@
+{
+  "id": 1326702991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.19361,39.57556,126.19361,39.57556",
+    "geom:latitude":39.57556,
+    "geom:longitude":126.19361,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"Pukch\u2019ang-gun",
+    "gn:asciiname":"Tukchang-dong",
+    "gn:country_code":"KP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892219,
+    "gn:latitude":39.57556,
+    "gn:longitude":126.19361,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"T\u016dkchang-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892219
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"daea02b2959f3c7bc41344322170071d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747203,
+            "locality_id":1326702991,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1326702991,
+    "wof:lastmodified":1536737906,
+    "wof:name":"Tukchang-dong",
+    "wof:parent_id":1108747203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.19361,
+    39.57556,
+    126.19361,
+    39.57556
+],
+  "geometry": {"coordinates":[126.19361000000001,39.57556],"type":"Point"}
+}

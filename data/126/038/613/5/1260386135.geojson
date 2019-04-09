@@ -1,0 +1,71 @@
+{
+  "id": 1260386135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.68444,37.92806,125.68444,37.92806",
+    "geom:latitude":37.92806,
+    "geom:longitude":125.68444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kin'gotchi",
+    "gn:country_code":"KP",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274379,
+    "gn:latitude":37.92806,
+    "gn:longitude":125.68444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kin\u2019gotchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae34\uacf3\uc9c0",
+        "Kin\u2019gotchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274379
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b407135bf8574ec69a6e23f257dc0f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747817,
+            "locality_id":1260386135,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1260386135,
+    "wof:lastmodified":1537655703,
+    "wof:name":"Kin'gotchi",
+    "wof:parent_id":1108747817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.68444,
+    37.92806,
+    125.68444,
+    37.92806
+],
+  "geometry": {"coordinates":[125.68444,37.92806],"type":"Point"}
+}

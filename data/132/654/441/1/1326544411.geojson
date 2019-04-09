@@ -1,0 +1,70 @@
+{
+  "id": 1326544411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.58333,38.15,125.58333,38.15",
+    "geom:latitude":38.15,
+    "geom:longitude":125.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Naedong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1874001,
+    "gn:latitude":38.15,
+    "gn:longitude":125.58333,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Naedong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub0b4\ub3d9\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874001
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"83789839c6639a9e33a28ecc9b40e198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747921,
+            "locality_id":1326544411,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1326544411,
+    "wof:lastmodified":1537654557,
+    "wof:name":"Naedong-ni",
+    "wof:parent_id":1108747921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.58333,
+    38.15,
+    125.58333,
+    38.15
+],
+  "geometry": {"coordinates":[125.58333,38.15],"type":"Point"}
+}

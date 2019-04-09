@@ -1,0 +1,70 @@
+{
+  "id": 1193011747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3225,38.54833,126.3225,38.54833",
+    "geom:latitude":38.54833,
+    "geom:longitude":126.3225,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Malguri-gol",
+    "gn:country_code":"KP",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1891210,
+    "gn:latitude":38.54833,
+    "gn:longitude":126.3225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Malguri-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub9d0\uad6c\ub9ac\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891210
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1dc3e17fa87d0986ef2b542253f81fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":1193011747,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1193011747,
+    "wof:lastmodified":1537654974,
+    "wof:name":"Malguri-gol",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3225,
+    38.54833,
+    126.3225,
+    38.54833
+],
+  "geometry": {"coordinates":[126.32250000000001,38.54833],"type":"Point"}
+}

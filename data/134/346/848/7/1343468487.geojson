@@ -1,0 +1,73 @@
+{
+  "id": 1343468487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.54656,39.9818,124.54656,39.9818",
+    "geom:latitude":39.9818,
+    "geom:longitude":124.54656,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Wonhak",
+    "gn:country_code":"KP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866972,
+    "gn:latitude":39.9818,
+    "gn:longitude":124.54656,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"W\u014fnhak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d0\ud559"
+    ],
+    "name:und_x_variant":[
+        "W\u014fnhak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676633,
+        1108748105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866972
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f4eccc46da7db1266e69ebf0127f2949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748105,
+            "locality_id":1343468487,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":1343468487,
+    "wof:lastmodified":1537654209,
+    "wof:name":"Wonhak",
+    "wof:parent_id":1108748105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.54656,
+    39.9818,
+    124.54656,
+    39.9818
+],
+  "geometry": {"coordinates":[124.54656,39.9818],"type":"Point"}
+}

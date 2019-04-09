@@ -1,0 +1,71 @@
+{
+  "id": 1344142831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.22,40.72167,128.22,40.72167",
+    "geom:latitude":40.72167,
+    "geom:longitude":128.22,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kumsandok",
+    "gn:country_code":"KP",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050189,
+    "gn:latitude":40.72167,
+    "gn:longitude":128.22,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u016dmsand\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae08\uc0b0\ub355",
+        "K\u016dmsand\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676641,
+        1108746959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050189
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"46cfa367841e5899dd62079f7e10fe68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746959,
+            "locality_id":1344142831,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":1344142831,
+    "wof:lastmodified":1537655594,
+    "wof:name":"Kumsandok",
+    "wof:parent_id":1108746959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.22,
+    40.72167,
+    128.22,
+    40.72167
+],
+  "geometry": {"coordinates":[128.22,40.72167],"type":"Point"}
+}

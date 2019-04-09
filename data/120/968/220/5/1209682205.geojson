@@ -1,0 +1,65 @@
+{
+  "id": 1209682205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.92639,42.70722,129.92639,42.70722",
+    "geom:latitude":42.70722,
+    "geom:longitude":129.92639,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"T'ulmok-kol",
+    "gn:country_code":"KP",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049240,
+    "gn:latitude":42.70722,
+    "gn:longitude":129.92639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u2019\u016dlmok-kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud2c0\ubaa9\uace8",
+        "T\u2019\u016dlmok-kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049240
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"79c041e5d7e66a8f97030944bd4f2d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209682205
+        }
+    ],
+    "wof:id":1209682205,
+    "wof:lastmodified":1537655547,
+    "wof:name":"T'ulmok-kol",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.92639,
+    42.70722,
+    129.92639,
+    42.70722
+],
+  "geometry": {"coordinates":[129.92639,42.70722],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310607533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.05778,39.63722,127.05778,39.63722",
+    "geom:latitude":39.63722,
+    "geom:longitude":127.05778,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yukpong-gol",
+    "gn:country_code":"KP",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367278,
+    "gn:latitude":39.63722,
+    "gn:longitude":127.05778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yukpong-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc721\ubd09\uace8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367278
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b4d844d77f840b3decba03563e3656ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748103,
+            "locality_id":1310607533,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1310607533,
+    "wof:lastmodified":1537655911,
+    "wof:name":"Yukpong-gol",
+    "wof:parent_id":1108748103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.05778,
+    39.63722,
+    127.05778,
+    39.63722
+],
+  "geometry": {"coordinates":[127.05777999999999,39.63722],"type":"Point"}
+}

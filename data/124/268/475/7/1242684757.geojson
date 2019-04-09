@@ -1,0 +1,71 @@
+{
+  "id": 1242684757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.30031,40.0443,128.30031,40.0443",
+    "geom:latitude":40.0443,
+    "geom:longitude":128.30031,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042222,
+    "gn:latitude":40.0443,
+    "gn:longitude":128.30031,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u014e\u016dn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014e\u016dn-dong",
+        "\uc5b4\uc740\ub3d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042222
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ce7c68bbe0d2dd23a5a306bce526dd7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748003,
+            "locality_id":1242684757,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1242684757,
+    "wof:lastmodified":1537655331,
+    "wof:name":"Oun-dong",
+    "wof:parent_id":1108748003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.30031,
+    40.0443,
+    128.30031,
+    40.0443
+],
+  "geometry": {"coordinates":[128.30031,40.0443],"type":"Point"}
+}

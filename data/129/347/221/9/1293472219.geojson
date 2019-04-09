@@ -1,0 +1,70 @@
+{
+  "id": 1293472219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.405,39.66944,126.405,39.66944",
+    "geom:latitude":39.66944,
+    "geom:longitude":126.405,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Meha-ri",
+    "gn:country_code":"KP",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892164,
+    "gn:latitude":39.66944,
+    "gn:longitude":126.405,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Meha-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uba54\ud558\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892164
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"08c66407a3440457a300d32140cdb4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747069,
+            "locality_id":1293472219,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1293472219,
+    "wof:lastmodified":1537655015,
+    "wof:name":"Meha-ri",
+    "wof:parent_id":1108747069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.405,
+    39.66944,
+    126.405,
+    39.66944
+],
+  "geometry": {"coordinates":[126.405,39.66944],"type":"Point"}
+}

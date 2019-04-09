@@ -1,0 +1,76 @@
+{
+  "id": 1309701485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.35972,38.64139,127.35972,38.64139",
+    "geom:latitude":38.64139,
+    "geom:longitude":127.35972,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Sep\u2019o-gun",
+    "gn:asciiname":"Sep'o-up",
+    "gn:country_code":"KP",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1870822,
+    "gn:latitude":38.64139,
+    "gn:longitude":127.35972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sep\u2019o-\u016dp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Senpori",
+        "Sep\u2019o",
+        "Shenpo",
+        "Sempo-ri",
+        "Sep\u2019o-ri",
+        "Sep\u2019o-\u016dp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1870822
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8b5fa44ee99db6d43d87a659716ce919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747119,
+            "locality_id":1309701485,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1309701485,
+    "wof:lastmodified":1537654400,
+    "wof:name":"Sep'o-up",
+    "wof:parent_id":1108747119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.35972,
+    38.64139,
+    127.35972,
+    38.64139
+],
+  "geometry": {"coordinates":[127.35972,38.64139],"type":"Point"}
+}

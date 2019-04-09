@@ -1,0 +1,74 @@
+{
+  "id": 1243468743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.03333,38.06667,126.03333,38.06667",
+    "geom:latitude":38.06667,
+    "geom:longitude":126.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ahyol-li",
+    "gn:country_code":"KP",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879711,
+    "gn:latitude":38.06667,
+    "gn:longitude":126.03333,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ahy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc544\ud604\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Ahy\u014fl-li",
+        "Ahy\u014fn-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879711
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"aaba48116e4585b1d1c0af9fa7565de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":1243468743,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243468743,
+    "wof:lastmodified":1537654873,
+    "wof:name":"Ahyol-li",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.03333,
+    38.06667,
+    126.03333,
+    38.06667
+],
+  "geometry": {"coordinates":[126.03333000000001,38.06667],"type":"Point"}
+}

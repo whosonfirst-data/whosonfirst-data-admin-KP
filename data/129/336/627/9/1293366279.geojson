@@ -1,0 +1,73 @@
+{
+  "id": 1293366279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.61028,41.08167,129.61028,41.08167",
+    "geom:latitude":41.08167,
+    "geom:longitude":129.61028,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Naewon-dong",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2042655,
+    "gn:latitude":41.08167,
+    "gn:longitude":129.61028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naew\u014fn-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naew\u014fn-gol",
+        "\ub0b4\uc6d0\ub3d9",
+        "Naew\u014fn-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2042655
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"902f01ea99448256c2793cd69cc02121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747019,
+            "locality_id":1293366279,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1293366279,
+    "wof:lastmodified":1537655356,
+    "wof:name":"Naewon-dong",
+    "wof:parent_id":1108747019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.61028000000002,
+    41.08167,
+    129.61028000000002,
+    41.08167
+],
+  "geometry": {"coordinates":[129.61028000000002,41.08167],"type":"Point"}
+}

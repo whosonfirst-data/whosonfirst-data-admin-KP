@@ -1,0 +1,68 @@
+{
+  "id": 1343433697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17861,39.64917,126.17861,39.64917",
+    "geom:latitude":39.64917,
+    "geom:longitude":126.17861,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"T\u014fkch\u2019\u014fn-si",
+    "gn:asciiname":"Samhung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871483,
+    "gn:latitude":39.64917,
+    "gn:longitude":126.17861,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Samh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871483
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c5079ac5fd9c35208a873ff620c0be92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747203,
+            "locality_id":1343433697,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1343433697,
+    "wof:lastmodified":1536785456,
+    "wof:name":"Samhung-ni",
+    "wof:parent_id":1108747203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17861,
+    39.64917,
+    126.17861,
+    39.64917
+],
+  "geometry": {"coordinates":[126.17861000000001,39.64917],"type":"Point"}
+}

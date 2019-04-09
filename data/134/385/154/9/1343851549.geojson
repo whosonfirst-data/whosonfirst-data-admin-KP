@@ -1,0 +1,67 @@
+{
+  "id": 1343851549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.0975,38.26056,126.0975,38.26056",
+    "geom:latitude":38.26056,
+    "geom:longitude":126.0975,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Komhyol-li",
+    "gn:country_code":"KP",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1948050,
+    "gn:latitude":38.26056,
+    "gn:longitude":126.0975,
+    "gn:modification_date":"2006-07-17",
+    "gn:name":"K\u014fmhy\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948050
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f3f39246cba7ac1a6c68cb63113b833c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747093,
+            "locality_id":1343851549,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1343851549,
+    "wof:lastmodified":1536679467,
+    "wof:name":"Komhyol-li",
+    "wof:parent_id":1108747093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.0975,
+    38.26056,
+    126.0975,
+    38.26056
+],
+  "geometry": {"coordinates":[126.0975,38.26056],"type":"Point"}
+}

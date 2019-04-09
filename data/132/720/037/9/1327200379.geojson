@@ -1,0 +1,78 @@
+{
+  "id": 1327200379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.67861,42.42667,129.67861,42.42667",
+    "geom:latitude":42.42667,
+    "geom:longitude":129.67861,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yongsu-ri",
+    "gn:country_code":"KP",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2038982,
+    "gn:latitude":42.42667,
+    "gn:longitude":129.67861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u014fngsu-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eisui-d\u014f",
+        "Y\u014fngsu-dong",
+        "Eisui",
+        "Y\u014fngoan-dong",
+        "Eikan-d\u014f",
+        "Y\u014fngyu",
+        "Y\u014fngyu-dong",
+        "\uc601\uc218\ub9ac",
+        "Y\u014fngsu-ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038982
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"63fbd49b4881257d0571b0bf22e11454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746885,
+            "locality_id":1327200379,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1327200379,
+    "wof:lastmodified":1537655141,
+    "wof:name":"Yongsu-ri",
+    "wof:parent_id":1108746885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.67861000000002,
+    42.42667,
+    129.67861000000002,
+    42.42667
+],
+  "geometry": {"coordinates":[129.67861000000002,42.42667],"type":"Point"}
+}

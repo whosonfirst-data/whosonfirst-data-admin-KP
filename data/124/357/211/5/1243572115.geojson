@@ -1,0 +1,72 @@
+{
+  "id": 1243572115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.96667,39.5,125.96667,39.5",
+    "geom:latitude":39.5,
+    "geom:longitude":125.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ch'op'yong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878176,
+    "gn:latitude":39.5,
+    "gn:longitude":125.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019op\u2019y\u014fng-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014dhei-d\u014d",
+        "S\u014dhy\u014d-d\u014d",
+        "Ch\u2019op\u2019y\u014fng-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108748035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878176
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ec351f1a69a3df96a0ff58344d34694b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748035,
+            "locality_id":1243572115,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1243572115,
+    "wof:lastmodified":1537654785,
+    "wof:name":"Ch'op'yong-dong",
+    "wof:parent_id":1108748035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.96667,
+    39.5,
+    125.96667,
+    39.5
+],
+  "geometry": {"coordinates":[125.96666999999999,39.5],"type":"Point"}
+}

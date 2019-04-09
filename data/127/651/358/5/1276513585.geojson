@@ -1,0 +1,71 @@
+{
+  "id": 1276513585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.18917,42.15056,130.18917,42.15056",
+    "geom:latitude":42.15056,
+    "geom:longitude":130.18917,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kkamagwibawi",
+    "gn:country_code":"KP",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305315,
+    "gn:latitude":42.15056,
+    "gn:longitude":130.18917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kkamagwibawi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uae4c\ub9c8\uadc0\ubc14\uc704",
+        "Kkamagwibawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108746863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305315
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e8577032830f8277704acabadc5124ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746863,
+            "locality_id":1276513585,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1276513585,
+    "wof:lastmodified":1537655828,
+    "wof:name":"Kkamagwibawi",
+    "wof:parent_id":1108746863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.18917,
+    42.15056,
+    130.18917,
+    42.15056
+],
+  "geometry": {"coordinates":[130.18916999999999,42.15056],"type":"Point"}
+}

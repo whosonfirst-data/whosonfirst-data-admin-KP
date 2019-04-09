@@ -1,0 +1,72 @@
+{
+  "id": 1226815601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.75944,41.32361,129.75944,41.32361",
+    "geom:latitude":41.32361,
+    "geom:longitude":129.75944,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Chaech'anggumi",
+    "gn:country_code":"KP",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2045285,
+    "gn:latitude":41.32361,
+    "gn:longitude":129.75944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chaech\u2019anggumi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaech\u2019angumi",
+        "\uc7ac\ucc3d\uad6c\ubbf8",
+        "Chaech\u2019anggumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2045285
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"dab182e897bcb6fdb231a5430c2f26dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747903,
+            "locality_id":1226815601,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1226815601,
+    "wof:lastmodified":1537655507,
+    "wof:name":"Chaech'anggumi",
+    "wof:parent_id":1108747903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.75943999999998,
+    41.32361,
+    129.75943999999998,
+    41.32361
+],
+  "geometry": {"coordinates":[129.75943999999998,41.32361],"type":"Point"}
+}

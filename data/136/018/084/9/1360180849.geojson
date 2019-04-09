@@ -1,0 +1,70 @@
+{
+  "id": 1360180849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.115,39.05944,127.115,39.05944",
+    "geom:latitude":39.05944,
+    "geom:longitude":127.115,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Saebattun",
+    "gn:country_code":"KP",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367404,
+    "gn:latitude":39.05944,
+    "gn:longitude":127.115,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saebattun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0c8\ubc2d\ub454"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367404
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9113eb7aefe46cef6694ae9067f5e620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747065,
+            "locality_id":1360180849,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1360180849,
+    "wof:lastmodified":1537655916,
+    "wof:name":"Saebattun",
+    "wof:parent_id":1108747065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.115,
+    39.05944,
+    127.115,
+    39.05944
+],
+  "geometry": {"coordinates":[127.11499999999999,39.05944],"type":"Point"}
+}

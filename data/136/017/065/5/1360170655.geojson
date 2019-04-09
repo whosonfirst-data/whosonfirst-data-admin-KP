@@ -1,0 +1,71 @@
+{
+  "id": 1360170655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67389,39.13083,126.67389,39.13083",
+    "geom:latitude":39.13083,
+    "geom:longitude":126.67389,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Man-dong",
+    "gn:country_code":"KP",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888480,
+    "gn:latitude":39.13083,
+    "gn:longitude":126.67389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Man-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub9cc\ub3d9",
+        "Man-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108748001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888480
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"777086960a2533fc4d176ba1bb7656a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748001,
+            "locality_id":1360170655,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1360170655,
+    "wof:lastmodified":1537654899,
+    "wof:name":"Man-dong",
+    "wof:parent_id":1108748001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67389,
+    39.13083,
+    126.67389,
+    39.13083
+],
+  "geometry": {"coordinates":[126.67389,39.13083],"type":"Point"}
+}

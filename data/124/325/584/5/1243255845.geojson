@@ -1,0 +1,73 @@
+{
+  "id": 1243255845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.25472,37.86333,126.25472,37.86333",
+    "geom:latitude":37.86333,
+    "geom:longitude":126.25472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Karung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1876033,
+    "gn:latitude":37.86333,
+    "gn:longitude":126.25472,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kar\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac00\ub989\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Kar\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1876033
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"602493e54549d04bd7693d4d2b0d49b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747905,
+            "locality_id":1243255845,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1243255845,
+    "wof:lastmodified":1537654661,
+    "wof:name":"Karung-ni",
+    "wof:parent_id":1108747905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.25472,
+    37.86333,
+    126.25472,
+    37.86333
+],
+  "geometry": {"coordinates":[126.25472000000001,37.86333],"type":"Point"}
+}

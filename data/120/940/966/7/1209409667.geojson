@@ -1,0 +1,62 @@
+{
+  "id": 1209409667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.50722,37.96444,126.50722,37.96444",
+    "geom:latitude":37.96444,
+    "geom:longitude":126.50722,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"1876380",
+    "gn:asciiname":"Yollung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866611,
+    "gn:latitude":37.96444,
+    "gn:longitude":126.50722,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Y\u014fll\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866611
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f857c023751fa5d4812d0125848ad79b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209409667
+        }
+    ],
+    "wof:id":1209409667,
+    "wof:lastmodified":1536287880,
+    "wof:name":"Yollung-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.50722,
+    37.96444,
+    126.50722,
+    37.96444
+],
+  "geometry": {"coordinates":[126.50722,37.96444],"type":"Point"}
+}

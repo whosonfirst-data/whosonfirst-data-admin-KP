@@ -1,0 +1,77 @@
+{
+  "id": 1327027047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.01639,37.80611,125.01639,37.80611",
+    "geom:latitude":37.80611,
+    "geom:longitude":125.01639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Konulmol",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875679,
+    "gn:latitude":37.80611,
+    "gn:longitude":125.01639,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"K\u014fn\u016dlm\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac70\ub298\uba40"
+    ],
+    "name:und_x_variant":[
+        "Toch\u2019on",
+        "K\u014fnn\u016dlm\u014fri",
+        "Toson",
+        "K\u014fn\u016dlm\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676605,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875679
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0c3fe00f5f2a791b8d9c1c41da122069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":1327027047,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":1327027047,
+    "wof:lastmodified":1537654641,
+    "wof:name":"Konulmol",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.01639,
+    37.80611,
+    125.01639,
+    37.80611
+],
+  "geometry": {"coordinates":[125.01639,37.80611],"type":"Point"}
+}

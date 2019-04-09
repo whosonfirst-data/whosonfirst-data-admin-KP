@@ -1,0 +1,72 @@
+{
+  "id": 1226426397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.3169,39.26306,127.3169,39.26306",
+    "geom:latitude":39.26306,
+    "geom:longitude":127.3169,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Munch\u2019\u014fn-si",
+    "gn:asciiname":"Namch'ang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1873842,
+    "gn:latitude":39.26306,
+    "gn:longitude":127.3169,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Namch\u2019ang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namch\u2019ang-ni",
+        "\ub0a8\ucc3d\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108747009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1873842
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1790910198046beac7ba9e2b3306a701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747009,
+            "locality_id":1226426397,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1226426397,
+    "wof:lastmodified":1537654550,
+    "wof:name":"Namch'ang-ni",
+    "wof:parent_id":1108747009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.3169,
+    39.26306,
+    127.3169,
+    39.26306
+],
+  "geometry": {"coordinates":[127.3169,39.26306],"type":"Point"}
+}

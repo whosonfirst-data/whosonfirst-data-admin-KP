@@ -1,0 +1,71 @@
+{
+  "id": 1209920579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.61556,40.285,127.61556,40.285",
+    "geom:latitude":40.285,
+    "geom:longitude":127.61556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tongp'yong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302435,
+    "gn:latitude":40.285,
+    "gn:longitude":127.61556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tongp\u2019y\u014fng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub3d9\ud3c9\ub9ac",
+        "Tongp\u2019y\u014fng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302435
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"41ae155aa1b3fdd0df8d7f40e0355721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747129,
+            "locality_id":1209920579,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1209920579,
+    "wof:lastmodified":1537655804,
+    "wof:name":"Tongp'yong-ni",
+    "wof:parent_id":1108747129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.61556000000002,
+    40.285,
+    127.61556000000002,
+    40.285
+],
+  "geometry": {"coordinates":[127.61556000000002,40.285],"type":"Point"}
+}

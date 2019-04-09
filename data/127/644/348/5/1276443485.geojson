@@ -1,0 +1,71 @@
+{
+  "id": 1276443485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.42972,40.79972,128.42972,40.79972",
+    "geom:latitude":40.79972,
+    "geom:longitude":128.42972,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"P'anjang-gol",
+    "gn:country_code":"KP",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6383769,
+    "gn:latitude":40.79972,
+    "gn:longitude":128.42972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u2019anjang-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ud310\uc7a5\uace8",
+        "P\u2019anjang-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108746881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6383769
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5c65125d7a6a3a023a338f2dd43364da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746881,
+            "locality_id":1276443485,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1276443485,
+    "wof:lastmodified":1537655921,
+    "wof:name":"P'anjang-gol",
+    "wof:parent_id":1108746881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.42972,
+    40.79972,
+    128.42972,
+    40.79972
+],
+  "geometry": {"coordinates":[128.42972,40.79972],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293704749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.5,39.98333,127.5,39.98333",
+    "geom:latitude":39.98333,
+    "geom:longitude":127.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Changhung-ni",
+    "gn:country_code":"KP",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1879200,
+    "gn:latitude":39.98333,
+    "gn:longitude":127.5,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Changh\u016dng-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc7a5\ud765\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Changh\u016dng-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108748109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1879200
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d2eda4ed582a0136283bce0d60adea98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748109,
+            "locality_id":1293704749,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1293704749,
+    "wof:lastmodified":1537654843,
+    "wof:name":"Changhung-ni",
+    "wof:parent_id":1108748109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.5,
+    39.98333,
+    127.5,
+    39.98333
+],
+  "geometry": {"coordinates":[127.5,39.98333],"type":"Point"}
+}

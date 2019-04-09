@@ -1,0 +1,77 @@
+{
+  "id": 1242586763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.55652,40.80645,126.55652,40.80645",
+    "geom:latitude":40.80645,
+    "geom:longitude":126.55652,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kipun'gae",
+    "gn:country_code":"KP",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282560,
+    "gn:latitude":40.80645,
+    "gn:longitude":126.55652,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kip\u016dn\u2019gae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "Kip\u016dn\u2019gae"
+    ],
+    "name:kor_x_variant":[
+        "\uae4a\uc740\uac1c"
+    ],
+    "name:und_x_variant":[
+        "\uae4a\uc740\uac1c",
+        "Kip\u016dn\u2019gae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108748019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282560
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"40ce8b50e4d5631c223595990eaafb97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748019,
+            "locality_id":1242586763,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1242586763,
+    "wof:lastmodified":1537655778,
+    "wof:name":"Kipun'gae",
+    "wof:parent_id":1108748019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.55652,
+    40.80645,
+    126.55652,
+    40.80645
+],
+  "geometry": {"coordinates":[126.55652000000001,40.80645],"type":"Point"}
+}

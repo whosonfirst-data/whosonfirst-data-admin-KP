@@ -1,0 +1,70 @@
+{
+  "id": 1343924369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.15917,42.045,129.15917,42.045",
+    "geom:latitude":42.045,
+    "geom:longitude":129.15917,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sobakha",
+    "gn:country_code":"KP",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2049044,
+    "gn:latitude":42.045,
+    "gn:longitude":129.15917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sobakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc18c\ubc15\ud558"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676615,
+        1108747013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049044
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4156526a95cebcffb5d261acc882ca55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747013,
+            "locality_id":1343924369,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":1343924369,
+    "wof:lastmodified":1537655537,
+    "wof:name":"Sobakha",
+    "wof:parent_id":1108747013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.15917,
+    42.045,
+    129.15917,
+    42.045
+],
+  "geometry": {"coordinates":[129.15916999999999,42.045],"type":"Point"}
+}

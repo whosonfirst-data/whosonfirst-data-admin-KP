@@ -1,0 +1,71 @@
+{
+  "id": 1343670953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.70667,40.795,125.70667,40.795",
+    "geom:latitude":40.795,
+    "geom:longitude":125.70667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nahajung-dong",
+    "gn:country_code":"KP",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2055041,
+    "gn:latitude":40.795,
+    "gn:longitude":125.70667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nahajung-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ub098\ud558\uc911\ub3d9",
+        "Nahajung-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2055041
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9462a845f0e04ac8d324dca168053711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747741,
+            "locality_id":1343670953,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1343670953,
+    "wof:lastmodified":1537655641,
+    "wof:name":"Nahajung-dong",
+    "wof:parent_id":1108747741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.70667,
+    40.795,
+    125.70667,
+    40.795
+],
+  "geometry": {"coordinates":[125.70667,40.795],"type":"Point"}
+}

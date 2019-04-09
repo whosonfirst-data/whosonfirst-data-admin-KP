@@ -1,0 +1,75 @@
+{
+  "id": 1226021603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.15072,39.01884,126.15072,39.01884",
+    "geom:latitude":39.01884,
+    "geom:longitude":126.15072,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kangdong-gun",
+    "gn:asciiname":"Ch'ongun-dong",
+    "gn:country_code":"KP",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888251,
+    "gn:latitude":39.01884,
+    "gn:longitude":126.15072,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ch\u2019\u014fngun-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uccad\uc6b4\ub3d9"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019\u014fngun-dong",
+        "Cheongundong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888251
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"68943923b572233ceeb8d355c597b1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747811,
+            "locality_id":1226021603,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1226021603,
+    "wof:lastmodified":1537654887,
+    "wof:name":"Ch'ongun-dong",
+    "wof:parent_id":1108747811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.15072,
+    39.01884,
+    126.15072,
+    39.01884
+],
+  "geometry": {"coordinates":[126.15072000000001,39.01884],"type":"Point"}
+}

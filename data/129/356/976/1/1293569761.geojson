@@ -1,0 +1,61 @@
+{
+  "id": 1293569761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.88333,39.51667,124.88333,39.51667",
+    "geom:latitude":39.51667,
+    "geom:longitude":124.88333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Korasa",
+    "gn:country_code":"KP",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1875662,
+    "gn:latitude":39.51667,
+    "gn:longitude":124.88333,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Korasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1875662
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a177f7d4fdf8a92147be71634db2ad0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293569761,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293569761,
+    "wof:lastmodified":1536668550,
+    "wof:name":"Korasa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.88333,
+    39.51667,
+    124.88333,
+    39.51667
+],
+  "geometry": {"coordinates":[124.88333,39.51667],"type":"Point"}
+}

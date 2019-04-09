@@ -1,0 +1,71 @@
+{
+  "id": 1326833671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.25778,41.12806,126.25778,41.12806",
+    "geom:latitude":41.12806,
+    "geom:longitude":126.25778,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pyorojung-dong",
+    "gn:country_code":"KP",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6282823,
+    "gn:latitude":41.12806,
+    "gn:longitude":126.25778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Py\u014frojung-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\ubcc4\uc624\uc911\ub3d9",
+        "Py\u014frojung-dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676623,
+        1108747007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282823
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0872332ed1fd5d79f2b22397ab9e35be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747007,
+            "locality_id":1326833671,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":1326833671,
+    "wof:lastmodified":1537655791,
+    "wof:name":"Pyorojung-dong",
+    "wof:parent_id":1108747007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.25778,
+    41.12806,
+    126.25778,
+    41.12806
+],
+  "geometry": {"coordinates":[126.25778,41.12806],"type":"Point"}
+}

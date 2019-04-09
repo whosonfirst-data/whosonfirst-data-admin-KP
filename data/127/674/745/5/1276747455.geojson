@@ -1,0 +1,73 @@
+{
+  "id": 1276747455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.80667,38.54083,127.80667,38.54083",
+    "geom:latitude":38.54083,
+    "geom:longitude":127.80667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Onggijom",
+    "gn:country_code":"KP",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1888176,
+    "gn:latitude":38.54083,
+    "gn:longitude":127.80667,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Onggij\u014fm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc639\uae30\uc810"
+    ],
+    "name:und_x_variant":[
+        "Onggij\u014fm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1888176
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f9cfd3263a887c69965d69da59ad9e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746849,
+            "locality_id":1276747455,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1276747455,
+    "wof:lastmodified":1537654886,
+    "wof:name":"Onggijom",
+    "wof:parent_id":1108746849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.80667,
+    38.54083,
+    127.80667,
+    38.54083
+],
+  "geometry": {"coordinates":[127.80667,38.54083],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209507301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.14556,37.90278,126.14556,37.90278",
+    "geom:latitude":37.90278,
+    "geom:longitude":126.14556,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"Y\u014fnan-gun",
+    "gn:asciiname":"Chayang-ni",
+    "gn:country_code":"KP",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1878986,
+    "gn:latitude":37.90278,
+    "gn:longitude":126.14556,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chayang-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc790\uc591\ub9ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878986
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"98293afd53f35dc4db32544fc5f7db89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209507301
+        }
+    ],
+    "wof:id":1209507301,
+    "wof:lastmodified":1537654830,
+    "wof:name":"Chayang-ni",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.14556,
+    37.90278,
+    126.14556,
+    37.90278
+],
+  "geometry": {"coordinates":[126.14556,37.90278],"type":"Point"}
+}

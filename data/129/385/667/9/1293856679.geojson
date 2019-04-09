@@ -1,0 +1,68 @@
+{
+  "id": 1293856679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.25944,39.59861,126.25944,39.59861",
+    "geom:latitude":39.59861,
+    "geom:longitude":126.25944,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"Pukch\u2019ang-gun",
+    "gn:asciiname":"Ihyon",
+    "gn:country_code":"KP",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892183,
+    "gn:latitude":39.59861,
+    "gn:longitude":126.25944,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Ihy\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892183
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7517333841fc528d36517dba52ee8f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747069,
+            "locality_id":1293856679,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1293856679,
+    "wof:lastmodified":1536751982,
+    "wof:name":"Ihyon",
+    "wof:parent_id":1108747069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.25943999999998,
+    39.59861,
+    126.25943999999998,
+    39.59861
+],
+  "geometry": {"coordinates":[126.25943999999998,39.59861],"type":"Point"}
+}

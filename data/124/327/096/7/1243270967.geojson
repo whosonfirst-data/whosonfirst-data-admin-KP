@@ -1,0 +1,72 @@
+{
+  "id": 1243270967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.82167,39.92222,127.82167,39.92222",
+    "geom:latitude":39.92222,
+    "geom:longitude":127.82167,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sanggot'al",
+    "gn:country_code":"KP",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1871230,
+    "gn:latitude":39.92222,
+    "gn:longitude":127.82167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sanggot\u2019al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanggot\u2019an",
+        "\uc0c1\uace0\ud0c8",
+        "Sanggot\u2019al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676629,
+        1108747955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1871230
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"55b29ce91f17aa6b424c09257daa117a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747955,
+            "locality_id":1243270967,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":1243270967,
+    "wof:lastmodified":1537654419,
+    "wof:name":"Sanggot'al",
+    "wof:parent_id":1108747955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.82167,
+    39.92222,
+    127.82167,
+    39.92222
+],
+  "geometry": {"coordinates":[127.82167,39.92222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310471743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.39556,39.17222,125.39556,39.17222",
+    "geom:latitude":39.17222,
+    "geom:longitude":125.39556,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sogilli tong-dong",
+    "gn:country_code":"KP",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6269638,
+    "gn:latitude":39.17222,
+    "gn:longitude":125.39556,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"S\u014fgilli tong-dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6269638
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c552d360bfb3e88144d9ebe82cb9d114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747801,
+            "locality_id":1310471743,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1310471743,
+    "wof:lastmodified":1536965482,
+    "wof:name":"Sogilli tong-dong",
+    "wof:parent_id":1108747801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.39556,
+    39.17222,
+    125.39556,
+    39.17222
+],
+  "geometry": {"coordinates":[125.39556,39.17222],"type":"Point"}
+}

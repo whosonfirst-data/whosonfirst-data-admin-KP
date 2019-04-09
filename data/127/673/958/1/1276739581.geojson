@@ -1,0 +1,75 @@
+{
+  "id": 1276739581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.145,39.125,126.145,39.125",
+    "geom:latitude":39.125,
+    "geom:longitude":126.145,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"Kangdong-gun",
+    "gn:asciiname":"Sungui-ri",
+    "gn:country_code":"KP",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950172,
+    "gn:latitude":39.125,
+    "gn:longitude":126.145,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Sung\u016di-ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc22d\uc758\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Sung\u016di-ri",
+        "Sunguiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676611,
+        1108747811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950172
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e22b3280ad16ae5f9bcecd06e0fe388b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747811,
+            "locality_id":1276739581,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":1276739581,
+    "wof:lastmodified":1537655105,
+    "wof:name":"Sungui-ri",
+    "wof:parent_id":1108747811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.145,
+    39.125,
+    126.145,
+    39.125
+],
+  "geometry": {"coordinates":[126.145,39.125],"type":"Point"}
+}

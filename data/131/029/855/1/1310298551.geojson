@@ -1,0 +1,73 @@
+{
+  "id": 1310298551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.39167,38.44056,126.39167,38.44056",
+    "geom:latitude":38.44056,
+    "geom:longitude":126.39167,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Wollong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1902245,
+    "gn:latitude":38.44056,
+    "gn:longitude":126.39167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u014fllong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6d4\ub18d\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "W\u014fllong-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1902245
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"91353fc37cf1ed188f59bce43df65077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747923,
+            "locality_id":1310298551,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1310298551,
+    "wof:lastmodified":1537655035,
+    "wof:name":"Wollong-ni",
+    "wof:parent_id":1108747923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.39167,
+    38.44056,
+    126.39167,
+    38.44056
+],
+  "geometry": {"coordinates":[126.39167,38.44056],"type":"Point"}
+}

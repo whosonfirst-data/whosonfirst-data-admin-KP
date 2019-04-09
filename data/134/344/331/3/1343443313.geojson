@@ -1,0 +1,68 @@
+{
+  "id": 1343443313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.65833,39.3125,125.65833,39.3125",
+    "geom:latitude":39.3125,
+    "geom:longitude":125.65833,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1871865",
+    "gn:asciiname":"Hangmong-ni",
+    "gn:country_code":"KP",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1950791,
+    "gn:latitude":39.3125,
+    "gn:longitude":125.65833,
+    "gn:modification_date":"2006-07-15",
+    "gn:name":"Hangmong-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676637,
+        1108747925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1950791
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"04bb5c5aed85fc4c0b1d6a8ac777c37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747925,
+            "locality_id":1343443313,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":1343443313,
+    "wof:lastmodified":1536771569,
+    "wof:name":"Hangmong-ni",
+    "wof:parent_id":1108747925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.65833,
+    39.3125,
+    125.65833,
+    39.3125
+],
+  "geometry": {"coordinates":[125.65833000000001,39.3125],"type":"Point"}
+}

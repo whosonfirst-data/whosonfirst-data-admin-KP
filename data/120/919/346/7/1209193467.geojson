@@ -1,0 +1,69 @@
+{
+  "id": 1209193467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.3275,41.35528,128.3275,41.35528",
+    "geom:latitude":41.35528,
+    "geom:longitude":128.3275,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taemul-li",
+    "gn:cc2":"KP",
+    "gn:country_code":"KP",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2045831,
+    "gn:latitude":41.35528,
+    "gn:longitude":128.3275,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taemul-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ub300\ubb38\ub9ac"
+    ],
+    "name:und_x_variant":[
+        "Taemun-ni",
+        "Taemul-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2045831
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d299131535bde090975ac540d47bfb0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209193467
+        }
+    ],
+    "wof:id":1209193467,
+    "wof:lastmodified":1537655513,
+    "wof:name":"Taemul-li",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.3275,
+    41.35528,
+    128.3275,
+    41.35528
+],
+  "geometry": {"coordinates":[128.32749999999999,41.35528],"type":"Point"}
+}

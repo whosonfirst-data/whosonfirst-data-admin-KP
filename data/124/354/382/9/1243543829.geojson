@@ -1,0 +1,76 @@
+{
+  "id": 1243543829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.78167,38.51306,126.78167,38.51306",
+    "geom:latitude":38.51306,
+    "geom:longitude":126.78167,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kalchol-li",
+    "gn:country_code":"KP",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1889477,
+    "gn:latitude":38.51306,
+    "gn:longitude":126.78167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kalch\u014fl-li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uac08\uc804\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Kalch\u014fl-li"
+    ],
+    "name:und_x_variant":[
+        "Kalch\u014fn-ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676619,
+        1108746905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889477
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b5ac486da8a39ba42005cdcf730ab4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746905,
+            "locality_id":1243543829,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":1243543829,
+    "wof:lastmodified":1537654928,
+    "wof:name":"Kalchol-li",
+    "wof:parent_id":1108746905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.78167,
+    38.51306,
+    126.78167,
+    38.51306
+],
+  "geometry": {"coordinates":[126.78167000000001,38.51306],"type":"Point"}
+}

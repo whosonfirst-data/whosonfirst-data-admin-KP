@@ -1,0 +1,73 @@
+{
+  "id": 1293903823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.38222,38.38,126.38222,38.38",
+    "geom:latitude":38.38,
+    "geom:longitude":126.38222,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yoktae-gol",
+    "gn:country_code":"KP",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1866613,
+    "gn:latitude":38.38,
+    "gn:longitude":126.38222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Y\u014fktae-gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc5ed\ub300\uace8"
+    ],
+    "name:kor_x_variant":[
+        "Y\u014fktae-gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632639,
+        85676603,
+        1108747923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1866613
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0c4aa4fb51eaad3abf98f9ea10118c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747923,
+            "locality_id":1293903823,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":1293903823,
+    "wof:lastmodified":1537654190,
+    "wof:name":"Yoktae-gol",
+    "wof:parent_id":1108747923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.38222,
+    38.38,
+    126.38222,
+    38.38
+],
+  "geometry": {"coordinates":[126.38222,38.38],"type":"Point"}
+}

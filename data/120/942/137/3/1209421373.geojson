@@ -1,0 +1,65 @@
+{
+  "id": 1209421373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.72417,40.62,128.72417,40.62",
+    "geom:latitude":40.62,
+    "geom:longitude":128.72417,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Worundogi",
+    "gn:country_code":"KP",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050104,
+    "gn:latitude":40.62,
+    "gn:longitude":128.72417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"W\u014fr\u016dnd\u014fgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pyongyang",
+    "iso:country":"KP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\uc6d4\uc740\ub355\uc774",
+        "W\u014fr\u016dnd\u014fgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050104
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"747c5c601a13018baf9801c6c237ee33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632639,
+            "locality_id":1209421373
+        }
+    ],
+    "wof:id":1209421373,
+    "wof:lastmodified":1537655590,
+    "wof:name":"Worundogi",
+    "wof:parent_id":85632639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.72417,
+    40.62,
+    128.72417,
+    40.62
+],
+  "geometry": {"coordinates":[128.72416999999999,40.62],"type":"Point"}
+}
