@@ -45,17 +45,17 @@
     "name:cdo_x_preferred":[
         "Ryanggang D\u00f4\u0324"
     ],
-    "name:chi_x_preferred":[
-        "\u4e24\u6c5f\u9053"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Rjanggang"
     ],
     "name:dan_x_preferred":[
         "Ryanggang"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ryanggang-do"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03b1\u03bd\u03b3\u03ba\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Yanggang-do"
@@ -63,17 +63,14 @@
     "name:epo_x_preferred":[
         "Rjanggang"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0631\u06cc\u0627\u0646\u06af\u200c\u06af\u0627\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Ryanggang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ryanggang"
-    ],
-    "name:ger_x_preferred":[
-        "Ryanggang-do"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b9\u03b1\u03bd\u03b3\u03ba\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abe\u0aaf\u0a82\u0a97\u0a97\u0ac7\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -108,11 +105,11 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u092f\u093e\u0902\u0917\u0917\u0945\u0902\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Ryanggang"
-    ],
     "name:mon_x_preferred":[
         "\u042f\u043d\u0433\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Ryanggang"
     ],
     "name:nan_x_preferred":[
         "Ryanggang-t\u014d"
@@ -120,11 +117,11 @@
     "name:nds_x_preferred":[
         "Ryanggang"
     ],
+    "name:nld_x_preferred":[
+        "Ryanggang-do"
+    ],
     "name:nob_x_preferred":[
         "Ryanggang"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0631\u06cc\u0627\u0646\u06af\u200c\u06af\u0627\u0646\u06af"
     ],
     "name:pnb_x_preferred":[
         "\u0631\u06cc\u0627\u0646\u06af\u06a9\u0627\u0646\u06af"
@@ -135,7 +132,7 @@
     "name:por_x_preferred":[
         "Ryanggang"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Ryanggang"
     ],
     "name:rus_x_preferred":[
@@ -185,6 +182,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5169\u6c5f\u9053"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e24\u6c5f\u9053"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRK",
@@ -309,7 +309,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1553550501,
+    "wof:lastmodified":1561792615,
     "wof:name":"Ryanggang",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

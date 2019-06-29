@@ -22,29 +22,26 @@
     "name:ben_x_preferred":[
         "\u0995\u09a8\u099c\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u5b9a\u5dde\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010congd\u017eu"
     ],
     "name:dan_x_preferred":[
         "Chongju"
     ],
-    "name:dut_x_preferred":[
-        "Chongju"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03cc\u03bd\u03c4\u03b6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Chongju"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0646\u06af\u200c\u062c\u0648"
+    ],
     "name:fin_x_preferred":[
         "Chongju"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chongju"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03cc\u03bd\u03c4\u03b6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac9\u0a82\u0a97\u0a9c\u0ac1"
@@ -81,14 +78,14 @@
     "name:mar_x_preferred":[
         "\u091a\u094b\u0902\u0917\u091c\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Chongju"
+    ],
+    "name:nld_x_preferred":[
         "Chongju"
     ],
     "name:nob_x_preferred":[
         "Chongju"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0646\u06af\u200c\u062c\u0648"
     ],
     "name:pol_x_preferred":[
         "Ch\u014fngju"
@@ -128,6 +125,9 @@
     ],
     "name:vie_x_preferred":[
         "Chongju"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b9a\u5dde\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"North Korea",
@@ -256,7 +256,7 @@
         }
     ],
     "wof:id":890442053,
-    "wof:lastmodified":1527792854,
+    "wof:lastmodified":1561792911,
     "wof:name":"Ch\u014fngju",
     "wof:parent_id":1108747793,
     "wof:placetype":"locality",

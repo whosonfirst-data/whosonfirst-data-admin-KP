@@ -28,10 +28,7 @@
     "name:cat_x_preferred":[
         "Sariwon"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u91cc\u9662\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sariw\u014fn"
     ],
     "name:dan_x_preferred":[
@@ -40,20 +37,17 @@
     "name:deu_x_preferred":[
         "Sariw\u014fn"
     ],
-    "name:dut_x_preferred":[
-        "Sariwon"
-    ],
     "name:eng_x_preferred":[
         "Sariwon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u06cc\u0648\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Sariw\u014fn"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sariwon"
-    ],
-    "name:ger_x_preferred":[
-        "Sariw\u014fn"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e8\u05d9\u05d5\u05d5\u05df"
@@ -76,14 +70,14 @@
     "name:lit_x_preferred":[
         "Sarivonas"
     ],
-    "name:mao_x_preferred":[
+    "name:mri_x_preferred":[
+        "Sariwon"
+    ],
+    "name:nld_x_preferred":[
         "Sariwon"
     ],
     "name:nob_x_preferred":[
         "Sariwon"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0631\u06cc\u0648\u0648\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0631\u06cc\u0648\u0646"
@@ -129,6 +123,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6c99\u91cc\u9662"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u91cc\u9662\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"North Korea",
@@ -257,7 +254,7 @@
         }
     ],
     "wof:id":890434561,
-    "wof:lastmodified":1527792943,
+    "wof:lastmodified":1561792911,
     "wof:name":"Sariw\u014fn",
     "wof:parent_id":1108747117,
     "wof:placetype":"locality",

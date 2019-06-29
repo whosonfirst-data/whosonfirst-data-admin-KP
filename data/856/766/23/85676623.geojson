@@ -45,20 +45,20 @@
     "name:cdo_x_preferred":[
         "Chagang D\u00f4\u0324"
     ],
-    "name:chi_x_preferred":[
-        "\u6148\u6c5f\u9053"
+    "name:ces_x_preferred":[
+        "\u010cagang"
     ],
     "name:csb_x_preferred":[
         "Chagang"
     ],
-    "name:cze_x_preferred":[
-        "\u010cagang"
-    ],
     "name:dan_x_preferred":[
         "Chagang"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chagang-do"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03b3\u03ba\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Chagang-do"
@@ -66,17 +66,14 @@
     "name:epo_x_preferred":[
         "\u0108agang"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u06af\u0627\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Chagang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jagang"
-    ],
-    "name:ger_x_preferred":[
-        "Chagang-do"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b1\u03b3\u03ba\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9b\u0a97\u0abe\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -114,11 +111,11 @@
     "name:mar_x_preferred":[
         "\u091a\u093e\u0917\u0945\u0902\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Daerah Chagang"
-    ],
     "name:mon_x_preferred":[
         "\u0427\u0430\u0433\u0430\u043d-\u0434\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Chagang"
     ],
     "name:nan_x_preferred":[
         "Chagang-t\u014d"
@@ -126,11 +123,11 @@
     "name:nds_x_preferred":[
         "Chagang"
     ],
+    "name:nld_x_preferred":[
+        "Chagang-do"
+    ],
     "name:nob_x_preferred":[
         "Chagang"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u06af\u0627\u0646\u06af"
     ],
     "name:pnb_x_preferred":[
         "\u0686\u0627\u06af\u0627\u0646\u06af"
@@ -186,6 +183,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6148\u6c5f"
+    ],
+    "name:zho_x_preferred":[
+        "\u6148\u6c5f\u9053"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRK",
@@ -308,7 +308,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1553550615,
+    "wof:lastmodified":1561792615,
     "wof:name":"Chagang-do",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
