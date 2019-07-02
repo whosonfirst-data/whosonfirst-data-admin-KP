@@ -17,17 +17,11 @@
     "name:bul_x_preferred":[
         "\u0425\u044a\u043d\u043d\u0430\u043c"
     ],
-    "name:chi_x_preferred":[
-        "\u8208\u5357\u5340\u57df"
-    ],
     "name:dan_x_preferred":[
         "Hungnam"
     ],
     "name:deu_x_preferred":[
         "H\u016dngnam"
-    ],
-    "name:dut_x_preferred":[
-        "Hungnam"
     ],
     "name:eng_x_preferred":[
         "Hungnam"
@@ -35,11 +29,8 @@
     "name:fra_x_preferred":[
         "H\u016dngnam"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "H\u016dngnam-kuy\u014fk"
-    ],
-    "name:ger_x_preferred":[
-        "H\u016dngnam"
     ],
     "name:ind_x_preferred":[
         "H\u016dngnam"
@@ -73,6 +64,9 @@
     ],
     "name:unk_x_variant":[
         "K\u014dnan"
+    ],
+    "name:zho_x_preferred":[
+        "\u8208\u5357\u5340\u57df"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"North Korea",
@@ -214,7 +208,7 @@
         }
     ],
     "wof:id":421175233,
-    "wof:lastmodified":1527716339,
+    "wof:lastmodified":1561792910,
     "wof:name":"Hungnam",
     "wof:parent_id":1108747745,
     "wof:placetype":"locality",

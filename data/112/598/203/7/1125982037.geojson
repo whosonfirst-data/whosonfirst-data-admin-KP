@@ -36,32 +36,29 @@
     "name:cat_x_preferred":[
         "Haeju"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u5dde\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hed\u017eu"
     ],
     "name:dan_x_preferred":[
         "Haeju"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Haeju"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ad\u03c4\u03b6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Haeju"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0626\u062c\u0648"
+    ],
     "name:fin_x_preferred":[
         "Haeju"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Haeju"
-    ],
-    "name:ger_x_preferred":[
-        "Haeju"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ad\u03c4\u03b6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac8\u0a9c\u0ac1"
@@ -96,14 +93,14 @@
     "name:mar_x_preferred":[
         "\u0939\u093e\u090f\u091c\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Haeju"
+    ],
+    "name:nld_x_preferred":[
         "Haeju"
     ],
     "name:nob_x_preferred":[
         "Haeju"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0626\u062c\u0648"
     ],
     "name:pol_x_preferred":[
         "Haeju"
@@ -150,6 +147,9 @@
     "name:yue_x_preferred":[
         "\u6d77\u5dde"
     ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5dde\u5e02"
+    ],
     "qs_pg:aaroncc":"KP",
     "qs_pg:gn_country":"KP",
     "qs_pg:gn_fcode":"PPLA",
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":1125982037,
-    "wof:lastmodified":1534379374,
+    "wof:lastmodified":1561792912,
     "wof:name":"Haeju",
     "wof:parent_id":1108747743,
     "wof:placetype":"locality",

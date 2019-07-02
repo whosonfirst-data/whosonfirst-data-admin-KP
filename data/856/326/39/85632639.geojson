@@ -163,9 +163,6 @@
     "name:cym_x_preferred":[
         "Gogledd Corea"
     ],
-    "name:cze_x_preferred":[
-        "Severn\u00ed Korea"
-    ],
     "name:dan_x_preferred":[
         "Nordkorea"
     ],
@@ -708,9 +705,6 @@
     "name:ron_x_preferred":[
         "Coreea de Nord"
     ],
-    "name:rum_x_preferred":[
-        "Coreea de Nord"
-    ],
     "name:run_x_preferred":[
         "Koreya y'amajaruguru"
     ],
@@ -1101,7 +1095,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1544059235,
+    "wof:lastmodified":1561792617,
     "wof:name":"North Korea",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

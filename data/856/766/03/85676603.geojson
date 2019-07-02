@@ -45,17 +45,17 @@
     "name:cdo_x_preferred":[
         "Hwanghae B\u00e1e\u0324k-d\u00f4\u0324"
     ],
-    "name:chi_x_preferred":[
-        "\u9ec4\u6d77\u5317\u9053"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Severn\u00ed Hwangh\u00e4"
     ],
     "name:dan_x_preferred":[
         "Nordhwanghae"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hwanghae-pukto"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u03a7\u03bf\u03c5\u03b1\u03bd\u03b3\u03ba\u03ad"
     ],
     "name:eng_x_preferred":[
         "Hwanghae-bukto"
@@ -63,17 +63,14 @@
     "name:epo_x_preferred":[
         "Nord-H\u016danghae"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0647\u0648\u0627\u0646\u06af\u0647\u0627\u0626\u0647 \u0634\u0645\u0627\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Pohjois-Hwanghae"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hwanghae du Nord"
-    ],
-    "name:ger_x_preferred":[
-        "Hwanghae-pukto"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u03a7\u03bf\u03c5\u03b1\u03bd\u03b3\u03ba\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0ab9\u0acd\u0ab5\u0abe\u0a82\u0a97\u0ab9\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -108,11 +105,11 @@
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0939\u094d\u0935\u0902\u0917\u094d\u0939\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "North Hwanghae Province"
-    ],
     "name:mon_x_preferred":[
         "\u0423\u043c\u0430\u0440 \u0425\u0443\u0430\u043d\u0445\u044d"
+    ],
+    "name:msa_x_preferred":[
+        "North Hwanghae Province"
     ],
     "name:nan_x_preferred":[
         "Hwanghae Pak-t\u014d"
@@ -120,11 +117,11 @@
     "name:nds_x_preferred":[
         "Noord-Hwanghae"
     ],
+    "name:nld_x_preferred":[
+        "Hwanghae-pukto"
+    ],
     "name:nob_x_preferred":[
         "Nord-Hwanghae"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0647\u0648\u0627\u0646\u06af\u0647\u0627\u0626\u0647 \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u062a\u0644\u0627 \u06c1\u0648\u0627\u0646\u06af\u06c1\u06d2"
@@ -180,6 +177,9 @@
     ],
     "name:yue_x_preferred":[
         "\u9ec3\u6d77\u5317\u9053"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u6d77\u5317\u9053"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRK",
@@ -302,7 +302,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1553550589,
+    "wof:lastmodified":1561792612,
     "wof:name":"Hwanghae-bukto",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
