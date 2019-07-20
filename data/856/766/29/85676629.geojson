@@ -45,6 +45,9 @@
     "name:cdo_x_preferred":[
         "Hamgy\u014fng N\u00e0ng-d\u00f4\u0324"
     ],
+    "name:ceb_x_preferred":[
+        "Hamnam"
+    ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed Hamgj\u014fng"
     ],
@@ -57,11 +60,17 @@
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bf\u03c5\u03b8 \u03a7\u03ac\u03bc\u03b3\u03ba\u03b9\u03bf\u03bd\u03b3\u03ba"
     ],
+    "name:ell_x_variant":[
+        "\u03a7\u03ac\u03bc\u03b3\u03ba\u03b9\u03bf\u03bd\u03b3\u03ba\u03bd\u03b1\u03bc-\u03bd\u03c4\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Hamgyong-namdo"
     ],
     "name:epo_x_preferred":[
         "Sud-Hamgjong"
+    ],
+    "name:eus_x_preferred":[
+        "Hego Hamgyong"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0647\u0627\u0645\u06af\u06cc\u0648\u0646\u06af \u062c\u0646\u0648\u0628\u06cc"
@@ -74,6 +83,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0ab9\u0ac7\u0aae\u0a97\u0acd\u0aaf\u0acb\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hak_x_preferred":[
+        "Hamgy\u014fng N\u00e0m-tho"
     ],
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0939\u092e\u0917\u094d\u092f\u094b\u0902\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -314,7 +326,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1561792614,
+    "wof:lastmodified":1563586300,
     "wof:name":"Hamgy\u014fng-namdo",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

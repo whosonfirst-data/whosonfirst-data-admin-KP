@@ -43,6 +43,9 @@
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03bd\u03bf\u03c5\u03af\u03c4\u03b6\u03bf\u03c5"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03bd\u03bf\u03cd\u03b9\u03c4\u03b6\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Sinuiju"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:hun_x_preferred":[
         "Sinidzsu"
+    ],
+    "name:hun_x_variant":[
+        "Szinidzsu"
     ],
     "name:ind_x_preferred":[
         "Sinuiju"
@@ -97,11 +103,17 @@
     "name:mar_x_preferred":[
         "\u0938\u0940\u0928\u0941\u0907\u091c\u0942"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u043d\u0443\u0458\u045f\u0443"
+    ],
     "name:mri_x_preferred":[
         "Sinuiju"
     ],
     "name:msa_x_preferred":[
         "Sinuiju"
+    ],
+    "name:nan_x_preferred":[
+        "Sin\u016diju Chh\u012b"
     ],
     "name:nds_x_preferred":[
         "Sinuiju"
@@ -119,6 +131,9 @@
         "Sin\u016diju"
     ],
     "name:por_x_preferred":[
+        "Sin\u016diju"
+    ],
+    "name:ron_x_preferred":[
         "Sin\u016diju"
     ],
     "name:rus_x_preferred":[
@@ -147,6 +162,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3f\u0c28\u0c41\u0c07\u0c1c\u0c41"
+    ],
+    "name:tgl_x_preferred":[
+        "Sinuiju"
     ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e34\u0e19\u0e2d\u0e36\u0e22\u0e08\u0e39"
@@ -305,7 +323,7 @@
         }
     ],
     "wof:id":890435315,
-    "wof:lastmodified":1561792911,
+    "wof:lastmodified":1563588785,
     "wof:name":"Sin\u016diju",
     "wof:parent_id":1108748005,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u063a\u064a\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Kanqe"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09a8\u0997\u09be"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:cat_x_preferred":[
         "Kanggye"
+    ],
+    "name:ceb_x_preferred":[
+        "Kanggye-si"
     ],
     "name:ces_x_preferred":[
         "Kanggje"
@@ -48,6 +54,9 @@
     ],
     "name:eng_x_preferred":[
         "Kanggye"
+    ],
+    "name:epo_x_preferred":[
+        "Kangje"
     ],
     "name:est_x_preferred":[
         "Kanggye"
@@ -99,6 +108,9 @@
     ],
     "name:msa_x_preferred":[
         "Kanggye"
+    ],
+    "name:nan_x_preferred":[
+        "Kanggye Chh\u012b"
     ],
     "name:nds_x_preferred":[
         "Kanggye"
@@ -205,7 +217,7 @@
         }
     ],
     "wof:id":1125875559,
-    "wof:lastmodified":1561792912,
+    "wof:lastmodified":1563588786,
     "wof:name":"Kanggye-si",
     "wof:parent_id":1108747813,
     "wof:placetype":"locality",

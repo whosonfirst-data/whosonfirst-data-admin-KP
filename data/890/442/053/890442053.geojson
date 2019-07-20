@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09a8\u099c\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "Ch\u014fngju-gun"
+    ],
     "name:ces_x_preferred":[
         "\u010congd\u017eu"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091a\u094b\u0902\u0917\u094d\u091c\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Csongdzsu"
     ],
     "name:ind_x_preferred":[
         "Chongju"
@@ -80,6 +86,9 @@
     ],
     "name:msa_x_preferred":[
         "Chongju"
+    ],
+    "name:nan_x_preferred":[
+        "Ch\u014fngju Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Chongju"
@@ -256,7 +265,7 @@
         }
     ],
     "wof:id":890442053,
-    "wof:lastmodified":1561792911,
+    "wof:lastmodified":1563588775,
     "wof:name":"Ch\u014fngju",
     "wof:parent_id":1108747793,
     "wof:placetype":"locality",

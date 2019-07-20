@@ -38,6 +38,9 @@
     "name:cdo_x_preferred":[
         "Kaes\u014fng"
     ],
+    "name:ceb_x_preferred":[
+        "Kaes\u014fng"
+    ],
     "name:ces_x_preferred":[
         "Kesong"
     ],
@@ -87,6 +90,9 @@
         "Keszong"
     ],
     "name:hye_x_preferred":[
+        "\u053f\u0565\u057d\u0578\u0576"
+    ],
+    "name:hyw_x_preferred":[
         "\u053f\u0565\u057d\u0578\u0576"
     ],
     "name:ind_x_preferred":[
@@ -370,7 +376,7 @@
         }
     ],
     "wof:id":421174921,
-    "wof:lastmodified":1561792909,
+    "wof:lastmodified":1563588759,
     "wof:name":"Kaesong",
     "wof:parent_id":1108747043,
     "wof:placetype":"locality",

@@ -15,8 +15,35 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ragwon County"
+    ],
+    "name:jpn_x_preferred":[
+        "\u697d\u5712\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77d\uc6d0\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "Ragw\u014fn K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Ragwon"
+    ],
+    "name:pol_x_preferred":[
+        "Rag'w\u014fn"
+    ],
+    "name:sco_x_preferred":[
+        "Ragwon"
+    ],
     "name:unk_x_variant":[
         "Samho-nodongjagu"
+    ],
+    "name:vie_x_preferred":[
+        "Ragwon"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a02\u5712\u90e1"
     ],
     "qs:name":"Samho-rodongjagu",
     "qs:photos_9r":0,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":890451609,
-    "wof:lastmodified":1527792941,
+    "wof:lastmodified":1563588779,
     "wof:name":"Samho-rodongjagu",
     "wof:parent_id":1108747955,
     "wof:placetype":"locality",

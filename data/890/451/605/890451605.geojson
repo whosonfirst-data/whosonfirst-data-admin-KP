@@ -34,6 +34,9 @@
     "name:cdo_x_preferred":[
         "Namp'o"
     ],
+    "name:ceb_x_preferred":[
+        "Namp'o"
+    ],
     "name:ces_x_preferred":[
         "Nampcho"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:est_x_preferred":[
         "Namp'o"
+    ],
+    "name:eus_x_preferred":[
+        "Nampo"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u0645\u067e\u0648"
@@ -94,6 +100,9 @@
     ],
     "name:mri_x_preferred":[
         "Nampho"
+    ],
+    "name:msa_x_preferred":[
+        "Nampo"
     ],
     "name:nan_x_preferred":[
         "Namp'o Te\u030dk-pia\u030dt-chh\u012b"
@@ -297,7 +306,7 @@
         }
     ],
     "wof:id":890451605,
-    "wof:lastmodified":1561792911,
+    "wof:lastmodified":1563588779,
     "wof:name":"Namp\u2019o",
     "wof:parent_id":1108747021,
     "wof:placetype":"locality",

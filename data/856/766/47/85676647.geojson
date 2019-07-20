@@ -30,6 +30,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0634\u0645\u0627\u0644 \u0647\u0627\u0645\u063a\u064a\u0648\u0646\u063a"
     ],
+    "name:aze_x_preferred":[
+        "Hamqyon-Pukto"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u043c\u0433\u0451\u043d-\u041f\u0443\u043a\u0442\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0425\u0430\u043c\u0433\u044c\u043e\u043d"
     ],
@@ -38,6 +44,9 @@
     ],
     "name:cdo_x_preferred":[
         "Hamgy\u014fng B\u00e1e\u0324k-d\u00f4\u0324"
+    ],
+    "name:ceb_x_preferred":[
+        "Hambuk"
     ],
     "name:ces_x_preferred":[
         "Severn\u00ed Hamgj\u014fng"
@@ -54,6 +63,9 @@
     "name:epo_x_preferred":[
         "Nord-Hamgjong"
     ],
+    "name:eus_x_preferred":[
+        "Ipar Hamgyong"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0647\u0627\u0645\u06af\u06cc\u0648\u0646\u06af \u0634\u0645\u0627\u0644\u06cc"
     ],
@@ -62,6 +74,9 @@
     ],
     "name:fra_x_preferred":[
         "Hamgyong du Nord"
+    ],
+    "name:hak_x_preferred":[
+        "Hamgy\u014fng Pet-tho"
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05e4\u05d5\u05df \u05d4\u05d0\u05de\u05d2\u05d9\u05d5\u05e0\u05d2"
@@ -197,7 +212,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1561792616,
+    "wof:lastmodified":1563586308,
     "wof:name":"Ras\u014fn",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

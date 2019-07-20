@@ -15,11 +15,20 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sinanju"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65b0\u5b89\u5dde"
+    ],
     "name:kor_x_preferred":[
         "\uc2e0\uc548\uc8fc"
     ],
     "name:unk_x_variant":[
         "W\u014fnh\u016dng-ni"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5b89\u5dde"
     ],
     "qs:name":"Sinanju",
     "qs:photos_9r":0,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":890434565,
-    "wof:lastmodified":1527792947,
+    "wof:lastmodified":1563588782,
     "wof:name":"Sinanju",
     "wof:parent_id":1108746847,
     "wof:placetype":"locality",

@@ -45,6 +45,9 @@
     "name:cdo_x_preferred":[
         "P'y\u014fng'an N\u00e0ng-d\u00f4\u0324"
     ],
+    "name:ceb_x_preferred":[
+        "P'y\u014fngan-namdo"
+    ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed Pchj\u014fngan"
     ],
@@ -63,6 +66,9 @@
     "name:epo_x_preferred":[
         "Sud-Pjongan"
     ],
+    "name:eus_x_preferred":[
+        "Hego Pyongan"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u067e\u06cc\u0648\u0646\u06af\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc"
     ],
@@ -74,6 +80,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0aaa\u0acd\u0aaf\u0acb\u0a82\u0a97\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hak_x_preferred":[
+        "P'y\u014fng'an N\u00e0m-tho"
     ],
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u092a\u094d\u092f\u094b\u0902\u0917\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -152,6 +161,9 @@
     ],
     "name:swe_x_preferred":[
         "Pyongannamdo"
+    ],
+    "name:swe_x_variant":[
+        "S\u00f6dra P'y\u014fngan"
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0baa\u0bbf\u0baf\u0bcb\u0ba9\u0bcd\u0b95\u0ba3\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
@@ -308,7 +320,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1561792614,
+    "wof:lastmodified":1563586302,
     "wof:name":"P'y\u014fngan-namdo",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

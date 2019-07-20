@@ -15,8 +15,50 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u044a\u043d\u0447\u0445\u044a\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Chonchon County"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0686\u0648\u0646\u0686\u0648\u0646"
+    ],
+    "name:hun_x_preferred":[
+        "Csoncshon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u524d\u5ddd\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc804\ucc9c\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "Ch\u014fnch'\u014fn K\u016bn"
+    ],
+    "name:nld_x_preferred":[
+        "Chonchon"
+    ],
+    "name:nob_x_preferred":[
+        "Chonchon"
+    ],
+    "name:pol_x_preferred":[
+        "Ch\u014fnch'\u014fn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043d\u0447\u0445\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Chonchon"
+    ],
     "name:unk_x_variant":[
         "Buhy\u014d-ri"
+    ],
+    "name:vie_x_preferred":[
+        "Chonchon"
+    ],
+    "name:zho_x_preferred":[
+        "\u524d\u5ddd\u90e1"
     ],
     "qs:name":"Ch\u014fnch\u2019\u014fn",
     "qs:photos_9r":0,
@@ -51,7 +93,7 @@
         }
     ],
     "wof:id":890455229,
-    "wof:lastmodified":1527734191,
+    "wof:lastmodified":1563588770,
     "wof:name":"Ch\u014fnch\u2019\u014fn",
     "wof:parent_id":1108748019,
     "wof:placetype":"locality",

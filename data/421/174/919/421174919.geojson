@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Manpo"
     ],
+    "name:epo_x_preferred":[
+        "Manpo"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0646\u067e\u0648"
     ],
@@ -59,6 +62,9 @@
     "name:ita_x_preferred":[
         "Manp'o"
     ],
+    "name:ita_x_variant":[
+        "Manpo"
+    ],
     "name:jpn_x_preferred":[
         "\u6e80\u6d66\u5e02"
     ],
@@ -79,6 +85,9 @@
     ],
     "name:msa_x_preferred":[
         "Manpo"
+    ],
+    "name:nan_x_preferred":[
+        "Manp'o Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Manpo"
@@ -130,6 +139,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u6ee1\u6d66\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u6eff\u6d66"
     ],
     "name:zho_x_preferred":[
         "\u6eff\u6d66\u5e02"
@@ -278,7 +290,7 @@
         }
     ],
     "wof:id":421174919,
-    "wof:lastmodified":1561792909,
+    "wof:lastmodified":1563588758,
     "wof:name":"Manp'o",
     "wof:parent_id":1108747007,
     "wof:placetype":"locality",

@@ -15,8 +15,38 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yonggwang County"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6804\u5149\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc601\uad11\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "Y\u014fnggwang K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Yonggwang"
+    ],
+    "name:pol_x_preferred":[
+        "Y\u014fnggwang"
+    ],
+    "name:sco_x_preferred":[
+        "Yonggwang"
+    ],
     "name:unk_x_variant":[
         "Gor\u014d-ri"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0646\u0648\u0641\u0646\u06af \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Yonggwang"
+    ],
+    "name:zho_x_preferred":[
+        "\u69ae\u5149\u90e1"
     ],
     "qs:name":"Y\u014fnggwang-\u016dp",
     "qs:photos_9r":0,
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":890444175,
-    "wof:lastmodified":1527782132,
+    "wof:lastmodified":1563588772,
     "wof:name":"Y\u014fnggwang-\u016dp",
     "wof:parent_id":1108748109,
     "wof:placetype":"locality",
