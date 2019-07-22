@@ -16,11 +16,53 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
+    "name:csb_x_preferred":[
+        "S\u014fnbong"
+    ],
+    "name:deu_x_preferred":[
+        "S\u014fnbong"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03a3\u03cc\u03bd\u03bc\u03c0\u03bf\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Sonbong County"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0633\u0648\u0646\u0628\u0648\u0646\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Sonbong"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e0\u05d1\u05d5\u05e0\u05d2"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5148\u92d2\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc120\ubd09\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "S\u014fnbong K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Sonbong"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043d\u0431\u043e\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Sonbong"
+    ],
     "name:unk_x_variant":[
         "Y\u016bki"
+    ],
+    "name:yue_x_preferred":[
+        "\u5148\u92d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u5143\u5c71\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"North Korea",
@@ -147,7 +189,7 @@
         }
     ],
     "wof:id":890440091,
-    "wof:lastmodified":1527727103,
+    "wof:lastmodified":1563588767,
     "wof:name":"S\u014fnbong",
     "wof:parent_id":1108747091,
     "wof:placetype":"locality",

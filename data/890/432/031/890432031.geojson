@@ -15,8 +15,41 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kujang County"
+    ],
+    "name:fra_x_preferred":[
+        "Kujang"
+    ],
+    "name:hun_x_preferred":[
+        "Kudzsang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7403\u5834\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uad6c\uc7a5\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "Kujang K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Kujang"
+    ],
+    "name:pol_x_preferred":[
+        "Kujang"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0434\u0436\u0430\u043d"
+    ],
     "name:unk_x_variant":[
         "Kyuj\u014d-d\u014d"
+    ],
+    "name:vie_x_preferred":[
+        "Kujang"
+    ],
+    "name:zho_x_preferred":[
+        "\u7403\u5834\u90e1"
     ],
     "qs:name":"Kujang-\u016dp",
     "qs:photos_9r":0,
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":890432031,
-    "wof:lastmodified":1527793035,
+    "wof:lastmodified":1563588784,
     "wof:name":"Kujang-\u016dp",
     "wof:parent_id":1108746979,
     "wof:placetype":"locality",

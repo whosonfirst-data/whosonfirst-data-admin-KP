@@ -22,10 +22,19 @@
     "name:ace_x_preferred":[
         "Cheongjin"
     ],
+    "name:aze_x_preferred":[
+        "\u00c7xoncin"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u0445\u043e\u043d\u0434\u0436\u044b\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0445\u044a\u043d\u0434\u0436\u0438\u043d"
     ],
     "name:cat_x_preferred":[
+        "Chongjin"
+    ],
+    "name:ceb_x_preferred":[
         "Chongjin"
     ],
     "name:ces_x_preferred":[
@@ -46,6 +55,9 @@
     "name:est_x_preferred":[
         "Ch\u014fngjin"
     ],
+    "name:est_x_variant":[
+        "Ch'\u014fngjin"
+    ],
     "name:eus_x_preferred":[
         "Chongjin"
     ],
@@ -54,6 +66,9 @@
     ],
     "name:fin_x_preferred":[
         "Ch\u014fngjin"
+    ],
+    "name:fin_x_variant":[
+        "Ch'\u014fngjin"
     ],
     "name:fra_x_preferred":[
         "Chongjin"
@@ -82,11 +97,20 @@
     "name:lit_x_preferred":[
         "\u010cond\u017einas"
     ],
+    "name:mkd_x_preferred":[
+        "\u0427\u043e\u043d\u0433\u045f\u0438\u043d"
+    ],
     "name:mon_x_preferred":[
         "\u0427\u043e\u043d\u0436\u0438\u043d\u044c"
     ],
     "name:mri_x_preferred":[
         "Chongjin"
+    ],
+    "name:msa_x_preferred":[
+        "Chongjin"
+    ],
+    "name:nan_x_preferred":[
+        "Ch'\u014fngjin Chh\u012b"
     ],
     "name:nds_x_preferred":[
         "Chongjin"
@@ -112,6 +136,9 @@
     "name:pol_x_preferred":[
         "Ch\u014fngjin"
     ],
+    "name:pol_x_variant":[
+        "Ch'\u014fngjin"
+    ],
     "name:por_x_preferred":[
         "Chongjin"
     ],
@@ -127,10 +154,16 @@
     "name:spa_x_preferred":[
         "Ch\u014fngjin"
     ],
+    "name:spa_x_variant":[
+        "Ch'\u014fngjin"
+    ],
     "name:swa_x_preferred":[
         "Chongjin"
     ],
     "name:swe_x_preferred":[
+        "Chongjin"
+    ],
+    "name:tgl_x_preferred":[
         "Chongjin"
     ],
     "name:tha_x_preferred":[
@@ -202,7 +235,7 @@
         }
     ],
     "wof:id":1125822405,
-    "wof:lastmodified":1561792912,
+    "wof:lastmodified":1563588790,
     "wof:name":"Ch\u2019\u014fngjin",
     "wof:parent_id":1108746863,
     "wof:placetype":"locality",

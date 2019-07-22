@@ -45,6 +45,9 @@
     "name:cdo_x_preferred":[
         "Hwanghae B\u00e1e\u0324k-d\u00f4\u0324"
     ],
+    "name:ceb_x_preferred":[
+        "Hwanghae-bukto"
+    ],
     "name:ces_x_preferred":[
         "Severn\u00ed Hwangh\u00e4"
     ],
@@ -63,6 +66,9 @@
     "name:epo_x_preferred":[
         "Nord-H\u016danghae"
     ],
+    "name:eus_x_preferred":[
+        "Ipar Hwanghae"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0647\u0648\u0627\u0646\u06af\u0647\u0627\u0626\u0647 \u0634\u0645\u0627\u0644\u06cc"
     ],
@@ -74,6 +80,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0ab9\u0acd\u0ab5\u0abe\u0a82\u0a97\u0ab9\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hak_x_preferred":[
+        "Hwanghae Pet-tho"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930\u0940 \u0939\u094d\u0935\u093e\u0902\u0917\u0939\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -302,7 +311,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1561792612,
+    "wof:lastmodified":1563586295,
     "wof:name":"Hwanghae-bukto",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

@@ -58,6 +58,9 @@
     "name:fin_x_preferred":[
         "Hamhung"
     ],
+    "name:fin_x_variant":[
+        "Hamh\u016dng"
+    ],
     "name:fra_x_preferred":[
         "Hamhung"
     ],
@@ -121,6 +124,9 @@
     "name:msa_x_preferred":[
         "Hamhung"
     ],
+    "name:nan_x_preferred":[
+        "Hamh\u016dng Chh\u012b"
+    ],
     "name:nds_x_preferred":[
         "Hamhung"
     ],
@@ -140,6 +146,9 @@
         "Hamh\u016dng"
     ],
     "name:por_x_preferred":[
+        "Hamhung"
+    ],
+    "name:ron_x_preferred":[
         "Hamhung"
     ],
     "name:rus_x_preferred":[
@@ -171,6 +180,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c2e\u0c4d\u0c39\u0c02\u0c17\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Hamhung"
     ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e31\u0e21\u0e2e\u0e36\u0e07"
@@ -326,7 +338,7 @@
         }
     ],
     "wof:id":890442051,
-    "wof:lastmodified":1561792911,
+    "wof:lastmodified":1563588778,
     "wof:name":"Hamh\u016dng",
     "wof:parent_id":1108747745,
     "wof:placetype":"locality",

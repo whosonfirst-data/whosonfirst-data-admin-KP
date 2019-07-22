@@ -15,11 +15,44 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0648\u0627\u0646\u063a\u062c\u0648"
+    ],
+    "name:eng_x_preferred":[
+        "Hwangju County"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0647\u0648\u0627\u0646\u06af\u062c\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9ec4\u5dde\u90e1"
+    ],
     "name:kor_x_preferred":[
         "\ud669\uc8fc\uc74d"
     ],
+    "name:kor_x_variant":[
+        "\ud669\uc8fc\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "Hwangju K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Hwangju"
+    ],
+    "name:pol_x_preferred":[
+        "Hwangju"
+    ],
+    "name:slk_x_preferred":[
+        "Hwangd\u017eu"
+    ],
     "name:unk_x_variant":[
         "Koshyu"
+    ],
+    "name:vie_x_preferred":[
+        "Hwangju"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec3\u5dde\u90e1"
     ],
     "qs:name":"Hwangju-\u016dp",
     "qs:photos_9r":0,
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":890442497,
-    "wof:lastmodified":1527792854,
+    "wof:lastmodified":1563588776,
     "wof:name":"Hwangju-\u016dp",
     "wof:parent_id":1108748117,
     "wof:placetype":"locality",

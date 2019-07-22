@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b8\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Kus\u014fng-si"
+    ],
     "name:ces_x_preferred":[
         "Kusong"
     ],
@@ -46,6 +49,9 @@
     "name:hin_x_preferred":[
         "\u0915\u094d\u092f\u0941\u0938\u094b\u0902\u0917"
     ],
+    "name:hun_x_preferred":[
+        "Kuszong"
+    ],
     "name:ind_x_preferred":[
         "Kusong"
     ],
@@ -72,6 +78,9 @@
     ],
     "name:msa_x_preferred":[
         "Kusong"
+    ],
+    "name:nan_x_preferred":[
+        "Kus\u014fng Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Kusong"
@@ -179,7 +188,7 @@
         }
     ],
     "wof:id":421169347,
-    "wof:lastmodified":1561792908,
+    "wof:lastmodified":1563588757,
     "wof:name":"Kusong",
     "wof:parent_id":1108747859,
     "wof:placetype":"locality",

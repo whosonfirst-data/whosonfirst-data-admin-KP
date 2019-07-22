@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u064a\u0631\u064a\u0648\u0646\u063a"
     ],
+    "name:aze_x_preferred":[
+        "Hveryon"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09cb\u09b0\u0987\u09af\u09bc\u0982"
+    ],
+    "name:cat_x_preferred":[
+        "Hoeryong"
+    ],
+    "name:ceb_x_preferred":[
+        "Hoery\u014fng"
     ],
     "name:ces_x_preferred":[
         "H\u00f6rj\u014fng"
@@ -36,6 +45,9 @@
     "name:eng_x_preferred":[
         "Hoeryong"
     ],
+    "name:epo_x_preferred":[
+        "Horjong"
+    ],
     "name:est_x_preferred":[
         "Hoery\u014fng"
     ],
@@ -48,6 +60,9 @@
     "name:fra_x_preferred":[
         "Hoeryong"
     ],
+    "name:glg_x_preferred":[
+        "Hoeryong"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0ab0\u0ac0\u0a93\u0a82\u0a97"
     ],
@@ -56,6 +71,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0939\u094b\u0930\u092f\u094b\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00f6rjong"
     ],
     "name:ind_x_preferred":[
         "Hoeryong"
@@ -81,8 +99,14 @@
     "name:mar_x_preferred":[
         "\u0939\u094b\u0930\u0940\u0913\u0902\u0917"
     ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0435\u0440\u0458\u043e\u043d\u0433"
+    ],
     "name:msa_x_preferred":[
         "Hoeryong"
+    ],
+    "name:nan_x_preferred":[
+        "Hoery\u014fng Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Hoery\u014fng"
@@ -98,6 +122,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc4\u0ddc\u0d91\u0dbb\u0dd2\u0dba\u0ddc\u0db1\u0dca\u0d9c\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Hoeryong"
     ],
     "name:swe_x_preferred":[
         "Hoeryong"
@@ -162,7 +189,7 @@
         }
     ],
     "wof:id":890416387,
-    "wof:lastmodified":1561792911,
+    "wof:lastmodified":1563588775,
     "wof:name":"Hoery\u014fng",
     "wof:parent_id":1108746885,
     "wof:placetype":"locality",

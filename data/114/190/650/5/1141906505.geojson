@@ -74,6 +74,9 @@
     "name:msa_x_preferred":[
         "Sunchon"
     ],
+    "name:nan_x_preferred":[
+        "Sunch'\u014fn Chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Sunchon"
     ],
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":1141906505,
-    "wof:lastmodified":1561793086,
+    "wof:lastmodified":1563590127,
     "wof:name":"Sunchon",
     "wof:parent_id":1108748035,
     "wof:placetype":"locality",

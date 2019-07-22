@@ -74,6 +74,9 @@
     "name:msa_x_preferred":[
         "Munchon"
     ],
+    "name:nan_x_preferred":[
+        "Munch'\u014fn Chh\u012b"
+    ],
     "name:nds_x_preferred":[
         "Munchon"
     ],
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":1141906499,
-    "wof:lastmodified":1561793087,
+    "wof:lastmodified":1563590130,
     "wof:name":"Munchon",
     "wof:parent_id":1108746869,
     "wof:placetype":"locality",
