@@ -28,6 +28,9 @@
     "name:kor_x_preferred":[
         "\uc7a5\uc591"
     ],
+    "name:zho_x_preferred":[
+        "\u957f\u9633"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1225865175,
-    "wof:lastmodified":1537654966,
+    "wof:lastmodified":1564117723,
     "wof:name":"Changyang",
     "wof:parent_id":1108747093,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Kuso"
+    ],
+    "name:zho_x_preferred":[
+        "\u60e1\u641e\u6587\u5316"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310168883,
-    "wof:lastmodified":1536905471,
+    "wof:lastmodified":1564116207,
     "wof:name":"Kuso",
     "wof:parent_id":1108748113,
     "wof:placetype":"locality",

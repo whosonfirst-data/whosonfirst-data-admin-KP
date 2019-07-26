@@ -25,11 +25,38 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sindo"
+    ],
+    "name:hun_x_preferred":[
+        "Sindo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u85aa\u5cf6\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\ub3c4\uad70"
+    ],
+    "name:nor_x_preferred":[
+        "Sindo"
+    ],
+    "name:pol_x_preferred":[
+        "Sindo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0434\u043e"
+    ],
     "name:und_x_variant":[
         "Sindo-ri",
         "\uc2e0\ub3c4",
         "Sindo-\u016dp",
         "Sindo"
+    ],
+    "name:vie_x_preferred":[
+        "Sindo"
+    ],
+    "name:zho_x_preferred":[
+        "\u85aa\u5cf6\u90e1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1310083145,
-    "wof:lastmodified":1537654388,
+    "wof:lastmodified":1564116146,
     "wof:name":"Sindo",
     "wof:parent_id":1108747127,
     "wof:placetype":"locality",

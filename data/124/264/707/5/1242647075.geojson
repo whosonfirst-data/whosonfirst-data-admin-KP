@@ -25,8 +25,17 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Okha"
+    ],
     "name:kor_x_preferred":[
         "\uc625\ud558"
+    ],
+    "name:swe_x_preferred":[
+        "Okha"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b93\u0b95\u0bbe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1242647075,
-    "wof:lastmodified":1537654950,
+    "wof:lastmodified":1564117075,
     "wof:name":"Okha",
     "wof:parent_id":1108746883,
     "wof:placetype":"locality",

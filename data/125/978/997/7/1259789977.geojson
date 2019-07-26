@@ -25,6 +25,9 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kurak"
+    ],
     "name:kor_x_preferred":[
         "\uad6c\ub77d"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259789977,
-    "wof:lastmodified":1537655001,
+    "wof:lastmodified":1564117291,
     "wof:name":"Kurak",
     "wof:parent_id":1108748103,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kimj\u014fngsuk-kun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u91d1\u6b63\u6dd1\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uae40\uc815\uc219\uad70"
+    ],
+    "name:nor_x_preferred":[
+        "Kimjongsuk"
+    ],
+    "name:pol_x_preferred":[
+        "Kimj\u014fngsuk"
+    ],
+    "name:swe_x_preferred":[
+        "Kimj\u014fngsuk-kun"
+    ],
     "name:und_x_variant":[
         "Sinp\u2019a-\u016dp",
         "Kimj\u014fngsuk",
@@ -41,6 +59,12 @@
         "Sin\u2019galp\u2019a",
         "Sinp\u2019a",
         "Kimj\u014fngsug-\u016dp"
+    ],
+    "name:vie_x_preferred":[
+        "Kimjongsuk"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u6b63\u6dd1\u90e1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +90,7 @@
         }
     ],
     "wof:id":1193004145,
-    "wof:lastmodified":1537655257,
+    "wof:lastmodified":1564115696,
     "wof:name":"Kimjongsug-up",
     "wof:parent_id":1108746961,
     "wof:placetype":"locality",

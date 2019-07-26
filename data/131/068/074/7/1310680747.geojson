@@ -28,8 +28,17 @@
     "name:kor_x_preferred":[
         "\uc624\ub958\ub3d9"
     ],
+    "name:msa_x_preferred":[
+        "Oryu-dong"
+    ],
+    "name:sco_x_preferred":[
+        "Oryu-dong"
+    ],
     "name:und_x_variant":[
         "Oryudong"
+    ],
+    "name:vie_x_preferred":[
+        "Oryu-dong"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310680747,
-    "wof:lastmodified":1537655056,
+    "wof:lastmodified":1564116303,
     "wof:name":"Oryu-dong",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

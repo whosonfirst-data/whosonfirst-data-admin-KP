@@ -29,6 +29,9 @@
         "\uc0c1\uc218\ub3d9",
         "Sangsu-dong"
     ],
+    "name:vie_x_preferred":[
+        "Sangsu-dong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243420783,
-    "wof:lastmodified":1537655274,
+    "wof:lastmodified":1564117115,
     "wof:name":"Sangsu-dong",
     "wof:parent_id":1108746863,
     "wof:placetype":"locality",

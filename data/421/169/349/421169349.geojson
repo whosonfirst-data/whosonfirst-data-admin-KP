@@ -13,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Koksan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30af\u30b5\u30f3"
+    ],
     "name:kor_x_preferred":[
         "\uace1\uc0b0"
+    ],
+    "name:swe_x_preferred":[
+        "Koksan"
     ],
     "name:unk_x_variant":[
         "Kokan"
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":421169349,
-    "wof:lastmodified":1527716169,
+    "wof:lastmodified":1564116656,
     "wof:name":"Koksan",
     "wof:parent_id":1108746969,
     "wof:placetype":"locality",

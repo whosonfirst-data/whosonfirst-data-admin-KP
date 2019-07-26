@@ -25,8 +25,14 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc548\uc591\ub3d9"
+    ],
     "name:und_x_variant":[
         "\uc548\uc591\ub3d9",
+        "Anyang-dong"
+    ],
+    "name:vie_x_preferred":[
         "Anyang-dong"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1292992981,
-    "wof:lastmodified":1537654865,
+    "wof:lastmodified":1564114621,
     "wof:name":"Anyang-dong",
     "wof:parent_id":1108747207,
     "wof:placetype":"locality",

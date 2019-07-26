@@ -25,6 +25,18 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koho"
+    ],
+    "name:deu_x_preferred":[
+        "Koho"
+    ],
+    "name:fin_x_preferred":[
+        "Koho"
+    ],
+    "name:swe_x_preferred":[
+        "Koho"
+    ],
     "name:und_x_variant":[
         "K\u014fho",
         "\uac70\ud638"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344258235,
-    "wof:lastmodified":1537655400,
+    "wof:lastmodified":1564113894,
     "wof:name":"Koho",
     "wof:parent_id":1108747941,
     "wof:placetype":"locality",

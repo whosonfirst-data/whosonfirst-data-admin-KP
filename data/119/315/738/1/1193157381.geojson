@@ -25,6 +25,12 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Malmi"
+    ],
+    "name:swe_x_preferred":[
+        "Malmi"
+    ],
     "name:und_x_variant":[
         "\ub9d0\ubbf8",
         "Malmi"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1193157381,
-    "wof:lastmodified":1537655129,
+    "wof:lastmodified":1564115719,
     "wof:name":"Malmi",
     "wof:parent_id":1108747851,
     "wof:placetype":"locality",

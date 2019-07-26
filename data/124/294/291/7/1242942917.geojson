@@ -25,8 +25,17 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kudan"
+    ],
+    "name:ita_x_preferred":[
+        "Kudan"
+    ],
     "name:kor_x_preferred":[
         "\uad6c\ub2e8"
+    ],
+    "name:spa_x_preferred":[
+        "Kudan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1242942917,
-    "wof:lastmodified":1537655885,
+    "wof:lastmodified":1564116828,
     "wof:name":"Kudan",
     "wof:parent_id":1108747141,
     "wof:placetype":"locality",

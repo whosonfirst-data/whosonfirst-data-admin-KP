@@ -29,11 +29,17 @@
     "name:kor_x_preferred":[
         "\uc11c\uad11\uc0ac"
     ],
+    "name:kor_x_variant":[
+        "\uc11d\uc655\uc0ac"
+    ],
     "name:und_x_variant":[
         "Shaku\u014dji",
         "S\u014fwangsa",
         "Sokwangsa",
         "S\u014fgwangsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cb\u738b\u5bfa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1276238053,
-    "wof:lastmodified":1537654364,
+    "wof:lastmodified":1564115060,
     "wof:name":"Sogwangsa",
     "wof:parent_id":1108746973,
     "wof:placetype":"locality",

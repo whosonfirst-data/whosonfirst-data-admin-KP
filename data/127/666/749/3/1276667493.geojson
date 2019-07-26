@@ -25,6 +25,9 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0646\u0647\u0648"
+    ],
     "name:kor_x_preferred":[
         "\uc9c4\ud5c8"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276667493,
-    "wof:lastmodified":1537654819,
+    "wof:lastmodified":1564114960,
     "wof:name":"Chinho",
     "wof:parent_id":1108747747,
     "wof:placetype":"locality",

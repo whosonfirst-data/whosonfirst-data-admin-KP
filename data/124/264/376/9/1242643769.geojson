@@ -26,6 +26,18 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sadok"
+    ],
+    "name:pol_x_preferred":[
+        "Sadok"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0434\u043e\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0434\u043e\u043a"
+    ],
     "name:und_x_variant":[
         "Ch\u014fld\u014fk",
         "\uc0ac\ub355",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1242643769,
-    "wof:lastmodified":1537655620,
+    "wof:lastmodified":1564117075,
     "wof:name":"Sadok",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064602,
-    "geom:area_square_m":625158459.06303,
+    "geom:area_square_m":625158459.062953,
     "geom:bbox":"126.701002909,38.3614592822,127.055343095,38.6443197747",
     "geom:latitude":38.500702,
     "geom:longitude":126.862065,
@@ -26,6 +26,12 @@
     "mps:longitude":126.847761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Ichon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30c1\u30e7\u30f3"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1108746905,
-    "wof:lastmodified":1512517024,
+    "wof:lastmodified":1564116001,
     "wof:name":"Ichon",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208127,
-    "geom:area_square_m":1930494153.602398,
+    "geom:area_square_m":1930494153.603086,
     "geom:bbox":"128.96255003,41.1857206708,129.807922363,41.6629619853",
     "geom:latitude":41.397871,
     "geom:longitude":129.358125,
@@ -26,6 +26,12 @@
     "mps:longitude":129.498672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Orang"
+    ],
+    "name:new_x_preferred":[
+        "\u0913\u0930\u093e\u0919\u094d\u0917"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1108747903,
-    "wof:lastmodified":1512517030,
+    "wof:lastmodified":1564115980,
     "wof:name":"Orang",
     "wof:parent_id":85676615,
     "wof:placetype":"county",

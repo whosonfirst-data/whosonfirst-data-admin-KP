@@ -25,6 +25,12 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pomme"
+    ],
+    "name:fra_x_preferred":[
+        "Pomme"
+    ],
     "name:und_x_variant":[
         "Pommegi",
         "Pomme",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1260069457,
-    "wof:lastmodified":1537654483,
+    "wof:lastmodified":1564115899,
     "wof:name":"Pomme",
     "wof:parent_id":1108747229,
     "wof:placetype":"locality",

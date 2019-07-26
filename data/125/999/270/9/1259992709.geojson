@@ -25,6 +25,15 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "\u1783\u17bb\u17c6\u1785\u1784\u17d2\u17a0\u17b6"
+    ],
+    "name:pol_x_preferred":[
+        "Ch\u00e2ngka"
+    ],
+    "name:spa_x_preferred":[
+        "Changha"
+    ],
     "name:und_x_variant":[
         "\uc7a5\ud558",
         "Changha"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259992709,
-    "wof:lastmodified":1537655558,
+    "wof:lastmodified":1564117236,
     "wof:name":"Changha",
     "wof:parent_id":1108747797,
     "wof:placetype":"locality",

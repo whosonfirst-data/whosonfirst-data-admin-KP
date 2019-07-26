@@ -25,6 +25,9 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Chiso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260066211,
-    "wof:lastmodified":1537012217,
+    "wof:lastmodified":1564115889,
     "wof:name":"Chiso",
     "wof:parent_id":1108747923,
     "wof:placetype":"locality",

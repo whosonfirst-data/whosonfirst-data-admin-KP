@@ -28,6 +28,12 @@
     "name:kor_x_preferred":[
         "\ud654\ub3d9"
     ],
+    "name:sco_x_preferred":[
+        "Hwa-dong"
+    ],
+    "name:vie_x_preferred":[
+        "Hwa-dong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343676189,
-    "wof:lastmodified":1537654714,
+    "wof:lastmodified":1564114110,
     "wof:name":"Hwa-dong",
     "wof:parent_id":1108746951,
     "wof:placetype":"locality",

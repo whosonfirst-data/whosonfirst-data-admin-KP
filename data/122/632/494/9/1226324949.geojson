@@ -25,6 +25,15 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kangol"
+    ],
+    "name:fra_x_preferred":[
+        "Kangol"
+    ],
+    "name:ind_x_preferred":[
+        "Kangol"
+    ],
     "name:kor_x_preferred":[
         "\uac04\uace8"
     ],
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1226324949,
-    "wof:lastmodified":1537654666,
+    "wof:lastmodified":1564117702,
     "wof:name":"Kangol",
     "wof:parent_id":1108747191,
     "wof:placetype":"locality",

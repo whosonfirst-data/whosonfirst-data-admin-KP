@@ -25,6 +25,12 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karum"
+    ],
+    "name:tur_x_preferred":[
+        "Karum"
+    ],
     "name:und_x_variant":[
         "\uac08\uc74c",
         "Kar\u016dm"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276836211,
-    "wof:lastmodified":1537655405,
+    "wof:lastmodified":1564115096,
     "wof:name":"Karum",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "Naesu-dong"
+    ],
     "name:und_x_variant":[
         "\ub0b4\uc218\ub3d9",
+        "Naesu-dong"
+    ],
+    "name:vie_x_preferred":[
         "Naesu-dong"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276298403,
-    "wof:lastmodified":1537655357,
+    "wof:lastmodified":1564114906,
     "wof:name":"Naesu-dong",
     "wof:parent_id":1108747015,
     "wof:placetype":"locality",

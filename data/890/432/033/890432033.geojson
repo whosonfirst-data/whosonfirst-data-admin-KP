@@ -15,8 +15,14 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kosan"
+    ],
     "name:kor_x_preferred":[
         "\uace0\uc0b0"
+    ],
+    "name:swe_x_preferred":[
+        "Kosan"
     ],
     "name:unk_x_variant":[
         "Sin\u2019gosan"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":890432033,
-    "wof:lastmodified":1527793041,
+    "wof:lastmodified":1564116662,
     "wof:name":"Kosan",
     "wof:parent_id":1108746973,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Soak"
+    ],
     "name:und_x_variant":[
         "\uc11c\uc545",
         "S\u014fak"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343342119,
-    "wof:lastmodified":1537655738,
+    "wof:lastmodified":1564114134,
     "wof:name":"Soak",
     "wof:parent_id":1108747105,
     "wof:placetype":"locality",
