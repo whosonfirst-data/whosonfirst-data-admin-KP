@@ -26,6 +26,12 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Unmol"
+    ],
+    "name:swe_x_preferred":[
+        "Unmolh\u00e4st"
+    ],
     "name:und_x_variant":[
         "Sangch\u2019on",
         "\u016cn-mal",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343483063,
-    "wof:lastmodified":1537654223,
+    "wof:lastmodified":1564113986,
     "wof:name":"Unmol",
     "wof:parent_id":1108747729,
     "wof:placetype":"locality",

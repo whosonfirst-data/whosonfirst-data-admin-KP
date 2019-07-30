@@ -25,9 +25,21 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yonggang-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6a9\uac15\ub3d9"
+    ],
+    "name:swe_x_preferred":[
+        "Yonggang-dong"
+    ],
     "name:und_x_variant":[
         "\uc601\uac15\ub3d9",
         "Y\u014fnggang-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f99\u6c5f\u6d1e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293759643,
-    "wof:lastmodified":1537655151,
+    "wof:lastmodified":1564114739,
     "wof:name":"Yonggang-dong",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

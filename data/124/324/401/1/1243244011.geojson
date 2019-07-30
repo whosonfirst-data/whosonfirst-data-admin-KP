@@ -25,6 +25,21 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u062e\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Tokha"
+    ],
+    "name:mai_x_preferred":[
+        "\u091f\u094b\u0916\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u091f\u094b\u0916\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bcb\u0b95\u0bbe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1243244011,
-    "wof:lastmodified":1537094120,
+    "wof:lastmodified":1564116874,
     "wof:name":"Tokha",
     "wof:parent_id":1108747183,
     "wof:placetype":"locality",

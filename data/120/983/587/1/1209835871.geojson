@@ -31,6 +31,15 @@
     "name:kor_x_variant":[
         "W\u014fnji-dong"
     ],
+    "name:msa_x_preferred":[
+        "Wonji-dong"
+    ],
+    "name:sco_x_preferred":[
+        "Wonji-dong"
+    ],
+    "name:vie_x_preferred":[
+        "Wonji-dong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209835871,
-    "wof:lastmodified":1537655035,
+    "wof:lastmodified":1564115353,
     "wof:name":"Wonji-dong",
     "wof:parent_id":1108748111,
     "wof:placetype":"locality",

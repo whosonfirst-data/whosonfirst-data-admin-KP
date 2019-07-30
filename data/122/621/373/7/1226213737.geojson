@@ -25,13 +25,43 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ace_x_preferred":[
+        "Hyesan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u0441\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Hyesan"
+    ],
+    "name:ces_x_preferred":[
+        "Hjesan"
+    ],
+    "name:dan_x_preferred":[
+        "Hyesan"
+    ],
     "name:deu_x_preferred":[
         "Hyesan"
     ],
     "name:eng_x_preferred":[
         "Hyesan"
     ],
+    "name:est_x_preferred":[
+        "Hyesan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0633\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Hyesan"
+    ],
     "name:fra_x_preferred":[
+        "Hyesan"
+    ],
+    "name:hun_x_preferred":[
+        "Hjeszan"
+    ],
+    "name:ita_x_preferred":[
         "Hyesan"
     ],
     "name:jpn_x_preferred":[
@@ -43,6 +73,39 @@
     "name:kor_x_variant":[
         "\ud61c\uc0b0"
     ],
+    "name:lit_x_preferred":[
+        "Hesanas"
+    ],
+    "name:nds_x_preferred":[
+        "Hyesan"
+    ],
+    "name:nld_x_preferred":[
+        "Hyesan"
+    ],
+    "name:nor_x_preferred":[
+        "Hyesan"
+    ],
+    "name:pol_x_preferred":[
+        "Hyesan"
+    ],
+    "name:ron_x_preferred":[
+        "Hyesan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0441\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Hyesan"
+    ],
+    "name:swe_x_preferred":[
+        "Hyesan"
+    ],
+    "name:tur_x_preferred":[
+        "Hyesan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u0441\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Hesanjin",
         "Keisanchin",
@@ -52,6 +115,15 @@
         "Keizanchin",
         "Hyesan",
         "Hyesan-si"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u06cc\u0626\u0633\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Hyesan"
+    ],
+    "name:war_x_preferred":[
+        "Hyesan"
     ],
     "name:zho_x_preferred":[
         "\u60e0\u5c71\u5e02"
@@ -81,7 +153,7 @@
         }
     ],
     "wof:id":1226213737,
-    "wof:lastmodified":1537655422,
+    "wof:lastmodified":1564117562,
     "wof:name":"Hyesan",
     "wof:parent_id":1108747113,
     "wof:placetype":"locality",

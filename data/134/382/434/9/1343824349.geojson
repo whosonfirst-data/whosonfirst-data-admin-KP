@@ -25,6 +25,15 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sanyang"
+    ],
+    "name:deu_x_preferred":[
+        "Sanyang"
+    ],
+    "name:swe_x_preferred":[
+        "Sanyang"
+    ],
     "name:und_x_variant":[
         "\uc0b0\uc591",
         "Sanyang"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343824349,
-    "wof:lastmodified":1537655585,
+    "wof:lastmodified":1564114039,
     "wof:name":"Sanyang",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",

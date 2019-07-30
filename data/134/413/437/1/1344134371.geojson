@@ -26,6 +26,9 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062c\u0648\u06a9-\u062a\u0648\u0646\u06af"
+    ],
     "name:und_x_variant":[
         "Oj\u016dk-tong",
         "\u014ej\u014fk-tong"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1344134371,
-    "wof:lastmodified":1537655338,
+    "wof:lastmodified":1564113902,
     "wof:name":"Ojok-tong",
     "wof:parent_id":1108747205,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mirak"
+    ],
+    "name:fra_x_preferred":[
+        "Mirak"
+    ],
+    "name:ita_x_preferred":[
+        "Mirak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e9\u30af"
+    ],
     "name:und_x_variant":[
         "Mimaegi",
         "\ubbf8\ub77d",
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1226537107,
-    "wof:lastmodified":1537654576,
+    "wof:lastmodified":1564117916,
     "wof:name":"Mirak",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

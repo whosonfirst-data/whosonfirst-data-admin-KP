@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06977,
-    "geom:area_square_m":673519324.404552,
+    "geom:area_square_m":673519324.404569,
     "geom:bbox":"126.193638377,38.5347977036,126.564701357,38.8116844208",
     "geom:latitude":38.676092,
     "geom:longitude":126.39523,
@@ -26,6 +26,21 @@
     "mps:longitude":126.398758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Suan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d0\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Suan"
+    ],
+    "name:swe_x_preferred":[
+        "Suan"
+    ],
+    "name:tgl_x_preferred":[
+        "Suan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1108748029,
-    "wof:lastmodified":1512517032,
+    "wof:lastmodified":1564115990,
     "wof:name":"Suan",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

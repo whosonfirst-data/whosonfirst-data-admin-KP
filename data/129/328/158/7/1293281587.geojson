@@ -28,6 +28,12 @@
     "name:kor_x_preferred":[
         "\uace0\ubd09"
     ],
+    "name:pol_x_preferred":[
+        "Kobong Ky\u014fnguk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e \u0411\u043e\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293281587,
-    "wof:lastmodified":1537655890,
+    "wof:lastmodified":1564114692,
     "wof:name":"Kobong",
     "wof:parent_id":1108747045,
     "wof:placetype":"locality",

@@ -28,8 +28,17 @@
     "name:kor_x_preferred":[
         "\uc0c1\ubd09\ub3d9"
     ],
+    "name:msa_x_preferred":[
+        "Sangbong-dong"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e02\u0e27\u0e07\u0e0b\u0e31\u0e07\u0e1a\u0e07"
+    ],
     "name:und_x_variant":[
         "Sangbongdong"
+    ],
+    "name:vie_x_preferred":[
+        "Sangbong-dong"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1276742819,
-    "wof:lastmodified":1537654923,
+    "wof:lastmodified":1564114879,
     "wof:name":"Sangbong-dong",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

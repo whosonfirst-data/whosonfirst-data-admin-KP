@@ -25,6 +25,48 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Pottoka"
+    ],
+    "name:cat_x_preferred":[
+        "Pottoka"
+    ],
+    "name:deu_x_preferred":[
+        "Pottok-Pony"
+    ],
+    "name:eus_x_preferred":[
+        "Pottoka"
+    ],
+    "name:fin_x_preferred":[
+        "Pottok"
+    ],
+    "name:fra_x_preferred":[
+        "Pottok"
+    ],
+    "name:glg_x_preferred":[
+        "Pottoka"
+    ],
+    "name:ita_x_preferred":[
+        "Pottok"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30c8\u30c3\u30af"
+    ],
+    "name:nld_x_preferred":[
+        "Pottok"
+    ],
+    "name:pol_x_preferred":[
+        "Kuc Pottok"
+    ],
+    "name:spa_x_preferred":[
+        "Pottoka"
+    ],
+    "name:swe_x_preferred":[
+        "Pottok"
+    ],
+    "name:vie_x_preferred":[
+        "Ng\u1ef1a Pottok"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +90,7 @@
         }
     ],
     "wof:id":1293167301,
-    "wof:lastmodified":1536751762,
+    "wof:lastmodified":1564114662,
     "wof:name":"Pottok",
     "wof:parent_id":1108747013,
     "wof:placetype":"locality",

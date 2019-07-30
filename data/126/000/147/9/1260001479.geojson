@@ -25,6 +25,18 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\ub0b4\ub3d9"
+    ],
+    "name:msa_x_preferred":[
+        "Sinnae-dong"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e02\u0e27\u0e07\u0e0a\u0e34\u0e19\u0e41\u0e19"
+    ],
+    "name:vie_x_preferred":[
+        "Sinnae-dong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1260001479,
-    "wof:lastmodified":1536606361,
+    "wof:lastmodified":1564115856,
     "wof:name":"Sinnae-dong",
     "wof:parent_id":1108748107,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc624\ub958\ub3d9"
+    ],
+    "name:msa_x_preferred":[
+        "Oryu-dong"
+    ],
+    "name:sco_x_preferred":[
+        "Oryu-dong"
+    ],
+    "name:vie_x_preferred":[
+        "Oryu-dong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1260049829,
-    "wof:lastmodified":1537035112,
+    "wof:lastmodified":1564115964,
     "wof:name":"Oryu-dong",
     "wof:parent_id":1108747925,
     "wof:placetype":"locality",

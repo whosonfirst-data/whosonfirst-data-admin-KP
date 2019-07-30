@@ -25,6 +25,9 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chusan"
+    ],
     "name:kor_x_preferred":[
         "\uc8fc\uc0b0"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293798287,
-    "wof:lastmodified":1537654759,
+    "wof:lastmodified":1564114408,
     "wof:name":"Chusan",
     "wof:parent_id":1108747729,
     "wof:placetype":"locality",

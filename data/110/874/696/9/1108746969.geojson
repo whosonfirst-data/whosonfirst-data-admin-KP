@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046884,
-    "geom:area_square_m":452232354.790375,
+    "geom:area_square_m":452232354.790523,
     "geom:bbox":"126.511187883,38.624903021,126.874064978,38.8236057265",
     "geom:latitude":38.732695,
     "geom:longitude":126.68921,
@@ -26,6 +26,15 @@
     "mps:longitude":126.689204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Koksan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30af\u30b5\u30f3"
+    ],
+    "name:swe_x_preferred":[
+        "Koksan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1108746969,
-    "wof:lastmodified":1512517025,
+    "wof:lastmodified":1564116003,
     "wof:name":"Koksan",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

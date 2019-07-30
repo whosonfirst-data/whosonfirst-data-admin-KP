@@ -26,6 +26,12 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chasan"
+    ],
+    "name:fra_x_preferred":[
+        "Chasan"
+    ],
     "name:kor_x_preferred":[
         "\uc790\uc0b0"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1326624911,
-    "wof:lastmodified":1537654854,
+    "wof:lastmodified":1564113705,
     "wof:name":"Chasan",
     "wof:parent_id":1108747729,
     "wof:placetype":"locality",

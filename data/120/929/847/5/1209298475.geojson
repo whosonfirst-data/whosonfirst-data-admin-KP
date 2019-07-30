@@ -25,6 +25,48 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Mun\u010dchon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u0686\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Muncheon"
+    ],
+    "name:fra_x_preferred":[
+        "Munch\u014fn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6587\u5ddd\u5e02"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb38\ucc9c\uc2dc"
+    ],
+    "name:nds_x_preferred":[
+        "Munchon"
+    ],
+    "name:nld_x_preferred":[
+        "Munchon"
+    ],
+    "name:nor_x_preferred":[
+        "Munchon"
+    ],
+    "name:pol_x_preferred":[
+        "Munch'\u014fn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043d\u0447\u0445\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Munchon"
+    ],
+    "name:tur_x_preferred":[
+        "Munchon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0447\u0445\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Bumpyo",
         "Buntei",
@@ -36,6 +78,15 @@
         "Munp\u2019y\u014fng-ni",
         "Munch\u2019\u014fn",
         "\ubb38\ucc9c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0686\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Munchon"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u5ddd\u5e02"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +106,7 @@
         }
     ],
     "wof:id":1209298475,
-    "wof:lastmodified":1537654566,
+    "wof:lastmodified":1564115548,
     "wof:name":"Munch'on",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",

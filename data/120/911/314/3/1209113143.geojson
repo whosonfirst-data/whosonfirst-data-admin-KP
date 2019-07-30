@@ -28,6 +28,9 @@
     "name:kor_x_preferred":[
         "\ub0a8\ub9d0"
     ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d2e\u0d4d\u0d2e\u0d7e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632639
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209113143,
-    "wof:lastmodified":1537655913,
+    "wof:lastmodified":1564115537,
     "wof:name":"Nammal",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",

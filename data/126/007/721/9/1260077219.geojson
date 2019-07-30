@@ -29,6 +29,9 @@
         "\uc218\ud558\ub3d9",
         "Suha-dong"
     ],
+    "name:vie_x_preferred":[
+        "Suha-dong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260077219,
-    "wof:lastmodified":1537654312,
+    "wof:lastmodified":1564115854,
     "wof:name":"Suha-dong",
     "wof:parent_id":1108747029,
     "wof:placetype":"locality",

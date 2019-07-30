@@ -28,6 +28,9 @@
     "name:kor_x_preferred":[
         "\uc774\ud654\ub3d9"
     ],
+    "name:sco_x_preferred":[
+        "Ihwa-dong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1343782309,
-    "wof:lastmodified":1537654698,
+    "wof:lastmodified":1564114048,
     "wof:name":"Ihwa-dong",
     "wof:parent_id":1108748111,
     "wof:placetype":"locality",

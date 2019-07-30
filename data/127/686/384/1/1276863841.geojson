@@ -25,6 +25,9 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Sangsu-dong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276863841,
-    "wof:lastmodified":1537060003,
+    "wof:lastmodified":1564114802,
     "wof:name":"Sangsu-dong",
     "wof:parent_id":1108747061,
     "wof:placetype":"locality",

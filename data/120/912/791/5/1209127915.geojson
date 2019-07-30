@@ -28,6 +28,9 @@
     "name:kor_x_preferred":[
         "\ub291\uc554"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc1\u0b95\u0bae\u0bcd"
+    ],
     "name:und_x_variant":[
         "N\u016dgam"
     ],
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209127915,
-    "wof:lastmodified":1537654953,
+    "wof:lastmodified":1564115380,
     "wof:name":"Nugam",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",

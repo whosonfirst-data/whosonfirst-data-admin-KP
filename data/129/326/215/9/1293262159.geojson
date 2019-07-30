@@ -25,11 +25,20 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koji"
+    ],
+    "name:ita_x_preferred":[
+        "Koji"
+    ],
     "name:kor_x_preferred":[
         "\uac70\uc9c0"
     ],
     "name:kor_x_variant":[
         "K\u014fji"
+    ],
+    "name:swe_x_preferred":[
+        "Koji"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293262159,
-    "wof:lastmodified":1537654950,
+    "wof:lastmodified":1564114731,
     "wof:name":"Koji",
     "wof:parent_id":1108746883,
     "wof:placetype":"locality",

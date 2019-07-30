@@ -28,6 +28,15 @@
     "name:kor_x_preferred":[
         "\ud56d\ub3d9"
     ],
+    "name:msa_x_preferred":[
+        "Hang-dong"
+    ],
+    "name:sco_x_preferred":[
+        "Hang-dong"
+    ],
+    "name:vie_x_preferred":[
+        "Hang-dong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293511525,
-    "wof:lastmodified":1537654740,
+    "wof:lastmodified":1564114558,
     "wof:name":"Hang-dong",
     "wof:parent_id":1108747921,
     "wof:placetype":"locality",

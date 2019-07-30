@@ -25,8 +25,17 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Munsan-eup"
+    ],
+    "name:fra_x_preferred":[
+        "Munsan"
+    ],
     "name:kor_x_preferred":[
         "\ubb38\uc0b0"
+    ],
+    "name:kor_x_variant":[
+        "\ubb38\uc0b0\uc74d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1242854959,
-    "wof:lastmodified":1537654563,
+    "wof:lastmodified":1564117049,
     "wof:name":"Munsan",
     "wof:parent_id":1108747793,
     "wof:placetype":"locality",

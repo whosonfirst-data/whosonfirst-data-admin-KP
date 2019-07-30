@@ -25,11 +25,20 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kubat"
+    ],
     "name:kor_x_preferred":[
         "\uad6c\ubc18\ub9ac"
     ],
     "name:kor_x_variant":[
         "\uad6c\ubc2d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0431\u0430\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Kubat"
     ],
     "name:und_x_variant":[
         "Kubat\u2019-li",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1292916649,
-    "wof:lastmodified":1537655392,
+    "wof:lastmodified":1564114599,
     "wof:name":"Kubat",
     "wof:parent_id":1108747957,
     "wof:placetype":"locality",

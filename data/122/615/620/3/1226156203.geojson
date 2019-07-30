@@ -25,6 +25,9 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:glg_x_preferred":[
+        "Samil"
+    ],
     "name:und_x_variant":[
         "\uc0bc\uc77c",
         "Samil"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226156203,
-    "wof:lastmodified":1537655287,
+    "wof:lastmodified":1564117824,
     "wof:name":"Samil",
     "wof:parent_id":1108748019,
     "wof:placetype":"locality",

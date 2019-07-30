@@ -28,6 +28,9 @@
     "name:kor_x_preferred":[
         "\uc870\ub3d9"
     ],
+    "name:vie_x_preferred":[
+        "Cho-dong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1293307081,
-    "wof:lastmodified":1537654813,
+    "wof:lastmodified":1564114342,
     "wof:name":"Cho-dong",
     "wof:parent_id":1108747021,
     "wof:placetype":"locality",

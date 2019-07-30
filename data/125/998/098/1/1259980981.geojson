@@ -25,6 +25,63 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0430\u043d"
+    ],
+    "name:ces_x_preferred":[
+        "Paj\u00e1n"
+    ],
+    "name:deu_x_preferred":[
+        "Paian"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03b9\u03ac\u03bd\u03b1\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Peano"
+    ],
+    "name:fin_x_preferred":[
+        "Paiaani"
+    ],
+    "name:fra_x_preferred":[
+        "P\u00e9an"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Paian"
+    ],
+    "name:ita_x_preferred":[
+        "Peana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30fc\u30a2\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Peanas"
+    ],
+    "name:nor_x_preferred":[
+        "Paean"
+    ],
+    "name:pol_x_preferred":[
+        "Pean"
+    ],
+    "name:por_x_preferred":[
+        "Pe\u00e3"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Pe\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Paian"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "\ubc30\uc548"
     ],
@@ -51,7 +108,7 @@
         }
     ],
     "wof:id":1259980981,
-    "wof:lastmodified":1537655945,
+    "wof:lastmodified":1564117184,
     "wof:name":"Paean",
     "wof:parent_id":1108747941,
     "wof:placetype":"locality",

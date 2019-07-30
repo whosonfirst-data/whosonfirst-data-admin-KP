@@ -25,8 +25,17 @@
     "iso:country":"KP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30bd\u30f3\u30df"
+    ],
     "name:kor_x_preferred":[
         "\uc120\ubbf8"
+    ],
+    "name:spa_x_preferred":[
+        "Sonmi"
+    ],
+    "name:tgl_x_preferred":[
+        "Sonmi"
     ],
     "name:und_x_variant":[
         "S\u014fnmi"
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1343867959,
-    "wof:lastmodified":1537654324,
+    "wof:lastmodified":1564114269,
     "wof:name":"Sonmi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
