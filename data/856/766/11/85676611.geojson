@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "special city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PY"
+    ],
     "lbl:latitude":39.07094,
     "lbl:longitude":125.819733,
     "meso:name_alt1":"",
@@ -663,16 +666,13 @@
         }
     ],
     "wof:id":85676611,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kor"
     ],
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1563586299,
+    "wof:lastmodified":1565725186,
     "wof:name":"P'y\u014fngyang",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

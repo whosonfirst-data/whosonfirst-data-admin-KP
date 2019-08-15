@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WK"
+    ],
     "lbl:latitude":38.587885,
     "lbl:longitude":126.328416,
     "meso:name_alt1":"N. Hwanghae",
@@ -302,16 +305,13 @@
         }
     ],
     "wof:id":85676603,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kor"
     ],
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1563586295,
+    "wof:lastmodified":1565725185,
     "wof:name":"Hwanghae-bukto",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

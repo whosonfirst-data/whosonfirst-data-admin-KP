@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":40.68812,
     "lbl:longitude":126.50015,
     "meso:name_alt1":"Jagang",
@@ -317,16 +320,13 @@
         }
     ],
     "wof:id":85676623,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kor"
     ],
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1563586305,
+    "wof:lastmodified":1565725187,
     "wof:name":"Chagang-do",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

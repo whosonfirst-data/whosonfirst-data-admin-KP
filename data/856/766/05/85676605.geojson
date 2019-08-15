@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WN"
+    ],
     "lbl:latitude":38.333494,
     "lbl:longitude":125.409707,
     "meso:name_alt1":"S. Hwanghae",
@@ -302,16 +305,13 @@
         }
     ],
     "wof:id":85676605,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kor"
     ],
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1563586298,
+    "wof:lastmodified":1565725185,
     "wof:name":"Hwanghae-namdo",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

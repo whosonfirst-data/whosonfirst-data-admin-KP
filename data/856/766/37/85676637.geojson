@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PM"
+    ],
     "lbl:latitude":39.509972,
     "lbl:longitude":126.301389,
     "meso:name_alt1":"S. Pyongan",
@@ -311,16 +314,13 @@
         }
     ],
     "wof:id":85676637,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kor"
     ],
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1563586302,
+    "wof:lastmodified":1565725186,
     "wof:name":"P'y\u014fngan-namdo",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

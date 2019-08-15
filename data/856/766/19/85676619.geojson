@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KW"
+    ],
     "lbl:latitude":38.738323,
     "lbl:longitude":127.462205,
     "meso:name_alt1":"",
@@ -317,16 +320,13 @@
         }
     ],
     "wof:id":85676619,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kor"
     ],
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1563586301,
+    "wof:lastmodified":1565725186,
     "wof:name":"Kangw\u014fn-do",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

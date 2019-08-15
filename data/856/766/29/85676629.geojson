@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HN"
+    ],
     "lbl:latitude":40.177544,
     "lbl:longitude":127.509689,
     "meso:name_alt1":"S. Hamgyong",
@@ -317,16 +320,13 @@
         }
     ],
     "wof:id":85676629,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kor"
     ],
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1563586300,
+    "wof:lastmodified":1565725186,
     "wof:name":"Hamgy\u014fng-namdo",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

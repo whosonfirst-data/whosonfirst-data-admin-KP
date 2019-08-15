@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HG"
+    ],
     "lbl:latitude":41.901303,
     "lbl:longitude":129.420411,
     "meso:name_alt1":"N. Hamgyong",
@@ -223,7 +226,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1563586307,
+    "wof:lastmodified":1565725188,
     "wof:name":"Hamgy\u014fng-bukto",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
