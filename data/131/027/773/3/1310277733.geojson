@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.35639,39.21333,125.39639,39.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310277733,
-    "wof:lastmodified":1536747853,
+    "wof:lastmodified":1566584209,
     "wof:name":"Chogaennaru",
     "wof:parent_id":1108747801,
     "wof:placetype":"locality",

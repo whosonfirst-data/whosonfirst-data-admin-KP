@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.77972,39.41333,125.81972,39.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277048377,
-    "wof:lastmodified":1536814558,
+    "wof:lastmodified":1566583223,
     "wof:name":"Salgujong",
     "wof:parent_id":1108748033,
     "wof:placetype":"locality",

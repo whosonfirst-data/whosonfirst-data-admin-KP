@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.45556,38.69722,127.49556,38.73722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc5b4\ub4dd\ub3d9"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226226179,
-    "wof:lastmodified":1537654528,
+    "wof:lastmodified":1566585414,
     "wof:name":"Oduk-tong",
     "wof:parent_id":1108746887,
     "wof:placetype":"locality",

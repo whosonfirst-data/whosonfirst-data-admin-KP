@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.71028,38.16194,125.75028,38.20194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u014fd\u016dlmogi",
         "P\u014fd\u016dlmegi"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242569885,
-    "wof:lastmodified":1537654488,
+    "wof:lastmodified":1566584734,
     "wof:name":"Podulmegi",
     "wof:parent_id":1108748009,
     "wof:placetype":"locality",

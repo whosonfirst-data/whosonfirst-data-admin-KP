@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.18,39.59667,125.22,39.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uac04\uc740\uace8"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242883959,
-    "wof:lastmodified":1537654664,
+    "wof:lastmodified":1566584659,
     "wof:name":"Kanun-gol",
     "wof:parent_id":1108747793,
     "wof:placetype":"locality",

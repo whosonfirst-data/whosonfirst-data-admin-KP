@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.2264,39.2274,127.2664,39.2674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ubd80\ubc29\ub9ac"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343450257,
-    "wof:lastmodified":1537654472,
+    "wof:lastmodified":1566582442,
     "wof:name":"Pubang-ni",
     "wof:parent_id":1108747009,
     "wof:placetype":"locality",

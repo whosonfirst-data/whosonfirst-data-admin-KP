@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.12028,37.77056,126.16028,37.81056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mun\u016dng-ni",
         "Mur\u016dng-ni"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226137423,
-    "wof:lastmodified":1537654562,
+    "wof:lastmodified":1566585410,
     "wof:name":"Murung-ni",
     "wof:parent_id":1108748107,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.4525,41.3975,129.4925,41.4375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc7a5\ud3c9",
         "Changp\u2019y\u014fng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260248475,
-    "wof:lastmodified":1537655494,
+    "wof:lastmodified":1566583881,
     "wof:name":"Changp'yong",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

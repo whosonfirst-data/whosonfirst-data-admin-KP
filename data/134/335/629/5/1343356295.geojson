@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.46917,37.83972,126.50917,37.87972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tow\u014fn-ni",
         "Tow\u014fl-li"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343356295,
-    "wof:lastmodified":1537654239,
+    "wof:lastmodified":1566582325,
     "wof:name":"Towol-li",
     "wof:parent_id":1108747043,
     "wof:placetype":"locality",

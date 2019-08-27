@@ -11,11 +11,15 @@
     "geom:longitude":125.24139,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":11026,
+    "gn:population":11026,
     "iso:country":"KP",
+    "lbl:bbox":"125.22139,39.86722,125.26139,39.90722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Nanshi"
     ],
     "qs:name":"Panghy\u014fn-dong",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1872726,
         "gp:id":1093928,
-        "qs:id":137244
+        "qs_pg:id":137244
     },
     "wof:country":"KP",
     "wof:created":1469051230,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890417999,
-    "wof:lastmodified":1505343442,
+    "wof:lastmodified":1566584581,
     "wof:name":"Panghy\u014fn-dong",
     "wof:parent_id":1108747859,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.42972,38.93,127.46972,38.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc774\ub450\ubb38\ub9ac"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226560397,
-    "wof:lastmodified":1537654903,
+    "wof:lastmodified":1566585342,
     "wof:name":"Idumul-li",
     "wof:parent_id":1108746973,
     "wof:placetype":"locality",

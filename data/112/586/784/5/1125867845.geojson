@@ -9,17 +9,20 @@
     "geom:bbox":"125.47361,39.49472,125.47361,39.49472",
     "geom:latitude":39.49472,
     "geom:longitude":125.47361,
-    "gn:gn_country":"KP",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":19463,
+    "gn:country":"KP",
+    "gn:fcode":"PPL",
     "gn:population":19463,
     "iso:country":"KP",
+    "lbl:bbox":"125.45361,39.47472,125.49361,39.51472",
     "lbl:latitude":39.49472,
     "lbl:longitude":125.47361,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sin-ni"
     ],
     "qs_pg:aaroncc":"KP",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":137225,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125867845,
-    "wof:lastmodified":1509397113,
+    "wof:lastmodified":1566584585,
     "wof:name":"Sil-li",
     "wof:parent_id":1108747011,
     "wof:placetype":"locality",

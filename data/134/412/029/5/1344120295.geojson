@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.62417,41.63361,129.66417,41.67361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pongam-dong",
         "Makkok",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344120295,
-    "wof:lastmodified":1537655372,
+    "wof:lastmodified":1566582182,
     "wof:name":"Mak-kol",
     "wof:parent_id":1108747001,
     "wof:placetype":"locality",

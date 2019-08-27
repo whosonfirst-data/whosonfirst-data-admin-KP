@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.71778,40.28417,124.75778,40.32417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud558\ubd81\ub9ac",
         "Habung-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326610601,
-    "wof:lastmodified":1537655737,
+    "wof:lastmodified":1566581803,
     "wof:name":"Habung-ni",
     "wof:parent_id":1108747105,
     "wof:placetype":"locality",

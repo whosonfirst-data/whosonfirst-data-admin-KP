@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.73,38.89667,125.77,38.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "Yugap\u2019o"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226221899,
-    "wof:lastmodified":1537654154,
+    "wof:lastmodified":1566585417,
     "wof:name":"Yugap'o",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

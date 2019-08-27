@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.31917,39.46917,127.35917,39.50917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209722017,
-    "wof:lastmodified":1536385947,
+    "wof:lastmodified":1566583743,
     "wof:name":"Tongse-ri",
     "wof:parent_id":1108747857,
     "wof:placetype":"locality",

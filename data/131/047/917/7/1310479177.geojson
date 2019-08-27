@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.60303,39.5755,124.64303,39.6155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc6a9\uc0ac\ud3ec"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310479177,
-    "wof:lastmodified":1537654166,
+    "wof:lastmodified":1566584124,
     "wof:name":"Yongsap'o",
     "wof:parent_id":1108747725,
     "wof:placetype":"locality",

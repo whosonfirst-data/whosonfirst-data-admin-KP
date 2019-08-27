@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.34222,38.35833,125.38222,38.39833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub355\ucc9c\ub9ac"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226742035,
-    "wof:lastmodified":1537654267,
+    "wof:lastmodified":1566585287,
     "wof:name":"Tokch'ol-li",
     "wof:parent_id":1108747123,
     "wof:placetype":"locality",

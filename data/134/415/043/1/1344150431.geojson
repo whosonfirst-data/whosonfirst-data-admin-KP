@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.10667,38.32194,126.14667,38.36194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u0646\u0633\u0627\u0646"
     ],
@@ -38,8 +42,7 @@
         "Mun\u2019gu-ri",
         "Rinzan",
         "\uc778\uc0b0",
-        "Insan-up",
-        "Insan"
+        "Insan-up"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1344150431,
-    "wof:lastmodified":1564113923,
+    "wof:lastmodified":1566582176,
     "wof:name":"Insan",
     "wof:parent_id":1108747093,
     "wof:placetype":"locality",

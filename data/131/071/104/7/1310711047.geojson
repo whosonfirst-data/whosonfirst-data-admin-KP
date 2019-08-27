@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.41222,40.19389,126.45222,40.23389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sang-dong",
         "Tongsin-\u016dp",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310711047,
-    "wof:lastmodified":1537655185,
+    "wof:lastmodified":1566584099,
     "wof:name":"Tongsin",
     "wof:parent_id":1108747201,
     "wof:placetype":"locality",

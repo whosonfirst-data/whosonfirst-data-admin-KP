@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.62528,37.92694,125.66528,37.96694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud55c\uc815\ub3d9",
         "Hanj\u014fng-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276680453,
-    "wof:lastmodified":1537654738,
+    "wof:lastmodified":1566583186,
     "wof:name":"Hanjong-dong",
     "wof:parent_id":1108747817,
     "wof:placetype":"locality",

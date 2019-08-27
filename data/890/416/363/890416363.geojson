@@ -11,11 +11,15 @@
     "geom:longitude":125.97778,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":39841,
+    "gn:population":39841,
     "iso:country":"KP",
+    "lbl:bbox":"125.95778,38.97139,125.99778,39.01139",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Sh\u014dko-ri"
     ],
     "qs:name":"S\u016dngho 1-tong",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1868998,
         "gp:id":1093966,
-        "qs:id":137229
+        "qs_pg:id":137229
     },
     "wof:country":"KP",
     "wof:created":1469051130,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890416363,
-    "wof:lastmodified":1505343431,
+    "wof:lastmodified":1566584582,
     "wof:name":"S\u016dngho 1-tong",
     "wof:parent_id":1108747115,
     "wof:placetype":"locality",

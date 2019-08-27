@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.97194,40.53472,129.01194,40.57472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uad11\ucc9c\ub3d9",
         "Kwangch\u2019\u014fn-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293007037,
-    "wof:lastmodified":1537655670,
+    "wof:lastmodified":1566582545,
     "wof:name":"Kwangch'on-dong",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.13,39.81333,127.17,39.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc6b4\ub355"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259698165,
-    "wof:lastmodified":1537654228,
+    "wof:lastmodified":1566585162,
     "wof:name":"Undok",
     "wof:parent_id":1108747795,
     "wof:placetype":"locality",

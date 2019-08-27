@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.93944,38.04778,125.97944,38.08778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daij\u014d",
         "Taes\u014fng"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293776223,
-    "wof:lastmodified":1537654291,
+    "wof:lastmodified":1566582650,
     "wof:name":"Taesong",
     "wof:parent_id":1108747729,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.22611,42.28222,129.26611,42.32222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u014f-gol",
         "Saegol-li"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344123411,
-    "wof:lastmodified":1537655248,
+    "wof:lastmodified":1566582180,
     "wof:name":"Saegol-li",
     "wof:parent_id":1108747013,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.43,39.88,125.47,39.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ud765\uc0b0\ub9ac"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343348875,
-    "wof:lastmodified":1537654717,
+    "wof:lastmodified":1566582367,
     "wof:name":"Hungsal-li",
     "wof:parent_id":1108747183,
     "wof:placetype":"locality",

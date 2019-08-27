@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.075,40.50389,125.115,40.54389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pongch\u2019\u014fn-dong",
         "\ubd09\ucc9c\ub9ac",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326510643,
-    "wof:lastmodified":1537655316,
+    "wof:lastmodified":1566581763,
     "wof:name":"Pongch'ol-li",
     "wof:parent_id":1108747721,
     "wof:placetype":"locality",

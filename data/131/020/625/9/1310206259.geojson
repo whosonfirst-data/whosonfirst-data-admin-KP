@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.49861,39.61889,127.53861,39.65889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u016bka-ri",
         "\uc911\ud558\ub9ac",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310206259,
-    "wof:lastmodified":1537654769,
+    "wof:lastmodified":1566584202,
     "wof:name":"Chungha-ri",
     "wof:parent_id":1108747795,
     "wof:placetype":"locality",

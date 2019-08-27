@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.25806,38.17417,126.29806,38.21417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225866691,
-    "wof:lastmodified":1536982818,
+    "wof:lastmodified":1566585381,
     "wof:name":"Paemmol",
     "wof:parent_id":1108747061,
     "wof:placetype":"locality",

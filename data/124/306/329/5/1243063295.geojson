@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.92389,38.79111,127.96389,38.83111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u2019anmoktong-ni",
         "\ud310\ub9c9\ub3d9\ub9ac",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243063295,
-    "wof:lastmodified":1537654887,
+    "wof:lastmodified":1566584635,
     "wof:name":"P'anmaktong-ni",
     "wof:parent_id":1108747187,
     "wof:placetype":"locality",

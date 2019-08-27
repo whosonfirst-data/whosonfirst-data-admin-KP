@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.64694,39.10417,125.68694,39.14417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub3d9\ud234"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259753053,
-    "wof:lastmodified":1537655662,
+    "wof:lastmodified":1566585199,
     "wof:name":"Tongt'ul",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

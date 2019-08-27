@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.71917,40.275,124.75917,40.315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc870\uc0b0\ub9ac",
         "Chosal-li"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293078579,
-    "wof:lastmodified":1537655737,
+    "wof:lastmodified":1566582531,
     "wof:name":"Chosal-li",
     "wof:parent_id":1108747105,
     "wof:placetype":"locality",

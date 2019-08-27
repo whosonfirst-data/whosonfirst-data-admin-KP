@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.10666,42.05273,129.14666,42.09273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "J\u014ds\u014d-d\u014d",
         "Sangch\u2019ang-dong",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360261081,
-    "wof:lastmodified":1537655283,
+    "wof:lastmodified":1566584439,
     "wof:name":"Sangch'ang-ni",
     "wof:parent_id":1108747013,
     "wof:placetype":"locality",

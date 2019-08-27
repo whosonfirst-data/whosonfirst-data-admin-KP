@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"130.31328,42.28591,130.35328,42.32591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Namwan-dong",
         "\ub0a8\uad00\ub3d9",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193244081,
-    "wof:lastmodified":1537655353,
+    "wof:lastmodified":1566583787,
     "wof:name":"Namgwan-dong",
     "wof:parent_id":1108747091,
     "wof:placetype":"locality",

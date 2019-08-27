@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.22262,40.16099,128.26262,40.20099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moro-ch\u2019on",
         "\ubaa8\ub85c\ucd0c"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327237867,
-    "wof:lastmodified":1537655944,
+    "wof:lastmodified":1566581871,
     "wof:name":"Moro-ch'on",
     "wof:parent_id":1108747941,
     "wof:placetype":"locality",

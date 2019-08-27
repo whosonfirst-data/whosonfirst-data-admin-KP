@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.88028,40.44361,124.92028,40.48361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub178\ud1a0\ud0c4",
         "Not\u2019ot\u2019an"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242758343,
-    "wof:lastmodified":1537655342,
+    "wof:lastmodified":1566584673,
     "wof:name":"Not'ot'an",
     "wof:parent_id":1108747105,
     "wof:placetype":"locality",

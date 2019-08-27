@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.72083,41.69,129.76083,41.73",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Suinan-d\u014d",
         "\uc218\ub0a8\ub3d9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226518291,
-    "wof:lastmodified":1537655220,
+    "wof:lastmodified":1566585335,
     "wof:name":"Sunam-dong",
     "wof:parent_id":1108747001,
     "wof:placetype":"locality",

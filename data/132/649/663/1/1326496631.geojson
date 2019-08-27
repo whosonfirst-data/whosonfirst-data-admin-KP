@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.73389,41.25556,129.77389,41.29556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koraegumi",
         "\uacbd\uad6c\ubbf8",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326496631,
-    "wof:lastmodified":1537655397,
+    "wof:lastmodified":1566581935,
     "wof:name":"Kyonggumi",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.23,40.98,129.27,41.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud558\uc1a1\ud3c9",
         "Hasongp\u2019y\u014fng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326506195,
-    "wof:lastmodified":1537655440,
+    "wof:lastmodified":1566581812,
     "wof:name":"Hasongp'yong",
     "wof:parent_id":1108746955,
     "wof:placetype":"locality",

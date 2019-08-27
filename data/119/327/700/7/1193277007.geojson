@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.48556,40.56056,128.52556,40.60056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud5c8\ubaa9\ucd0c",
         "H\u014fmok-ch\u2019on"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193277007,
-    "wof:lastmodified":1537655620,
+    "wof:lastmodified":1566583855,
     "wof:name":"Homok-ch'on",
     "wof:parent_id":1108747193,
     "wof:placetype":"locality",

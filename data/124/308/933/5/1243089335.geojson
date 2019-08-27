@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.53556,38.00028,125.57556,38.04028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243089335,
-    "wof:lastmodified":1536822443,
+    "wof:lastmodified":1566584630,
     "wof:name":"Tanghu-dong",
     "wof:parent_id":1108747921,
     "wof:placetype":"locality",

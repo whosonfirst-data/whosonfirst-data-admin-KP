@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.67593,39.03374,125.71593,39.07374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ubd88\ub2f9\uace8"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1192988371,
-    "wof:lastmodified":1537655665,
+    "wof:lastmodified":1566583844,
     "wof:name":"Pultanggol",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

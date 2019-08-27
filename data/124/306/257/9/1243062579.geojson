@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.23278,38.33528,125.27278,38.37528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc11c\uc7ac"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243062579,
-    "wof:lastmodified":1537654359,
+    "wof:lastmodified":1566584632,
     "wof:name":"Sojae",
     "wof:parent_id":1108747109,
     "wof:placetype":"locality",

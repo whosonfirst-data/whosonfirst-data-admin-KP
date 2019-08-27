@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.57806,40.68139,125.61806,40.72139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud654\ud3c9\ub9ac",
         "Hwap\u2019y\u014fng-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343368171,
-    "wof:lastmodified":1537655425,
+    "wof:lastmodified":1566582073,
     "wof:name":"Hwap'yong-ni",
     "wof:parent_id":1108747225,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.52778,39.84167,126.56778,39.88167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub9c8\ub0a8\uace8",
         "Manam-gol"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243144893,
-    "wof:lastmodified":1537655096,
+    "wof:lastmodified":1566584778,
     "wof:name":"Manam-gol",
     "wof:parent_id":1108747025,
     "wof:placetype":"locality",

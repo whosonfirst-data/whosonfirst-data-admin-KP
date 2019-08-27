@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.33834,39.25019,127.37834,39.29019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Munp\u2019y\u014fng-nodongjagu",
         "Munp\u2019y\u014fng-dong",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193262441,
-    "wof:lastmodified":1537654563,
+    "wof:lastmodified":1566583875,
     "wof:name":"Munp'yong-dong",
     "wof:parent_id":1108747009,
     "wof:placetype":"locality",

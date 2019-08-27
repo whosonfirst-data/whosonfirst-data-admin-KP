@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.82139,40.58417,126.86139,40.62417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ucd08\ub2f9\ucc38",
         "Ch\u2019odangch\u2019am"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343271091,
-    "wof:lastmodified":1537655795,
+    "wof:lastmodified":1566582434,
     "wof:name":"Ch'odangch'am",
     "wof:parent_id":1108747103,
     "wof:placetype":"locality",

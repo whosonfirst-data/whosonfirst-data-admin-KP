@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.24028,39.43111,127.28028,39.47111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326737291,
-    "wof:lastmodified":1536688455,
+    "wof:lastmodified":1566581759,
     "wof:name":"Chungsogyol-li",
     "wof:parent_id":1108747857,
     "wof:placetype":"locality",

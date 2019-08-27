@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.39,38.88306,126.43,38.92306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc218\ub9ac\ubc30\ub798"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293021141,
-    "wof:lastmodified":1537654976,
+    "wof:lastmodified":1566582813,
     "wof:name":"Suribaerae",
     "wof:parent_id":1108748111,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.03278,39.88944,127.07278,39.92944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hwangch\u2019\u014flp\u2019o",
         "\ud669\ucca0\uac1c",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343443309,
-    "wof:lastmodified":1537654711,
+    "wof:lastmodified":1566582490,
     "wof:name":"Hwangch'olgae",
     "wof:parent_id":1108748047,
     "wof:placetype":"locality",

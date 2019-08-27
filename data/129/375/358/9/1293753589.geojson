@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.37083,39.41111,126.41083,39.45111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc7a5\uc131\uace8"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293753589,
-    "wof:lastmodified":1537655884,
+    "wof:lastmodified":1566582968,
     "wof:name":"Changsong-gol",
     "wof:parent_id":1108747149,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.06806,38.06722,125.10806,38.10722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "Has\u014fn-dong"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343979865,
-    "wof:lastmodified":1537654732,
+    "wof:lastmodified":1566582128,
     "wof:name":"Hason-dong",
     "wof:parent_id":1108747967,
     "wof:placetype":"locality",

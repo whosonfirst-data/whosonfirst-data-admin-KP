@@ -11,10 +11,14 @@
     "geom:longitude":125.645,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":152425,
+    "gn:population":152425,
     "iso:country":"KP",
+    "lbl:bbox":"125.625,38.73417,125.665,38.77417",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ace_x_preferred":[
         "Songrim"
     ],
@@ -87,7 +91,7 @@
     "name:tur_x_preferred":[
         "Songnim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kenjiho"
     ],
     "name:urd_x_preferred":[
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":1869446,
         "gp:id":1093960,
-        "qs:id":137231,
+        "qs_pg:id":137231,
         "wd:id":"Q505930",
         "wk:page":"Songrim"
     },
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":890452707,
-    "wof:lastmodified":1563588769,
+    "wof:lastmodified":1566584580,
     "wof:name":"Songnim",
     "wof:parent_id":1108747765,
     "wof:placetype":"locality",

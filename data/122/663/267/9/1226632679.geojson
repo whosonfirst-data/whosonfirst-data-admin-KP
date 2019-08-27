@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.79683,38.89949,125.83683,38.93949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc0c1\ub2f9\uc815"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226632679,
-    "wof:lastmodified":1537654423,
+    "wof:lastmodified":1566585498,
     "wof:name":"Sangdangjong",
     "wof:parent_id":1108747799,
     "wof:placetype":"locality",

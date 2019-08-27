@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.45861,38.18722,126.49861,38.22722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub099\ub9d0",
         "Nangmal"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343647487,
-    "wof:lastmodified":1537654968,
+    "wof:lastmodified":1566582140,
     "wof:name":"Nangmal",
     "wof:parent_id":1108747851,
     "wof:placetype":"locality",

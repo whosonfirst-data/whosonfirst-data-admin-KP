@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.02472,37.95778,126.06472,37.99778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Twi-mol",
         "Twimal",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310498579,
-    "wof:lastmodified":1537654234,
+    "wof:lastmodified":1566584105,
     "wof:name":"Twinmal",
     "wof:parent_id":1108748107,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.23278,38.07389,125.27278,38.11389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nohwap\u2019o",
         "\ub178\ud654\uac1c",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343783821,
-    "wof:lastmodified":1537654538,
+    "wof:lastmodified":1566582281,
     "wof:name":"Nohwagae",
     "wof:parent_id":1108747185,
     "wof:placetype":"locality",

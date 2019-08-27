@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.02472,39.99556,125.06472,40.03556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc1a1\uc218\ub3d9",
         "Songsu-dong"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1192995825,
-    "wof:lastmodified":1537655523,
+    "wof:lastmodified":1566583851,
     "wof:name":"Songsu-dong",
     "wof:parent_id":1108746867,
     "wof:placetype":"locality",

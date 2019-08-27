@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.62944,38.67139,125.66944,38.71139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc6b0\ub454\uace8"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310399097,
-    "wof:lastmodified":1537654233,
+    "wof:lastmodified":1566584187,
     "wof:name":"Udun-gol",
     "wof:parent_id":1108747765,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.68812,
     "lbl:longitude":126.50015,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Jagang",
     "meso:name_loc":"\uc790\uac15\ub3c4",
     "mps:latitude":40.688371,
@@ -175,7 +176,7 @@
         "Chagang"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0b95\u0b99\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0b95\u0b99\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c17\u0c3e\u0c02\u0c17\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -188,13 +189,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0427\u0430\u0433\u0430\u043d"
-    ],
-    "name:und_x_variant":[
-        "\uc790\uac15\ub3c4",
-        "Jagang"
-    ],
-    "name:unk_x_variant":[
-        "\uc790\uac15\ub3c4"
     ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u0646\u06af\u0627\u0646\u06af \u0635\u0648\u0628\u06c1"
@@ -280,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-10-01",
+    "src:population_date":"2008-10-01",
     "statoids:area_km":"16,076",
     "statoids:area_mi":"6,207",
     "statoids:as_of_date":"2008-10-01",
@@ -306,7 +300,7 @@
         "gp:id":2345950,
         "hasc:id":"KP.CH",
         "iso:id":"KP-04",
-        "qs:id":1311260,
+        "qs_pg:id":1311260,
         "wd:id":"Q272406",
         "wk:page":"Chagang Province"
     },
@@ -326,11 +320,10 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725187,
+    "wof:lastmodified":1566582520,
     "wof:name":"Chagang-do",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1299830,
     "wof:population_rank":12,

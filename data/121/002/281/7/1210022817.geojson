@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.27806,39.49083,127.31806,39.53083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc720\uc815\uc0b0",
         "Yuj\u014fngsan"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1210022817,
-    "wof:lastmodified":1537655074,
+    "wof:lastmodified":1566583767,
     "wof:name":"Yujongsan",
     "wof:parent_id":1108747857,
     "wof:placetype":"locality",

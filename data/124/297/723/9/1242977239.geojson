@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.14011,40.03593,128.18011,40.07593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chungpoju-ri",
         "Chungboju-ri",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242977239,
-    "wof:lastmodified":1537655464,
+    "wof:lastmodified":1566584902,
     "wof:name":"Chungboju-ri",
     "wof:parent_id":1108748003,
     "wof:placetype":"locality",

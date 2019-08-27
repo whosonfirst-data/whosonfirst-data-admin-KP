@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.178,40.67785,126.218,40.71785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chisan-ni",
         "Chisan-dong",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259893043,
-    "wof:lastmodified":1537655483,
+    "wof:lastmodified":1566585182,
     "wof:name":"Chisal-li",
     "wof:parent_id":1108747227,
     "wof:placetype":"locality",

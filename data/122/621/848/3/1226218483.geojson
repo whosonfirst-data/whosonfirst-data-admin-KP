@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"130.04722,42.05639,130.08722,42.09639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud314\uc9c4",
         "P\u2019alchin"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226218483,
-    "wof:lastmodified":1537655519,
+    "wof:lastmodified":1566585265,
     "wof:name":"P'alchin",
     "wof:parent_id":1108746863,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.34056,38.40778,125.38056,38.44778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc804\ub3d9"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226638223,
-    "wof:lastmodified":1537654801,
+    "wof:lastmodified":1566585502,
     "wof:name":"Chon-dong",
     "wof:parent_id":1108746843,
     "wof:placetype":"locality",

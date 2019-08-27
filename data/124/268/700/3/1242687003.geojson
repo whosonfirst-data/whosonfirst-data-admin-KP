@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.26821,40.77795,126.30821,40.81795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gyokoku-d\u014d",
         "\u014egok-tong",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242687003,
-    "wof:lastmodified":1537655339,
+    "wof:lastmodified":1566584685,
     "wof:name":"Ogong-ni",
     "wof:parent_id":1108747227,
     "wof:placetype":"locality",

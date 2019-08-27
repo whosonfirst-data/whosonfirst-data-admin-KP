@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.26944,39.76861,125.30944,39.80861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360262659,
-    "wof:lastmodified":1536689653,
+    "wof:lastmodified":1566584440,
     "wof:name":"Chongp'o-dong",
     "wof:parent_id":1108747793,
     "wof:placetype":"locality",

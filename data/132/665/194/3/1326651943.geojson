@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.67778,37.98694,125.71778,38.02694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ud1a4\uac1c\ud3ec"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326651943,
-    "wof:lastmodified":1537654259,
+    "wof:lastmodified":1566582009,
     "wof:name":"Tongaep'o",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

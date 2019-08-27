@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.81722,37.90528,125.85722,37.94528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tongji-dong",
         "Tongji-ri",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310397783,
-    "wof:lastmodified":1537654251,
+    "wof:lastmodified":1566584189,
     "wof:name":"Tongjimi",
     "wof:parent_id":1108747729,
     "wof:placetype":"locality",

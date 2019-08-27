@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.95333,40.04361,127.99333,40.08361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub0a8\uc1a1\ub9ac",
         "Namsong-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277075729,
-    "wof:lastmodified":1537655817,
+    "wof:lastmodified":1566583015,
     "wof:name":"Namsong-ni",
     "wof:parent_id":1108746889,
     "wof:placetype":"locality",

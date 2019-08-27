@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.83,40.40694,128.87,40.44694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Min\u2019ga-kol",
         "\ubbfc\uac00\uace8",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259384037,
-    "wof:lastmodified":1537655584,
+    "wof:lastmodified":1566584971,
     "wof:name":"Min'ga-gol",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",

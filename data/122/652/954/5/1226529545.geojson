@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.87722,40.04528,124.91722,40.08528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Songnim-dong",
         "\uc1a1\ub9bc\ub9ac",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226529545,
-    "wof:lastmodified":1537655232,
+    "wof:lastmodified":1566585480,
     "wof:name":"Songnim-ni",
     "wof:parent_id":1108746867,
     "wof:placetype":"locality",

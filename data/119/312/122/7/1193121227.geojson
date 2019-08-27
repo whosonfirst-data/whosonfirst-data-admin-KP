@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.17696,39.1906,127.21696,39.2306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Majang-dong"
     ],
@@ -39,9 +43,7 @@
     ],
     "name:und_x_variant":[
         "Majan-dong",
-        "Majang-gol",
-        "Majang-dong",
-        "\ub9c8\uc7a5\ub3d9"
+        "Majang-gol"
     ],
     "name:vie_x_preferred":[
         "Majang-dong"
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":1193121227,
-    "wof:lastmodified":1564115733,
+    "wof:lastmodified":1566583803,
     "wof:name":"Majang-dong",
     "wof:parent_id":1108747009,
     "wof:placetype":"locality",

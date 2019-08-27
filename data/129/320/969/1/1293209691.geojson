@@ -23,13 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.67639,40.63472,126.71639,40.67472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc6a9\ubc14\uc6b0"
     ],
     "name:und_x_variant":[
-        "\uc6a9\ubc14\uc6b0",
         "Yongbau"
     ],
     "src:geom":"geonames",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293209691,
-    "wof:lastmodified":1537655792,
+    "wof:lastmodified":1566582856,
     "wof:name":"Yongbau",
     "wof:parent_id":1108748019,
     "wof:placetype":"locality",

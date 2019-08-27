@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.40667,39.59083,127.44667,39.63083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ubb38\ubd09\ub9ac",
         "Munbong-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243074083,
-    "wof:lastmodified":1537654567,
+    "wof:lastmodified":1566584590,
     "wof:name":"Munbong-ni",
     "wof:parent_id":1108747795,
     "wof:placetype":"locality",

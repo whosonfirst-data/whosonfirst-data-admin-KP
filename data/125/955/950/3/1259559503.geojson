@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"130.11194,42.08611,130.15194,42.12611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc601\uc9c4\ub3d9",
         "Y\u014fngjin-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259559503,
-    "wof:lastmodified":1537655148,
+    "wof:lastmodified":1566585019,
     "wof:name":"Yongjin-dong",
     "wof:parent_id":1108746863,
     "wof:placetype":"locality",

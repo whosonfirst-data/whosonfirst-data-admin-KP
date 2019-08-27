@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.54861,38.01667,125.58861,38.05667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Namch\u2019ang-dong",
         "Namch\u2019ang-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292927705,
-    "wof:lastmodified":1537654550,
+    "wof:lastmodified":1566582625,
     "wof:name":"Namch'ang-ni",
     "wof:parent_id":1108747921,
     "wof:placetype":"locality",

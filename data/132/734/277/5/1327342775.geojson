@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.58793,40.54077,126.62793,40.58077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "Ch\u2019\u014fnsal-li"
     ],
@@ -33,9 +37,7 @@
     ],
     "name:und_x_variant":[
         "Ch\u2019\u014fnsan-dong",
-        "Ch\u2019\u014fnsan-ni",
-        "\ucc9c\uc0b0\ub9ac",
-        "Ch\u2019\u014fnsal-li"
+        "Ch\u2019\u014fnsan-ni"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1327342775,
-    "wof:lastmodified":1537655470,
+    "wof:lastmodified":1566581895,
     "wof:name":"Ch'onsal-li",
     "wof:parent_id":1108747103,
     "wof:placetype":"locality",

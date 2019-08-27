@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.58111,38.71194,127.62111,38.75194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud558\uc9c4\ud3c9\ub9ac",
         "Hajinp\u2019y\u014fng-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276865917,
-    "wof:lastmodified":1537655850,
+    "wof:lastmodified":1566583026,
     "wof:name":"Hajinp'yong-ni",
     "wof:parent_id":1108746887,
     "wof:placetype":"locality",

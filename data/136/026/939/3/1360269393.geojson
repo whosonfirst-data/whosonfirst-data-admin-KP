@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.51639,38.96167,127.55639,39.00167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc218\ub0a8\ub9ac",
         "Sunam-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360269393,
-    "wof:lastmodified":1537654310,
+    "wof:lastmodified":1566584434,
     "wof:name":"Sunam-ni",
     "wof:parent_id":1108746845,
     "wof:placetype":"locality",

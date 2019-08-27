@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.4275,39.26028,125.4675,39.30028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hasam",
         "Noes\u014fk-tong"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242750671,
-    "wof:lastmodified":1537654539,
+    "wof:lastmodified":1566584678,
     "wof:name":"Noesok-tong",
     "wof:parent_id":1108747925,
     "wof:placetype":"locality",

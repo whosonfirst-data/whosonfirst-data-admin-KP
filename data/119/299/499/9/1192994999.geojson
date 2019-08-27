@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.11838,38.96032,126.15838,39.00032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub18b\ucca8"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1192994999,
-    "wof:lastmodified":1537655099,
+    "wof:lastmodified":1566583845,
     "wof:name":"Notch'om",
     "wof:parent_id":1108747811,
     "wof:placetype":"locality",

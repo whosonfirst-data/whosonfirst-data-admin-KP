@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.6606,38.40416,125.7006,38.44416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "T\u2019aep\u2019y\u014fngdong-ma\u016dl"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1292992985,
-    "wof:lastmodified":1537655049,
+    "wof:lastmodified":1566582849,
     "wof:name":"T'aep'yongdong-maul",
     "wof:parent_id":1108746907,
     "wof:placetype":"locality",

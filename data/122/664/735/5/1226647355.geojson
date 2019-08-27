@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.22131,40.30017,128.26131,40.34017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u014f\u016dm-dong",
         "\uc11c\uc74c\ub3d9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226647355,
-    "wof:lastmodified":1537655611,
+    "wof:lastmodified":1566585494,
     "wof:name":"Soum-dong",
     "wof:parent_id":1108747193,
     "wof:placetype":"locality",

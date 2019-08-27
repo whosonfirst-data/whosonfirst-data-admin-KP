@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13208639.450046,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.872011,37.664818,126.872011,37.664818",
     "geom:latitude":37.664818,
     "geom:longitude":126.872011,
     "gn:latitude":38.005,
     "gn:longitude":126.74639,
     "iso:country":"KP",
+    "lbl:bbox":"126.867011,37.659818,126.877011,37.669818",
     "lbl:latitude":37.664818,
     "lbl:longitude":126.872011,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.664073,
     "mps:longitude":126.871132,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "\uc2e0\uc6d0\ub3d9",
         "\uc6d0\ub2f9",
         "\uc6d0\ub2f9\ub3d9"
-    ],
-    "name:unk_x_variant":[
-        "\uc6d0\uc2e0\ub3d9"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -72,18 +71,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746463,
-        85673191
+        1108746463
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1890745,
         "gp:id":28806895,
-        "qs:id":11408
+        "qs_pg:id":11408
     },
     "wof:country":"KP",
     "wof:geomhash":"bc6a418853e81e8170f5d58364201718",
@@ -101,7 +100,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938796,
+    "wof:lastmodified":1566582510,
     "wof:name":"\uc6d0\uc2e0\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

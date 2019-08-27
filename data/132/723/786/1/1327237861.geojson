@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.97556,39.40361,127.01556,39.44361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ucc28\ud0c4"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327237861,
-    "wof:lastmodified":1537655901,
+    "wof:lastmodified":1566581871,
     "wof:name":"Ch'at'an",
     "wof:parent_id":1108748031,
     "wof:placetype":"locality",

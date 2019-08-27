@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.28556,38.10028,126.32556,38.14028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc815\uc2dc\ub791"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310397821,
-    "wof:lastmodified":1537654961,
+    "wof:lastmodified":1566584189,
     "wof:name":"Chongsirang",
     "wof:parent_id":1108747061,
     "wof:placetype":"locality",

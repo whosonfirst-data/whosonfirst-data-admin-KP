@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.10949,39.09675,126.14949,39.13675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u5b5d\u5b50\u6d1e"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1343447509,
-    "wof:lastmodified":1564114282,
+    "wof:lastmodified":1566582497,
     "wof:name":"Hyoja-dong",
     "wof:parent_id":1108747811,
     "wof:placetype":"locality",

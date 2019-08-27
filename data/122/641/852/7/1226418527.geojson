@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.35722,41.13028,129.39722,41.17028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u2019\u014fngnyong-dong",
         "\uccad\ub8e1\ub9ac",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226418527,
-    "wof:lastmodified":1537655475,
+    "wof:lastmodified":1566585467,
     "wof:name":"Ch'ongnyong-ni",
     "wof:parent_id":1108747019,
     "wof:placetype":"locality",

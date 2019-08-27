@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.56194,40.93611,126.60194,40.97611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u014fkko-dong",
         "\uc11d\uace0\ub3d9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326939477,
-    "wof:lastmodified":1537655245,
+    "wof:lastmodified":1566581784,
     "wof:name":"Sokko-dong",
     "wof:parent_id":1108747813,
     "wof:placetype":"locality",

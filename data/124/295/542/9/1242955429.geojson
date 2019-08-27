@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.84917,40.05361,126.88917,40.09361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc778\ucc98\ub9ac",
         "Inch\u2019\u014f-ri"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242955429,
-    "wof:lastmodified":1537655726,
+    "wof:lastmodified":1566584704,
     "wof:name":"Inch'o-ri",
     "wof:parent_id":1108748047,
     "wof:placetype":"locality",

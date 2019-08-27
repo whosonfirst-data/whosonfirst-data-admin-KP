@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":40.248916,
     "lbl:longitude":126.699424,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":40.248916,
     "mps:longitude":126.699424,
     "mz:hierarchy_label":1,
@@ -969,9 +971,6 @@
         "Choson",
         "Choson MIK",
         "DPRK",
-        "Pohjois-Korea"
-    ],
-    "name:unk_x_variant":[
         "Korean People\u2019s Republic"
     ],
     "name:urd_x_preferred":[
@@ -1133,7 +1132,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"850",
     "statoids:ds":"",
@@ -1178,7 +1177,7 @@
         "mzb:id":"north-korea",
         "ne:adm0_a3":"PRK",
         "nyt:id":"N91776348014820495931",
-        "qs:id":220223,
+        "qs_pg:id":220223,
         "wd:id":"Q423",
         "wk:page":"North Korea",
         "wmo:id":"KR"
@@ -1199,7 +1198,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725188,
+    "wof:lastmodified":1566582524,
     "wof:name":"North Korea",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

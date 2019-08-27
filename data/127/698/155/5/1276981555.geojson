@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.79889,39.92139,127.83889,39.96139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc8fc\ub9c9\uace8",
         "Chumak-kol"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276981555,
-    "wof:lastmodified":1537655690,
+    "wof:lastmodified":1566583359,
     "wof:name":"Chumak-kol",
     "wof:parent_id":1108747955,
     "wof:placetype":"locality",

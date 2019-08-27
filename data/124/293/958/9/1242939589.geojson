@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.58139,41.55083,129.62139,41.59083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Namyang",
         "\ub0a8\uc7a5",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242939589,
-    "wof:lastmodified":1537655352,
+    "wof:lastmodified":1566584724,
     "wof:name":"Namjang",
     "wof:parent_id":1108747001,
     "wof:placetype":"locality",

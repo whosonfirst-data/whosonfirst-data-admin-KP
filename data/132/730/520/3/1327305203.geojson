@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.36389,41.22222,128.40389,41.26222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ud6c4\uc591\ub9ac"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327305203,
-    "wof:lastmodified":1537655514,
+    "wof:lastmodified":1566581701,
     "wof:name":"Huyang-ni",
     "wof:parent_id":1108746953,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.98083,38.67472,128.02083,38.71472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yangji-ma\u016dl",
         "Yangjich\u2019on",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293767711,
-    "wof:lastmodified":1537654195,
+    "wof:lastmodified":1566582685,
     "wof:name":"Yangjimal",
     "wof:parent_id":1108747853,
     "wof:placetype":"locality",

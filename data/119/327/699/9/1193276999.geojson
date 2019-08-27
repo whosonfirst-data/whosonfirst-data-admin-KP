@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.74111,40.50639,128.78111,40.54639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hoemok-tong",
         "\ud68c\ud56d\ub3d9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193276999,
-    "wof:lastmodified":1537655438,
+    "wof:lastmodified":1566583858,
     "wof:name":"Hoehang-dong",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",

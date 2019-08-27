@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.35667,41.18583,129.39667,41.22583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sel-dong",
         "\uc138\uc774\ub3d9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327209887,
-    "wof:lastmodified":1537655572,
+    "wof:lastmodified":1566582066,
     "wof:name":"Sei-dong",
     "wof:parent_id":1108747019,
     "wof:placetype":"locality",

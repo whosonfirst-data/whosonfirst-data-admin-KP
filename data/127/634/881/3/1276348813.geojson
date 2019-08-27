@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.81806,41.30694,126.85806,41.34694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud558\uc2ec\ud3ec",
         "Hasimp\u2019o"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276348813,
-    "wof:lastmodified":1537655441,
+    "wof:lastmodified":1566583130,
     "wof:name":"Hasimp'o",
     "wof:parent_id":1108747767,
     "wof:placetype":"locality",

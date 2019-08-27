@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.41167,40.17139,125.45167,40.21139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yulgok-tong",
         "\ub960\uace1\ub9ac",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260060629,
-    "wof:lastmodified":1537655132,
+    "wof:lastmodified":1566583937,
     "wof:name":"Yulgong-ni",
     "wof:parent_id":1108747195,
     "wof:placetype":"locality",

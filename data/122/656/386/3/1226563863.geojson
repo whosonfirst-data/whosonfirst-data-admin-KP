@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.35833,37.87889,126.39833,37.91889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc9c0\ub8b0\ub3d9"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226563863,
-    "wof:lastmodified":1537654817,
+    "wof:lastmodified":1566585344,
     "wof:name":"Chiroe-dong",
     "wof:parent_id":1108747905,
     "wof:placetype":"locality",

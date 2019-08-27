@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.67222,39.83861,127.71222,39.87861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Seit\u014d-ri",
         "\uc11c\ub3c4\ub9ac",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259490381,
-    "wof:lastmodified":1537654367,
+    "wof:lastmodified":1566585078,
     "wof:name":"Sodo-ri",
     "wof:parent_id":1108747745,
     "wof:placetype":"locality",

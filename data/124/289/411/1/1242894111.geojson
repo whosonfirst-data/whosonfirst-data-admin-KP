@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.42528,38.10361,126.46528,38.14361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uac08\ub9b0\uc5ec\uc6b8",
         "Kalliny\u014ful"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242894111,
-    "wof:lastmodified":1537654965,
+    "wof:lastmodified":1566584654,
     "wof:name":"Kallinyoul",
     "wof:parent_id":1108747851,
     "wof:placetype":"locality",

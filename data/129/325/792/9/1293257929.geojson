@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"130.53694,42.4575,130.57694,42.4975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koup-tong",
         "Koj\u014d-d\u014d",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293257929,
-    "wof:lastmodified":1537655395,
+    "wof:lastmodified":1566582726,
     "wof:name":"Kosong-dong",
     "wof:parent_id":1108747091,
     "wof:placetype":"locality",

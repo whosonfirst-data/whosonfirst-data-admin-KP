@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.33861,38.85972,125.37861,38.89972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ucc3d\uacbd\ub3d9",
         "Ch\u2019anggy\u014fng-dong"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259553345,
-    "wof:lastmodified":1537654845,
+    "wof:lastmodified":1566585021,
     "wof:name":"Ch'anggyong-dong",
     "wof:parent_id":1108747969,
     "wof:placetype":"locality",

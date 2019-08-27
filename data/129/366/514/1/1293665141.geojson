@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.53278,41.59694,129.57278,41.63694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Suryugok",
         "Suryukol",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293665141,
-    "wof:lastmodified":1537655218,
+    "wof:lastmodified":1566582743,
     "wof:name":"Suryu-gol",
     "wof:parent_id":1108747001,
     "wof:placetype":"locality",

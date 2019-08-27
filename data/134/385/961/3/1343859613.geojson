@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.28773,40.32989,128.32773,40.36989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc0c1\uc7a5\ub0b4"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343859613,
-    "wof:lastmodified":1537655613,
+    "wof:lastmodified":1566582259,
     "wof:name":"Sangjangnae",
     "wof:parent_id":1108747193,
     "wof:placetype":"locality",

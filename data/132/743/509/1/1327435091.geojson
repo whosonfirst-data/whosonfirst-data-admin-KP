@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.61667,40.57944,126.65667,40.61944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "N\u014flmaegi-ma\u016dl"
     ],
@@ -36,10 +40,6 @@
         "\ub110\ub9c9\ub9c8\uc744",
         "P\u2019anmak",
         "\ud310\ub9c9"
-    ],
-    "name:und_x_variant":[
-        "\ud310\ub9c9",
-        "P\u2019anmak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1327435091,
-    "wof:lastmodified":1537655792,
+    "wof:lastmodified":1566582027,
     "wof:name":"Nolmaegi-maul",
     "wof:parent_id":1108747103,
     "wof:placetype":"locality",

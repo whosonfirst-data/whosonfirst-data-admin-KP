@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.80899,41.74829,128.84899,41.78829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc720\ud3c9\ub85c\ub3d9\uc790\uad6c"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1293575241,
-    "wof:lastmodified":1537655132,
+    "wof:lastmodified":1566582764,
     "wof:name":"Yup'yong-nodongjagu",
     "wof:parent_id":1108747907,
     "wof:placetype":"locality",

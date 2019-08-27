@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.26607,41.40012,128.30607,41.44012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ud558\uc0b0\uc591\ucc9c\ub9ac"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242845659,
-    "wof:lastmodified":1537655625,
+    "wof:lastmodified":1566584843,
     "wof:name":"Hasanyangch'ol-li",
     "wof:parent_id":1108746903,
     "wof:placetype":"locality",

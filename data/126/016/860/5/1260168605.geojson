@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.42639,40.45889,125.46639,40.49889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uac15\uc120\ub9ac",
         "Kangs\u014fl-li"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260168605,
-    "wof:lastmodified":1537655768,
+    "wof:lastmodified":1566583960,
     "wof:name":"Kangsol-li",
     "wof:parent_id":1108747945,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.7175,39.87444,127.7575,39.91444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud55c\uc7ac\uace8",
         "Hanjae-gol"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226149467,
-    "wof:lastmodified":1537655694,
+    "wof:lastmodified":1566585399,
     "wof:name":"Hanjae-gol",
     "wof:parent_id":1108747955,
     "wof:placetype":"locality",

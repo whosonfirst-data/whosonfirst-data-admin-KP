@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.81944,40.4425,126.85944,40.4825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Namh\u016dng-dong",
         "\ub0a8\ud765\ub9ac",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276882395,
-    "wof:lastmodified":1537655353,
+    "wof:lastmodified":1566583055,
     "wof:name":"Namhung-ni",
     "wof:parent_id":1108747103,
     "wof:placetype":"locality",

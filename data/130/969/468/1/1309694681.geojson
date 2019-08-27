@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.24278,38.775,125.28278,38.815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Porim-ni",
         "\ubcf4\ub9bc\ub85c\ub3d9\uc790\uad6c",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309694681,
-    "wof:lastmodified":1537654474,
+    "wof:lastmodified":1566584540,
     "wof:name":"Porim-nodongjagu",
     "wof:parent_id":1108747027,
     "wof:placetype":"locality",

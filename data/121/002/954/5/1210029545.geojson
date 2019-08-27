@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.06833,40.70778,127.10833,40.74778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ud669\ud3ec\ub9ac"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1210029545,
-    "wof:lastmodified":1537655426,
+    "wof:lastmodified":1566583766,
     "wof:name":"Hwangp'o-ri",
     "wof:parent_id":1108747957,
     "wof:placetype":"locality",

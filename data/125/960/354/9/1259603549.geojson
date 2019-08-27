@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.54694,38.25444,126.58694,38.29444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ud669\uc8fc\ud130"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259603549,
-    "wof:lastmodified":1537655874,
+    "wof:lastmodified":1566585144,
     "wof:name":"Hwangjut'o",
     "wof:parent_id":1108747851,
     "wof:placetype":"locality",

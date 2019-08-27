@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.22639,37.98083,125.26639,38.02083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yore-gol",
         "\uc694\ub3d9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259680971,
-    "wof:lastmodified":1537654191,
+    "wof:lastmodified":1566585106,
     "wof:name":"Yo-dong",
     "wof:parent_id":1108747029,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.58306,37.79056,126.62306,37.83056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chin\u2019gyo",
         "K\u014fmudari",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326522325,
-    "wof:lastmodified":1537654644,
+    "wof:lastmodified":1566581976,
     "wof:name":"Kyeamdari",
     "wof:parent_id":1108747043,
     "wof:placetype":"locality",

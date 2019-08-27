@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.53722,37.78806,126.57722,37.82806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saj\u014fngch\u2019on",
         "Saj\u014fng-mal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293382193,
-    "wof:lastmodified":1537654437,
+    "wof:lastmodified":1566582542,
     "wof:name":"Sajong-mal",
     "wof:parent_id":1108747043,
     "wof:placetype":"locality",

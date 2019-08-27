@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.39472,39.47472,125.43472,39.51472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "R\u014dk\u014dchin",
         "Rogangchin",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360257895,
-    "wof:lastmodified":1537654538,
+    "wof:lastmodified":1566584349,
     "wof:name":"Nogangjin",
     "wof:parent_id":1108747011,
     "wof:placetype":"locality",

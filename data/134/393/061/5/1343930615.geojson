@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.54389,39.43889,125.58389,39.47889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nis\u014f-ri",
         "Is\u014f-ri"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343930615,
-    "wof:lastmodified":1537654686,
+    "wof:lastmodified":1566582352,
     "wof:name":"Iso-ri",
     "wof:parent_id":1108747011,
     "wof:placetype":"locality",

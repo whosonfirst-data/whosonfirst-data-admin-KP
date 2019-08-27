@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.59667,38.46806,127.63667,38.50806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uace0\uc9c1\ub9ac",
         "Kojing-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327251911,
-    "wof:lastmodified":1537654876,
+    "wof:lastmodified":1566581827,
     "wof:name":"Kojing-ni",
     "wof:parent_id":1108746967,
     "wof:placetype":"locality",

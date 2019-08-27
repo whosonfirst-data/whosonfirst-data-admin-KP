@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.9975,40.31889,128.0375,40.35889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc625\ud654\ucd0c",
         "Okhwach\u2019on"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242784275,
-    "wof:lastmodified":1537655337,
+    "wof:lastmodified":1566584861,
     "wof:name":"Okhwach'on",
     "wof:parent_id":1108747193,
     "wof:placetype":"locality",

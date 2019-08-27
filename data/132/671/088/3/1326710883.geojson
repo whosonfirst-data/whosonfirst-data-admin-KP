@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.65889,40.17667,125.69889,40.21667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc0ac\ub300\ub3d9",
         "Sadae-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326710883,
-    "wof:lastmodified":1537655296,
+    "wof:lastmodified":1566581946,
     "wof:name":"Sadae-dong",
     "wof:parent_id":1108748089,
     "wof:placetype":"locality",

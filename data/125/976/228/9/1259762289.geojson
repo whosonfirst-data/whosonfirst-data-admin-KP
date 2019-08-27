@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.85278,40.87944,127.89278,40.91944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u014fch\u2019ang-ni",
         "S\u014fch\u2019ang-nodongjagu"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259762289,
-    "wof:lastmodified":1537655250,
+    "wof:lastmodified":1566585084,
     "wof:name":"Soch'ang-nodongjagu",
     "wof:parent_id":1108747049,
     "wof:placetype":"locality",

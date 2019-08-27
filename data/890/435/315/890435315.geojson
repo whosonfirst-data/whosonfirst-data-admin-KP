@@ -11,8 +11,11 @@
     "geom:longitude":124.39806,
     "gn:country":"KP",
     "gn:fcode":"PPLA",
-    "gn:pop":288112,
+    "gn:population":288112,
     "iso:country":"KP",
+    "lbl:bbox":"124.37806,40.08056,124.41806,40.12056",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -175,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043d\u0438\u0439\u0434\u0436\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wi-ju"
     ],
     "name:urd_x_preferred":[
@@ -306,7 +309,7 @@
     "wof:concordances":{
         "gn:id":2040893,
         "gp:id":1093951,
-        "qs:id":274151,
+        "qs_pg:id":274151,
         "wd:id":"Q156243",
         "wk:page":"Sinuiju"
     },
@@ -323,7 +326,7 @@
         }
     ],
     "wof:id":890435315,
-    "wof:lastmodified":1563588785,
+    "wof:lastmodified":1566584585,
     "wof:name":"Sin\u016diju",
     "wof:parent_id":1108748005,
     "wof:placetype":"locality",

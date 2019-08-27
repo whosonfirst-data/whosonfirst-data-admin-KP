@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.80583,38.21667,125.84583,38.25667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310698681,
-    "wof:lastmodified":1536637082,
+    "wof:lastmodified":1566584309,
     "wof:name":"Haryong-dong",
     "wof:parent_id":1108748009,
     "wof:placetype":"locality",

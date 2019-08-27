@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.65222,38.01083,125.69222,38.05083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343583121,
-    "wof:lastmodified":1537063974,
+    "wof:lastmodified":1566582340,
     "wof:name":"Piryong-dong",
     "wof:parent_id":1108747743,
     "wof:placetype":"locality",

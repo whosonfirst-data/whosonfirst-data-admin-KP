@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.16972,40.64889,129.20972,40.68889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "Kimch\u2019aek"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1343637437,
-    "wof:lastmodified":1537655403,
+    "wof:lastmodified":1566582135,
     "wof:name":"Kimch'aek-si",
     "wof:parent_id":1108746957,
     "wof:placetype":"locality",

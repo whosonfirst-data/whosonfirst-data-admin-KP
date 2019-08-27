@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.2289,41.42032,129.2689,41.46032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u2019aam-dong",
         "\ucc38\uc554\ub3d9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343921429,
-    "wof:lastmodified":1537655574,
+    "wof:lastmodified":1566582302,
     "wof:name":"Ch'aam-dong",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

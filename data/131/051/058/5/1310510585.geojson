@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.5807,40.89282,126.6207,40.93282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "Paeso-ma\u016dl"
     ],
@@ -36,9 +40,7 @@
         "\uc778\uac00\ud574\ucc38"
     ],
     "name:und_x_variant":[
-        "Jinkakaitan",
-        "\uc778\uac00\ud574\ucc38",
-        "In\u2019gahaech\u2019am"
+        "Jinkakaitan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1310510585,
-    "wof:lastmodified":1537655416,
+    "wof:lastmodified":1566584319,
     "wof:name":"In'gahaech'am",
     "wof:parent_id":1108747813,
     "wof:placetype":"locality",

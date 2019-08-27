@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.5758,38.97622,125.6158,39.01622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc77c\ud654\ub3d9"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309785501,
-    "wof:lastmodified":1537654687,
+    "wof:lastmodified":1566584502,
     "wof:name":"Irhwa-dong",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

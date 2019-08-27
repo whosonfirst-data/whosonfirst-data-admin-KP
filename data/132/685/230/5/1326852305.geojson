@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.1775,38.50278,125.2175,38.54278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nanmun-ni",
         "Nanmul-li"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326852305,
-    "wof:lastmodified":1537654540,
+    "wof:lastmodified":1566581938,
     "wof:name":"Nanmul-li",
     "wof:parent_id":1108747219,
     "wof:placetype":"locality",

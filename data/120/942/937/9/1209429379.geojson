@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.28,38.46333,128.32,38.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shahiri",
         "Sahi-ri",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209429379,
-    "wof:lastmodified":1552412051,
+    "wof:lastmodified":1566583692,
     "wof:name":"Sabi-ri",
     "wof:parent_id":1108746975,
     "wof:placetype":"locality",

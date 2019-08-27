@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.80361,40.25917,124.84361,40.29917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc624\ubd09\ub9ac"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310479171,
-    "wof:lastmodified":1537655341,
+    "wof:lastmodified":1566584124,
     "wof:name":"Obong-ni",
     "wof:parent_id":1108747105,
     "wof:placetype":"locality",

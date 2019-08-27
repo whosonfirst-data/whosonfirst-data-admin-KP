@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.15806,38.77361,125.19806,38.81361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub355\uc815\ub9ac",
         "T\u014fkch\u014fng-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343830685,
-    "wof:lastmodified":1537654267,
+    "wof:lastmodified":1566582222,
     "wof:name":"Tokchong-ni",
     "wof:parent_id":1108747027,
     "wof:placetype":"locality",

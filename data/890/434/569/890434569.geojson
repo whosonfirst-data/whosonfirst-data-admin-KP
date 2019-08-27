@@ -11,10 +11,14 @@
     "geom:longitude":127.59833,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":21111,
+    "gn:population":21111,
     "iso:country":"KP",
+    "lbl:bbox":"127.57833,38.69028,127.61833,38.73028",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Hoeyang-gun"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Hoeyang-gun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Junyo"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":1877148,
         "gp:id":1093870,
-        "qs:id":137247,
+        "qs_pg:id":137247,
         "wd:id":"Q490927",
         "wk:page":"Hoeyang County"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890434569,
-    "wof:lastmodified":1563588780,
+    "wof:lastmodified":1566584583,
     "wof:name":"Hoeyang",
     "wof:parent_id":1108746887,
     "wof:placetype":"locality",

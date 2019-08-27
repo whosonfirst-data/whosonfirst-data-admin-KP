@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.05083,37.92194,126.09083,37.96194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Senzan",
         "Chondan",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193131919,
-    "wof:lastmodified":1537654787,
+    "wof:lastmodified":1566583810,
     "wof:name":"Chonsan",
     "wof:parent_id":1108748107,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.3,37.89889,125.34,37.93889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Iryang-dong",
         "\uc77c\uc591\uace8",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243062581,
-    "wof:lastmodified":1537654687,
+    "wof:lastmodified":1566584632,
     "wof:name":"Iryang-gol",
     "wof:parent_id":1108747029,
     "wof:placetype":"locality",

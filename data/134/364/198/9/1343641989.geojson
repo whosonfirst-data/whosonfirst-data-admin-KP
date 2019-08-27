@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.84296,39.68646,124.88296,39.72646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc0ac\uc2e0"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343641989,
-    "wof:lastmodified":1537654402,
+    "wof:lastmodified":1566582141,
     "wof:name":"Sasin-dong",
     "wof:parent_id":1108747147,
     "wof:placetype":"locality",

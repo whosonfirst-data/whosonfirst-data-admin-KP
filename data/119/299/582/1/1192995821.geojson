@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.52167,39.65889,125.56167,39.69889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc911\ub828\ub9ac"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1192995821,
-    "wof:lastmodified":1537654765,
+    "wof:lastmodified":1566583851,
     "wof:name":"Chungnyol-li",
     "wof:parent_id":1108747213,
     "wof:placetype":"locality",

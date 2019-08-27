@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.03194,39.66194,127.07194,39.70194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc9c4\uc7a5\uac1c"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276658583,
-    "wof:lastmodified":1537655911,
+    "wof:lastmodified":1566583352,
     "wof:name":"Chinjanggae",
     "wof:parent_id":1108748103,
     "wof:placetype":"locality",

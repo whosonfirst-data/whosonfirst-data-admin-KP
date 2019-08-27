@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.90576,40.46405,126.94576,40.50405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "P\u2019anmang-ma\u016dl"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310318383,
-    "wof:lastmodified":1537655953,
+    "wof:lastmodified":1566584159,
     "wof:name":"P'anmang-maul",
     "wof:parent_id":1108747103,
     "wof:placetype":"locality",

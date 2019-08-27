@@ -11,14 +11,18 @@
     "geom:longitude":127.24306,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":21490,
+    "gn:population":21490,
     "iso:country":"KP",
+    "lbl:bbox":"127.22306,39.41806,127.26306,39.45806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:rus_x_preferred":[
         "\u041a\u043e\u0432\u043e\u043d-\u0434\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u014dgen"
     ],
     "qs:name":"Kow\u014fn-\u016dp",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1875588,
         "gp:id":1093900,
-        "qs:id":277705
+        "qs_pg:id":277705
     },
     "wof:country":"KP",
     "wof:created":1469052320,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890441375,
-    "wof:lastmodified":1505343582,
+    "wof:lastmodified":1566584580,
     "wof:name":"Kow\u014fn-\u016dp",
     "wof:parent_id":1108746977,
     "wof:placetype":"locality",

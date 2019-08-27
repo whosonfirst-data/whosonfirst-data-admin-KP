@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.32,41.33528,129.36,41.37528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub2e8\ubc14\uc6b0",
         "Tanbau"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327309841,
-    "wof:lastmodified":1537655574,
+    "wof:lastmodified":1566581700,
     "wof:name":"Tanbau",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

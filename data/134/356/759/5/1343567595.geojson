@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.14566,40.22498,128.18566,40.26498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud558\uc778\uc0b0"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343567595,
-    "wof:lastmodified":1537655573,
+    "wof:lastmodified":1566582338,
     "wof:name":"Hainsan",
     "wof:parent_id":1108747941,
     "wof:placetype":"locality",

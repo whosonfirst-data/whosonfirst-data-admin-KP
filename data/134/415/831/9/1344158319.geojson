@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.20917,40.0175,128.24917,40.0575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub0a8\uace0\uc9c0"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344158319,
-    "wof:lastmodified":1537655353,
+    "wof:lastmodified":1566582176,
     "wof:name":"Namgoji",
     "wof:parent_id":1108748003,
     "wof:placetype":"locality",

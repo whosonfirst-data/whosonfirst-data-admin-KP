@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.53722,39.29333,127.57722,39.33333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Katsukoji",
         "Kalgoch\u2019wi-ri",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226049595,
-    "wof:lastmodified":1537654678,
+    "wof:lastmodified":1566585346,
     "wof:name":"Kalgoch'i-ri",
     "wof:parent_id":1108747857,
     "wof:placetype":"locality",

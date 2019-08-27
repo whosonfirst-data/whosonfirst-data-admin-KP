@@ -11,10 +11,14 @@
     "geom:longitude":125.69,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":36671,
+    "gn:population":36671,
     "iso:country":"KP",
+    "lbl:bbox":"125.67,39.17833,125.71,39.21833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Sunan"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Sunan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Junan"
     ],
     "qs:name":"Sunan",
@@ -55,9 +59,11 @@
     "wof:concordances":{
         "gn:id":1869021,
         "gp:id":1093963,
-        "qs:id":137230,
         "qs_pg:id":17236,
         "wk:page":"Sunan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":137230
     },
     "wof:country":"KP",
     "wof:created":1469051130,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890416365,
-    "wof:lastmodified":1564116660,
+    "wof:lastmodified":1566584582,
     "wof:name":"Sunan",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

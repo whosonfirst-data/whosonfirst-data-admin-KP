@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.01139,40.88667,129.05139,40.92667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kobo"
     ],
@@ -44,8 +48,7 @@
         "\u041a\u043e\u0431\u043e"
     ],
     "name:und_x_variant":[
-        "\uace0\ubcf4",
-        "Kobo"
+        "\uace0\ubcf4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1293665149,
-    "wof:lastmodified":1564114514,
+    "wof:lastmodified":1566582743,
     "wof:name":"Kobo",
     "wof:parent_id":1108746957,
     "wof:placetype":"locality",

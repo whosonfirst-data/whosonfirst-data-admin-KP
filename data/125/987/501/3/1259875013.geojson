@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.20917,39.31778,127.24917,39.35778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u014fktari",
         "\uc11d\ub2e4\ub9ac"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259875013,
-    "wof:lastmodified":1537654908,
+    "wof:lastmodified":1566585171,
     "wof:name":"Soktari",
     "wof:parent_id":1108746869,
     "wof:placetype":"locality",

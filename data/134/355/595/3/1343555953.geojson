@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.40667,37.99528,126.44667,38.03528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u014d-d\u014d",
         "Myo-dong",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343555953,
-    "wof:lastmodified":1537654561,
+    "wof:lastmodified":1566582116,
     "wof:name":"Myo-gol",
     "wof:parent_id":1108747805,
     "wof:placetype":"locality",

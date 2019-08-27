@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.27944,41.49917,128.31944,41.53917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Futempo",
         "Poch\u2019\u014fn",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276411417,
-    "wof:lastmodified":1537655319,
+    "wof:lastmodified":1566583277,
     "wof:name":"Poch'on-up",
     "wof:parent_id":1108747927,
     "wof:placetype":"locality",

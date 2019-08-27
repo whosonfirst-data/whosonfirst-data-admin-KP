@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.35444,38.71944,127.39444,38.75944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Samb\u014d-ri",
         "Sampori",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243051955,
-    "wof:lastmodified":1537654435,
+    "wof:lastmodified":1566584832,
     "wof:name":"Sambang-ni",
     "wof:parent_id":1108747119,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.05028,40.72306,129.09028,40.76306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc9c1\uc18c\ub3d9",
         "Chikso-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226020899,
-    "wof:lastmodified":1537655487,
+    "wof:lastmodified":1566585329,
     "wof:name":"Chikso-dong",
     "wof:parent_id":1108746957,
     "wof:placetype":"locality",

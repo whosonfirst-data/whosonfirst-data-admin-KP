@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.91861,38.85417,125.95861,38.89417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hy\u014fpke-ri",
         "\ud611\uacc4\ub9ac",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343844627,
-    "wof:lastmodified":1537654701,
+    "wof:lastmodified":1566582230,
     "wof:name":"Hyopkye-ri",
     "wof:parent_id":1108747115,
     "wof:placetype":"locality",

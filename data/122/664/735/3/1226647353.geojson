@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.86056,40.44306,128.90056,40.48306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud558\uc9c1\uc808\ub9ac",
         "Hajikch\u014fl-li"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226647353,
-    "wof:lastmodified":1537655608,
+    "wof:lastmodified":1566585494,
     "wof:name":"Hajikchol-li",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",

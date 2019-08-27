@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.36389,41.53833,129.40389,41.57833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub4a4\ub180\ud130",
         "Twinolt\u2019\u014f"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242741317,
-    "wof:lastmodified":1537655580,
+    "wof:lastmodified":1566584646,
     "wof:name":"Twinolt'o",
     "wof:parent_id":1108747001,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.2335,40.79235,126.2735,40.83235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ubb38\uba85\ub3d9",
         "Munmy\u014fng-dong",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344260479,
-    "wof:lastmodified":1537655363,
+    "wof:lastmodified":1566582388,
     "wof:name":"Munmyong-maul",
     "wof:parent_id":1108747227,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.10167,39.24167,126.14167,39.28167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yongamni-idong",
         "Yongamni 2-dong"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225914109,
-    "wof:lastmodified":1537654937,
+    "wof:lastmodified":1566585397,
     "wof:name":"Yongamni 2-dong",
     "wof:parent_id":1108747149,
     "wof:placetype":"locality",

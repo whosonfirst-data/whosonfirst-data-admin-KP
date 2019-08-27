@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.42722,38.59472,125.46722,38.63472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc0c1\ucd0c\ub9ac"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226563859,
-    "wof:lastmodified":1537654424,
+    "wof:lastmodified":1566585342,
     "wof:name":"Sangch'ol-li",
     "wof:parent_id":1108747207,
     "wof:placetype":"locality",

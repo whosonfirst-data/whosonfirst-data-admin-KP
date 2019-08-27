@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.68278,38.22111,125.72278,38.26111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yanghy\u014fn-ni",
         "Yanghy\u014fl-li"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259505335,
-    "wof:lastmodified":1537654198,
+    "wof:lastmodified":1566585091,
     "wof:name":"Yanghyol-li",
     "wof:parent_id":1108748009,
     "wof:placetype":"locality",

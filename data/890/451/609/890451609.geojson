@@ -11,10 +11,14 @@
     "geom:longitude":127.87111,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":19025,
+    "gn:population":19025,
     "iso:country":"KP",
+    "lbl:bbox":"127.85111,39.9275,127.89111,39.9675",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Ragwon County"
     ],
@@ -36,7 +40,7 @@
     "name:sco_x_preferred":[
         "Ragwon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samho-nodongjagu"
     ],
     "name:vie_x_preferred":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1871484,
         "gp:id":1093934,
-        "qs:id":137242,
+        "qs_pg:id":137242,
         "wd:id":"Q715750",
         "wk:page":"Ragwon County"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890451609,
-    "wof:lastmodified":1563588779,
+    "wof:lastmodified":1566584583,
     "wof:name":"Samho-rodongjagu",
     "wof:parent_id":1108747955,
     "wof:placetype":"locality",

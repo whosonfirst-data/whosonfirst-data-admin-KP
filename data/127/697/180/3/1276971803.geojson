@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.99028,37.89056,126.03028,37.93056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uace0\ub7c9\ub9ac"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276971803,
-    "wof:lastmodified":1537654640,
+    "wof:lastmodified":1566583321,
     "wof:name":"Koryang-ni",
     "wof:parent_id":1108748107,
     "wof:placetype":"locality",

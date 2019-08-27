@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.77,42.47444,129.81,42.51444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kungsim",
         "Kungsim-ni",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193254383,
-    "wof:lastmodified":1537655386,
+    "wof:lastmodified":1566583820,
     "wof:name":"Kungsim-dong",
     "wof:parent_id":1108746885,
     "wof:placetype":"locality",

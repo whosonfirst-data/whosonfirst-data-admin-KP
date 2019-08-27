@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.59,41.59111,129.63,41.63111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc81c\ucd0c",
         "Chech\u2019on"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209072727,
-    "wof:lastmodified":1537655489,
+    "wof:lastmodified":1566583406,
     "wof:name":"Chech'on",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",

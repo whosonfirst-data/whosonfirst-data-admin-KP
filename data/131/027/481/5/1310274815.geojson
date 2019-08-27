@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.63917,39.39,126.67917,39.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Toj\u014d",
         "Doj\u014d",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310274815,
-    "wof:lastmodified":1537654240,
+    "wof:lastmodified":1566584206,
     "wof:name":"T'osong",
     "wof:parent_id":1108747141,
     "wof:placetype":"locality",

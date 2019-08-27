@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.73139,39.59917,126.77139,39.63917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud310\uad50",
         "P\u2019an\u2019gyo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276234257,
-    "wof:lastmodified":1537655700,
+    "wof:lastmodified":1566583259,
     "wof:name":"P'an'gyo",
     "wof:parent_id":1108748103,
     "wof:placetype":"locality",

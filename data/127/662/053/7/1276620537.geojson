@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.46,41.65222,129.5,41.69222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Habongs\u014fng",
         "\ud558\ubd09\ud30c",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276620537,
-    "wof:lastmodified":1537655452,
+    "wof:lastmodified":1566583341,
     "wof:name":"Habongp'a",
     "wof:parent_id":1108747001,
     "wof:placetype":"locality",

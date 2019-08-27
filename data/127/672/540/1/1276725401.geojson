@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.37472,41.29639,129.41472,41.33639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tokchang-gol",
         "\ub3c5\uc7a5",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276725401,
-    "wof:lastmodified":1537655621,
+    "wof:lastmodified":1566583033,
     "wof:name":"Tokchang",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

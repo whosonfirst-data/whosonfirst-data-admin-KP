@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.56194,39.31139,125.60194,39.35139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242647089,
-    "wof:lastmodified":1536963697,
+    "wof:lastmodified":1566584897,
     "wof:name":"P'yongch'on-dong",
     "wof:parent_id":1108748033,
     "wof:placetype":"locality",

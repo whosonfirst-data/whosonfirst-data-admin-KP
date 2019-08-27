@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.86694,39.58417,126.90694,39.62417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub0a8\uc11d\ub3d9",
         "Sosungni Nams\u014fk-tong",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226647335,
-    "wof:lastmodified":1537654319,
+    "wof:lastmodified":1566585494,
     "wof:name":"Namsok-tong",
     "wof:parent_id":1108748103,
     "wof:placetype":"locality",

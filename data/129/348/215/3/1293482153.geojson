@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.01778,38.56972,125.05778,38.60972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub2ec\uc6b0\uc9c0",
         "Taruji"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293482153,
-    "wof:lastmodified":1537655696,
+    "wof:lastmodified":1566582656,
     "wof:name":"Taruji",
     "wof:parent_id":1108747219,
     "wof:placetype":"locality",

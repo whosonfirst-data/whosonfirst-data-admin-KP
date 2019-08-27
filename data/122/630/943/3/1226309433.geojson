@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.35667,41.41667,129.39667,41.45667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc7ac\uac1c\uace8",
         "Chaegae-gol"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226309433,
-    "wof:lastmodified":1537655622,
+    "wof:lastmodified":1566585507,
     "wof:name":"Chaegae-gol",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",
