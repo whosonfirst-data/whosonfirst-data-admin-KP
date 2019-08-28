@@ -11,10 +11,14 @@
     "geom:longitude":129.75083,
     "gn:country":"KP",
     "gn:fcode":"PPLL",
-    "gn:pop":43831,
+    "gn:population":43831,
     "iso:country":"KP",
+    "lbl:bbox":"129.73083,42.42278,129.77083,42.46278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ace_x_preferred":[
         "Hoeryeong"
     ],
@@ -144,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0432\u0435\u0440\u044c\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kwainei"
     ],
     "name:urd_x_preferred":[
@@ -172,7 +176,7 @@
     "wof:concordances":{
         "gn:id":2044091,
         "gp:id":1093869,
-        "qs:id":137856,
+        "qs_pg:id":137856,
         "wd:id":"Q48888",
         "wk:page":"Hoeryong"
     },
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":890416387,
-    "wof:lastmodified":1563588775,
+    "wof:lastmodified":1566584582,
     "wof:name":"Hoery\u014fng",
     "wof:parent_id":1108746885,
     "wof:placetype":"locality",

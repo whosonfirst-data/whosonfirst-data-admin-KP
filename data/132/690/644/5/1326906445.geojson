@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.47278,41.23556,129.51278,41.27556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Y\u014fngan-\u016dp",
         "Eian",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326906445,
-    "wof:lastmodified":1537655361,
+    "wof:lastmodified":1566581985,
     "wof:name":"Hwasong",
     "wof:parent_id":1108747019,
     "wof:placetype":"locality",

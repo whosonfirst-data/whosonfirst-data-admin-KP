@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.22583,39.56528,127.26583,39.60528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub355\uce58\uace8",
         "T\u014fkch\u2019i-gol"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343859619,
-    "wof:lastmodified":1537655077,
+    "wof:lastmodified":1566582259,
     "wof:name":"Tokch'i-gol",
     "wof:parent_id":1108747857,
     "wof:placetype":"locality",

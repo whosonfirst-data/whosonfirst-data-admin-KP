@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.68667,39.61222,125.72667,39.65222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paeks\u014fkkae",
         "Paeks\u014fkhy\u014fn",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259365233,
-    "wof:lastmodified":1537654506,
+    "wof:lastmodified":1566584969,
     "wof:name":"Paektolgogae",
     "wof:parent_id":1108746847,
     "wof:placetype":"locality",

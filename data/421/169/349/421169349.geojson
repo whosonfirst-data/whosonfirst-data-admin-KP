@@ -10,8 +10,12 @@
     "geom:latitude":38.78194,
     "geom:longitude":126.66639,
     "iso:country":"KP",
+    "lbl:bbox":"126.64639,38.76194,126.68639,38.80194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Koksan"
@@ -25,7 +29,7 @@
     "name:swe_x_preferred":[
         "Koksan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kokan"
     ],
     "qs:gn_country":"KP",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":1875790,
         "gp:id":1093896,
-        "qs:id":1289888
+        "qs_pg:id":1289888
     },
     "wof:country":"KP",
     "wof:created":1459008806,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421169349,
-    "wof:lastmodified":1564116656,
+    "wof:lastmodified":1566584575,
     "wof:name":"Koksan",
     "wof:parent_id":1108746969,
     "wof:placetype":"locality",

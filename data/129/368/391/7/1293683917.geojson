@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.71806,38.21722,125.75806,38.25722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shinduk",
         "Shintoku-ri",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293683917,
-    "wof:lastmodified":1537654389,
+    "wof:lastmodified":1566582748,
     "wof:name":"Sindong-ni",
     "wof:parent_id":1108748009,
     "wof:placetype":"locality",

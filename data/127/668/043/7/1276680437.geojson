@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.54278,37.85778,125.58278,37.89778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc1a1\ud558",
         "Songha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276680437,
-    "wof:lastmodified":1537654339,
+    "wof:lastmodified":1566583186,
     "wof:name":"Songha",
     "wof:parent_id":1108747817,
     "wof:placetype":"locality",

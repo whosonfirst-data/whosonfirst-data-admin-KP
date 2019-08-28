@@ -16,6 +16,7 @@
     ],
     "lbl:latitude":42.417497,
     "lbl:longitude":130.44337,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_loc":"\ub77c\uc120\ud2b9\ubcc4\uc2dc",
     "mps:latitude":42.389208,
@@ -148,9 +149,7 @@
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0425\u0430\u043c\u0433\u044c\u043e\u043d"
     ],
     "name:und_x_variant":[
-        "\ub77c\uc120\ud2b9\ubcc4\uc2dc"
-    ],
-    "name:unk_x_variant":[
+        "\ub77c\uc120\ud2b9\ubcc4\uc2dc",
         "Hampuk"
     ],
     "name:urd_x_preferred":[
@@ -179,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -189,7 +188,7 @@
     "wof:concordances":{
         "gn:id":2044245,
         "gp:id":2345958,
-        "qs:id":894912,
+        "qs_pg:id":894912,
         "wd:id":"Q109361",
         "wk:page":"North Hamgyong Province"
     },
@@ -209,7 +208,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725188,
+    "wof:lastmodified":1566582523,
     "wof:name":"Ras\u014fn",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

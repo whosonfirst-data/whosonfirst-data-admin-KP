@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.01417,39.03639,127.05417,39.07639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub2ec\uc559\uace8"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259667741,
-    "wof:lastmodified":1537654902,
+    "wof:lastmodified":1566585123,
     "wof:name":"Tarang-gol",
     "wof:parent_id":1108747065,
     "wof:placetype":"locality",

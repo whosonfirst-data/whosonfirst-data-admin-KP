@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"130.31417,42.35194,130.35417,42.39194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uccad\ud48d\ub9ac",
         "Ch\u2019angp\u2019ung-nil",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360060667,
-    "wof:lastmodified":1537655526,
+    "wof:lastmodified":1566584383,
     "wof:name":"Ch'ongp'ung-ni",
     "wof:parent_id":1108747091,
     "wof:placetype":"locality",

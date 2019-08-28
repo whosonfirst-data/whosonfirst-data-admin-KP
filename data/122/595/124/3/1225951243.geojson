@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.39528,39.62583,127.43528,39.66583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Banchunj\u014d",
         "P\u2019ach\u2019unjang",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1225951243,
-    "wof:lastmodified":1537654376,
+    "wof:lastmodified":1566585230,
     "wof:name":"Sinsang-nodongjagu",
     "wof:parent_id":1108747795,
     "wof:placetype":"locality",

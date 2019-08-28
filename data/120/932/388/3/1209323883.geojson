@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.61646,40.68526,126.65646,40.72526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ubd09\ucd98\ub3d9"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209323883,
-    "wof:lastmodified":1537655952,
+    "wof:lastmodified":1566583602,
     "wof:name":"Pongch'un-dong",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",

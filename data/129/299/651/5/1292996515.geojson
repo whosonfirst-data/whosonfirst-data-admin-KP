@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.55944,38.125,126.59944,38.165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ry\u014dg\u014d-d\u014d",
         "Yangsa-ni",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1292996515,
-    "wof:lastmodified":1537654199,
+    "wof:lastmodified":1566582845,
     "wof:name":"Yangham-ni",
     "wof:parent_id":1108747851,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.98639,38.50222,128.02639,38.54222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Samg\u0103-ri",
         "\uc138\uac70\ub9ac",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309894997,
-    "wof:lastmodified":1537654401,
+    "wof:lastmodified":1566584554,
     "wof:name":"Segori",
     "wof:parent_id":1108747853,
     "wof:placetype":"locality",

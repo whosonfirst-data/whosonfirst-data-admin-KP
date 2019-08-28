@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.09833,39.0275,127.13833,39.0675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc5ec\ud574\ub9ac"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209024755,
-    "wof:lastmodified":1537654191,
+    "wof:lastmodified":1566583635,
     "wof:name":"Yohae-ri",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.12972,38.57111,125.16972,38.61111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud574\ud3c9\ucd0c",
         "Haep\u2019y\u014fngch\u2019on"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343850343,
-    "wof:lastmodified":1537654751,
+    "wof:lastmodified":1566582263,
     "wof:name":"Haep'yongch'on",
     "wof:parent_id":1108747219,
     "wof:placetype":"locality",

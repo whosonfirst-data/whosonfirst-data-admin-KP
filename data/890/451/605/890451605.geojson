@@ -11,8 +11,11 @@
     "geom:longitude":125.40778,
     "gn:country":"KP",
     "gn:fcode":"PPLA2",
-    "gn:pop":455000,
+    "gn:population":455000,
     "iso:country":"KP",
+    "lbl:bbox":"125.38778,38.7175,125.42778,38.7575",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -155,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043c\u043f\u0445\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Treaty Port"
     ],
     "name:urd_x_preferred":[
@@ -282,7 +285,7 @@
     "wof:concordances":{
         "gn:id":1873757,
         "gp:id":1093915,
-        "qs:id":137238,
+        "qs_pg:id":137238,
         "wd:id":"Q109386",
         "wk:page":"Nampo"
     },
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":890451605,
-    "wof:lastmodified":1563588779,
+    "wof:lastmodified":1566584583,
     "wof:name":"Namp\u2019o",
     "wof:parent_id":1108747021,
     "wof:placetype":"locality",

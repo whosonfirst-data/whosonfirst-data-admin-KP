@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"130.24222,42.4625,130.28222,42.5025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uace0\uc0ac\ub3d9",
         "Kosa-dong"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259946337,
-    "wof:lastmodified":1537655396,
+    "wof:lastmodified":1566585149,
     "wof:name":"Kosa-dong",
     "wof:parent_id":1108746997,
     "wof:placetype":"locality",

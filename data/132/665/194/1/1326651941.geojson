@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.47694,38.14333,125.51694,38.18333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326651941,
-    "wof:lastmodified":1536810984,
+    "wof:lastmodified":1566582009,
     "wof:name":"Sokchong-ni",
     "wof:parent_id":1108747921,
     "wof:placetype":"locality",

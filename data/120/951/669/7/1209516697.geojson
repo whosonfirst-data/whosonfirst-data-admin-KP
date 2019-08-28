@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.87361,40.54194,128.91361,40.58194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Insannip\u2019y\u014fng-ch\u2019on",
         "\uc778\uc0b0\ub9ac\ud3c9\ucd0c",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209516697,
-    "wof:lastmodified":1537655594,
+    "wof:lastmodified":1566583630,
     "wof:name":"Insallip'yong-ch'on",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",

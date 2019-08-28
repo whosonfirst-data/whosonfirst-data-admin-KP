@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.35472,39.94167,124.39472,39.98167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nam-purak",
         "\ub0a8\ubd80\ub77d",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276751023,
-    "wof:lastmodified":1537654550,
+    "wof:lastmodified":1566583035,
     "wof:name":"Namburak",
     "wof:parent_id":1108747965,
     "wof:placetype":"locality",

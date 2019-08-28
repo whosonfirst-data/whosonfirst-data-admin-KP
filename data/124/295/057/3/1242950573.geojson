@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.66923,39.72606,124.70923,39.76606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub3c4\ubd09\ubd80\ub77d"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242950573,
-    "wof:lastmodified":1537654275,
+    "wof:lastmodified":1566584707,
     "wof:name":"Tobong",
     "wof:parent_id":1108747725,
     "wof:placetype":"locality",

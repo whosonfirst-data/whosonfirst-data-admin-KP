@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9119852.239048,
+    "geom:area_square_m":0.0,
     "geom:bbox":"125.75614,39.0187,125.75614,39.0187",
     "geom:latitude":39.0187,
     "geom:longitude":125.75614,
     "iso:country":"KP",
+    "lbl:bbox":"125.75114,39.0137,125.76114,39.0237",
     "lbl:latitude":39.0187,
     "lbl:longitude":125.75614,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.011045,
     "mps:longitude":125.772945,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Sinni-dong"
-    ],
-    "name:unk_x_variant":[
         "Sinni-dong"
     ],
     "qs:gn_adm0_cc":"KP",
@@ -56,12 +55,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676611,
         102191569,
         85632639,
-        1108747951,
-        85676611
+        1108747951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935939,
+    "wof:lastmodified":1566582511,
     "wof:name":"Sinni-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

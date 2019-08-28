@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.785,40.49389,126.825,40.53389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tae-yongso-kol",
         "\ub300\uc6a9\uc18c\uace8",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360294631,
-    "wof:lastmodified":1537655209,
+    "wof:lastmodified":1566584408,
     "wof:name":"Taeyongso-gol",
     "wof:parent_id":1108747103,
     "wof:placetype":"locality",

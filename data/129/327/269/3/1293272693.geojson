@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.63472,39.84833,124.67472,39.88833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Y\u014fnsan-ni",
         "Y\u014fnsan-dong",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293272693,
-    "wof:lastmodified":1537654157,
+    "wof:lastmodified":1566582872,
     "wof:name":"Yonsal-li",
     "wof:parent_id":1108747725,
     "wof:placetype":"locality",

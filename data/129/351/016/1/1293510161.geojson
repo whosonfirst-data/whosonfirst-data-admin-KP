@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.79139,38.45722,125.83139,38.49722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u014esu-nodongjagu",
         "\u014esu-ri",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293510161,
-    "wof:lastmodified":1537654513,
+    "wof:lastmodified":1566582788,
     "wof:name":"Osu-dong",
     "wof:parent_id":1108747063,
     "wof:placetype":"locality",

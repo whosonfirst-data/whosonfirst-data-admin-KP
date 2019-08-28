@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.41194,37.90778,125.45194,37.94778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ubc94\uc2ec",
         "P\u014fmsim"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243255855,
-    "wof:lastmodified":1537654482,
+    "wof:lastmodified":1566584788,
     "wof:name":"Pomsim",
     "wof:parent_id":1108747817,
     "wof:placetype":"locality",

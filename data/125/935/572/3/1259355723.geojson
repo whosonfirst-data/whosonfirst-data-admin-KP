@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.38861,38.84806,125.42861,38.88806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259355723,
-    "wof:lastmodified":1537040601,
+    "wof:lastmodified":1566585131,
     "wof:name":"Yujong",
     "wof:parent_id":1108747969,
     "wof:placetype":"locality",

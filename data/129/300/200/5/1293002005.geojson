@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.36056,39.74611,127.40056,39.78611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud765\ub355\ub9ac",
         "H\u016dngd\u014fng-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293002005,
-    "wof:lastmodified":1537655683,
+    "wof:lastmodified":1566582548,
     "wof:name":"Hungdong-ni",
     "wof:parent_id":1108747795,
     "wof:placetype":"locality",

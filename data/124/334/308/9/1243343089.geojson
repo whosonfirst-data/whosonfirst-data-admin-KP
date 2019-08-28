@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.96917,38.95833,126.00917,38.99833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud30c\uc74d",
         "P\u2019a\u016dp"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243343089,
-    "wof:lastmodified":1537655860,
+    "wof:lastmodified":1566584818,
     "wof:name":"P'aup",
     "wof:parent_id":1108747115,
     "wof:placetype":"locality",

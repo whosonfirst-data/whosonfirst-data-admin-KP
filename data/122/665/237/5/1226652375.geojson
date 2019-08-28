@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.39778,40.50972,128.43778,40.54972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u2019angs\u014fngil-li",
         "\ucc3d\uc131\ub9ac",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226652375,
-    "wof:lastmodified":1537655491,
+    "wof:lastmodified":1566585527,
     "wof:name":"Ch'angsong-ni",
     "wof:parent_id":1108747193,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.77444,40.43,128.81444,40.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tok-tong",
         "\ub3c5\uace8",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259784803,
-    "wof:lastmodified":1537655197,
+    "wof:lastmodified":1566585061,
     "wof:name":"Tok-kol",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",

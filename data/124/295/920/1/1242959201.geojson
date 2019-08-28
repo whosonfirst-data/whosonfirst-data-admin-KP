@@ -23,17 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.9925,41.49444,127.0325,41.53444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "T\u014fngmak"
     ],
     "name:kor_x_variant":[
         "\ub355\ub9c9"
-    ],
-    "name:und_x_variant":[
-        "\ub355\ub9c9",
-        "T\u014fngmak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":1242959201,
-    "wof:lastmodified":1537655926,
+    "wof:lastmodified":1566584709,
     "wof:name":"Tongmak",
     "wof:parent_id":1108746965,
     "wof:placetype":"locality",

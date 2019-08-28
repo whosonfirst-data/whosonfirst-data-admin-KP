@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.29333,39.59167,125.33333,39.63167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uace0\uc74c"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293477213,
-    "wof:lastmodified":1537655090,
+    "wof:lastmodified":1566582712,
     "wof:name":"Koum",
     "wof:parent_id":1108747213,
     "wof:placetype":"locality",

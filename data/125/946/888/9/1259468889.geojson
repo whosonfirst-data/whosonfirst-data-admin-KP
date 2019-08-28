@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.74056,41.99056,128.78056,42.03056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "H\u016dngan-nodongjagu",
         "H\u016dngam-nodongjagu"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259468889,
-    "wof:lastmodified":1537655602,
+    "wof:lastmodified":1566585050,
     "wof:name":"Hungam-nodongjagu",
     "wof:parent_id":1108748045,
     "wof:placetype":"locality",

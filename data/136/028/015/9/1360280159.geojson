@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.99,37.91583,126.03,37.95583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tentairi",
         "Ch\u2019\u014fndae-ri",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360280159,
-    "wof:lastmodified":1537654786,
+    "wof:lastmodified":1566584428,
     "wof:name":"Ch'ont'ae-ri",
     "wof:parent_id":1108748107,
     "wof:placetype":"locality",

@@ -23,13 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.49472,40.76833,126.53472,40.80833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc785\ubd09\ucc38"
     ],
     "name:und_x_variant":[
-        "\uc785\ubd09\ucc38",
         "Ippongch\u2019am"
     ],
     "src:geom":"geonames",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1210020007,
-    "wof:lastmodified":1537655778,
+    "wof:lastmodified":1566583768,
     "wof:name":"Ippongch'am",
     "wof:parent_id":1108748019,
     "wof:placetype":"locality",

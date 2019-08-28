@@ -23,13 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.67093,40.76557,126.71093,40.80557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ubc31\uc790\ub9ac"
     ],
     "name:und_x_variant":[
-        "\ubc31\uc790\ub9ac",
         "Paekcha-ri"
     ],
     "src:geom":"geonames",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1225957479,
-    "wof:lastmodified":1537655329,
+    "wof:lastmodified":1566585228,
     "wof:name":"Paekcha-ri",
     "wof:parent_id":1108748019,
     "wof:placetype":"locality",

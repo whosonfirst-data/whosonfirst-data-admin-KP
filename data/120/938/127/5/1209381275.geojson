@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.75278,41.81583,129.79278,41.85583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "To-kol",
         "\ub3c4\uace8",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209381275,
-    "wof:lastmodified":1537655200,
+    "wof:lastmodified":1566583403,
     "wof:name":"To-gol",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",

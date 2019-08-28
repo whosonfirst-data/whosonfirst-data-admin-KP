@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.46028,37.85,125.50028,37.89",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc804\ucd0c\ub3d9",
         "Ch\u014fnch\u2019on-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243446605,
-    "wof:lastmodified":1537654802,
+    "wof:lastmodified":1566584950,
     "wof:name":"Chonch'on-dong",
     "wof:parent_id":1108747817,
     "wof:placetype":"locality",

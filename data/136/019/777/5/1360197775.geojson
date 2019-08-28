@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.34583,40.83444,127.38583,40.87444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ud5a5\uccad\ub9ac"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360197775,
-    "wof:lastmodified":1537655423,
+    "wof:lastmodified":1566584447,
     "wof:name":"Hyangch'ong-ni",
     "wof:parent_id":1108747957,
     "wof:placetype":"locality",

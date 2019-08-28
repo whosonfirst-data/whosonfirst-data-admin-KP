@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.6975,41.37917,129.7375,41.41917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ry\u016dhy\u014f-d\u014f",
         "Yongp\u2019yong-do",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327309837,
-    "wof:lastmodified":1537655144,
+    "wof:lastmodified":1566581700,
     "wof:name":"Yongp'yong-ni",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.22222,38.8725,125.26222,38.9125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc77c\ucd9c\ub3d9",
         "Ilch\u2019ul-tong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242955425,
-    "wof:lastmodified":1537654697,
+    "wof:lastmodified":1566584705,
     "wof:name":"Ilch'ul-tong",
     "wof:parent_id":1108747027,
     "wof:placetype":"locality",

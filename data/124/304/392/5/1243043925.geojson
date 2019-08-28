@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.63528,41.32278,129.67528,41.36278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "H\u014fk\u014f",
         "Ponggang",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243043925,
-    "wof:lastmodified":1537655315,
+    "wof:lastmodified":1566584800,
     "wof:name":"Ponggang-ni",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

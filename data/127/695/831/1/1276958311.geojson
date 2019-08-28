@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.18275,39.11386,126.22275,39.15386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc21c\ucc3d\ub9ac"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276958311,
-    "wof:lastmodified":1537654310,
+    "wof:lastmodified":1566583182,
     "wof:name":"Sunch'ang-ni",
     "wof:parent_id":1108747811,
     "wof:placetype":"locality",

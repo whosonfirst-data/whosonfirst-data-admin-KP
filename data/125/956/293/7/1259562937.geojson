@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.00861,39.01222,126.04861,39.05222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ori-kol",
         "Ori-gol"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259562937,
-    "wof:lastmodified":1537654889,
+    "wof:lastmodified":1566585155,
     "wof:name":"Ori-gol",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

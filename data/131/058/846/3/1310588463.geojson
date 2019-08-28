@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.76917,39.97583,124.80917,40.01583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hwahap-Hal-dong",
         "\ud654\ud569\ud558\ub3d9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310588463,
-    "wof:lastmodified":1537655429,
+    "wof:lastmodified":1566584332,
     "wof:name":"Hwahapha-dong",
     "wof:parent_id":1108747199,
     "wof:placetype":"locality",

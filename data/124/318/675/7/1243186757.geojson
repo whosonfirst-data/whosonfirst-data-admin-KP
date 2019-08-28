@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.86333,39.83,124.90333,39.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ubd88\ub2f9\ub3d9"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243186757,
-    "wof:lastmodified":1537654467,
+    "wof:lastmodified":1566584909,
     "wof:name":"Puldang-dong",
     "wof:parent_id":1108747147,
     "wof:placetype":"locality",

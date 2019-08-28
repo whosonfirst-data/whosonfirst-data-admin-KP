@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.88639,39.95444,125.92639,39.99444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kaegich\u2019am",
         "Kyegich\u2019am"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276535877,
-    "wof:lastmodified":1537654594,
+    "wof:lastmodified":1566583364,
     "wof:name":"Kyegich'am",
     "wof:parent_id":1108746979,
     "wof:placetype":"locality",

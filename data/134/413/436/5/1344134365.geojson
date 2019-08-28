@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.49694,40.53583,125.53694,40.57583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc6a9\ub2f4\ub9ac",
         "Yongdam-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344134365,
-    "wof:lastmodified":1537655733,
+    "wof:lastmodified":1566582159,
     "wof:name":"Yongdam-ni",
     "wof:parent_id":1108747945,
     "wof:placetype":"locality",

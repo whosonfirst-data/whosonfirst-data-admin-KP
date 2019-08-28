@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.30028,42.16306,129.34028,42.20306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uce60\ub3d9",
         "Ch\u2019il-tong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276523751,
-    "wof:lastmodified":1537655485,
+    "wof:lastmodified":1566583312,
     "wof:name":"Ch'il-tong",
     "wof:parent_id":1108747013,
     "wof:placetype":"locality",

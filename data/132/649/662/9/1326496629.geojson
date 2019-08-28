@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.64667,41.61333,129.68667,41.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nongsagok",
         "Nongsagol"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326496629,
-    "wof:lastmodified":1537655344,
+    "wof:lastmodified":1566581935,
     "wof:name":"Nongsagol",
     "wof:parent_id":1108747001,
     "wof:placetype":"locality",

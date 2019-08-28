@@ -11,10 +11,14 @@
     "geom:longitude":127.45472,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":21882,
+    "gn:population":21882,
     "iso:country":"KP",
+    "lbl:bbox":"127.43472,39.99833,127.47472,40.03833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Yonggwang County"
     ],
@@ -36,7 +40,7 @@
     "name:sco_x_preferred":[
         "Yonggwang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gor\u014d-ri"
     ],
     "name:urd_x_preferred":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":2042249,
         "gp:id":1093925,
-        "qs:id":1033590,
+        "qs_pg:id":1033590,
         "wd:id":"Q715953",
         "wk:page":"Yonggwang County"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890444175,
-    "wof:lastmodified":1563588772,
+    "wof:lastmodified":1566584581,
     "wof:name":"Y\u014fnggwang-\u016dp",
     "wof:parent_id":1108748109,
     "wof:placetype":"locality",

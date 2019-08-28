@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.6775,42.39389,129.7175,42.43389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc18c\ud0d1\uace8",
         "Sot\u2019apkol"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309675379,
-    "wof:lastmodified":1537655832,
+    "wof:lastmodified":1566584529,
     "wof:name":"Sot'apkol",
     "wof:parent_id":1108746885,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.14139,39.4625,127.18139,39.5025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub2e4\uc0bc\ud3ec\ub9ac"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310012907,
-    "wof:lastmodified":1537654292,
+    "wof:lastmodified":1566584186,
     "wof:name":"Tasamp'o-ri",
     "wof:parent_id":1108746977,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.04694,38.41306,126.08694,38.45306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bumbu-ri",
         "Munmu-ri"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293510173,
-    "wof:lastmodified":1537654564,
+    "wof:lastmodified":1566582788,
     "wof:name":"Munmu-ri",
     "wof:parent_id":1108747145,
     "wof:placetype":"locality",

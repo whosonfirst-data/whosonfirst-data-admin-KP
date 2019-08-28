@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.57611,39.14778,125.61611,39.18778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ha-s\u014fkwa-ri",
         "Has\u014fkhwa-ri",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193251177,
-    "wof:lastmodified":1537654732,
+    "wof:lastmodified":1566583822,
     "wof:name":"Hasokha-ri",
     "wof:parent_id":1108748039,
     "wof:placetype":"locality",

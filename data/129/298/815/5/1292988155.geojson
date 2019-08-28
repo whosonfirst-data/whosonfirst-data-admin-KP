@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.00083,40.02278,125.04083,40.06278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uace0\ub9c9\uace8",
         "Komak-kol"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292988155,
-    "wof:lastmodified":1537655522,
+    "wof:lastmodified":1566582818,
     "wof:name":"Komak-kol",
     "wof:parent_id":1108746867,
     "wof:placetype":"locality",

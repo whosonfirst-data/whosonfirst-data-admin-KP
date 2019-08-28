@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.57278,37.94417,125.61278,37.98417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ubc31\uc591\ub3d9",
         "Paekyang-dong",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327156025,
-    "wof:lastmodified":1537654505,
+    "wof:lastmodified":1566581846,
     "wof:name":"Paegyang-dong",
     "wof:parent_id":1108747817,
     "wof:placetype":"locality",

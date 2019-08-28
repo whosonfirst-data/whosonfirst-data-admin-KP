@@ -11,14 +11,18 @@
     "geom:longitude":126.23333,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":18669,
+    "gn:population":18669,
     "iso:country":"KP",
+    "lbl:bbox":"126.21333,38.39667,126.25333,38.43667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:kor_x_preferred":[
         "\uc2e0\ub9c9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shinbaku"
     ],
     "qs:name":"Sinmak",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1870434,
         "gp:id":1093947,
-        "qs:id":137233
+        "qs_pg:id":137233
     },
     "wof:country":"KP",
     "wof:created":1469052030,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890434563,
-    "wof:lastmodified":1505343542,
+    "wof:lastmodified":1566584584,
     "wof:name":"Sinmak",
     "wof:parent_id":1108747145,
     "wof:placetype":"locality",

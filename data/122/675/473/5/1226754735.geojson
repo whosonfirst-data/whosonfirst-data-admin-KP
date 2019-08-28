@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.02528,40.43833,128.06528,40.47833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uba85\ud314\ub355\uc774",
         "My\u014fngp\u2019alt\u014fk",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226754735,
-    "wof:lastmodified":1537655360,
+    "wof:lastmodified":1566585241,
     "wof:name":"Myongp'altogi",
     "wof:parent_id":1108747193,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.22472,40.36167,127.26472,40.40167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u014fshin",
         "Tschang-dschin",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276234971,
-    "wof:lastmodified":1537655497,
+    "wof:lastmodified":1566583260,
     "wof:name":"Changjin",
     "wof:parent_id":1108746913,
     "wof:placetype":"locality",

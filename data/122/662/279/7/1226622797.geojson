@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.84194,38.95222,125.88194,38.99222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Torumul-li",
         "\uc11d\uc815\ub3d9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226622797,
-    "wof:lastmodified":1537654357,
+    "wof:lastmodified":1566585520,
     "wof:name":"Sokchong-dong",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

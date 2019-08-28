@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.25444,39.50611,126.29444,39.54611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sinsa-dong"
     ],
@@ -36,8 +40,7 @@
         "Sinsa-dong"
     ],
     "name:und_x_variant":[
-        "Shinshi-d\u014d",
-        "Sinsa-dong"
+        "Shinshi-d\u014d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1259656467,
-    "wof:lastmodified":1564117195,
+    "wof:lastmodified":1566584986,
     "wof:name":"Sinsa-dong",
     "wof:parent_id":1108747069,
     "wof:placetype":"locality",

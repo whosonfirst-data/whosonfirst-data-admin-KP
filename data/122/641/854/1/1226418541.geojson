@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.50611,40.74,129.54611,40.78",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Y\u014dt\u014d",
         "\uc591\ub3c4",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226418541,
-    "wof:lastmodified":1537655163,
+    "wof:lastmodified":1566585466,
     "wof:name":"Yangdo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

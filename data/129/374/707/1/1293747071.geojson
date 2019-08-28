@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.72889,41.78083,129.76889,41.82083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u014flp\u2019o-dong",
         "\uc6d4\ud3ec\ub9ac",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293747071,
-    "wof:lastmodified":1537655170,
+    "wof:lastmodified":1566582917,
     "wof:name":"Wolp'o-ri",
     "wof:parent_id":1108746863,
     "wof:placetype":"locality",

@@ -9,17 +9,20 @@
     "geom:bbox":"128.65528,40.32306,128.65528,40.32306",
     "geom:latitude":40.32306,
     "geom:longitude":128.65528,
-    "gn:gn_country":"KP",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":26364,
+    "gn:country":"KP",
+    "gn:fcode":"PPL",
     "gn:population":26364,
     "iso:country":"KP",
+    "lbl:bbox":"128.63528,40.30306,128.67528,40.34306",
     "lbl:latitude":40.32306,
     "lbl:longitude":128.65528,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gunsen"
     ],
     "qs_pg:aaroncc":"KP",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":137853,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125868099,
-    "wof:lastmodified":1509397132,
+    "wof:lastmodified":1566584585,
     "wof:name":"Iw\u014fn-\u016dp",
     "wof:parent_id":1108747095,
     "wof:placetype":"locality",

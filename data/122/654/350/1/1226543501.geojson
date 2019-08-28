@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.41773,40.61549,126.45773,40.65549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud559\ubb34\ub85c\ub3d9\uc790\uad6c",
         "Hangmu-rodongjagu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226543501,
-    "wof:lastmodified":1537655647,
+    "wof:lastmodified":1566585539,
     "wof:name":"Hangmu-rodongjagu",
     "wof:parent_id":1108747789,
     "wof:placetype":"locality",

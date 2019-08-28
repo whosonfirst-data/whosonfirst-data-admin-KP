@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.67026,38.97567,125.71026,39.01567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "Twimoraet\u2019o"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1243343101,
-    "wof:lastmodified":1537654715,
+    "wof:lastmodified":1566584825,
     "wof:name":"Twimoraet'o",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

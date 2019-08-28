@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.11556,40.99833,128.15556,41.03833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub2e8\uc9c4\ub9ac"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260066247,
-    "wof:lastmodified":1537655516,
+    "wof:lastmodified":1566583941,
     "wof:name":"Tanjil-li",
     "wof:parent_id":1108747049,
     "wof:placetype":"locality",

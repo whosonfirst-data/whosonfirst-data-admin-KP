@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.68861,38.89222,125.72861,38.93222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uac10\ud0d5\uace8",
         "Kamt\u2019anggol",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310082259,
-    "wof:lastmodified":1537654672,
+    "wof:lastmodified":1566584177,
     "wof:name":"Kamt'anggol",
     "wof:parent_id":1108747799,
     "wof:placetype":"locality",

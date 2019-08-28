@@ -10,6 +10,9 @@
     "geom:latitude":37.97083,
     "geom:longitude":126.55444,
     "iso:country":"KP",
+    "lbl:bbox":"126.53444,37.95083,126.57444,37.99083",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -209,7 +212,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0441\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sh\u014dto"
     ],
     "name:urd_x_preferred":[
@@ -359,7 +362,7 @@
     "wof:concordances":{
         "gn:id":1876373,
         "gp:id":1093886,
-        "qs:id":910113,
+        "qs_pg:id":910113,
         "wd:id":"Q109079",
         "wk:page":"Kaesong"
     },
@@ -376,7 +379,7 @@
         }
     ],
     "wof:id":421174921,
-    "wof:lastmodified":1563588759,
+    "wof:lastmodified":1566584575,
     "wof:name":"Kaesong",
     "wof:parent_id":1108747043,
     "wof:placetype":"locality",

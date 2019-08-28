@@ -11,10 +11,14 @@
     "geom:longitude":125.8,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":19346,
+    "gn:population":19346,
     "iso:country":"KP",
+    "lbl:bbox":"125.78,38.84389,125.82,38.88389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cdo_x_preferred":[
         "D\u1e73\u0306ng-hu\u00e0"
     ],
@@ -24,7 +28,7 @@
     "name:hak_x_preferred":[
         "Ch\u00fbng-f\u00e0"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u016bwa"
     ],
     "name:zho_x_preferred":[
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1877872,
         "gp:id":1093862,
-        "qs:id":137253,
+        "qs_pg:id":137253,
         "wk:page":"Zhonghua"
     },
     "wof:country":"KP",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890434571,
-    "wof:lastmodified":1564116661,
+    "wof:lastmodified":1566584584,
     "wof:name":"Chunghwa",
     "wof:parent_id":1108747799,
     "wof:placetype":"locality",

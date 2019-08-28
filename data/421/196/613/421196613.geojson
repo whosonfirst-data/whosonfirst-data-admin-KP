@@ -10,10 +10,14 @@
     "geom:latitude":40.20194,
     "geom:longitude":125.74833,
     "iso:country":"KP",
+    "lbl:bbox":"125.72833,40.18194,125.76833,40.22194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hokuchin"
     ],
     "qs:gn_country":"KP",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2041817,
         "gp:id":1080573,
-        "qs:id":1289877
+        "qs_pg:id":1289877
     },
     "wof:country":"KP",
     "wof:created":1459009887,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421196613,
-    "wof:lastmodified":1505340748,
+    "wof:lastmodified":1566584577,
     "wof:name":"Pukchil-lodongjagu",
     "wof:parent_id":1108748089,
     "wof:placetype":"locality",

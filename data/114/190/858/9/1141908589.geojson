@@ -10,10 +10,14 @@
     "geom:latitude":41.784619,
     "geom:longitude":129.79,
     "iso:country":"KP",
+    "lbl:bbox":"129.769999958,41.7646187531,129.809999958,41.8046187531",
     "lbl:latitude":41.784619,
     "lbl:longitude":129.79,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Cheongjin"
     ],
@@ -286,7 +290,7 @@
         }
     ],
     "wof:id":1141908589,
-    "wof:lastmodified":1563590126,
+    "wof:lastmodified":1566585577,
     "wof:name":"Chongjin",
     "wof:parent_id":1108746863,
     "wof:placetype":"locality",

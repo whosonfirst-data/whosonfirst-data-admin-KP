@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.59083,41.37528,129.63083,41.41528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chuch\u2019onap",
         "\uc8fc\ucd0c\uc804\uc7a5",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326596361,
-    "wof:lastmodified":1537655467,
+    "wof:lastmodified":1566581788,
     "wof:name":"Chuch'onjonjang",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":125.75583,
     "gn:country":"KP",
     "gn:fcode":"PPLA2",
-    "gn:pop":154942,
+    "gn:population":154942,
     "iso:country":"KP",
+    "lbl:bbox":"125.73583,38.48722,125.77583,38.52722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -124,7 +127,7 @@
     "name:tur_x_preferred":[
         "Sariwon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hozan"
     ],
     "name:urd_x_preferred":[
@@ -252,7 +255,7 @@
     "wof:concordances":{
         "gn:id":1870883,
         "gp:id":1093940,
-        "qs:id":137235,
+        "qs_pg:id":137235,
         "wd:id":"Q505807",
         "wk:page":"Sariwon"
     },
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":890434561,
-    "wof:lastmodified":1563588781,
+    "wof:lastmodified":1566584584,
     "wof:name":"Sariw\u014fn",
     "wof:parent_id":1108747117,
     "wof:placetype":"locality",

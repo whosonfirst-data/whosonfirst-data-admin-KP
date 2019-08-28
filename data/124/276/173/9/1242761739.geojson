@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.18882,39.31844,127.22882,39.35844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yulche",
         "Yulchae",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242761739,
-    "wof:lastmodified":1537654153,
+    "wof:lastmodified":1566584869,
     "wof:name":"Yulchae",
     "wof:parent_id":1108746869,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.33083,38.60333,125.37083,38.64333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u2019\u014fga-ri",
         "\ud3ec\uac70\ub9ac",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193129437,
-    "wof:lastmodified":1537654488,
+    "wof:lastmodified":1566583805,
     "wof:name":"P'ogo-ri",
     "wof:parent_id":1108747207,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.95806,40.43278,124.99806,40.47278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632639
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209595913,
-    "wof:lastmodified":1536282325,
+    "wof:lastmodified":1566583594,
     "wof:name":"Yonp'o-dong",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.73139,38.45889,126.77139,38.49889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ohy\u014fn-ni",
         "Ohy\u014fl-li"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326814339,
-    "wof:lastmodified":1537654524,
+    "wof:lastmodified":1566581735,
     "wof:name":"Ohyol-li",
     "wof:parent_id":1108746905,
     "wof:placetype":"locality",

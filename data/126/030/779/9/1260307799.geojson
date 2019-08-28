@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.46028,37.76028,125.50028,37.80028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc544\ubbf8\ub9ac",
         "Ami-ri"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260307799,
-    "wof:lastmodified":1537654872,
+    "wof:lastmodified":1566583919,
     "wof:name":"Ami-ri",
     "wof:parent_id":1108747817,
     "wof:placetype":"locality",

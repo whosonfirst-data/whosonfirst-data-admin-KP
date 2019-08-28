@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.03361,39.85667,126.07361,39.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yongmun",
         "K\u014ddai-d\u014d",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293669679,
-    "wof:lastmodified":1537654603,
+    "wof:lastmodified":1566582740,
     "wof:name":"Kwangdae-dong",
     "wof:parent_id":1108746979,
     "wof:placetype":"locality",

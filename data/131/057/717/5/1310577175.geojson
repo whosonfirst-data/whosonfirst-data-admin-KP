@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.60111,41.65056,129.64111,41.69056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sonakch\u2019ung-dong",
         "\uc18c\ubc15\ucda9\uace8",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310577175,
-    "wof:lastmodified":1537655251,
+    "wof:lastmodified":1566584290,
     "wof:name":"Sobakch'ung-gol",
     "wof:parent_id":1108747001,
     "wof:placetype":"locality",

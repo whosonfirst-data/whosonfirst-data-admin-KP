@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.55306,40.20167,124.59306,40.24167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ucc44\uc6b4\uace8"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343742743,
-    "wof:lastmodified":1537655506,
+    "wof:lastmodified":1566582456,
     "wof:name":"Ch'aeungol",
     "wof:parent_id":1108747205,
     "wof:placetype":"locality",

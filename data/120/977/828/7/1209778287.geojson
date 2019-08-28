@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"130.26441,42.2264,130.30441,42.2664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ubd80\uc0ac\uacac\ub3d9",
         "Pusagy\u014fn-dong",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209778287,
-    "wof:lastmodified":1537655837,
+    "wof:lastmodified":1566583496,
     "wof:name":"Pusagyon-dong",
     "wof:parent_id":1108747091,
     "wof:placetype":"locality",

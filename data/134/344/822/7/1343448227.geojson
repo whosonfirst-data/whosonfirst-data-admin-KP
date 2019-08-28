@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.41444,39.62472,125.45444,39.66472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uac08\ub9c8\uad6c"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343448227,
-    "wof:lastmodified":1537654676,
+    "wof:lastmodified":1566582499,
     "wof:name":"Kalmagu",
     "wof:parent_id":1108747213,
     "wof:placetype":"locality",

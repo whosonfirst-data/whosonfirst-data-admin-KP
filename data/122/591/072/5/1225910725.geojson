@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.76944,42.26333,129.80944,42.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ucc3d\ub450\ub3d9",
         "Ch\u2019angdu-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225910725,
-    "wof:lastmodified":1537655544,
+    "wof:lastmodified":1566585398,
     "wof:name":"Ch'angdu-dong",
     "wof:parent_id":1108746885,
     "wof:placetype":"locality",

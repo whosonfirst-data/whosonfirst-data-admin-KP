@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.80472,41.17278,127.84472,41.21278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tae-yong-bok-ni",
         "Taeyongbong-ni"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310391445,
-    "wof:lastmodified":1537655518,
+    "wof:lastmodified":1566584190,
     "wof:name":"Taeyongbong-ni",
     "wof:parent_id":1108747113,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.6175,39.7375,124.6575,39.7775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u014fnju-ri",
         "\uc190\uc8fc\uc6d0",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276959275,
-    "wof:lastmodified":1537654325,
+    "wof:lastmodified":1566583183,
     "wof:name":"Sonjuwon",
     "wof:parent_id":1108747725,
     "wof:placetype":"locality",

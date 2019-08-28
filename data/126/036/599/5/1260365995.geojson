@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.61611,42.38361,129.65611,42.42361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc911\ub355",
         "Chungd\u014fk"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260365995,
-    "wof:lastmodified":1537655830,
+    "wof:lastmodified":1566583913,
     "wof:name":"Chungdok",
     "wof:parent_id":1108746885,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.901303,
     "lbl:longitude":129.420411,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"N. Hamgyong",
     "meso:name_loc":"\ud568\uacbd\ubd81\ub3c4",
     "mps:latitude":41.778568,
@@ -151,7 +152,6 @@
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0425\u0430\u043c\u0433\u044c\u043e\u043d"
     ],
     "name:und_x_variant":[
-        "\ud568\uacbd\ubd81\ub3c4",
         "N. Hamgyong"
     ],
     "name:urd_x_preferred":[
@@ -180,9 +180,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-10-01",
+    "src:population_date":"2008-10-01",
     "statoids:area_km":"12,189",
     "statoids:area_mi":"4,706",
     "statoids:as_of_date":"2008-10-01",
@@ -206,7 +206,7 @@
         "gp:id":2345958,
         "hasc:id":"KP.HG",
         "iso:id":"KP-09",
-        "qs:id":894912,
+        "qs_pg:id":894912,
         "wd:id":"Q109361",
         "wk:page":"North Hamgyong Province"
     },
@@ -226,11 +226,10 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725188,
+    "wof:lastmodified":1566582522,
     "wof:name":"Hamgy\u014fng-bukto",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2130408,
     "wof:population_rank":12,

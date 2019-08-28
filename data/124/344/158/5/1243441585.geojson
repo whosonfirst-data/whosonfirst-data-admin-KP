@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.90459,39.704,124.94459,39.744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc18c\uccad"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243441585,
-    "wof:lastmodified":1537654368,
+    "wof:lastmodified":1566584949,
     "wof:name":"Soch'ong",
     "wof:parent_id":1108747147,
     "wof:placetype":"locality",

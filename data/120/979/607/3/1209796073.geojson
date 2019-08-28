@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.24028,39.53667,125.28028,39.57667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub9c8\uc554\ucd0c"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209796073,
-    "wof:lastmodified":1537654591,
+    "wof:lastmodified":1566583518,
     "wof:name":"Maam-ch'on",
     "wof:parent_id":1108747793,
     "wof:placetype":"locality",

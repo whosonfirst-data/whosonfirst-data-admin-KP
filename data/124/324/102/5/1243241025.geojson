@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.74194,39.80028,125.78194,39.84028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u014fsan-ni",
         "S\u014fsal-li"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243241025,
-    "wof:lastmodified":1537654320,
+    "wof:lastmodified":1566584748,
     "wof:name":"Sosal-li",
     "wof:parent_id":1108747023,
     "wof:placetype":"locality",

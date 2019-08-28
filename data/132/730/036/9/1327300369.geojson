@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.81722,42.46722,129.85722,42.50722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc0ac\uc744\ud604",
         "Sa\u016drhy\u014fn"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327300369,
-    "wof:lastmodified":1537655548,
+    "wof:lastmodified":1566581699,
     "wof:name":"Saurhyon",
     "wof:parent_id":1108746885,
     "wof:placetype":"locality",

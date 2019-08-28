@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.84667,40.75278,128.88667,40.79278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc0bc\uac70\ub9ac",
         "Samg\u014f-ri"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242679055,
-    "wof:lastmodified":1537655599,
+    "wof:lastmodified":1566584722,
     "wof:name":"Samgo-ri",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",

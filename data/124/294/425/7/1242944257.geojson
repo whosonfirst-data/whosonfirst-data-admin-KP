@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.07139,41.34806,128.11139,41.38806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Y\u014fnp\u2019y\u014fng-ni",
         "N\u016dpp\u2019y\u014fng-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242944257,
-    "wof:lastmodified":1537655136,
+    "wof:lastmodified":1566584712,
     "wof:name":"Nupp'yong-ni",
     "wof:parent_id":1108747113,
     "wof:placetype":"locality",

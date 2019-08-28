@@ -11,11 +11,15 @@
     "geom:longitude":129.67,
     "gn:country":"KP",
     "gn:fcode":"PPLL",
-    "gn:pop":11681,
+    "gn:population":11681,
     "iso:country":"KP",
+    "lbl:bbox":"129.65,41.41389,129.69,41.45389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Kaibun-d\u014f"
     ],
     "qs:name":"Hoemul-li",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2044104,
         "gp:id":1069989,
-        "qs:id":137857
+        "qs_pg:id":137857
     },
     "wof:country":"KP",
     "wof:created":1469051132,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890416389,
-    "wof:lastmodified":1505343431,
+    "wof:lastmodified":1566584582,
     "wof:name":"Hoemul-li",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

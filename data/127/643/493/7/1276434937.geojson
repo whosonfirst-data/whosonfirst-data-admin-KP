@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.76611,38.20556,126.80611,38.24556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0631\u0648\u0648\u0646-\u062f\u0648\u0646\u06af"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1276434937,
-    "wof:lastmodified":1564114829,
+    "wof:lastmodified":1566583049,
     "wof:name":"Irwon-dong",
     "wof:parent_id":1108747189,
     "wof:placetype":"locality",

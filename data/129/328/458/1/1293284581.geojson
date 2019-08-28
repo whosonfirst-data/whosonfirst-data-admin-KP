@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.18861,37.89389,125.22861,37.93389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293284581,
-    "wof:lastmodified":1537076434,
+    "wof:lastmodified":1566582923,
     "wof:name":"Yonbong-ni",
     "wof:parent_id":1108747029,
     "wof:placetype":"locality",

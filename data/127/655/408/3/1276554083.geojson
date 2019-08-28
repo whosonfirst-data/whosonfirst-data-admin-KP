@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.87694,40.71361,128.91694,40.75361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hokyo-ri",
         "P\u2019ong\u014f-nodongjagu",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276554083,
-    "wof:lastmodified":1537655318,
+    "wof:lastmodified":1566583296,
     "wof:name":"P'ogo-dong",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",

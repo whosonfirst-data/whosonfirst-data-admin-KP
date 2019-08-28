@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.9125,41.97861,129.9525,42.01861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc640\uc6b0\uad00\ub3d9",
         "Waugwan-dong"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343921435,
-    "wof:lastmodified":1537655171,
+    "wof:lastmodified":1566582303,
     "wof:name":"Waugwan-dong",
     "wof:parent_id":1108746863,
     "wof:placetype":"locality",

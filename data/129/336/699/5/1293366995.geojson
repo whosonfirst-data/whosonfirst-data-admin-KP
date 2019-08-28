@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.84728,38.91399,125.88728,38.95399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub9dd\ubc14\uc704"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293366995,
-    "wof:lastmodified":1537654583,
+    "wof:lastmodified":1566582555,
     "wof:name":"Mangbawi",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

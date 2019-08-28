@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.85889,39.74139,126.89889,39.78139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc18c\uc219\ub9ac\uace0\uad90\ub3d9",
         "Sosungni Kogw\u014fl-tong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309804903,
-    "wof:lastmodified":1537655681,
+    "wof:lastmodified":1566584550,
     "wof:name":"Sosungni Kogwol-tong",
     "wof:parent_id":1108748103,
     "wof:placetype":"locality",

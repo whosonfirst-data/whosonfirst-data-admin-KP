@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.34278,39.14083,126.38278,39.18083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ud68c\ubaa9\ub3d9"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309694653,
-    "wof:lastmodified":1537655896,
+    "wof:lastmodified":1566584534,
     "wof:name":"Hoemok-tong",
     "wof:parent_id":1108746883,
     "wof:placetype":"locality",

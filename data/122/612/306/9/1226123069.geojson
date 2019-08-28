@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.39694,40.00444,124.43694,40.04444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub3d9\ub9dd\ub3d9",
         "Tongmang-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226123069,
-    "wof:lastmodified":1537655754,
+    "wof:lastmodified":1566585448,
     "wof:name":"Tongmang-dong",
     "wof:parent_id":1108748005,
     "wof:placetype":"locality",

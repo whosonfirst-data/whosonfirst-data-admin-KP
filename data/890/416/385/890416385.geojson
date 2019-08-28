@@ -11,10 +11,14 @@
     "geom:longitude":127.95583,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":70923,
+    "gn:population":70923,
     "iso:country":"KP",
+    "lbl:bbox":"127.93583,40.00528,127.97583,40.04528",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Hongwon"
     ],
@@ -39,7 +43,7 @@
     "name:pol_x_preferred":[
         "Hongw\u014fn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u014dgen"
     ],
     "name:vie_x_preferred":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":2044050,
         "gp:id":1093871,
-        "qs:id":137855,
+        "qs_pg:id":137855,
         "wd:id":"Q707118",
         "wk:page":"Hongwon County"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890416385,
-    "wof:lastmodified":1563588773,
+    "wof:lastmodified":1566584582,
     "wof:name":"Hongw\u014fn",
     "wof:parent_id":1108746889,
     "wof:placetype":"locality",

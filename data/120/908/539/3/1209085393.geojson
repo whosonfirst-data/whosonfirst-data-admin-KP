@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.24639,41.18667,128.28639,41.22667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc0bc\uc77c\ub85c\ub3d9\uc790\uad6c"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209085393,
-    "wof:lastmodified":1537655287,
+    "wof:lastmodified":1566583461,
     "wof:name":"Samil-lodongjagu",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.02417,40.04417,128.06417,40.08417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u016dk\u014f-ri",
         "\uc911\ud765\ub9ac",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293595537,
-    "wof:lastmodified":1537655460,
+    "wof:lastmodified":1566582733,
     "wof:name":"Chunghung-ni",
     "wof:parent_id":1108746889,
     "wof:placetype":"locality",

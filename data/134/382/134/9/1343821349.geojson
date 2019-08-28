@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"130.38611,42.49194,130.42611,42.53194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud559\uc1a1\ub85c\ub3d9\uc790\uad6c",
         "Haksong-ni",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343821349,
-    "wof:lastmodified":1537655601,
+    "wof:lastmodified":1566582270,
     "wof:name":"Haksong-nodongjagu",
     "wof:parent_id":1108746997,
     "wof:placetype":"locality",

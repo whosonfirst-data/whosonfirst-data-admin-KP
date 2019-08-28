@@ -9,20 +9,23 @@
     "geom:bbox":"129.68444,41.71361,129.68444,41.71361",
     "geom:latitude":41.71361,
     "geom:longitude":129.68444,
-    "gn:gn_country":"KP",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":34055,
+    "gn:country":"KP",
+    "gn:fcode":"PPL",
     "gn:population":34055,
     "iso:country":"KP",
+    "lbl:bbox":"129.66444,41.69361,129.70444,41.73361",
     "lbl:latitude":41.71361,
     "lbl:longitude":129.68444,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041d\u0430\u043d\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ranam"
     ],
     "qs_pg:aaroncc":"KP",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":137849,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125868083,
-    "wof:lastmodified":1509397131,
+    "wof:lastmodified":1566584586,
     "wof:name":"Nanam",
     "wof:parent_id":1108747001,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.74111,41.78,129.78111,41.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ucd94\ud3c9\ub3d9",
         "Ch\u2019up\u2019y\u014fng-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276943925,
-    "wof:lastmodified":1537655454,
+    "wof:lastmodified":1566583145,
     "wof:name":"Ch'up'yong-dong",
     "wof:parent_id":1108746863,
     "wof:placetype":"locality",

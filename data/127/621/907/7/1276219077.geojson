@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.38833,38.14833,126.42833,38.18833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc5f0\uce58\ub3d9",
         "Y\u014fnch\u2019i-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276219077,
-    "wof:lastmodified":1537655123,
+    "wof:lastmodified":1566583064,
     "wof:name":"Yonch'i-dong",
     "wof:parent_id":1108747061,
     "wof:placetype":"locality",

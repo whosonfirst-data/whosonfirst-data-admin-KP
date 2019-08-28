@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.195,39.35333,127.235,39.39333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u014fng-mal",
         "\ub355\ub9d0"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343568137,
-    "wof:lastmodified":1537655118,
+    "wof:lastmodified":1566582340,
     "wof:name":"Tong-mal",
     "wof:parent_id":1108746869,
     "wof:placetype":"locality",

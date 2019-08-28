@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.98,38.69667,128.02,38.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc11d\uc0ac\ub9ac"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310115583,
-    "wof:lastmodified":1537654352,
+    "wof:lastmodified":1566584217,
     "wof:name":"Soksa-ri",
     "wof:parent_id":1108747853,
     "wof:placetype":"locality",

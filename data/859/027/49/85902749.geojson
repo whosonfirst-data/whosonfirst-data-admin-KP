@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5647510.906286,
+    "geom:area_square_m":0.0,
     "geom:bbox":"125.709183,39.060164,125.709183,39.060164",
     "geom:latitude":39.060164,
     "geom:longitude":125.709183,
     "iso:country":"KP",
+    "lbl:bbox":"125.704183,39.055164,125.714183,39.065164",
     "lbl:latitude":39.060164,
     "lbl:longitude":125.709183,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.058077,
     "mps:longitude":125.709364,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Miruk-tong"
     ],
     "name:eng_x_preferred":[
-        "Mir\u00fek-tong"
-    ],
-    "name:unk_x_variant":[
         "Mir\u00fek-tong"
     ],
     "qs:gn_adm0_cc":"KP",
@@ -61,12 +60,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676611,
         102191569,
         85632639,
-        1108747951,
-        85676611
+        1108747951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935936,
+    "wof:lastmodified":1566582512,
     "wof:name":"Mir\u00fek-tong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

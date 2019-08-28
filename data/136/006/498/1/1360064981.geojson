@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.88407,38.8867,125.92407,38.9267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "Songp\u2019a"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360064981,
-    "wof:lastmodified":1537654329,
+    "wof:lastmodified":1566584379,
     "wof:name":"Songp'a",
     "wof:parent_id":1108747799,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"KP",
     "lbl:latitude":39.390428,
     "lbl:longitude":126.886061,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"South Hamgyong",
     "meso:dissme":"SudongSouth Hamgyong",
     "meso:gadm_adm2":"Sudong",
@@ -26,6 +28,7 @@
     "mps:longitude":126.886061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:fas_x_preferred":[
         "\u0633\u0648\u062f\u0648\u0646\u06af"
     ],
@@ -54,7 +57,7 @@
         "\u6c34\u6d1e\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632639,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108748031,
-    "wof:lastmodified":1564115988,
+    "wof:lastmodified":1566584025,
     "wof:name":"Sudong",
     "wof:parent_id":85676629,
     "wof:placetype":"county",

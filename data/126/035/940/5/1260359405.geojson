@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.36361,39.23278,126.40361,39.27278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc624\ub9ac\ubc14\uc6b0"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260359405,
-    "wof:lastmodified":1537654517,
+    "wof:lastmodified":1566584001,
     "wof:name":"Oribau",
     "wof:parent_id":1108747149,
     "wof:placetype":"locality",

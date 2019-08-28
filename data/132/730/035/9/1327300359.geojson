@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.655,40.82417,129.695,40.86417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub3d9\ud638\ub3d9",
         "Tongho-dong"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327300359,
-    "wof:lastmodified":1537655642,
+    "wof:lastmodified":1566581701,
     "wof:name":"Tongho-dong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

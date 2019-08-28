@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.41667,40.19861,126.45667,40.23861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ucc3d\uace8",
         "Ch\u2019ang-gol"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259496579,
-    "wof:lastmodified":1537655715,
+    "wof:lastmodified":1566585080,
     "wof:name":"Ch'ang-gol",
     "wof:parent_id":1108747201,
     "wof:placetype":"locality",

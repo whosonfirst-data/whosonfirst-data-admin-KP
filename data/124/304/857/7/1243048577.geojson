@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.50917,39.98861,124.54917,40.02861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ucda9\uc5f4\ub9ac",
         "Ch\u2019ungy\u014fl-li"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243048577,
-    "wof:lastmodified":1537655746,
+    "wof:lastmodified":1566584798,
     "wof:name":"Ch'ungyol-li",
     "wof:parent_id":1108747047,
     "wof:placetype":"locality",

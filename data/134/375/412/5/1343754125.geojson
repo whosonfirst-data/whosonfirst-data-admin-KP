@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.57611,38.03611,125.61611,38.07611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u014fw\u014fn-ni",
         "S\u014fw\u014fl-li"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343754125,
-    "wof:lastmodified":1537654317,
+    "wof:lastmodified":1566582474,
     "wof:name":"Sowol-li",
     "wof:parent_id":1108747743,
     "wof:placetype":"locality",

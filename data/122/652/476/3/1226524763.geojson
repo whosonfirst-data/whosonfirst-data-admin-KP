@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.53028,38.88111,125.57028,38.92111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ip\u2019o-ri",
         "Pae-gol"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226524763,
-    "wof:lastmodified":1537654510,
+    "wof:lastmodified":1566585482,
     "wof:name":"Pae-gol",
     "wof:parent_id":1108746951,
     "wof:placetype":"locality",

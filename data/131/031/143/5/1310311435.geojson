@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.47222,39.83389,127.51222,39.87389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u014dnan-ri",
         "Hungnam-ni",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310311435,
-    "wof:lastmodified":1537654718,
+    "wof:lastmodified":1566584158,
     "wof:name":"Hungnam-ni",
     "wof:parent_id":1108747745,
     "wof:placetype":"locality",

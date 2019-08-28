@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.94667,41.16833,127.98667,41.20833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sang\u016dnsan-ni",
         "Sang\u016dnsal-li"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310376659,
-    "wof:lastmodified":1537655273,
+    "wof:lastmodified":1566584181,
     "wof:name":"Sangunsal-li",
     "wof:parent_id":1108747113,
     "wof:placetype":"locality",

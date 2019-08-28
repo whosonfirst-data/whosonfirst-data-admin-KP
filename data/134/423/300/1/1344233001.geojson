@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.72667,41.38139,129.76667,41.42139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u2019aep\u2019o",
         "\ub9c9\uc740\uac1c",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344233001,
-    "wof:lastmodified":1537655374,
+    "wof:lastmodified":1566582193,
     "wof:name":"Magun'gae",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",

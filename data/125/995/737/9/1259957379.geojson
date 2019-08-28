@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.86,40.30111,124.9,40.34111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uae38\uc0c1\ub9ac",
         "Kilsang-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259957379,
-    "wof:lastmodified":1537655403,
+    "wof:lastmodified":1566585109,
     "wof:name":"Kilsang-ni",
     "wof:parent_id":1108747105,
     "wof:placetype":"locality",

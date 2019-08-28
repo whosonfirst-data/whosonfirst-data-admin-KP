@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.25325,40.05124,128.29325,40.09124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tangj\u014fnch\u2019on",
         "\ub2f9\uc804\ucd0c"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259384027,
-    "wof:lastmodified":1537655205,
+    "wof:lastmodified":1566584971,
     "wof:name":"Tangjonch'on",
     "wof:parent_id":1108748003,
     "wof:placetype":"locality",

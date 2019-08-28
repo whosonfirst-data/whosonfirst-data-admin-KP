@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.975,40.92111,129.015,40.96111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uccad\ubcc4\uc560",
         "Ch\u2019\u014fngby\u014frae"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242744437,
-    "wof:lastmodified":1537655595,
+    "wof:lastmodified":1566584647,
     "wof:name":"Ch'ongbyorae",
     "wof:parent_id":1108746957,
     "wof:placetype":"locality",

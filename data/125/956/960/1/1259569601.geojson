@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.65389,38.96861,125.69389,39.00861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "Hadal-ma\u016dl"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259569601,
-    "wof:lastmodified":1537654755,
+    "wof:lastmodified":1566585158,
     "wof:name":"Hadal-maul",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

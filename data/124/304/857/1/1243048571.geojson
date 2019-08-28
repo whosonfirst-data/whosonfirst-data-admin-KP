@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"124.74917,39.82111,124.78917,39.86111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puwhang-dong",
         "Puhwang-ni"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243048571,
-    "wof:lastmodified":1537654470,
+    "wof:lastmodified":1566584799,
     "wof:name":"Puhwang-ni",
     "wof:parent_id":1108747199,
     "wof:placetype":"locality",

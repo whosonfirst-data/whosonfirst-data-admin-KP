@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.27028,40.79278,129.31028,40.83278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub18d\ud3c9",
         "Nongp\u2019y\u014fng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343424453,
-    "wof:lastmodified":1537655344,
+    "wof:lastmodified":1566582438,
     "wof:name":"Nongp'yong",
     "wof:parent_id":1108747763,
     "wof:placetype":"locality",

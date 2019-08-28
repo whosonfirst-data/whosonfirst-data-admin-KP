@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.46917,40.17333,128.50917,40.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pingin-ch\u2019on",
         "\ube59\uc778\ucd0c"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226343477,
-    "wof:lastmodified":1537655578,
+    "wof:lastmodified":1566585321,
     "wof:name":"Pingin-ch'on",
     "wof:parent_id":1108747941,
     "wof:placetype":"locality",

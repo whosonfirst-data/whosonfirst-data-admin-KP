@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.69139,40.28444,126.73139,40.32444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub300\ubc94\uace8"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293204089,
-    "wof:lastmodified":1537655657,
+    "wof:lastmodified":1566582852,
     "wof:name":"Taebom-gol",
     "wof:parent_id":1108747201,
     "wof:placetype":"locality",

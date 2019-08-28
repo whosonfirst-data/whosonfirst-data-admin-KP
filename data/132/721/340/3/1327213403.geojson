@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.10361,38.84694,126.14361,38.88694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ppael-kol",
         "Ppael-gol"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327213403,
-    "wof:lastmodified":1537654944,
+    "wof:lastmodified":1566582034,
     "wof:name":"Ppael-gol",
     "wof:parent_id":1108747115,
     "wof:placetype":"locality",

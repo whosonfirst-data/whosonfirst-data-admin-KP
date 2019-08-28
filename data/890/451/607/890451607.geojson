@@ -11,11 +11,15 @@
     "geom:longitude":126.88556,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":9888,
+    "gn:population":9888,
     "iso:country":"KP",
+    "lbl:bbox":"126.86556,39.14944,126.90556,39.18944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tongyang"
     ],
     "qs:name":"Sangs\u014fng-ni",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1871028,
         "gp:id":1093979,
-        "qs:id":137237
+        "qs_pg:id":137237
     },
     "wof:country":"KP",
     "wof:created":1469052787,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451607,
-    "wof:lastmodified":1505343641,
+    "wof:lastmodified":1566584583,
     "wof:name":"Sangs\u014fng-ni",
     "wof:parent_id":1108748101,
     "wof:placetype":"locality",

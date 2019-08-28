@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.24667,41.51333,129.28667,41.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pisaek-kol",
         "Pisaek-tong"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260366005,
-    "wof:lastmodified":1537655320,
+    "wof:lastmodified":1566583916,
     "wof:name":"Pisaek-tong",
     "wof:parent_id":1108747001,
     "wof:placetype":"locality",

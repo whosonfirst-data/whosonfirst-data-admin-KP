@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.61828,40.28109,126.65828,40.32109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "Sangs\u014fng"
     ],
@@ -32,10 +36,6 @@
         "\uc0c1\uc131",
         "Sangs\u014fngch\u2019am",
         "\uc0c1\uc131\ucc38"
-    ],
-    "name:und_x_variant":[
-        "\uc0c1\uc131\ucc38",
-        "Sangs\u014fngch\u2019am"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1310604583,
-    "wof:lastmodified":1537655657,
+    "wof:lastmodified":1566584338,
     "wof:name":"Sangsongch'am",
     "wof:parent_id":1108747201,
     "wof:placetype":"locality",

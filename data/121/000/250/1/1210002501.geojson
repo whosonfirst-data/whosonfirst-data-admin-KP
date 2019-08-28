@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.07528,38.37083,126.11528,38.41083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210002501,
-    "wof:lastmodified":1536377213,
+    "wof:lastmodified":1566583746,
     "wof:name":"Munak-tong",
     "wof:parent_id":1108747145,
     "wof:placetype":"locality",

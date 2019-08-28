@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.78833,41.54944,128.82833,41.58944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Engand\u014d",
         "Y\u014fnam-dong",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293361629,
-    "wof:lastmodified":1537655157,
+    "wof:lastmodified":1566582554,
     "wof:name":"Yonam-nodongjagu",
     "wof:parent_id":1108747907,
     "wof:placetype":"locality",

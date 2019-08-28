@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.53694,40.25028,127.57694,40.29028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc911\ub9ac",
         "Chung-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344058205,
-    "wof:lastmodified":1537655801,
+    "wof:lastmodified":1566582402,
     "wof:name":"Chung-ni",
     "wof:parent_id":1108747129,
     "wof:placetype":"locality",

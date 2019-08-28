@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.2475,40.97611,129.2875,41.01611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud3ec\ucd0c",
         "P\u2019och\u2019on"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226725895,
-    "wof:lastmodified":1537655319,
+    "wof:lastmodified":1566585233,
     "wof:name":"P'och'on",
     "wof:parent_id":1108746955,
     "wof:placetype":"locality",

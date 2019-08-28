@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.46444,40.50417,128.50444,40.54417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yangg\u016dnd\u014fk",
         "\uc591\uadfc\ub355\uc774",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326631367,
-    "wof:lastmodified":1537655619,
+    "wof:lastmodified":1566581991,
     "wof:name":"Yanggundogi",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",

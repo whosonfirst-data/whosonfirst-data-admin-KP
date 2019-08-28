@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.61528,39.40778,125.65528,39.44778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "Tod\u014fng-ni"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226618949,
-    "wof:lastmodified":1537654936,
+    "wof:lastmodified":1566585375,
     "wof:name":"Todong-ni",
     "wof:parent_id":1108748033,
     "wof:placetype":"locality",

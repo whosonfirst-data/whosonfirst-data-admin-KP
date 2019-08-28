@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.56194,41.56611,129.60194,41.60611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud3c9\ub355",
         "P\u2019y\u014fngd\u014fk"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225808585,
-    "wof:lastmodified":1537655300,
+    "wof:lastmodified":1566585390,
     "wof:name":"P'yongdok",
     "wof:parent_id":1108747001,
     "wof:placetype":"locality",

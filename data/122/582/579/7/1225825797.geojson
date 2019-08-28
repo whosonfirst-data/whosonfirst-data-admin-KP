@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.73139,40.12167,125.77139,40.16167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ub3c4\ub9ac\ub3d9",
         "Tori-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225825797,
-    "wof:lastmodified":1537655184,
+    "wof:lastmodified":1566585556,
     "wof:name":"Tori-dong",
     "wof:parent_id":1108748089,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.07472,39.90722,126.11472,39.94722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shink\u014d-d\u014d",
         "Sinh\u016dng-dong",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326517399,
-    "wof:lastmodified":1537654383,
+    "wof:lastmodified":1566581759,
     "wof:name":"Sinhung-ni",
     "wof:parent_id":1108746979,
     "wof:placetype":"locality",

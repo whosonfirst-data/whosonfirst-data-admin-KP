@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.31333,40.13,125.35333,40.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ud48d\ub355\ub3d9"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326840069,
-    "wof:lastmodified":1537655307,
+    "wof:lastmodified":1566581958,
     "wof:name":"P'ungdok-tong",
     "wof:parent_id":1108747195,
     "wof:placetype":"locality",

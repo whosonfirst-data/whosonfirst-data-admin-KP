@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.49111,42.37056,129.53111,42.41056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud558\ub959\ub3d9",
         "Haryuk-tong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360251413,
-    "wof:lastmodified":1537655543,
+    "wof:lastmodified":1566584348,
     "wof:name":"Haryuk-tong",
     "wof:parent_id":1108746885,
     "wof:placetype":"locality",

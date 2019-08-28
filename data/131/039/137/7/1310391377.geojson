@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.40444,38.02472,126.44444,38.06472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uac15\ub0a8\ub9ac",
         "Kangnam-ni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310391377,
-    "wof:lastmodified":1537654667,
+    "wof:lastmodified":1566584192,
     "wof:name":"Kangnam-ni",
     "wof:parent_id":1108747851,
     "wof:placetype":"locality",

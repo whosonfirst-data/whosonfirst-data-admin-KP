@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.983811,
     "lbl:longitude":128.097164,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_loc":"\ub7c9\uac15\ub3c4",
     "mps:latitude":41.046627,
@@ -186,12 +187,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u042f\u043d\u0433\u0430\u043d"
     ],
-    "name:und_x_variant":[
-        "\ub7c9\uac15\ub3c4"
-    ],
-    "name:unk_x_variant":[
-        "Yanggang-do"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0627\u0646\u06af\u06af\u0627\u0646\u06af \u0635\u0648\u0628\u06c1"
     ],
@@ -276,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-10-01",
+    "src:population_date":"2008-10-01",
     "statoids:area_km":"13,888",
     "statoids:area_mi":"5,362",
     "statoids:as_of_date":"2008-10-01",
@@ -303,7 +298,7 @@
         "gp:id":2345956,
         "hasc:id":"KP.YG",
         "iso:id":"KP-10",
-        "qs:id":1222520,
+        "qs_pg:id":1222520,
         "unlc:id":"KP-10",
         "wd:id":"Q110171",
         "wk:page":"Ryanggang Province"
@@ -324,11 +319,10 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725187,
+    "wof:lastmodified":1566582519,
     "wof:name":"Ryanggang",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":719269,
     "wof:population_rank":11,

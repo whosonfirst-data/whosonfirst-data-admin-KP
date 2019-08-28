@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.57631,40.53352,126.61631,40.57352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "Y\u014fnjagi-ma\u016dl"
     ],
@@ -36,10 +40,6 @@
         "\uc5f0\uc7ac\uae30",
         "Y\u014funjang-ni",
         "\uc5ec\uc6b4\uc791\ub9ac"
-    ],
-    "name:und_x_variant":[
-        "\uc5ec\uc6b4\uc791\ub9ac",
-        "Y\u014funjang-ni"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1193146231,
-    "wof:lastmodified":1537655644,
+    "wof:lastmodified":1566583816,
     "wof:name":"Yonjagi-maul",
     "wof:parent_id":1108747103,
     "wof:placetype":"locality",

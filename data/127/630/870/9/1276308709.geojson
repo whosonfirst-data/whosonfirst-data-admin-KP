@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.24667,40.68,129.28667,40.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kaihei-d\u014d",
         "Haep\u2019y\u014fng-dong"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276308709,
-    "wof:lastmodified":1537655449,
+    "wof:lastmodified":1566583335,
     "wof:name":"Haep'yong-dong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

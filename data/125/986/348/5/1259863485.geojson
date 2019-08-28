@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.34056,38.38472,127.38056,38.42472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Songhy\u014fn-ni",
         "Songhy\u014fl-li"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259863485,
-    "wof:lastmodified":1537654336,
+    "wof:lastmodified":1566585203,
     "wof:name":"Songhyol-li",
     "wof:parent_id":1108747947,
     "wof:placetype":"locality",

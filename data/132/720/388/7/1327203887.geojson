@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.30722,38.75056,125.34722,38.79056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u014fllae-ri",
         "Getsurai-ri",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1327203887,
-    "wof:lastmodified":1537654214,
+    "wof:lastmodified":1566582067,
     "wof:name":"Tallaemal",
     "wof:parent_id":1108747021,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.97972,40.42889,127.01972,40.46889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc2e0\ubcbd",
         "Sinby\u014fk"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242784865,
-    "wof:lastmodified":1537655266,
+    "wof:lastmodified":1566584860,
     "wof:name":"Sinbyok",
     "wof:parent_id":1108746913,
     "wof:placetype":"locality",

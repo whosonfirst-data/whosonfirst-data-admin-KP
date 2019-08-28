@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.355,40.81472,128.395,40.85472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud558\ub2aa\ubaa9",
         "Han\u016dmmok"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1192997437,
-    "wof:lastmodified":1537655926,
+    "wof:lastmodified":1566583851,
     "wof:name":"Hanummok",
     "wof:parent_id":1108746959,
     "wof:placetype":"locality",

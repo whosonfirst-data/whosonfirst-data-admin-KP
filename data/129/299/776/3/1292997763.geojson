@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.70639,38.01389,126.74639,38.05389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Manson",
         "Man-ch\u2019on"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292997763,
-    "wof:lastmodified":1537654583,
+    "wof:lastmodified":1566582846,
     "wof:name":"Man-ch'on",
     "wof:parent_id":1108746915,
     "wof:placetype":"locality",

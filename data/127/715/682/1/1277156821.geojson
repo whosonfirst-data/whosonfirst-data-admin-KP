@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"126.23444,39.00778,126.27444,39.04778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ubd81\uc2dc\uc548"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277156821,
-    "wof:lastmodified":1537655030,
+    "wof:lastmodified":1566583206,
     "wof:name":"Puksian",
     "wof:parent_id":1108747811,
     "wof:placetype":"locality",

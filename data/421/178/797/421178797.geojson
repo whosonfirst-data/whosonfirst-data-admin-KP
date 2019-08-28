@@ -10,8 +10,12 @@
     "geom:latitude":41.46083,
     "geom:longitude":126.64139,
     "iso:country":"KP",
+    "lbl:bbox":"126.62139,41.44083,126.66139,41.48083",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0427\u0430\u0441\u044a\u043d"
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Chasong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zizy\u014d"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":2045005,
         "gp:id":1093856,
-        "qs:id":137868,
+        "qs_pg:id":137868,
         "wd:id":"Q698477",
         "wk:page":"Chasong County"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421178797,
-    "wof:lastmodified":1563588765,
+    "wof:lastmodified":1566584578,
     "wof:name":"Chasong",
     "wof:parent_id":1108746919,
     "wof:placetype":"locality",

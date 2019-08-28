@@ -10,6 +10,9 @@
     "geom:latitude":37.93472,
     "geom:longitude":125.36194,
     "iso:country":"KP",
+    "lbl:bbox":"125.34194,37.91472,125.38194,37.95472",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -17,7 +20,7 @@
     "name:rus_x_preferred":[
         "\u041e\u043d\u0447\u0436\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bazan"
     ],
     "ne:ADM0CAP":0.0,
@@ -142,7 +145,7 @@
     "wof:concordances":{
         "gn:id":1873172,
         "gp:id":1093924,
-        "qs:id":274084
+        "qs_pg:id":274084
     },
     "wof:country":"KP",
     "wof:created":1459009236,
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":421179865,
-    "wof:lastmodified":1505340645,
+    "wof:lastmodified":1566584578,
     "wof:name":"Ongjin",
     "wof:parent_id":1108747029,
     "wof:placetype":"locality",

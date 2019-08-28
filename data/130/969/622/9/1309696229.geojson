@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.32938,39.18708,127.36938,39.22708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tory\u014fng-ni",
         "\ub3c4\ub839\ub9ac"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309696229,
-    "wof:lastmodified":1537654241,
+    "wof:lastmodified":1566584537,
     "wof:name":"Toryong-ni",
     "wof:parent_id":1108747009,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.4594,41.23177,127.4994,41.27177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uac15\uc751\uacc4\ub9ac"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243533583,
-    "wof:lastmodified":1537655407,
+    "wof:lastmodified":1566584617,
     "wof:name":"Kangunggye-ri",
     "wof:parent_id":1108746961,
     "wof:placetype":"locality",

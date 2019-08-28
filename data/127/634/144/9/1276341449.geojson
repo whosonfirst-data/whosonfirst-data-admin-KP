@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.1875,39.92972,127.2275,39.96972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc1a1\uc591\ub3d9",
         "Songyang-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276341449,
-    "wof:lastmodified":1537655681,
+    "wof:lastmodified":1566583132,
     "wof:name":"Songyang-dong",
     "wof:parent_id":1108747747,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.22139,38.1975,125.26139,38.2375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc0b0\ucd0c\ub3d9",
         "Sanch\u2019on-dong"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293805671,
-    "wof:lastmodified":1537654427,
+    "wof:lastmodified":1566582912,
     "wof:name":"Sanch'on-dong",
     "wof:parent_id":1108747185,
     "wof:placetype":"locality",

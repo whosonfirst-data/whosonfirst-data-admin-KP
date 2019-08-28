@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":38.333494,
     "lbl:longitude":125.409707,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"S. Hwanghae",
     "meso:name_loc":"\ud669\ud574\ub0a8\ub3c4",
     "mps:latitude":38.335108,
@@ -160,7 +161,7 @@
         "S\u00f6dra Hwanghae"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0bb5\u0bbe\u0b99\u0b95\u0bb5\u0bc7  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0b99\u0b95\u0bb5\u0bc7 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c39\u0c35\u0c3e\u0c02\u0c17\u0c47 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -175,11 +176,7 @@
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0425\u0432\u0430\u043d\u0445\u0435"
     ],
     "name:und_x_variant":[
-        "\ud669\ud574\ub0a8\ub3c4",
         "S. Hwanghae"
-    ],
-    "name:unk_x_variant":[
-        "\ud669\ud574\ub0a8\ub3c4"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc \u06c1\u0648\u0627\u0646\u06af\u06c1\u0627\u0626\u06d2 \u0635\u0648\u0628\u06c1"
@@ -265,9 +262,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-10-01",
+    "src:population_date":"2008-10-01",
     "statoids:area_km":"8,294",
     "statoids:area_mi":"3,202",
     "statoids:as_of_date":"2008-10-01",
@@ -291,7 +288,7 @@
         "gp:id":2345952,
         "hasc:id":"KP.WN",
         "iso:id":"KP-05",
-        "qs:id":894910,
+        "qs_pg:id":894910,
         "wd:id":"Q626052",
         "wk:page":"South Hwanghae Province"
     },
@@ -311,11 +308,10 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1565725185,
+    "wof:lastmodified":1566582514,
     "wof:name":"Hwanghae-namdo",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2310485,
     "wof:population_rank":12,

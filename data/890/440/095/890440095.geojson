@@ -11,8 +11,11 @@
     "geom:longitude":129.32778,
     "gn:country":"KP",
     "gn:fcode":"PPL",
-    "gn:pop":63652,
+    "gn:population":63652,
     "iso:country":"KP",
+    "lbl:bbox":"129.30778,40.94417,129.34778,40.98417",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -40,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u044c\u0434\u0436\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kil-dschu"
     ],
     "ne:ADM0CAP":0.0,
@@ -151,7 +154,7 @@
     "wof:concordances":{
         "gn:id":2043484,
         "gp:id":1093894,
-        "qs:id":274153,
+        "qs_pg:id":274153,
         "wd:id":"Q1415683",
         "wk:page":"Kilju"
     },
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":890440095,
-    "wof:lastmodified":1563588768,
+    "wof:lastmodified":1566584579,
     "wof:name":"Kilju",
     "wof:parent_id":1108746955,
     "wof:placetype":"locality",

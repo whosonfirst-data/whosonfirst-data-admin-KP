@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"128.24667,41.33806,128.28667,41.37806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub178\uc911\ub9ac"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276742261,
-    "wof:lastmodified":1537655344,
+    "wof:lastmodified":1566583094,
     "wof:name":"Nojung-ni",
     "wof:parent_id":1108746903,
     "wof:placetype":"locality",

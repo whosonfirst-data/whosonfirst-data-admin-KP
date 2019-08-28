@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"125.81167,39.92806,125.85167,39.96806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309699625,
-    "wof:lastmodified":1537081090,
+    "wof:lastmodified":1566584532,
     "wof:name":"Sou-dong",
     "wof:parent_id":1108748089,
     "wof:placetype":"locality",

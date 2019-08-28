@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"127.3239,39.17814,127.3639,39.21814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kwanp\u2019y\u014fng-ni",
         "\uad00\ud3c9\ub9ac"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243051961,
-    "wof:lastmodified":1537654597,
+    "wof:lastmodified":1566584836,
     "wof:name":"Kwanp'yong-ni",
     "wof:parent_id":1108747229,
     "wof:placetype":"locality",

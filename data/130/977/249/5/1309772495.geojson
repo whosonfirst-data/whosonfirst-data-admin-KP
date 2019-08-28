@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Pyongyang",
     "iso:country":"KP",
+    "lbl:bbox":"129.49389,41.38167,129.53389,41.42167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Song\u014f-kol",
         "\uc1a1\uc5b4\uace8",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309772495,
-    "wof:lastmodified":1537655577,
+    "wof:lastmodified":1566584488,
     "wof:name":"Songo-gol",
     "wof:parent_id":1108747903,
     "wof:placetype":"locality",
