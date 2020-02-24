@@ -70,6 +70,9 @@
         "gp:id":1074428
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d34516f91e4a70d3650605a50f871957",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566582511,
+    "wof:lastmodified":1582315759,
     "wof:name":"Kurw\u014fn-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

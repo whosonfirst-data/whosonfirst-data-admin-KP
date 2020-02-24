@@ -309,6 +309,9 @@
         "wk:page":"South Hamgyong Province"
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"351336470830f66d4d5e9f7da2db951e",
     "wof:hierarchy":[
         {
@@ -324,7 +327,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1566582515,
+    "wof:lastmodified":1582315760,
     "wof:name":"Hamgy\u014fng-namdo",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

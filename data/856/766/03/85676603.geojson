@@ -293,6 +293,9 @@
         "wk:page":"North Hwanghae Province"
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"edf34186aa6f4167957e4c2c0237f860",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1566582512,
+    "wof:lastmodified":1582315759,
     "wof:name":"Hwanghae-bukto",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

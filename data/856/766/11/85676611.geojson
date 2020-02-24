@@ -655,6 +655,9 @@
         "wd:id":"Q18808"
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f316fdfbc22c767e9f31071430e0bf4",
     "wof:hierarchy":[
         {
@@ -670,7 +673,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1566582515,
+    "wof:lastmodified":1582315760,
     "wof:name":"P'y\u014fngyang",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
