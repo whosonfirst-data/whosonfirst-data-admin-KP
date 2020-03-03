@@ -1130,8 +1130,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso",
-        "naturalearth"
+        "meso"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1204,7 +1203,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1582315763,
+    "wof:lastmodified":1583202699,
     "wof:name":"North Korea",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
