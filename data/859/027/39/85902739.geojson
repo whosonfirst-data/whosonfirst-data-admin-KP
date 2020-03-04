@@ -81,6 +81,10 @@
         "qs_pg:id":898568
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f5806d0afd7948f7dff769f5f56255a",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566582511,
+    "wof:lastmodified":1582315759,
     "wof:name":"Ch'\u014fngam-ni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

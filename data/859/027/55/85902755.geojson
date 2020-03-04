@@ -72,6 +72,9 @@
         "gp:id":1083077
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cefc51da6c4734003a65a1543853b791",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566582511,
+    "wof:lastmodified":1582315759,
     "wof:name":"Sanh\u00feng-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

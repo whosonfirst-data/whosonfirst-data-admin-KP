@@ -58,6 +58,9 @@
     },
     "wof:country":"KP",
     "wof:created":1459009998,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1e9e80e51354566342f88ec00ec1fbc1",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1566584577,
+    "wof:lastmodified":1582315790,
     "wof:name":"Namp\u00b4o-si",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

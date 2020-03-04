@@ -304,6 +304,9 @@
         "wk:page":"Ryanggang Province"
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c0f2909a2f0802376a25819a8eec43ae",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1566582519,
+    "wof:lastmodified":1582315761,
     "wof:name":"Ryanggang",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

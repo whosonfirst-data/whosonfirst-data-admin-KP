@@ -293,6 +293,9 @@
         "wk:page":"South Hwanghae Province"
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f716efe9854c252c6527bb369a01576c",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1566582514,
+    "wof:lastmodified":1582315760,
     "wof:name":"Hwanghae-namdo",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

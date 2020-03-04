@@ -306,6 +306,9 @@
         "wk:page":"North Pyongan Province"
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8732eec1039bcf9b96a61e50c112b832",
     "wof:hierarchy":[
         {
@@ -321,7 +324,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1566582513,
+    "wof:lastmodified":1582315760,
     "wof:name":"P'y\u014fngan-bukto",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

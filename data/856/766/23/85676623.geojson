@@ -305,6 +305,9 @@
         "wk:page":"Chagang Province"
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ebec4a723ccb6020956dd1bb684115a0",
     "wof:hierarchy":[
         {
@@ -320,7 +323,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1566582520,
+    "wof:lastmodified":1582315762,
     "wof:name":"Chagang-do",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

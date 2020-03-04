@@ -193,6 +193,9 @@
         "wk:page":"North Hamgyong Province"
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab470add4339f5bbd939e1396a313118",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1566582523,
+    "wof:lastmodified":1582315762,
     "wof:name":"Ras\u014fn",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

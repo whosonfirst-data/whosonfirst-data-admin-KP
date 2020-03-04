@@ -67,6 +67,9 @@
         "gp:id":1084504
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"233fced26889c9f78f2ee975ae1bfe4d",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566582511,
+    "wof:lastmodified":1582315759,
     "wof:name":"Sinni-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

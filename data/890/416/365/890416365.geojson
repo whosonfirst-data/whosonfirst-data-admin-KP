@@ -67,6 +67,9 @@
     },
     "wof:country":"KP",
     "wof:created":1469051130,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0bbf1024d6a67585cb207d2d218f0109",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890416365,
-    "wof:lastmodified":1566584582,
+    "wof:lastmodified":1582315790,
     "wof:name":"Sunan",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

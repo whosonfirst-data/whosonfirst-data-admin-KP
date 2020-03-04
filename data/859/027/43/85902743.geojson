@@ -72,6 +72,9 @@
         "gp:id":1071366
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e569af369cb8b6b658af0fb2f37b3918",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566582511,
+    "wof:lastmodified":1582315759,
     "wof:name":"Inh\u00feng-ni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

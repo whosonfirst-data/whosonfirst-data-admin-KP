@@ -282,6 +282,9 @@
     },
     "wof:country":"KP",
     "wof:created":1459009048,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"184bbf6981a86269d5a4cb5abbd0caa1",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":421174919,
-    "wof:lastmodified":1566584575,
+    "wof:lastmodified":1582315790,
     "wof:name":"Manp'o",
     "wof:parent_id":1108747007,
     "wof:placetype":"locality",

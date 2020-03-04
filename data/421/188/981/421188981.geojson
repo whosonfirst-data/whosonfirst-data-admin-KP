@@ -521,6 +521,9 @@
     },
     "wof:country":"KP",
     "wof:created":1459009595,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"87bf6ab4ae9ef52b8887aa5c945963f5",
     "wof:hierarchy":[
         {
@@ -532,7 +535,7 @@
         }
     ],
     "wof:id":421188981,
-    "wof:lastmodified":1566584576,
+    "wof:lastmodified":1582315790,
     "wof:name":"Pyongyang",
     "wof:parent_id":1108747951,
     "wof:placetype":"locality",

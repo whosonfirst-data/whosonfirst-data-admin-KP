@@ -72,6 +72,9 @@
         "gp:id":1075759
     },
     "wof:country":"KP",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bea26642ccfde20014ecb8dd276cbf0f",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566582512,
+    "wof:lastmodified":1582315759,
     "wof:name":"Mir\u00fek-tong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
