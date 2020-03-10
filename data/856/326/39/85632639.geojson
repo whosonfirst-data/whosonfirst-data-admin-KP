@@ -1161,9 +1161,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"North_Korea",
-        "digitalenvoy:country_code":[
-            408
-        ],
+        "digitalenvoy:country_code":408,
         "fb:id":"en.north_korea",
         "fifa:id":"PRK",
         "fips:code":"KN",
@@ -1206,7 +1204,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1583529214,
+    "wof:lastmodified":1583797422,
     "wof:name":"North Korea",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
