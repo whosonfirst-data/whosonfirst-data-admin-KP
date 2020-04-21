@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.927817,
-    "geom:area_square_m":122170692671.777557,
+    "geom:area_square_m":122170689819.240829,
     "geom:bbox":"124.185387,37.676784,130.699451,43.01159",
     "geom:latitude":40.143512,
     "geom:longitude":127.173304,
@@ -58,6 +58,9 @@
     ],
     "name:arg_x_variant":[
         "Corea d'o Norte"
+    ],
+    "name:ary_x_preferred":[
+        "\u0643\u0648\u0631\u064a\u0627 \u0634\u0645\u0627\u0644\u064a\u0629"
     ],
     "name:arz_x_preferred":[
         "\u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647"
@@ -199,6 +202,12 @@
         "Den demokratiske folkerepublik Korea",
         "Den demokratiske folkerepublik Korea (Nordkorea)"
     ],
+    "name:deu_at_x_preferred":[
+        "Nordkorea"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Nordkorea"
+    ],
     "name:deu_x_preferred":[
         "Nordkorea"
     ],
@@ -233,6 +242,12 @@
     ],
     "name:ell_x_variant":[
         "\u039a\u03bf\u03c1\u03ad\u03b1, \u0392\u03cc\u03c1\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "North Korea"
+    ],
+    "name:eng_gb_x_preferred":[
+        "North Korea"
     ],
     "name:eng_x_preferred":[
         "North Korea"
@@ -604,6 +619,9 @@
     "name:ltz_x_preferred":[
         "Demokratesch Volleksrepublik Korea"
     ],
+    "name:ltz_x_variant":[
+        "Nordkorea"
+    ],
     "name:lub_x_preferred":[
         "Kore wa muulu"
     ],
@@ -817,6 +835,9 @@
     "name:san_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0915\u094b\u0930\u093f\u092f\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6e\u1c5b\u1c5a\u1c62 \u1c60\u1c73\u1c68\u1c64\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Corea d\u00fb Nord"
     ],
@@ -874,6 +895,12 @@
     "name:srd_x_preferred":[
         "Corea de su Norte"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041a\u043e\u0440\u0435\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Severna Koreja"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041a\u043e\u0440\u0435\u0458\u0430"
     ],
@@ -894,6 +921,9 @@
     ],
     "name:szl_x_preferred":[
         "P\u016f\u0142nocno Koryjo"
+    ],
+    "name:szy_x_preferred":[
+        "Korea"
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0b9f\u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe"
@@ -1036,8 +1066,26 @@
     "name:zha_x_preferred":[
         "Cauzsenh Minzcujcujyi Yinzminz Gunghozgoz"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u671d\u9c9c\u6c11\u4e3b\u4e3b\u4e49\u4eba\u6c11\u5171\u548c\u56fd"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u570b"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Ti\u00e2u-si\u00e1n B\u00een-ch\u00fa-ch\u00fa-g\u012b J\u00een-b\u00een Ki\u014dng-h\u00f4-kok"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u570b"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u671d\u9c9c\u6c11\u4e3b\u4e3b\u4e49\u4eba\u6c11\u5171\u548c\u56fd"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u671d\u9c9c\u6c11\u4e3b\u4e3b\u4e49\u4eba\u6c11\u5171\u548c\u56fd"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u570b"
     ],
     "name:zho_x_preferred":[
         "\u671d\u9c9c\u6c11\u4e3b\u4e3b\u4e49\u4eba\u6c11\u5171\u548c\u56fd"
@@ -1204,7 +1252,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1583797422,
+    "wof:lastmodified":1587428037,
     "wof:name":"North Korea",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
