@@ -27,7 +27,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Yongyu-dong"
+    ],
     "name:kor_x_preferred":[
+        "\uc6a9\uc720\ub3d9"
+    ],
+    "name:kor_x_variant":[
         "\uc6a9\uc720\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -84,8 +90,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1582315758,
-    "wof:name":"\uc6a9\uc720\ub3d9",
+    "wof:lastmodified":1601068478,
+    "wof:name":"Yongyu-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kp",

@@ -21,6 +21,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Mabuk-dong"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ubd81\ub3d9"
+    ],
     "qs_pg:aaroncc":"KP",
     "qs_pg:gn_country":"KP",
     "qs_pg:gn_fcode":"PPL",
@@ -73,8 +79,8 @@
         }
     ],
     "wof:id":1126077043,
-    "wof:lastmodified":1566584588,
-    "wof:name":"\ub9c8\ubd81\ub3d9",
+    "wof:lastmodified":1601068457,
+    "wof:name":"Mabuk-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kp",
