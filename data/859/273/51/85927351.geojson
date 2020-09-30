@@ -33,9 +33,6 @@
     "name:kor_x_preferred":[
         "\uc6a9\uc720\ub3d9"
     ],
-    "name:kor_x_variant":[
-        "\uc6a9\uc720\ub3d9"
-    ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":1843564,
@@ -90,7 +87,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1601068478,
+    "wof:lastmodified":1601423135,
     "wof:name":"Yongyu-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

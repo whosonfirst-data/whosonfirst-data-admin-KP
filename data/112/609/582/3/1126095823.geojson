@@ -54,10 +54,10 @@
     "woe:name_adm1":"\uc11c\uc6b8",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85676603,
         102191569,
         85632639,
-        1108747189
+        1108747189,
+        85676603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1126095823,
-    "wof:lastmodified":1601068463,
+    "wof:lastmodified":1601423124,
     "wof:name":"Sageun-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

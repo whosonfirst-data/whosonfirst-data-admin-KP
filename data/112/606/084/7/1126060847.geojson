@@ -54,10 +54,10 @@
     "woe:name_adm1":"\uc11c\uc6b8",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85676619,
         102191569,
         85632639,
-        1108747727
+        1108747727,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1126060847,
-    "wof:lastmodified":1601068496,
+    "wof:lastmodified":1601423111,
     "wof:name":"Hwanghak-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

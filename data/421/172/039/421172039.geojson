@@ -42,10 +42,10 @@
     "qs:woe_id":28806785,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85676605,
         102191569,
         85632639,
-        1108747905
+        1108747905,
+        85676605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421172039,
-    "wof:lastmodified":1601068444,
+    "wof:lastmodified":1601423104,
     "wof:name":"Galsan-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

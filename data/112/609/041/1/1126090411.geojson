@@ -54,10 +54,10 @@
     "woe:name_adm1":"\uacbd\uae30\ub3c4",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85676605,
         102191569,
         85632639,
-        1108748107
+        1108748107,
+        85676605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1126090411,
-    "wof:lastmodified":1601068448,
+    "wof:lastmodified":1601423107,
     "wof:name":"Goean-dong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
