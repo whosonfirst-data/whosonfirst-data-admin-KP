@@ -338,6 +338,9 @@
         "wd:id":"Q109356",
         "wk:page":"Hamhung"
     },
+    "wof:coterminous":[
+        1108747745
+    ],
     "wof:country":"KP",
     "wof:created":1469052348,
     "wof:geom_alt":[
@@ -354,7 +357,7 @@
         }
     ],
     "wof:id":890442051,
-    "wof:lastmodified":1608689806,
+    "wof:lastmodified":1608696099,
     "wof:megacity":1,
     "wof:name":"Hamh\u016dng",
     "wof:parent_id":1108747745,
