@@ -1,0 +1,18 @@
+{
+  "id": 890451605,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"unknown",
+    "src:geom":"unknown",
+    "wof:geomhash":"9c199a4d8f6c8767b3ee5a630a35b11b",
+    "wof:id":890451605,
+    "wof:repo":"whosonfirst-data-admin-kp"
+},
+  "bbox": [
+    125.40778,
+    38.7375,
+    125.40778,
+    38.7375
+],
+  "geometry": {"coordinates":[125.40778,38.7375],"type":"Point"}
+}
