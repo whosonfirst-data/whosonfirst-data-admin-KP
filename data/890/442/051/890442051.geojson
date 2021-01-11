@@ -13,7 +13,6 @@
     "gn:fcode":"PPLA",
     "gn:population":559056,
     "iso:country":"KP",
-    "lbl:bbox":"127.51639,39.89833,127.55639,39.93833",
     "lbl:latitude":39.902858,
     "lbl:longitude":127.549559,
     "lbl:max_zoom":13.0,
@@ -357,7 +356,7 @@
         }
     ],
     "wof:id":890442051,
-    "wof:lastmodified":1608696099,
+    "wof:lastmodified":1610148268,
     "wof:megacity":1,
     "wof:name":"Hamh\u016dng",
     "wof:parent_id":1108747745,

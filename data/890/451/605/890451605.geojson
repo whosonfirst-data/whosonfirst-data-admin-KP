@@ -13,7 +13,6 @@
     "gn:fcode":"PPLA2",
     "gn:population":455000,
     "iso:country":"KP",
-    "lbl:bbox":"125.38778,38.7175,125.42778,38.7575",
     "lbl:latitude":38.733563,
     "lbl:longitude":125.408895,
     "lbl:max_zoom":13.0,
@@ -322,7 +321,7 @@
         }
     ],
     "wof:id":890451605,
-    "wof:lastmodified":1608689806,
+    "wof:lastmodified":1610148268,
     "wof:megacity":1,
     "wof:name":"Namp\u2019o",
     "wof:parent_id":1108747021,
