@@ -242,6 +242,9 @@
         "Pyongyang"
     ],
     "name:kor_x_preferred":[
+        "\ud3c9\uc591"
+    ],
+    "name:kor_x_variant":[
         "\ud3c9\uc591\uc9c1\ud560\uc2dc"
     ],
     "name:kur_x_preferred":[
@@ -539,7 +542,7 @@
         }
     ],
     "wof:id":421188981,
-    "wof:lastmodified":1608688184,
+    "wof:lastmodified":1614894943,
     "wof:megacity":1,
     "wof:name":"Pyongyang",
     "wof:parent_id":1108747951,

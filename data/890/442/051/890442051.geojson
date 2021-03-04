@@ -107,6 +107,9 @@
         "\u0cb9\u0cae\u0ccd\u0cb9\u0c82\u0c97\u0ccd"
     ],
     "name:kor_x_preferred":[
+        "\ud568\ud765"
+    ],
+    "name:kor_x_variant":[
         "\ud568\ud765\uc2dc"
     ],
     "name:lav_x_preferred":[
@@ -356,7 +359,7 @@
         }
     ],
     "wof:id":890442051,
-    "wof:lastmodified":1610148268,
+    "wof:lastmodified":1614894943,
     "wof:megacity":1,
     "wof:name":"Hamh\u016dng",
     "wof:parent_id":1108747745,
