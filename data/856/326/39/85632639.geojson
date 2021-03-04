@@ -787,7 +787,6 @@
         "Coreia do Norte"
     ],
     "name:por_x_variant":[
-        "Coreia do Norte",
         "Cor\u00e9ia, Norte",
         "Cor\u00e9ia, Rep\u00fablica Popular Democr\u00e1tica da",
         "Coreia, Norte",
@@ -1252,7 +1251,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1587428037,
+    "wof:lastmodified":1614894942,
     "wof:name":"North Korea",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
