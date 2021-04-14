@@ -1241,7 +1241,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso"
+        "meso",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1300,7 +1301,8 @@
     "wof:geom_alt":[
         "naturalearth-display-terrestrial-zoom6",
         "meso",
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"dcb41800e87fd6096488201080016682",
     "wof:hierarchy":[
@@ -1316,7 +1318,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1617827389,
+    "wof:lastmodified":1618362113,
     "wof:name":"North Korea",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
