@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.40988889,41.90716667,128.40988889,41.90716667",
+    "geom:bbox":"128.409889,41.907167,128.409889,41.907167",
     "geom:latitude":41.907167,
     "geom:longitude":128.409889,
     "iso:country":"KP",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Samjiy\u014fn Airport"
+    ],
+    "name:eng_x_variant":[
+        "YJS",
+        "ZKSE"
     ],
     "name:epo_x_preferred":[
         "Flughaveno Samjiy\u014fn"
@@ -72,7 +76,7 @@
         "wd:id":"Q717708"
     },
     "wof:country":"KP",
-    "wof:geomhash":"ab919ee429bf3a52fa6581f13f564a55",
+    "wof:geomhash":"585f4e69493edb349c4464632a8abc6d",
     "wof:hierarchy":[
         {
             "campus_id":102541411,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":102541411,
-    "wof:lastmodified":1566582067,
+    "wof:lastmodified":1631744366,
     "wof:name":"Samjiyon Airport",
     "wof:parent_id":85676641,
     "wof:placetype":"campus",
@@ -93,10 +97,10 @@
     ]
 },
   "bbox": [
-    128.40988889,
-    41.90716667,
-    128.40988889,
-    41.90716667
+    128.409889,
+    41.907167,
+    128.409889,
+    41.907167
 ],
-  "geometry": {"coordinates":[128.40988888999999,41.90716667],"type":"Point"}
+  "geometry": {"coordinates":[128.40988899999999,41.907167],"type":"Point"}
 }
