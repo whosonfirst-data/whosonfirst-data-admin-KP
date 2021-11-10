@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"125.714383096,38.0394209992,125.714383096,38.0394209992",
+    "geom:bbox":"125.714383,38.039421,125.714383,38.039421",
     "geom:latitude":38.039421,
     "geom:longitude":125.714383,
     "gn:country":"KP",
@@ -68,6 +68,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac8\u0a9c\u0ac1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05d9\u05d2'\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0939\u0948\u091c\u0941"
@@ -281,7 +284,7 @@
     },
     "wof:country":"KP",
     "wof:created":1499130730,
-    "wof:geomhash":"b6e855c42820e9df566b3aa285f9e012",
+    "wof:geomhash":"438f47c7b65ee50b06452303ec7c30be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":1141907467,
-    "wof:lastmodified":1566585578,
+    "wof:lastmodified":1636494985,
     "wof:name":"Haeju",
     "wof:parent_id":1108747743,
     "wof:placetype":"locality",
@@ -306,10 +309,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.71438309641906,
-    38.03942099919209,
-    125.71438309641906,
-    38.03942099919209
+    125.714383,
+    38.039421,
+    125.714383,
+    38.039421
 ],
-  "geometry": {"coordinates":[125.71438309641906,38.03942099919209],"type":"Point"}
+  "geometry": {"coordinates":[125.714383,38.039421],"type":"Point"}
 }

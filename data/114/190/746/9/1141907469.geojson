@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"126.603217732,40.9732212515,126.603217732,40.9732212515",
+    "geom:bbox":"126.603218,40.973221,126.603218,40.973221",
     "geom:latitude":40.973221,
     "geom:longitude":126.603218,
     "iso:country":"KP",
@@ -71,6 +71,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a82\u0a97\u0aaf\u0ac7"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d2\u05d9\u05d9\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0902\u0917\u0917\u092f\u0947"
@@ -276,7 +279,7 @@
     },
     "wof:country":"KP",
     "wof:created":1499130730,
-    "wof:geomhash":"ef93a960e6baa9e3fdcd8c806035236f",
+    "wof:geomhash":"cda149f176a486fcc778d095ec05e7ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -287,7 +290,7 @@
         }
     ],
     "wof:id":1141907469,
-    "wof:lastmodified":1566585578,
+    "wof:lastmodified":1636494984,
     "wof:name":"Kanggye",
     "wof:parent_id":1108747813,
     "wof:placetype":"locality",
@@ -297,10 +300,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.60321773183932,
-    40.97322125148247,
-    126.60321773183932,
-    40.97322125148247
+    126.603218,
+    40.973221,
+    126.603218,
+    40.973221
 ],
-  "geometry": {"coordinates":[126.60321773183932,40.97322125148247],"type":"Point"}
+  "geometry": {"coordinates":[126.603218,40.973221],"type":"Point"}
 }

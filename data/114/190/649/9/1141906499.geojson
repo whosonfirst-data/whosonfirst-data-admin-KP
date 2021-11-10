@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"127.251705281,39.3813029165,127.251705281,39.3813029165",
+    "geom:bbox":"127.251705,39.381303,127.251705,39.381303",
     "geom:latitude":39.381303,
     "geom:longitude":127.251705,
     "iso:country":"KP",
@@ -48,8 +48,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0aa8\u0acd\u0a9a\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05e6'\u05d5\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0902\u091a\u094b\u0902"
+    ],
+    "name:hun_x_preferred":[
+        "Munchon"
     ],
     "name:ind_x_preferred":[
         "Munchon"
@@ -240,7 +246,7 @@
     },
     "wof:country":"KP",
     "wof:created":1499130602,
-    "wof:geomhash":"3c11b94495b4a14fae21687f5f468124",
+    "wof:geomhash":"cb6747420b6802ba31eb783fe22d317e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -251,7 +257,7 @@
         }
     ],
     "wof:id":1141906499,
-    "wof:lastmodified":1566585578,
+    "wof:lastmodified":1636494985,
     "wof:name":"Munchon",
     "wof:parent_id":1108746869,
     "wof:placetype":"locality",
@@ -261,10 +267,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.25170528066997,
-    39.3813029165151,
-    127.25170528066997,
-    39.3813029165151
+    127.251705,
+    39.381303,
+    127.251705,
+    39.381303
 ],
-  "geometry": {"coordinates":[127.25170528066997,39.3813029165151],"type":"Point"}
+  "geometry": {"coordinates":[127.251705,39.381303],"type":"Point"}
 }

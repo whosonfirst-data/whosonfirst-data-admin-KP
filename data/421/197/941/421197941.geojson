@@ -18,13 +18,47 @@
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:kor_x_preferred":[
-        "Changy\u014fn"
+        "\ucc3d\uc5f0"
     ],
     "name:kor_x_variant":[
-        "\uc7a5\uc5f0"
+        "\uc7a5\uc5f0",
+        "Changy\u014fn"
+    ],
+    "name:nld_x_preferred":[
+        "Changyon"
+    ],
+    "name:pol_x_preferred":[
+        "Changy\u014fn"
+    ],
+    "name:por_x_preferred":[
+        "Changy\u014fn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043d\u044a\u0451\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Changy\u014fn"
+    ],
+    "name:tur_x_preferred":[
+        "Changyon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0445\u0430\u043d\u044c\u0439\u043e\u043d"
     ],
     "name:und_x_variant":[
         "Tschang-j\u00f6n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0646\u06af\u06cc\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Changyon"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u957f\u6e0a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9577\u6df5"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"North Korea",
@@ -163,7 +197,7 @@
         }
     ],
     "wof:id":421197941,
-    "wof:lastmodified":1566584577,
+    "wof:lastmodified":1636494982,
     "wof:name":"Changyon",
     "wof:parent_id":1108746917,
     "wof:placetype":"locality",

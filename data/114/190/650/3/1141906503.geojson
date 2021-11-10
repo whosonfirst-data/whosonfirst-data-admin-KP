@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"126.295846313,41.1454329621,126.295846313,41.1454329621",
+    "geom:bbox":"126.295846,41.145433,126.295846,41.145433",
     "geom:latitude":41.145433,
     "geom:longitude":126.295846,
     "iso:country":"KP",
@@ -53,6 +53,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0aa8\u0aaa\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05e4\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0928\u092a\u094b"
@@ -107,6 +110,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd0\u0db1\u0dca\u0db4\u0ddd"
+    ],
+    "name:spa_x_preferred":[
+        "Manpo"
     ],
     "name:swe_x_preferred":[
         "Manpo"
@@ -249,7 +255,7 @@
     },
     "wof:country":"KP",
     "wof:created":1499130603,
-    "wof:geomhash":"55752705ccd1bbc4a6b99cff34d0a42c",
+    "wof:geomhash":"8780f13a504b81fd9243fc4cb39ddebe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -260,7 +266,7 @@
         }
     ],
     "wof:id":1141906503,
-    "wof:lastmodified":1566585577,
+    "wof:lastmodified":1636494984,
     "wof:name":"Manpo",
     "wof:parent_id":1108747007,
     "wof:placetype":"locality",
@@ -270,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.29584631256716,
-    41.14543296209513,
-    126.29584631256716,
-    41.14543296209513
+    126.295846,
+    41.145433,
+    126.295846,
+    41.145433
 ],
-  "geometry": {"coordinates":[126.29584631256716,41.14543296209513],"type":"Point"}
+  "geometry": {"coordinates":[126.295846,41.145433],"type":"Point"}
 }

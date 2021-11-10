@@ -65,6 +65,12 @@
     "name:fra_x_preferred":[
         "Puyang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Puyang"
+    ],
     "name:ita_x_preferred":[
         "Puyang"
     ],
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1310593407,
-    "wof:lastmodified":1566584276,
+    "wof:lastmodified":1636494982,
     "wof:name":"Puyang",
     "wof:parent_id":1108746907,
     "wof:placetype":"locality",

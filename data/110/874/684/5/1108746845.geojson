@@ -29,8 +29,83 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u0628\u064a\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09cd\u09af\u09be\u09a8\u09ac\u09cd\u09af\u09df\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Anbyon"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03bc\u03c0\u03b9\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Anbyon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u0628\u06cc\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Anby\u014fn"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d1\u05d9\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0928\u092c\u094d\u092f\u094b\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Anbyon"
+    ],
+    "name:ind_x_preferred":[
+        "Anbyon"
+    ],
+    "name:ita_x_preferred":[
+        "Anbyon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5b89\u8fba"
+    ],
+    "name:kor_x_preferred":[
+        "\uc548\ubcc0"
+    ],
+    "name:nld_x_preferred":[
+        "Anbyon"
+    ],
+    "name:pol_x_preferred":[
+        "Anby\u014fn"
+    ],
+    "name:por_x_preferred":[
+        "Anby\u014fn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0431\u0451\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Anbyon"
+    ],
+    "name:swe_x_preferred":[
+        "Anby\u014fn"
+    ],
+    "name:tur_x_preferred":[
+        "Anbyon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0431\u044c\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u0628\u06cc\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Anbyon"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5b89\u8fb9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b89\u908a"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -53,7 +128,7 @@
         }
     ],
     "wof:id":1108746845,
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1636494981,
     "wof:name":"Anbyon",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"125.938968871,39.4236000763,125.938968871,39.4236000763",
+    "geom:bbox":"125.938969,39.4236,125.938969,39.4236",
     "geom:latitude":39.4236,
     "geom:longitude":125.938969,
     "iso:country":"KP",
@@ -58,6 +58,9 @@
         "Sunchon"
     ],
     "name:jpn_x_preferred":[
+        "\u9806\u5ddd"
+    ],
+    "name:jpn_x_variant":[
         "\u9806\u5ddd\u5e02"
     ],
     "name:kan_x_preferred":[
@@ -240,7 +243,7 @@
     },
     "wof:country":"KP",
     "wof:created":1499130603,
-    "wof:geomhash":"b2f766d7af6d600d035a20fc3c101503",
+    "wof:geomhash":"ac7cb5f3050b9d8b241dfe06d561010d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -251,7 +254,7 @@
         }
     ],
     "wof:id":1141906505,
-    "wof:lastmodified":1566585577,
+    "wof:lastmodified":1636494984,
     "wof:name":"Sunchon",
     "wof:parent_id":1108748035,
     "wof:placetype":"locality",
@@ -261,10 +264,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.93896887115955,
-    39.42360007634608,
-    125.93896887115955,
-    39.42360007634608
+    125.938969,
+    39.4236,
+    125.938969,
+    39.4236
 ],
-  "geometry": {"coordinates":[125.93896887115955,39.42360007634608],"type":"Point"}
+  "geometry": {"coordinates":[125.938969,39.4236],"type":"Point"}
 }

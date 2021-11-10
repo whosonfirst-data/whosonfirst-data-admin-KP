@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"129.202748982,40.6723093862,129.202748982,40.6723093862",
+    "geom:bbox":"129.202749,40.672309,129.202749,40.672309",
     "geom:latitude":40.672309,
     "geom:longitude":129.202749,
     "iso:country":"KP",
@@ -65,6 +65,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0aae\u0a9a\u0ac7\u0a95"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05de\u05e6'\u05d0\u05e7"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u092e\u091a\u093e\u090f\u0915"
@@ -258,7 +261,7 @@
     },
     "wof:country":"KP",
     "wof:created":1499130936,
-    "wof:geomhash":"32d45552030a442400df7e65dc4b7964",
+    "wof:geomhash":"bd8cca79f2eb8bfb542aecee34a601f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":1141908591,
-    "wof:lastmodified":1566585576,
+    "wof:lastmodified":1636494983,
     "wof:name":"Kimchaek",
     "wof:parent_id":1108746957,
     "wof:placetype":"locality",
@@ -279,10 +282,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.2027489818497,
-    40.67230938624687,
-    129.2027489818497,
-    40.67230938624687
+    129.202749,
+    40.672309,
+    129.202749,
+    40.672309
 ],
-  "geometry": {"coordinates":[129.20274898184971,40.67230938624687],"type":"Point"}
+  "geometry": {"coordinates":[129.20274900000001,40.672309],"type":"Point"}
 }

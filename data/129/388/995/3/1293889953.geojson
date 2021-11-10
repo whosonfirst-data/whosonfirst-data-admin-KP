@@ -62,6 +62,12 @@
     "name:fra_x_preferred":[
         "Pohang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d7\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Pohang"
+    ],
     "name:ind_x_preferred":[
         "Pohang"
     ],
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":1293889953,
-    "wof:lastmodified":1566582986,
+    "wof:lastmodified":1636494980,
     "wof:name":"Pohang",
     "wof:parent_id":1108747941,
     "wof:placetype":"locality",

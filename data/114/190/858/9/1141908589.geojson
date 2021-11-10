@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"129.789999958,41.7846187531,129.789999958,41.7846187531",
+    "geom:bbox":"129.79,41.784619,129.79,41.784619",
     "geom:latitude":41.784619,
     "geom:longitude":129.79,
     "iso:country":"KP",
@@ -26,6 +26,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0427\u0445\u043e\u043d\u0434\u0436\u044b\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09cb\u0982\u099c\u09bf\u09a8"
     ],
     "name:bul_x_preferred":[
         "\u0427\u0445\u044a\u043d\u0434\u0436\u0438\u043d"
@@ -279,7 +282,7 @@
     },
     "wof:country":"KP",
     "wof:created":1499130936,
-    "wof:geomhash":"4db69e18a086b386052c3b4b9f6760e4",
+    "wof:geomhash":"b7a8c05c7710fd8dc55ad996ce6478a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -290,7 +293,7 @@
         }
     ],
     "wof:id":1141908589,
-    "wof:lastmodified":1566585577,
+    "wof:lastmodified":1636494983,
     "wof:name":"Chongjin",
     "wof:parent_id":1108746863,
     "wof:placetype":"locality",
@@ -300,10 +303,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.78999995841457,
-    41.78461875311336,
-    129.78999995841457,
-    41.78461875311336
+    129.79,
+    41.784619,
+    129.79,
+    41.784619
 ],
-  "geometry": {"coordinates":[129.78999995841457,41.78461875311336],"type":"Point"}
+  "geometry": {"coordinates":[129.78999999999999,41.784619],"type":"Point"}
 }

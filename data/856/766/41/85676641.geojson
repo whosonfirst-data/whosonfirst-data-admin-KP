@@ -94,6 +94,9 @@
     "name:hak_x_preferred":[
         "Ryanggang Tho"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d0\u05e0\u05d2\u05d2\u05d0\u05e0\u05d2"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u0947\u092f\u093e\u0902\u0917\u0917\u0948\u0902\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
@@ -325,7 +328,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1614894941,
+    "wof:lastmodified":1636494978,
     "wof:name":"Ryanggang",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
