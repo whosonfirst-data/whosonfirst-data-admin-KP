@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Pury\u014fng-gun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Puryong"
+    ],
     "name:eng_x_preferred":[
         "Puryong County"
+    ],
+    "name:hun_x_preferred":[
+        "Purjong"
     ],
     "name:jpn_x_preferred":[
         "\u5bcc\u5be7\u90e1"
@@ -37,11 +46,17 @@
     "name:pol_x_preferred":[
         "Pury\u014fng"
     ],
+    "name:swe_x_preferred":[
+        "Pury\u014fng-gun"
+    ],
     "name:und_x_variant":[
         "Funei"
     ],
     "name:vie_x_preferred":[
         "Puryong"
+    ],
+    "name:yue_x_preferred":[
+        "\u5bcc\u5be7\u90e1"
     ],
     "name:zho_x_preferred":[
         "\u5bcc\u5be7\u90e1"
@@ -79,7 +94,7 @@
         }
     ],
     "wof:id":890444173,
-    "wof:lastmodified":1566584581,
+    "wof:lastmodified":1690938223,
     "wof:name":"Pury\u014fng",
     "wof:parent_id":1108747943,
     "wof:placetype":"locality",

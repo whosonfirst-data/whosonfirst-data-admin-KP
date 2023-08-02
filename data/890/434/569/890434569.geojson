@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Hoeyang-gun"
     ],
+    "name:cym_x_preferred":[
+        "Sir Hoeyang"
+    ],
     "name:eng_x_preferred":[
         "Hoeyang County"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Hoeyang"
+    ],
+    "name:yue_x_preferred":[
+        "\u6dee\u967d\u90e1"
     ],
     "name:zho_x_preferred":[
         "\u6dee\u967d\u90e1"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":890434569,
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1690938226,
     "wof:name":"Hoeyang",
     "wof:parent_id":1108746887,
     "wof:placetype":"locality",

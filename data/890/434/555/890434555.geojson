@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Y\u014fnan-gun"
     ],
+    "name:cym_x_preferred":[
+        "Sir Yonan"
+    ],
     "name:eng_x_preferred":[
         "Yonan County"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Yonan"
+    ],
+    "name:yue_x_preferred":[
+        "\u5ef6\u5b89"
     ],
     "name:zho_x_preferred":[
         "\u5ef6\u5b89\u90e1"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890434555,
-    "wof:lastmodified":1566584584,
+    "wof:lastmodified":1690938227,
     "wof:name":"Y\u014fnan-\u016dp",
     "wof:parent_id":1108748107,
     "wof:placetype":"locality",

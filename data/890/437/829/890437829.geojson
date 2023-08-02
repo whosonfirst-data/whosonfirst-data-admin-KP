@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Py\u014fks\u014fng-gun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Pyoksong"
+    ],
     "name:eng_x_preferred":[
         "Pyoksong County"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:pol_x_preferred":[
         "Py\u014fks\u014fng"
+    ],
+    "name:swe_x_preferred":[
+        "Py\u014fks\u014fng-gun"
     ],
     "name:und_x_variant":[
         "Chuya"
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":890437829,
-    "wof:lastmodified":1566584580,
+    "wof:lastmodified":1690938222,
     "wof:name":"Py\u014fks\u014fng-\u016dp",
     "wof:parent_id":1108747921,
     "wof:placetype":"locality",

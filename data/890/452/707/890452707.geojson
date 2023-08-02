@@ -49,6 +49,9 @@
     "name:fra_x_preferred":[
         "Songrim"
     ],
+    "name:gle_x_preferred":[
+        "Songrim"
+    ],
     "name:ita_x_preferred":[
         "Songrim"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc1a1\ub9bc\uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Songrimas"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043e\u043d\u0433\u043d\u0438\u043c"
@@ -84,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Songrim"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u04a3\u0440\u0438\u043c"
     ],
     "name:tgl_x_preferred":[
         "Songnim"
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":890452707,
-    "wof:lastmodified":1566584580,
+    "wof:lastmodified":1690938223,
     "wof:name":"Songnim",
     "wof:parent_id":1108747765,
     "wof:placetype":"locality",

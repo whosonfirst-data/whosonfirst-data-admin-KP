@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Y\u014fnggwang-gun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Yonggwang"
+    ],
     "name:eng_x_preferred":[
         "Yonggwang County"
     ],
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890444175,
-    "wof:lastmodified":1566584581,
+    "wof:lastmodified":1690938223,
     "wof:name":"Y\u014fnggwang-\u016dp",
     "wof:parent_id":1108748109,
     "wof:placetype":"locality",
