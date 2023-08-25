@@ -46,6 +46,9 @@
     "name:arg_x_preferred":[
         "Pyongyang"
     ],
+    "name:ary_x_preferred":[
+        "\u067e\u064a\u0648\u0646\u06ad\u064a\u0627\u0646\u06ad"
+    ],
     "name:arz_x_preferred":[
         "\u0628\u064a\u0648\u0646\u063a\u064a\u0627\u0646\u063a"
     ],
@@ -55,6 +58,12 @@
     "name:ast_x_preferred":[
         "Pyongyang"
     ],
+    "name:ast_x_variant":[
+        "Pyong Yang"
+    ],
+    "name:awa_x_preferred":[
+        "\u092a\u094d\u092f\u094b\u0919\u094d\u0917\u092f\u093e\u0919\u094d\u0917"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u06cc\u0648\u0646\u06af\u200c\u06cc\u0627\u0646\u06af"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:bak_x_preferred":[
         "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    ],
+    "name:ban_x_preferred":[
+        "Pyongyang"
     ],
     "name:bcl_x_preferred":[
         "Pyongyang"
@@ -179,6 +191,9 @@
     "name:fra_x_preferred":[
         "Pyongyang"
     ],
+    "name:frr_x_preferred":[
+        "Pj\u00f6ngjang"
+    ],
     "name:fry_x_preferred":[
         "Pyongyang"
     ],
@@ -198,6 +213,9 @@
         "P'y\u014fngyang"
     ],
     "name:hat_x_preferred":[
+        "Pyongyang"
+    ],
+    "name:hau_x_preferred":[
         "Pyongyang"
     ],
     "name:hbs_x_preferred":[
@@ -251,6 +269,9 @@
     "name:jpn_x_preferred":[
         "\u5e73\u58cc"
     ],
+    "name:jpn_x_variant":[
+        "\u5e73\u58cc\u76f4\u8f44\u5e02"
+    ],
     "name:kaa_x_preferred":[
         "Pxenyan"
     ],
@@ -294,6 +315,9 @@
     "name:lez_x_preferred":[
         "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
     ],
+    "name:lij_x_preferred":[
+        "Py\u00f2ngyang"
+    ],
     "name:lit_x_preferred":[
         "Pchenjanas"
     ],
@@ -321,11 +345,17 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u092f\u093e\u0901\u0917\u092f\u093e\u0902\u0917"
     ],
+    "name:mdf_x_preferred":[
+        "\u041f\u0445\u044d\u043d\u044c\u044f\u043d"
+    ],
     "name:mhr_x_preferred":[
         "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0458\u043e\u043d\u0433\u0458\u0430\u043d\u0433"
+    ],
+    "name:mlt_x_preferred":[
+        "Pyongyang"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
@@ -417,11 +447,17 @@
     "name:ron_x_preferred":[
         "Phenian"
     ],
+    "name:rue_x_preferred":[
+        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
     ],
     "name:sah_x_preferred":[
         "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c64\u1c6d\u1c5a\u1c5d\u1c64\u1c6d\u1c5f\u1c5d"
     ],
     "name:scn_x_preferred":[
         "Pyongyang"
@@ -443,6 +479,9 @@
     ],
     "name:sna_x_preferred":[
         "Pyongyang"
+    ],
+    "name:snd_x_preferred":[
+        "\u067e\u064a\u0627\u0646\u06af \u064a\u0627\u0646\u06af"
     ],
     "name:spa_x_preferred":[
         "Pionyang"
@@ -495,6 +534,9 @@
     "name:tur_x_preferred":[
         "Pyongyang"
     ],
+    "name:udm_x_preferred":[
+        "\u041f\u0445\u0435\u043d\u044c\u044f\u043d"
+    ],
     "name:uig_x_preferred":[
         "Pyongyang"
     ],
@@ -509,6 +551,9 @@
     ],
     "name:uzb_x_preferred":[
         "Pxenyan"
+    ],
+    "name:vec_x_preferred":[
+        "Pyongyang"
     ],
     "name:vep_x_preferred":[
         "Phen'jan"
@@ -673,7 +718,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1614894941,
+    "wof:lastmodified":1690938206,
     "wof:name":"P'y\u014fngyang",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

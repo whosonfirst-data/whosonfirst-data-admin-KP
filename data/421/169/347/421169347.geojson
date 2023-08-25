@@ -32,6 +32,9 @@
     "name:dan_x_preferred":[
         "Kusong"
     ],
+    "name:deu_x_preferred":[
+        "Kus\u014fng"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03c3\u03cc\u03bd\u03b3\u03ba"
     ],
@@ -45,6 +48,9 @@
         "Kusong"
     ],
     "name:fra_x_preferred":[
+        "Kusong"
+    ],
+    "name:gle_x_preferred":[
         "Kusong"
     ],
     "name:guj_x_preferred":[
@@ -119,6 +125,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0b9a\u0bcb\u0b99\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u0441\u043e\u04a3"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c2f\u0c42\u0c38\u0c4a\u0c02\u0c17\u0c4d"
     ],
@@ -136,6 +145,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0624\u0633\u0648\u0646\u06af"
+    ],
+    "name:vec_x_preferred":[
+        "Kusong"
     ],
     "name:vie_x_preferred":[
         "Kusong"
@@ -192,7 +204,7 @@
         }
     ],
     "wof:id":421169347,
-    "wof:lastmodified":1566584575,
+    "wof:lastmodified":1690938220,
     "wof:name":"Kusong",
     "wof:parent_id":1108747859,
     "wof:placetype":"locality",

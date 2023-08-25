@@ -34,6 +34,9 @@
     "name:dan_x_preferred":[
         "Chongju"
     ],
+    "name:deu_x_preferred":[
+        "Ch\u014fngju"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03cc\u03bd\u03c4\u03b6\u03bf\u03c5"
     ],
@@ -47,6 +50,9 @@
         "Chongju"
     ],
     "name:fra_x_preferred":[
+        "Chongju"
+    ],
+    "name:gle_x_preferred":[
         "Chongju"
     ],
     "name:guj_x_preferred":[
@@ -102,6 +108,9 @@
     "name:pol_x_preferred":[
         "Ch\u014fngju"
     ],
+    "name:por_x_preferred":[
+        "Chongju"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u043e\u043d\u0434\u0436\u0443"
     ],
@@ -116,6 +125,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bcb\u0b99\u0bcd\u0b9c\u0bc2"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u043e\u04a3\u0497\u0443"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c4b\u0c02\u0c17\u0c4d\u0c1c\u0c41"
@@ -137,6 +149,9 @@
     ],
     "name:vie_x_preferred":[
         "Chongju"
+    ],
+    "name:yue_x_preferred":[
+        "\u5b9a\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5b9a\u5dde\u5e02"
@@ -268,7 +283,7 @@
         }
     ],
     "wof:id":890442053,
-    "wof:lastmodified":1566584582,
+    "wof:lastmodified":1690938225,
     "wof:name":"Ch\u014fngju",
     "wof:parent_id":1108747793,
     "wof:placetype":"locality",

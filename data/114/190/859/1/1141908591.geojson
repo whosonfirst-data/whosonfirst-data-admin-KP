@@ -33,6 +33,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043c\u0447\u0445\u044a\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Kimch'aek"
+    ],
     "name:ces_x_preferred":[
         "Kim\u010dch\u00e4k"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:fra_x_preferred":[
         "Kimch'aek"
+    ],
+    "name:gle_x_preferred":[
+        "Kimchaek"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0aae\u0a9a\u0ac7\u0a95"
@@ -114,6 +120,9 @@
     "name:pol_x_preferred":[
         "Kimch'aek"
     ],
+    "name:pol_x_variant":[
+        "Kimch\u2019aek"
+    ],
     "name:por_x_preferred":[
         "Kimchaek"
     ],
@@ -132,8 +141,14 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bae\u0bcd\u0b9a\u0bc6\u0b95\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u043c\u0447\u0435\u043a"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3f\u0c2e\u0c4d\u0c1a\u0c3f\u0c15\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Kimchaek"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e34\u0e21\u0e41\u0e0a\u0e47\u0e04"
@@ -147,7 +162,13 @@
     "name:urd_x_preferred":[
         "\u06a9\u0645\u0686\u0627\u0626\u06a9"
     ],
+    "name:vec_x_preferred":[
+        "Kimch'aek"
+    ],
     "name:vie_x_preferred":[
+        "Kimchaek"
+    ],
+    "name:war_x_preferred":[
         "Kimchaek"
     ],
     "name:zho_x_preferred":[
@@ -272,7 +293,7 @@
         }
     ],
     "wof:id":1141908591,
-    "wof:lastmodified":1636494983,
+    "wof:lastmodified":1690938233,
     "wof:name":"Kimchaek",
     "wof:parent_id":1108746957,
     "wof:placetype":"locality",

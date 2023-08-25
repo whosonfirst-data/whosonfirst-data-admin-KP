@@ -37,6 +37,12 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0646\u063a\u0647\u0627\u064a \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
+    "name:ban_x_preferred":[
+        "Hwanghae Kal\u00e9r"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0432\u0430\u043d\u0445\u044d-\u041f\u0443\u043a\u0442\u043e"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09cd\u09a5 \u09b9\u09cb\u09af\u09bc\u09be\u0982\u0998\u09c7 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -81,6 +87,9 @@
     ],
     "name:fra_x_preferred":[
         "Hwanghae du Nord"
+    ],
+    "name:frr_x_preferred":[
+        "Nuurd Hwanghae"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0ab9\u0acd\u0ab5\u0abe\u0a82\u0a97\u0ab9\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -159,6 +168,9 @@
     ],
     "name:spa_x_preferred":[
         "Hwanghae del Norte"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u0438 \u0425\u0432\u0430\u043d\u0433\u0445\u0435"
     ],
     "name:swe_x_preferred":[
         "Norra Hwanghae"
@@ -314,7 +326,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1636494978,
+    "wof:lastmodified":1690938204,
     "wof:name":"Hwanghae-bukto",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

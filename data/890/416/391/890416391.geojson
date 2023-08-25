@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Hwas\u014fng-gun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Myonggan"
+    ],
     "name:eng_x_preferred":[
         "Myonggan County"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:pol_x_preferred":[
         "My\u014fnggan"
+    ],
+    "name:swe_x_preferred":[
+        "Hwas\u014fng-gun"
     ],
     "name:und_x_variant":[
         "Menchkan"
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890416391,
-    "wof:lastmodified":1566584581,
+    "wof:lastmodified":1690938224,
     "wof:name":"Hau-ri",
     "wof:parent_id":1108747019,
     "wof:placetype":"locality",

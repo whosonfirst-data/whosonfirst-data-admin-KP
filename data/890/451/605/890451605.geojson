@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0645\u0628\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0627\u0645\u0628\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Nampho"
+    ],
     "name:aze_x_preferred":[
         "Nampxo"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u043c\u043f\u0445\u043e"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u043c\u043f\u0445\u043e"
@@ -52,6 +61,9 @@
     "name:deu_x_preferred":[
         "Namp'o"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bc\u03c0\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Nampho"
     ],
@@ -73,6 +85,9 @@
     "name:fra_x_preferred":[
         "Nampo"
     ],
+    "name:gle_x_preferred":[
+        "Nampho"
+    ],
     "name:hak_x_preferred":[
         "Namp'o"
     ],
@@ -81,6 +96,9 @@
     ],
     "name:hun_x_preferred":[
         "Nampho"
+    ],
+    "name:ind_x_preferred":[
+        "Nampo"
     ],
     "name:ita_x_preferred":[
         "Namp'o"
@@ -96,7 +114,8 @@
     ],
     "name:kor_x_variant":[
         "Namp\u2019o",
-        "\ub0a8\ud3ec\ud2b9\ubcc4\uc2dc"
+        "\ub0a8\ud3ec\ud2b9\ubcc4\uc2dc",
+        "\ub0a8\ud3ec\uc2dc"
     ],
     "name:lit_x_preferred":[
         "Nampo"
@@ -149,6 +168,9 @@
     "name:swe_x_preferred":[
         "Nampo"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u0430\u043c\u043f\u043e"
+    ],
     "name:tgl_x_preferred":[
         "Nampo"
     ],
@@ -166,6 +188,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0645\u067e\u0648"
+    ],
+    "name:uzb_x_preferred":[
+        "Nampxo"
+    ],
+    "name:vec_x_preferred":[
+        "Namp'o"
     ],
     "name:vie_x_preferred":[
         "Nampho"
@@ -285,8 +313,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        1108747021,
         85676637,
+        1108747021,
         421199693
     ],
     "wof:breaches":[],
@@ -321,7 +349,7 @@
         }
     ],
     "wof:id":890451605,
-    "wof:lastmodified":1610148268,
+    "wof:lastmodified":1690938226,
     "wof:megacity":1,
     "wof:name":"Namp\u2019o",
     "wof:parent_id":1108747021,

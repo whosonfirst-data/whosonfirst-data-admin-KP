@@ -37,6 +37,15 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0648\u0646\u063a\u0627\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
+    "name:aze_x_preferred":[
+        "\u015eimali Pxenyan"
+    ],
+    "name:ban_x_preferred":[
+        "Pyongan Kal\u00e9r"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0445\u0451\u043d\u0430\u043d-\u041f\u0443\u043a\u0442\u043e"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09cd\u09a5 \u09aa\u09bf\u09af\u09bc\u0982\u0997\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -82,11 +91,17 @@
     "name:fra_x_preferred":[
         "Pyongan du Nord"
     ],
+    "name:frr_x_preferred":[
+        "Nuurd P'y\u014fngan"
+    ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0aaa\u0acd\u0aaf\u0acb\u0a82\u0a97\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
     "name:hak_x_preferred":[
         "P'y\u014fng'an Pet-tho"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05e4\u05d5\u05df \u05e4\u05d5\u05d9\u05d0\u05e0\u05d2"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930\u0940 \u092a\u094d\u092f\u094b\u0902\u0917\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -105,6 +120,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0caa\u0caf\u0ccb\u0ca8\u0ccd\u0c97\u0cbe\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1796\u17d2\u1799\u17bb\u1784\u17a2\u17b6\u1793\u1781\u17b6\u1784\u1787\u17be\u1784"
     ],
     "name:kor_x_preferred":[
         "\ud3c9\uc548\ubd81\ub3c4"
@@ -193,6 +211,9 @@
     ],
     "name:vie_x_preferred":[
         "Pyongan B\u1eafc"
+    ],
+    "name:war_x_preferred":[
+        "Amihanan Pyongan"
     ],
     "name:wuu_x_preferred":[
         "\u5e73\u5b89\u5317\u9053"
@@ -324,7 +345,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1614894941,
+    "wof:lastmodified":1690938205,
     "wof:name":"P'y\u014fngan-bukto",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

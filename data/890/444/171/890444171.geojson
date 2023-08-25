@@ -19,6 +19,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":8.0,
+    "name:cat_x_preferred":[
+        "Chaeryong"
+    ],
+    "name:ceb_x_preferred":[
+        "Chaery\u014fng-gun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Chaeryong"
+    ],
+    "name:deu_x_preferred":[
+        "Chaery\u014fng-kun"
+    ],
     "name:eng_x_preferred":[
         "Chaeryong County"
     ],
@@ -39,6 +51,9 @@
     ],
     "name:pol_x_preferred":[
         "Chaery\u014fng"
+    ],
+    "name:swe_x_preferred":[
+        "Chaery\u014fng-gun"
     ],
     "name:und_x_variant":[
         "Sainei-men"
@@ -82,7 +97,7 @@
         }
     ],
     "wof:id":890444171,
-    "wof:lastmodified":1566584581,
+    "wof:lastmodified":1690938224,
     "wof:name":"Chaery\u014fng-\u016dp",
     "wof:parent_id":1108746907,
     "wof:placetype":"locality",

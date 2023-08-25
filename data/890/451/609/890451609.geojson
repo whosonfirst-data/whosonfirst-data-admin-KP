@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Nagw\u014fn-gun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Ragwon"
+    ],
     "name:eng_x_preferred":[
         "Ragwon County"
     ],
@@ -40,11 +46,17 @@
     "name:sco_x_preferred":[
         "Ragwon"
     ],
+    "name:swe_x_preferred":[
+        "Nagw\u014fn-gun"
+    ],
     "name:und_x_variant":[
         "Samho-nodongjagu"
     ],
     "name:vie_x_preferred":[
         "Ragwon"
+    ],
+    "name:yue_x_preferred":[
+        "\u6a02\u5712\u90e1"
     ],
     "name:zho_x_preferred":[
         "\u6a02\u5712\u90e1"
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":890451609,
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1690938226,
     "wof:name":"Samho-rodongjagu",
     "wof:parent_id":1108747955,
     "wof:placetype":"locality",

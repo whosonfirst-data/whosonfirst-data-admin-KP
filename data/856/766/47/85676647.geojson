@@ -34,8 +34,14 @@
     "name:aze_x_preferred":[
         "Hamqyon-Pukto"
     ],
+    "name:ban_x_preferred":[
+        "Hamgyong Kal\u00e9r"
+    ],
     "name:bel_x_preferred":[
         "\u0425\u0430\u043c\u0433\u0451\u043d-\u041f\u0443\u043a\u0442\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0425\u0430\u043c\u0433\u0451\u043d-\u041f\u0443\u043a\u0442\u043e"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0425\u0430\u043c\u0433\u044c\u043e\u043d"
@@ -75,6 +81,9 @@
     ],
     "name:fra_x_preferred":[
         "Hamgyong du Nord"
+    ],
+    "name:frr_x_preferred":[
+        "Nuurd Hamgy\u014fng"
     ],
     "name:hak_x_preferred":[
         "Hamgy\u014fng Pet-tho"
@@ -140,8 +149,14 @@
     "name:spa_x_preferred":[
         "Hamgy\u014fng del Norte"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u0438 \u0425\u0430\u043c\u0433\u0458\u043e\u043d\u0433"
+    ],
     "name:swe_x_preferred":[
         "Norra Hamgyong"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2e\u0e31\u0e21\u0e01\u0e22\u0e47\u0e2d\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d"
     ],
     "name:tur_x_preferred":[
         "Kuzey Hamgyong"
@@ -212,7 +227,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1614894942,
+    "wof:lastmodified":1690938208,
     "wof:name":"Ras\u014fn",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

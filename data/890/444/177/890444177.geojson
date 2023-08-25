@@ -22,8 +22,20 @@
     "name:ceb_x_preferred":[
         "Ons\u014fng"
     ],
+    "name:cym_x_preferred":[
+        "Sir Onsong"
+    ],
     "name:eng_x_preferred":[
         "Onsong County"
+    ],
+    "name:epo_x_preferred":[
+        "Onsong"
+    ],
+    "name:fra_x_preferred":[
+        "Onsong"
+    ],
+    "name:hun_x_preferred":[
+        "Onszong"
     ],
     "name:jpn_x_preferred":[
         "\u7a4f\u57ce\u90e1"
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":890444177,
-    "wof:lastmodified":1566584581,
+    "wof:lastmodified":1690938224,
     "wof:name":"Ons\u014fng",
     "wof:parent_id":1108747901,
     "wof:placetype":"locality",

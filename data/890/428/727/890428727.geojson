@@ -40,6 +40,9 @@
     "name:und_x_variant":[
         "Sungjipaegam"
     ],
+    "name:zho_x_preferred":[
+        "\u627f\u65e8\u767d\u5ca9"
+    ],
     "qs:name":"S\u016dngjibaegam",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890428727,
-    "wof:lastmodified":1566584581,
+    "wof:lastmodified":1690938223,
     "wof:name":"S\u016dngjibaegam",
     "wof:parent_id":1108747209,
     "wof:placetype":"locality",

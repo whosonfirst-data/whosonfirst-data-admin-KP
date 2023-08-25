@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Chas\u014fng"
     ],
+    "name:cym_x_preferred":[
+        "Sir Chasong"
+    ],
     "name:eng_x_preferred":[
         "Chasong County"
     ],
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421178797,
-    "wof:lastmodified":1566584578,
+    "wof:lastmodified":1690938221,
     "wof:name":"Chasong",
     "wof:parent_id":1108746919,
     "wof:placetype":"locality",

@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u0401\u043d\u0431\u0451\u043d"
+    ],
     "name:ceb_x_preferred":[
         "Ny\u014fngby\u014fn-gun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Nyongbyon"
     ],
     "name:deu_x_preferred":[
         "Ny\u014fngby\u014fn-gun"
@@ -70,6 +76,9 @@
     "name:vie_x_preferred":[
         "Nyongbyon"
     ],
+    "name:yue_x_preferred":[
+        "\u5be7\u908a\u90e1"
+    ],
     "name:zho_x_preferred":[
         "\u9ec3\u5dde\u90e1"
     ],
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":890442491,
-    "wof:lastmodified":1566584582,
+    "wof:lastmodified":1690938225,
     "wof:name":"Y\u014fngby\u014fn",
     "wof:parent_id":1108747023,
     "wof:placetype":"locality",
