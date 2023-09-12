@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082526,
-    "geom:area_square_m":799041524.215024,
+    "geom:area_square_m":799041617.948907,
     "geom:bbox":"127.016774,38.312965,127.478043,38.624608",
     "geom:latitude":38.460947,
     "geom:longitude":127.228988,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Pyonggang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.47866,
     "lbl:longitude":127.155577,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Pyonggang"
+    ],
     "name:fra_x_preferred":[
         "Pyongyang"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328273,
-    "wof:geomhash":"feab573538e49634ce188e1709bcdedb",
+    "wof:geomhash":"cdc566df36bb32e177cf08c78cc7f69e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747947,
-    "wof:lastmodified":1627522296,
+    "wof:lastmodified":1694498056,
     "wof:name":"Pyonggang",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

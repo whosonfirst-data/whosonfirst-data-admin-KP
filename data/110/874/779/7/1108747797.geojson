@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069716,
-    "geom:area_square_m":644090586.621466,
+    "geom:area_square_m":644090660.745387,
     "geom:bbox":"126.674577,41.526879,127.077109,41.808651",
     "geom:latitude":41.654566,
     "geom:longitude":126.892063,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Junggang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":41.650414,
     "lbl:longitude":126.915973,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Junggang"
+    ],
     "name:fra_x_preferred":[
         "Junggang"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328254,
-    "wof:geomhash":"7246d1519f60e0ac3e0ac14e7071652b",
+    "wof:geomhash":"58a340a8227e79f98d71b7315e28c1ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747797,
-    "wof:lastmodified":1627522290,
+    "wof:lastmodified":1694498053,
     "wof:name":"Junggang",
     "wof:parent_id":85676623,
     "wof:placetype":"county",

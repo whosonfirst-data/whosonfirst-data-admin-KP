@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057089,
-    "geom:area_square_m":549602701.37046,
+    "geom:area_square_m":549602873.202051,
     "geom:bbox":"126.11517,38.739532,126.545262,38.991407",
     "geom:latitude":38.870831,
     "geom:longitude":126.310436,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Yonsan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.868639,
     "lbl:longitude":126.307171,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Yonsan"
+    ],
     "name:fra_x_preferred":[
         "Yongsan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328295,
-    "wof:geomhash":"39c791dab8c05188d2ed9fde8dc3cd24",
+    "wof:geomhash":"2054ce6495952f5e661daea1748efa06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108748111,
-    "wof:lastmodified":1627522302,
+    "wof:lastmodified":1694498059,
     "wof:name":"Yonsan",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

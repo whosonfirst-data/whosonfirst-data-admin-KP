@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050683,
-    "geom:area_square_m":489792343.938827,
+    "geom:area_square_m":489792550.981705,
     "geom:bbox":"125.30126,38.474834,125.641133,38.717056",
     "geom:latitude":38.598084,
     "geom:longitude":125.453993,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Unchon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.597109,
     "lbl:longitude":125.450726,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Unchon"
+    ],
     "name:fra_x_preferred":[
         "Unchon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326336,
-    "wof:geomhash":"2032a04e6103812af249444fccd0e350",
+    "wof:geomhash":"98640167301e366762f46412bb0d4d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747207,
-    "wof:lastmodified":1627522300,
+    "wof:lastmodified":1694498059,
     "wof:name":"Unchon",
     "wof:parent_id":85676605,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064602,
-    "geom:area_square_m":625158459.062953,
+    "geom:area_square_m":625158543.060696,
     "geom:bbox":"126.701003,38.361459,127.055343,38.64432",
     "geom:latitude":38.500702,
     "geom:longitude":126.862065,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Ichon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.467892,
     "lbl:longitude":126.847761,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
     "name:deu_x_preferred":[
         "Ichon"
     ],
+    "name:eng_x_preferred":[
+        "Ichon"
+    ],
     "name:fra_x_preferred":[
         "Ichon-dong"
     ],
@@ -49,7 +58,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326305,
-    "wof:geomhash":"051e07a633380c303d31e5e096597595",
+    "wof:geomhash":"0a825edf67ba360d8473dbf84388df3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1108746905,
-    "wof:lastmodified":1627522290,
+    "wof:lastmodified":1694498052,
     "wof:name":"Ichon",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

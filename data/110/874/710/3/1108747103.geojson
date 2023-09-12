@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161294,
-    "geom:area_square_m":1516660661.45323,
+    "geom:area_square_m":1516661041.595234,
     "geom:bbox":"126.466732,40.192614,126.985327,40.769288",
     "geom:latitude":40.496292,
     "geom:longitude":126.76395,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Ryongrim County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.46986,
     "lbl:longitude":126.78946,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ryongrim"
+    ],
     "name:fra_x_preferred":[
         "Ryongrim"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326326,
-    "wof:geomhash":"8bbf6691fc5618e775610c8f9af4d14d",
+    "wof:geomhash":"c301d07297908491c77ca6199d3c1e6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747103,
-    "wof:lastmodified":1627522297,
+    "wof:lastmodified":1694498057,
     "wof:name":"Ryongrim",
     "wof:parent_id":85676623,
     "wof:placetype":"county",

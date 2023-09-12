@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023789,
-    "geom:area_square_m":228758749.568045,
+    "geom:area_square_m":228758793.312027,
     "geom:bbox":"125.355661,38.863426,125.59175,39.03953",
     "geom:latitude":38.950961,
     "geom:longitude":125.469228,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kangso County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.95541,
     "lbl:longitude":125.471024,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kangso"
+    ],
     "name:fra_x_preferred":[
         "Kangso"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326310,
-    "wof:geomhash":"de199b805a7879402c3afcec4e50b873",
+    "wof:geomhash":"fbdde5896eb82735344e537a9f0e6625",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746951,
-    "wof:lastmodified":1627522291,
+    "wof:lastmodified":1694498053,
     "wof:name":"Kangso",
     "wof:parent_id":421199693,
     "wof:placetype":"county",

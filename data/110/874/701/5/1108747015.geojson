@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066791,
-    "geom:area_square_m":623635789.253652,
+    "geom:area_square_m":623635861.169817,
     "geom:bbox":"129.221503,40.857402,129.765411,41.105547",
     "geom:latitude":40.96422,
     "geom:longitude":129.539195,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Myongchon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.947681,
     "lbl:longitude":129.452783,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Myongchon"
+    ],
     "name:fra_x_preferred":[
         "Myongchon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326317,
-    "wof:geomhash":"06b3c3f49619044d41f4651bc7322905",
+    "wof:geomhash":"730909b16000ae271f5b34917d6d3b22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747015,
-    "wof:lastmodified":1627522293,
+    "wof:lastmodified":1694498055,
     "wof:name":"Myongchon",
     "wof:parent_id":85676615,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034694,
-    "geom:area_square_m":331967252.762927,
+    "geom:area_square_m":331967279.46135,
     "geom:bbox":"125.75908,39.202374,126.038075,39.429475",
     "geom:latitude":39.300999,
     "geom:longitude":125.891121,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Pyongsong City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.310209,
     "lbl:longitude":125.891116,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Pyongsong"
+    ],
     "name:fra_x_preferred":[
         "Pyongsong"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328274,
-    "wof:geomhash":"ec3270f38b5b8f947b59898080b46d3f",
+    "wof:geomhash":"2c31f9e1179f67c34d2870f7aa0b12a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747949,
-    "wof:lastmodified":1627522296,
+    "wof:lastmodified":1694498057,
     "wof:name":"Pyongsong City",
     "wof:parent_id":85676637,
     "wof:placetype":"county",

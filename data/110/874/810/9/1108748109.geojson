@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092063,
-    "geom:area_square_m":871140561.337171,
+    "geom:area_square_m":871140473.558277,
     "geom:bbox":"127.117748,39.899327,127.601395,40.252301",
     "geom:latitude":40.070609,
     "geom:longitude":127.354322,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Yonggwan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.068184,
     "lbl:longitude":127.357987,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Yonggwan"
+    ],
     "name:fra_x_preferred":[
         "Yonggwang"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328294,
-    "wof:geomhash":"ae44cd87480e76d96fee7ee0b80da2b3",
+    "wof:geomhash":"7f29314cbce554913e2cb3e8e39f1d35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108748109,
-    "wof:lastmodified":1627522302,
+    "wof:lastmodified":1694498059,
     "wof:name":"Yonggwan",
     "wof:parent_id":85676629,
     "wof:placetype":"county",

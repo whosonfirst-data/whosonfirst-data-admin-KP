@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149364,
-    "geom:area_square_m":1400359959.086154,
+    "geom:area_square_m":1400359803.561223,
     "geom:bbox":"127.726026,40.413809,128.406051,40.894418",
     "geom:latitude":40.692814,
     "geom:longitude":128.068821,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kim Hyong Gwon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.731864,
     "lbl:longitude":128.12034,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kim Hyong Gwon"
+    ],
     "name:fra_x_preferred":[
         "Kimhyonggwon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326311,
-    "wof:geomhash":"de74096cabdcad37b41e5bd1c46018be",
+    "wof:geomhash":"1423ddf0dc95ebaddbaf748a9a3df041",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746959,
-    "wof:lastmodified":1627522292,
+    "wof:lastmodified":1694498054,
     "wof:name":"Kim Hyong Gwon",
     "wof:parent_id":85676641,
     "wof:placetype":"county",

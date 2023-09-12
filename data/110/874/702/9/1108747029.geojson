@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060941,
-    "geom:area_square_m":594381353.065511,
+    "geom:area_square_m":594381448.244149,
     "geom:bbox":"124.976219,37.69289,125.452919,38.058723",
     "geom:latitude":37.928604,
     "geom:longitude":125.228571,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Ongjin County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":37.946619,
     "lbl:longitude":125.329832,
     "lbl:max_zoom":10.0,
@@ -118,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326318,
-    "wof:geomhash":"3ba6a580e509cc2dc262446f06e024c1",
+    "wof:geomhash":"5a16b676185a9cac1920ec8aff7ca60b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1108747029,
-    "wof:lastmodified":1636494981,
+    "wof:lastmodified":1694498096,
     "wof:name":"Ongjin",
     "wof:parent_id":85676605,
     "wof:placetype":"county",

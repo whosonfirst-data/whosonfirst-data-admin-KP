@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014035,
-    "geom:area_square_m":136697595.722651,
+    "geom:area_square_m":136697524.235252,
     "geom:bbox":"126.457349,37.922944,126.615543,38.128555",
     "geom:latitude":38.03256,
     "geom:longitude":126.532559,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kaesong City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":38.021176,
     "lbl:longitude":126.524818,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kaesong"
+    ],
     "name:fra_x_preferred":[
         "Kaesong"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328256,
-    "wof:geomhash":"b72910071c74807e7513e3fae3a4a35f",
+    "wof:geomhash":"61ea652f31f4debe61bb428a54da79c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747807,
-    "wof:lastmodified":1627522291,
+    "wof:lastmodified":1694498054,
     "wof:name":"Kaesong City",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

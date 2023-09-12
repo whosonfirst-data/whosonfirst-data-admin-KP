@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0054,
-    "geom:area_square_m":51917244.571134,
+    "geom:area_square_m":51917244.571169,
     "geom:bbox":"125.525129252,38.896101033,125.607848746,39.0100044449",
     "geom:latitude":38.959226,
     "geom:longitude":125.568403,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Chollima County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.959015,
     "lbl:longitude":125.56903,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03cc\u03bb\u03bb\u03b9\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Chollima"
     ],
     "name:epo_x_preferred":[
         "\u0108ollima"
@@ -85,7 +94,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328243,
-    "wof:geomhash":"8720abeaf902dff6fa2889a38c8ff552",
+    "wof:geomhash":"5df246e3eadd8c998be4f37eabd7596e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1108747723,
-    "wof:lastmodified":1566584059,
+    "wof:lastmodified":1694497831,
     "wof:name":"Chollima",
     "wof:parent_id":421199693,
     "wof:placetype":"county",

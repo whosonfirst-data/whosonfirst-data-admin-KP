@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210405,
-    "geom:area_square_m":1979181901.439727,
+    "geom:area_square_m":1979181826.180009,
     "geom:bbox":"126.913316,40.168628,127.492241,40.818504",
     "geom:latitude":40.47145,
     "geom:longitude":127.25055,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Jangjin County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.432104,
     "lbl:longitude":127.246196,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Jangjin"
+    ],
     "name:fra_x_preferred":[
         "Jangjin"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326306,
-    "wof:geomhash":"1f07096d3c039049cdde61ad97a3d300",
+    "wof:geomhash":"8e62849a069036ec4abf1ec50825a277",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746913,
-    "wof:lastmodified":1627522290,
+    "wof:lastmodified":1694498052,
     "wof:name":"Jangjin",
     "wof:parent_id":85676629,
     "wof:placetype":"county",

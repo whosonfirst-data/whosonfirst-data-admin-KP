@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048728,
-    "geom:area_square_m":466380203.803793,
+    "geom:area_square_m":466380007.655586,
     "geom:bbox":"125.38372,39.165281,125.830548,39.402119",
     "geom:latitude":39.281847,
     "geom:longitude":125.592046,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Phyongwon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.251947,
     "lbl:longitude":125.520995,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Phyongwon"
+    ],
     "name:fra_x_preferred":[
         "Phyongwon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328271,
-    "wof:geomhash":"b2ef1d301d847e05ed5e7a2efe149c1e",
+    "wof:geomhash":"b98b3e030044e31fc32ab24457dfd9f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747925,
-    "wof:lastmodified":1627522295,
+    "wof:lastmodified":1694498056,
     "wof:name":"Phyongwon",
     "wof:parent_id":85676637,
     "wof:placetype":"county",

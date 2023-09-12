@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061357,
-    "geom:area_square_m":557216107.925292,
+    "geom:area_square_m":557215930.554305,
     "geom:bbox":"130.015758,42.525114,130.269038,42.914261",
     "geom:latitude":42.739729,
     "geom:longitude":130.139911,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kyongwon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":42.73932,
     "lbl:longitude":130.137516,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kyongwon"
+    ],
     "name:fra_x_preferred":[
         "Tongsang"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326315,
-    "wof:geomhash":"41f494064266082d90325e4d6dcaa3c5",
+    "wof:geomhash":"ce702930d701661a1bee0f831cf5da2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747003,
-    "wof:lastmodified":1627522300,
+    "wof:lastmodified":1694498058,
     "wof:name":"Kyongwon",
     "wof:parent_id":85676615,
     "wof:placetype":"county",

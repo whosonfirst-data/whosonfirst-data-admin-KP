@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082689,
-    "geom:area_square_m":771650847.522829,
+    "geom:area_square_m":771650737.856572,
     "geom:bbox":"128.983725,40.79119,129.397311,41.223606",
     "geom:latitude":41.001442,
     "geom:longitude":129.162772,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kilju County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":41.01588,
     "lbl:longitude":129.125129,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     "name:deu_x_preferred":[
         "Kilju"
     ],
+    "name:eng_x_preferred":[
+        "Kilju"
+    ],
     "name:est_x_preferred":[
         "Kilju"
     ],
@@ -58,7 +67,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326310,
-    "wof:geomhash":"a940e4ab4ba9bcbc71bd6e1124074010",
+    "wof:geomhash":"d87410faa20f9a38837d035889130cd2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108746955,
-    "wof:lastmodified":1627522291,
+    "wof:lastmodified":1694498053,
     "wof:name":"Kilju",
     "wof:parent_id":85676615,
     "wof:placetype":"county",

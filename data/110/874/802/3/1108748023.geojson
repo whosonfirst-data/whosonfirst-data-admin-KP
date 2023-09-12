@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004224,
-    "geom:area_square_m":40722174.962603,
+    "geom:area_square_m":40722089.310878,
     "geom:bbox":"125.573378,38.727159,125.660163,38.81078",
     "geom:latitude":38.768806,
     "geom:longitude":125.61751,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Songrim City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":38.763776,
     "lbl:longitude":125.613894,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Songrim"
+    ],
     "name:fra_x_preferred":[
         "Songrim"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328282,
-    "wof:geomhash":"36b6ad9d9bd5c2992e6fc250eaddb13b",
+    "wof:geomhash":"cac99eb072cb78fa64772d34026e6dc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108748023,
-    "wof:lastmodified":1627522299,
+    "wof:lastmodified":1694498058,
     "wof:name":"Songrim City",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050412,
-    "geom:area_square_m":491347231.203076,
+    "geom:area_square_m":491347104.322932,
     "geom:bbox":"126.117521,37.841167,126.4095,38.095582",
     "geom:latitude":37.979808,
     "geom:longitude":126.26954,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Paechon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":37.981075,
     "lbl:longitude":126.284125,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Paechon"
+    ],
     "name:fra_x_preferred":[
         "Paechon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328269,
-    "wof:geomhash":"3bf21f9c83475f3d7aaf58f0e2d804f4",
+    "wof:geomhash":"45c13b6617fd868d29e1485c7b3dc32a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747905,
-    "wof:lastmodified":1627522294,
+    "wof:lastmodified":1694498056,
     "wof:name":"Paechon",
     "wof:parent_id":85676605,
     "wof:placetype":"county",

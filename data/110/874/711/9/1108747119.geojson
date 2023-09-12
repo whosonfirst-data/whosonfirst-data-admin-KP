@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110418,
-    "geom:area_square_m":1065940181.308304,
+    "geom:area_square_m":1065939862.227294,
     "geom:bbox":"127.064357,38.495956,127.607645,38.901484",
     "geom:latitude":38.674074,
     "geom:longitude":127.322011,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Sepho County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.671465,
     "lbl:longitude":127.326111,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sepho"
+    ],
     "name:fra_x_preferred":[
         "Sepho"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326328,
-    "wof:geomhash":"b9e5d7ec79a3349ba693cd2c716ae76f",
+    "wof:geomhash":"6af7fc8dfe43d7794cbe9b1026df4564",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747119,
-    "wof:lastmodified":1627522297,
+    "wof:lastmodified":1694498057,
     "wof:name":"Sepho",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

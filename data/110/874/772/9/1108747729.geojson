@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048104,
-    "geom:area_square_m":468611261.203196,
+    "geom:area_square_m":468610858.269196,
     "geom:bbox":"125.791275,37.766224,126.033834,38.174905",
     "geom:latitude":38.017423,
     "geom:longitude":125.912378,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Chongdan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.012991,
     "lbl:longitude":125.910605,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Chongdan"
+    ],
     "name:fra_x_preferred":[
         "Chongdan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328244,
-    "wof:geomhash":"18548e463ae49314dd0a76ddef30733b",
+    "wof:geomhash":"26c8f86908cd0633479f4b4e5a1b1efd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747729,
-    "wof:lastmodified":1627522288,
+    "wof:lastmodified":1694498052,
     "wof:name":"Chongdan",
     "wof:parent_id":85676605,
     "wof:placetype":"county",

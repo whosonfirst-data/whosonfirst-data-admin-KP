@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015786,
-    "geom:area_square_m":153954383.572591,
+    "geom:area_square_m":153954497.763837,
     "geom:bbox":"126.387705,37.819443,126.515559,38.025116",
     "geom:latitude":37.933458,
     "geom:longitude":126.44856,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kaepung County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":37.915301,
     "lbl:longitude":126.460111,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kaepung"
+    ],
     "name:fra_x_preferred":[
         "Kaepung"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328256,
-    "wof:geomhash":"0dcf5d4b51f093b9cb2c3a05156929a2",
+    "wof:geomhash":"617420eaee2b3010278094433d667d86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747805,
-    "wof:lastmodified":1627522290,
+    "wof:lastmodified":1694498053,
     "wof:name":"Kaepung",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

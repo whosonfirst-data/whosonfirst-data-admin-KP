@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03352,
-    "geom:area_square_m":322672504.946707,
+    "geom:area_square_m":322672490.385315,
     "geom:bbox":"125.126274,38.737888,125.369436,39.000706",
     "geom:latitude":38.876029,
     "geom:longitude":125.23725,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Onchon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.890345,
     "lbl:longitude":125.228948,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Onchon"
+    ],
     "name:fra_x_preferred":[
         "Onchon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326318,
-    "wof:geomhash":"8f7ee1ee2d104940450bfc0fb4b5078a",
+    "wof:geomhash":"e8413fcb0290ea887b0628573c61931f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747027,
-    "wof:lastmodified":1627522294,
+    "wof:lastmodified":1694498055,
     "wof:name":"Onchon",
     "wof:parent_id":421199693,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178911,
-    "geom:area_square_m":1674275753.340351,
+    "geom:area_square_m":1674276059.562514,
     "geom:bbox":"128.304841,40.58583,128.9217,41.15319",
     "geom:latitude":40.81568,
     "geom:longitude":128.617179,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Hochon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.806088,
     "lbl:longitude":128.612489,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Hochon"
+    ],
     "name:fra_x_preferred":[
         "Hochon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326303,
-    "wof:geomhash":"888a0dc73375f2c66d28bdc7b8effb31",
+    "wof:geomhash":"aec6aee6f3d822accf50c82790b8d082",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746881,
-    "wof:lastmodified":1627522288,
+    "wof:lastmodified":1694498051,
     "wof:name":"Hochon",
     "wof:parent_id":85676629,
     "wof:placetype":"county",

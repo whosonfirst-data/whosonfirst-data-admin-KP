@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038192,
-    "geom:area_square_m":363257330.073484,
+    "geom:area_square_m":363257365.125776,
     "geom:bbox":"124.927127,39.566193,125.190414,39.838412",
     "geom:latitude":39.718369,
     "geom:longitude":125.061422,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kwaksan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.718622,
     "lbl:longitude":125.059381,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kwaksan"
+    ],
     "name:fra_x_preferred":[
         "Kwaksan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326315,
-    "wof:geomhash":"f41f124432dc3987174def1df80d7f72",
+    "wof:geomhash":"f2d0d2f120b558259b7f910dfcf40587",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746995,
-    "wof:lastmodified":1627522293,
+    "wof:lastmodified":1694498055,
     "wof:name":"Kwaksan",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

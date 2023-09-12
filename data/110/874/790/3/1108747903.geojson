@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208127,
-    "geom:area_square_m":1930494153.603086,
+    "geom:area_square_m":1930494196.702703,
     "geom:bbox":"128.96255,41.185721,129.807922,41.662962",
     "geom:latitude":41.397871,
     "geom:longitude":129.358125,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Orang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":41.398195,
     "lbl:longitude":129.498672,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Orang"
     ],
+    "name:eng_x_preferred":[
+        "Orang"
+    ],
     "name:fra_x_preferred":[
         "Orang"
     ],
@@ -49,7 +58,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328268,
-    "wof:geomhash":"c461bce733923c0a47c9ab5d3f14df13",
+    "wof:geomhash":"c69a95055dfa7e7ef326a44dfd2dd8e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1108747903,
-    "wof:lastmodified":1627522294,
+    "wof:lastmodified":1694498055,
     "wof:name":"Orang",
     "wof:parent_id":85676615,
     "wof:placetype":"county",

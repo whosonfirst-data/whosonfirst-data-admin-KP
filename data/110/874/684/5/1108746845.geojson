@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058945,
-    "geom:area_square_m":566327981.902016,
+    "geom:area_square_m":566327829.548149,
     "geom:bbox":"127.282163,38.878714,127.727678,39.161221",
     "geom:latitude":39.013471,
     "geom:longitude":127.534377,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Anbyon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.009353,
     "lbl:longitude":127.556185,
     "lbl:max_zoom":10.0,
@@ -118,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326294,
-    "wof:geomhash":"2baedb8f091ae7a5c00c6a4ddff60d1d",
+    "wof:geomhash":"640c7e50830ab9d575b4ffb80f1541a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1108746845,
-    "wof:lastmodified":1636494981,
+    "wof:lastmodified":1694498096,
     "wof:name":"Anbyon",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

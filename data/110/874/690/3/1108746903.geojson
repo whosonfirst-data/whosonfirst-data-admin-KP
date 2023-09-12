@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035279,
-    "geom:area_square_m":327458488.718594,
+    "geom:area_square_m":327458341.759606,
     "geom:bbox":"128.174631,41.230527,128.419595,41.48959",
     "geom:latitude":41.352339,
     "geom:longitude":128.282427,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Hyesan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":41.363147,
     "lbl:longitude":128.27038,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Hyesan"
+    ],
     "name:fra_x_preferred":[
         "Hyesan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326305,
-    "wof:geomhash":"00d9942d104fce8f0ffbd97ced30fbb6",
+    "wof:geomhash":"b2dab396600665a02e76b75e346ae149",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746903,
-    "wof:lastmodified":1627522289,
+    "wof:lastmodified":1694498052,
     "wof:name":"Hyesan City",
     "wof:parent_id":85676641,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087045,
-    "geom:area_square_m":832884064.850291,
+    "geom:area_square_m":832883846.120892,
     "geom:bbox":"125.976874,39.143125,126.473518,39.458112",
     "geom:latitude":39.301928,
     "geom:longitude":126.239348,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Songchon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.298872,
     "lbl:longitude":126.276986,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Songchon"
+    ],
     "name:fra_x_preferred":[
         "Songch\u014fn"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326331,
-    "wof:geomhash":"16711acdc074e447eb83400eccff32c9",
+    "wof:geomhash":"23bf8e6a12a70849ab3093a07aba5d02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747149,
-    "wof:lastmodified":1627522298,
+    "wof:lastmodified":1694498057,
     "wof:name":"Songchon",
     "wof:parent_id":85676637,
     "wof:placetype":"county",

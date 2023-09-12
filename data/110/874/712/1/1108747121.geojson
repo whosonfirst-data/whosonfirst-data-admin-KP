@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069666,
-    "geom:area_square_m":649995676.169779,
+    "geom:area_square_m":649995722.970159,
     "geom:bbox":"126.207115,40.843171,126.553402,41.1668",
     "geom:latitude":41.014041,
     "geom:longitude":126.392843,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Sijung County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":41.017779,
     "lbl:longitude":126.396134,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sijung"
+    ],
     "name:fra_x_preferred":[
         "Sijung"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326328,
-    "wof:geomhash":"93a5cd7cd8dff4a14391fca9d9634f57",
+    "wof:geomhash":"773b0d231a774ae2b2ff64ce66fb9cc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747121,
-    "wof:lastmodified":1627522297,
+    "wof:lastmodified":1694498057,
     "wof:name":"Sijung",
     "wof:parent_id":85676623,
     "wof:placetype":"county",

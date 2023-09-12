@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06977,
-    "geom:area_square_m":673519324.404569,
+    "geom:area_square_m":673519351.015141,
     "geom:bbox":"126.193638,38.534798,126.564701,38.811684",
     "geom:latitude":38.676092,
     "geom:longitude":126.39523,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Suan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.653615,
     "lbl:longitude":126.398758,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Suan"
+    ],
+    "name:eng_x_preferred":[
         "Suan"
     ],
     "name:fra_x_preferred":[
@@ -58,7 +67,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328283,
-    "wof:geomhash":"6301053aa49f53c1f88c41ec28aa329a",
+    "wof:geomhash":"3ba05eb3a223acdc0ab3f1752c88434a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108748029,
-    "wof:lastmodified":1627522299,
+    "wof:lastmodified":1694498058,
     "wof:name":"Suan",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

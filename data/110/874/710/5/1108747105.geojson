@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082152,
-    "geom:area_square_m":774474141.560533,
+    "geom:area_square_m":774474206.52504,
     "geom:bbox":"124.673909,40.182357,125.176583,40.48154",
     "geom:latitude":40.323366,
     "geom:longitude":124.909637,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Sakju County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.332191,
     "lbl:longitude":124.892502,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sakju"
+    ],
     "name:fra_x_preferred":[
         "Sakju"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326326,
-    "wof:geomhash":"e68b2682faa145123613fa60021ebfe5",
+    "wof:geomhash":"efdf0a2ab89da3f72fcbc1911ce6a23a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747105,
-    "wof:lastmodified":1627522297,
+    "wof:lastmodified":1694498057,
     "wof:name":"Sakju",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

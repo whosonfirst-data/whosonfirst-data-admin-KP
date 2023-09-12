@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068795,
-    "geom:area_square_m":664360447.951319,
+    "geom:area_square_m":664360490.542762,
     "geom:bbox":"127.938014,38.384291,128.365494,38.859585",
     "geom:latitude":38.647992,
     "geom:longitude":128.192283,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kosong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.653972,
     "lbl:longitude":128.248864,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kosong"
+    ],
     "name:fra_x_preferred":[
         "Kosong"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326312,
-    "wof:geomhash":"9d693901e4a6fde8b5d2c7a6e0aee48b",
+    "wof:geomhash":"eff3dc85ea657cca6aa6c6a503977ee7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746975,
-    "wof:lastmodified":1627522292,
+    "wof:lastmodified":1694498054,
     "wof:name":"Kosong",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

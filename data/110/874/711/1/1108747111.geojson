@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1483,
-    "geom:area_square_m":1366144329.310116,
+    "geom:area_square_m":1366144001.607615,
     "geom:bbox":"128.031209,41.566503,128.561192,42.024155",
     "geom:latitude":41.841009,
     "geom:longitude":128.310371,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Samjiyon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":41.855209,
     "lbl:longitude":128.288916,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Samjiyon"
+    ],
     "name:fra_x_preferred":[
         "Samjiy\u014fn"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326327,
-    "wof:geomhash":"51cba357094066cfde7369aea5005669",
+    "wof:geomhash":"e4797ba362c483c25552a10d9eef8192",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747111,
-    "wof:lastmodified":1627522297,
+    "wof:lastmodified":1694498057,
     "wof:name":"Samjiyon",
     "wof:parent_id":85676641,
     "wof:placetype":"county",

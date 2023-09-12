@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050143,
-    "geom:area_square_m":476924443.498377,
+    "geom:area_square_m":476924418.457942,
     "geom:bbox":"125.127496,39.527084,125.371817,39.871702",
     "geom:latitude":39.71732,
     "geom:longitude":125.247053,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Jongju City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.734115,
     "lbl:longitude":125.244726,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Jongju"
+    ],
     "name:fra_x_preferred":[
         "Jongju"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328254,
-    "wof:geomhash":"c4207d42bd4fc94dc0c453892a5e08ea",
+    "wof:geomhash":"175cca259c5296ff28578322ff491f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747793,
-    "wof:lastmodified":1627522290,
+    "wof:lastmodified":1694498053,
     "wof:name":"Jongju City",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

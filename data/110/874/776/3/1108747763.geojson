@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030358,
-    "geom:area_square_m":284030709.623119,
+    "geom:area_square_m":284030742.628469,
     "geom:bbox":"129.261211,40.747447,129.735413,40.908801",
     "geom:latitude":40.831522,
     "geom:longitude":129.469901,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Hwadae County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.820285,
     "lbl:longitude":129.434047,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Hwadae"
+    ],
     "name:fra_x_preferred":[
         "Hwadae"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328250,
-    "wof:geomhash":"178df0d5ba352404e5eb3573139401f9",
+    "wof:geomhash":"59281f812f934592a909fbd4559797dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747763,
-    "wof:lastmodified":1627522289,
+    "wof:lastmodified":1694498052,
     "wof:name":"Hwadae",
     "wof:parent_id":85676615,
     "wof:placetype":"county",

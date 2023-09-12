@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009091,
-    "geom:area_square_m":86601570.832534,
+    "geom:area_square_m":86601695.894228,
     "geom:bbox":"126.083932,39.563673,126.200398,39.667616",
     "geom:latitude":39.610421,
     "geom:longitude":126.146913,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Tukjang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.612007,
     "lbl:longitude":126.146918,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tukjang"
+    ],
     "name:fra_x_preferred":[
         "Tukjang"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326336,
-    "wof:geomhash":"cc872846a9c34751437ff23f1d70e366",
+    "wof:geomhash":"e1ad2666b2f0b2283597ba28cbeac320",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747203,
-    "wof:lastmodified":1627522300,
+    "wof:lastmodified":1694498058,
     "wof:name":"Tukjang",
     "wof:parent_id":85676637,
     "wof:placetype":"county",

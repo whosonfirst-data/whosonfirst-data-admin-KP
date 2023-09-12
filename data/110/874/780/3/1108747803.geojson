@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063972,
-    "geom:area_square_m":608631419.761697,
+    "geom:area_square_m":608631099.140162,
     "geom:bbox":"125.833904,39.536797,126.165786,39.861464",
     "geom:latitude":39.698656,
     "geom:longitude":125.992378,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kaechon City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.696788,
     "lbl:longitude":126.005783,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kaechon"
+    ],
     "name:fra_x_preferred":[
         "Kaechon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328256,
-    "wof:geomhash":"554917425f44f7ccb8a9b5887247abdf",
+    "wof:geomhash":"8c4b113d6a4df1c77152b3612a8d8abb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747803,
-    "wof:lastmodified":1627522290,
+    "wof:lastmodified":1694498053,
     "wof:name":"Kaechon City",
     "wof:parent_id":85676637,
     "wof:placetype":"county",

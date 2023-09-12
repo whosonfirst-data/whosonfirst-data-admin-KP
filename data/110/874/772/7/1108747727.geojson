@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051147,
-    "geom:area_square_m":496202710.494559,
+    "geom:area_square_m":496202377.759526,
     "geom:bbox":"126.787787,38.162552,127.251541,38.471908",
     "geom:latitude":38.318575,
     "geom:longitude":127.00076,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Cholwon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.319956,
     "lbl:longitude":126.98134,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Cholwon"
+    ],
     "name:fra_x_preferred":[
         "Cholwon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328244,
-    "wof:geomhash":"9d35b84c2fe51925726bc16c60e24c84",
+    "wof:geomhash":"7ce027b8659e0f67fdd79bbf12886e6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747727,
-    "wof:lastmodified":1627522288,
+    "wof:lastmodified":1694498052,
     "wof:name":"Cholwon",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

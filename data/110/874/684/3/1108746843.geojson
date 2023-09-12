@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035214,
-    "geom:area_square_m":340984846.591488,
+    "geom:area_square_m":340984846.59166,
     "geom:bbox":"125.262689023,38.3592134037,125.617543098,38.5658804986",
     "geom:latitude":38.45393,
     "geom:longitude":125.454409,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Anak County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.452437,
     "lbl:longitude":125.48667,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
+        "Anak"
+    ],
+    "name:eng_x_preferred":[
         "Anak"
     ],
     "name:fra_x_preferred":[
@@ -58,7 +67,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326294,
-    "wof:geomhash":"d3336d516e29f4f45068a802e313f31d",
+    "wof:geomhash":"dfa9c9177c3705607475d6b72b3ca4d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108746843,
-    "wof:lastmodified":1566584047,
+    "wof:lastmodified":1694497831,
     "wof:name":"Anak",
     "wof:parent_id":85676605,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137447,
-    "geom:area_square_m":1286818943.252933,
+    "geom:area_square_m":1286818483.211968,
     "geom:bbox":"125.877359,40.54534,126.477739,41.004354",
     "geom:latitude":40.786595,
     "geom:longitude":126.145224,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Wiwon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.799444,
     "lbl:longitude":126.115786,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Wiwon"
+    ],
     "name:fra_x_preferred":[
         "Wiwon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326339,
-    "wof:geomhash":"6caf4c13ca106817a18d0ad3453903bb",
+    "wof:geomhash":"a22dec63e56c930a36a0f53d26cfe8f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747227,
-    "wof:lastmodified":1627522301,
+    "wof:lastmodified":1694498059,
     "wof:name":"Wiwon",
     "wof:parent_id":85676623,
     "wof:placetype":"county",

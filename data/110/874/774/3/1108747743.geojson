@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022847,
-    "geom:area_square_m":222416849.736545,
+    "geom:area_square_m":222416869.014454,
     "geom:bbox":"125.577887,37.990417,125.820279,38.135203",
     "geom:latitude":38.067402,
     "geom:longitude":125.696886,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Haeju City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":38.068009,
     "lbl:longitude":125.708989,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Haeju"
+    ],
     "name:fra_x_preferred":[
         "Haeju"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328247,
-    "wof:geomhash":"60c4e8ace7d49178ec356a1d23a8c4d2",
+    "wof:geomhash":"3e17fd2fdd0821a12d4187cc907b85d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747743,
-    "wof:lastmodified":1627522288,
+    "wof:lastmodified":1694498052,
     "wof:name":"Haeju City",
     "wof:parent_id":85676605,
     "wof:placetype":"county",

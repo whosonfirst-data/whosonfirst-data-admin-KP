@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143068,
-    "geom:area_square_m":1311680283.191154,
+    "geom:area_square_m":1311680428.575015,
     "geom:bbox":"129.016033,41.883504,129.578626,42.43138",
     "geom:latitude":42.14455,
     "geom:longitude":129.323737,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Musan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":42.142018,
     "lbl:longitude":129.351376,
     "lbl:max_zoom":10.0,
@@ -40,6 +46,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c5\u03c3\u03ac\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Musan"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0633\u0627\u0646"
@@ -112,7 +121,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326316,
-    "wof:geomhash":"749e6b1b232a81cb7576e239961cae75",
+    "wof:geomhash":"5a47892e5713243786e60d8f6749209a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":1108747013,
-    "wof:lastmodified":1636494980,
+    "wof:lastmodified":1694498096,
     "wof:name":"Musan",
     "wof:parent_id":85676615,
     "wof:placetype":"county",

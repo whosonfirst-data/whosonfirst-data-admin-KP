@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069928,
-    "geom:area_square_m":668447195.504616,
+    "geom:area_square_m":668447170.988467,
     "geom:bbox":"126.693026,39.203505,127.09349,39.533907",
     "geom:latitude":39.369776,
     "geom:longitude":126.899702,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Sudong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.390428,
     "lbl:longitude":126.886061,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sudong"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u062f\u0648\u0646\u06af"
     ],
@@ -70,7 +79,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328283,
-    "wof:geomhash":"c7d437c6aac92830f19d330d85e318a7",
+    "wof:geomhash":"57bf87a3aec7c08c0548788577ec6512",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1108748031,
-    "wof:lastmodified":1627522299,
+    "wof:lastmodified":1694498058,
     "wof:name":"Sudong",
     "wof:parent_id":85676629,
     "wof:placetype":"county",

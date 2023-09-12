@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091855,
-    "geom:area_square_m":885970496.627529,
+    "geom:area_square_m":885970548.412466,
     "geom:bbox":"126.677497,38.560817,127.210589,38.925924",
     "geom:latitude":38.736037,
     "geom:longitude":126.967442,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Phangyo County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.735728,
     "lbl:longitude":126.971476,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Phangyo"
+    ],
     "name:fra_x_preferred":[
         "Phangyo"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326320,
-    "wof:geomhash":"d84cde8ae21282e343296474448465c3",
+    "wof:geomhash":"e8c586792f595ce9c2825a184f25306a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747045,
-    "wof:lastmodified":1627522295,
+    "wof:lastmodified":1694498056,
     "wof:name":"Phangyo",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10667,
-    "geom:area_square_m":999026995.544943,
+    "geom:area_square_m":999026952.742058,
     "geom:bbox":"126.399996,40.590674,126.96341,40.910347",
     "geom:latitude":40.762984,
     "geom:longitude":126.656275,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Songgan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.725488,
     "lbl:longitude":126.633539,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Songgan"
+    ],
     "name:fra_x_preferred":[
         "Songgan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328282,
-    "wof:geomhash":"5f3dfd4256463af3625af7db2aeae14b",
+    "wof:geomhash":"5b8d19c2bc8b667a05f6fdaeefa1774a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108748019,
-    "wof:lastmodified":1627522298,
+    "wof:lastmodified":1694498058,
     "wof:name":"Songgan",
     "wof:parent_id":85676623,
     "wof:placetype":"county",

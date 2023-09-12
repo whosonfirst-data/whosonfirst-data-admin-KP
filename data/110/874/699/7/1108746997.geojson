@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099264,
-    "geom:area_square_m":905163590.788074,
+    "geom:area_square_m":905163835.63568,
     "geom:bbox":"129.967998,42.301475,130.437109,42.704358",
     "geom:latitude":42.484966,
     "geom:longitude":130.196969,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kyonghung County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":42.472185,
     "lbl:longitude":130.173991,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kyonghung"
+    ],
     "name:fra_x_preferred":[
         "Kyonghung"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326315,
-    "wof:geomhash":"9be30c2674f9a7b8671399a839cc0ff8",
+    "wof:geomhash":"baba0aed6909a7bc3b02347daeb38325",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746997,
-    "wof:lastmodified":1627522293,
+    "wof:lastmodified":1694498055,
     "wof:name":"Kyonghung",
     "wof:parent_id":85676615,
     "wof:placetype":"county",

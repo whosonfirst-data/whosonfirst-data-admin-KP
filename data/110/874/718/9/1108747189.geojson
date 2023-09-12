@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048355,
-    "geom:area_square_m":469213043.622251,
+    "geom:area_square_m":469213034.831484,
     "geom:bbox":"126.562286,38.198891,126.893549,38.472545",
     "geom:latitude":38.302922,
     "geom:longitude":126.72918,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Thosan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.299425,
     "lbl:longitude":126.726653,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Thosan"
+    ],
     "name:fra_x_preferred":[
         "Thosan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326335,
-    "wof:geomhash":"b6ef96f7ac0bbb8eb0aa44cc4d31f98d",
+    "wof:geomhash":"f1ea2b9187d7f46649fc64e95d2807ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747189,
-    "wof:lastmodified":1627522300,
+    "wof:lastmodified":1694498058,
     "wof:name":"Thosan",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

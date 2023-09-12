@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095872,
-    "geom:area_square_m":927388869.557055,
+    "geom:area_square_m":927389263.155794,
     "geom:bbox":"127.592892,38.307415,128.077087,38.832815",
     "geom:latitude":38.529011,
     "geom:longitude":127.833534,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Changdo County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.528663,
     "lbl:longitude":127.816993,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Changdo"
+    ],
     "name:fra_x_preferred":[
         "Changdong"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326295,
-    "wof:geomhash":"25c574f41820946a2729515be4c2fbc2",
+    "wof:geomhash":"7f9162626a1fd76b0fd3160e27e9cf9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746849,
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1694498051,
     "wof:name":"Changdo",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

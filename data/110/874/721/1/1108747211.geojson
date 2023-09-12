@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001713,
-    "geom:area_square_m":16410812.297139,
+    "geom:area_square_m":16410799.828321,
     "geom:bbox":"125.830108,39.185874,125.884892,39.239622",
     "geom:latitude":39.215081,
     "geom:longitude":125.858341,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Unjong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.216541,
     "lbl:longitude":125.858756,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Unjong"
+    ],
     "name:fra_x_preferred":[
         "Unjong"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326337,
-    "wof:geomhash":"40cc32de9425483cb4c6cd66ce1af6f6",
+    "wof:geomhash":"4e4644dd18bcdc7fa3e6a0cb0b808186",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747211,
-    "wof:lastmodified":1627522301,
+    "wof:lastmodified":1694498059,
     "wof:name":"Unjong",
     "wof:parent_id":85676611,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078065,
-    "geom:area_square_m":733371011.364443,
+    "geom:area_square_m":733371131.869121,
     "geom:bbox":"125.643161,40.427899,126.118002,40.721409",
     "geom:latitude":40.558414,
     "geom:longitude":125.861548,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kophung County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.555893,
     "lbl:longitude":125.865164,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kophung"
+    ],
     "name:fra_x_preferred":[
         "Kophung"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326312,
-    "wof:geomhash":"63d59ef3fd35eb9c08b2e3209207e9db",
+    "wof:geomhash":"d6c69202c1985007c03508c4e27be485",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746971,
-    "wof:lastmodified":1627522292,
+    "wof:lastmodified":1694498054,
     "wof:name":"Kophung",
     "wof:parent_id":85676623,
     "wof:placetype":"county",

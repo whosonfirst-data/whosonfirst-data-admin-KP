@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034265,
-    "geom:area_square_m":326010263.728805,
+    "geom:area_square_m":326010236.700971,
     "geom:bbox":"125.452919,39.579556,125.752278,39.815691",
     "geom:latitude":39.696475,
     "geom:longitude":125.606094,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Pakchon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.706409,
     "lbl:longitude":125.620842,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Pakchon"
+    ],
     "name:fra_x_preferred":[
         "Pakch\u014fn"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328269,
-    "wof:geomhash":"fce86d7bcb108c38f0646843f3ad5d03",
+    "wof:geomhash":"22907bde93b4bc0786595b268772a241",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747909,
-    "wof:lastmodified":1627522294,
+    "wof:lastmodified":1694498056,
     "wof:name":"Pakchon",
     "wof:parent_id":85676633,
     "wof:placetype":"county",
