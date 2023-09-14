@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111859,
-    "geom:area_square_m":1041927279.701475,
+    "geom:area_square_m":1041927286.650188,
     "geom:bbox":"128.10969,40.980523,128.729634,41.267708",
     "geom:latitude":41.123428,
     "geom:longitude":128.378922,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kapsan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":41.121466,
     "lbl:longitude":128.353852,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kapsan"
+    ],
     "name:fra_x_preferred":[
         "Kapsan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326310,
-    "wof:geomhash":"aa8b0cef51087dbbda918286abe736d6",
+    "wof:geomhash":"5407b2a99d7dbced26ea6d481ef32a75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746953,
-    "wof:lastmodified":1627522291,
+    "wof:lastmodified":1694498053,
     "wof:name":"Kapsan",
     "wof:parent_id":85676641,
     "wof:placetype":"county",

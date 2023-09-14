@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006435,
-    "geom:area_square_m":61048617.911389,
+    "geom:area_square_m":61048617.911588,
     "geom:bbox":"124.204582214,39.789554596,124.346135245,39.98796",
     "geom:latitude":39.893315,
     "geom:longitude":124.260964,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Sindo County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.894765,
     "lbl:longitude":124.248942,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Sindo"
     ],
+    "name:eng_x_preferred":[
+        "Sindo"
+    ],
     "name:fra_x_preferred":[
         "Sindo"
     ],
@@ -52,7 +61,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326329,
-    "wof:geomhash":"dd89013dec8cd9c76beabc0c5fd5c36b",
+    "wof:geomhash":"a7fcdbaf1c3d46f54fde0773a1e293fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1108747127,
-    "wof:lastmodified":1566584036,
+    "wof:lastmodified":1694497831,
     "wof:name":"Sindo",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031693,
-    "geom:area_square_m":302027174.693691,
+    "geom:area_square_m":302027363.378293,
     "geom:bbox":"125.565072,39.460117,125.866244,39.709356",
     "geom:latitude":39.582748,
     "geom:longitude":125.752341,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Anju City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.595455,
     "lbl:longitude":125.775154,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Anju"
+    ],
     "name:fra_x_preferred":[
         "Anju"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326295,
-    "wof:geomhash":"cc935ac0df5fb194f333f40c0b316293",
+    "wof:geomhash":"c6c94144f88783c32ae671dd3a0d57c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746847,
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1694498051,
     "wof:name":"Anju City",
     "wof:parent_id":85676637,
     "wof:placetype":"county",

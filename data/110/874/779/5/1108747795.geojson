@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092449,
-    "geom:area_square_m":879674531.186453,
+    "geom:area_square_m":879674589.346017,
     "geom:bbox":"127.087251,39.522722,127.58036,39.869661",
     "geom:latitude":39.688923,
     "geom:longitude":127.330659,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Jongphyong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.686231,
     "lbl:longitude":127.330606,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Jongphyong"
+    ],
     "name:fra_x_preferred":[
         "Chongpyong"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328254,
-    "wof:geomhash":"b00865c555840785e6c6fee23e4225ad",
+    "wof:geomhash":"8cb452a4d246875c76b5a05187f2d39a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747795,
-    "wof:lastmodified":1627522288,
+    "wof:lastmodified":1694498052,
     "wof:name":"Jongphyong",
     "wof:parent_id":85676629,
     "wof:placetype":"county",

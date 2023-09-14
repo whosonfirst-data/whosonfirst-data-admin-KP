@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115196,
-    "geom:area_square_m":1091911377.522239,
+    "geom:area_square_m":1091911368.343324,
     "geom:bbox":"126.339878,39.767534,126.906756,40.185334",
     "geom:latitude":39.953752,
     "geom:longitude":126.619734,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Nyongwon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.937061,
     "lbl:longitude":126.623988,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Nyongwon"
+    ],
     "name:fra_x_preferred":[
         "Nyongwon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326318,
-    "wof:geomhash":"8a67291d255fc0df360f3e8d9c03e229",
+    "wof:geomhash":"1091e06c826b2d6eed724d69732120c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747025,
-    "wof:lastmodified":1627522294,
+    "wof:lastmodified":1694498055,
     "wof:name":"Nyongwon",
     "wof:parent_id":85676637,
     "wof:placetype":"county",

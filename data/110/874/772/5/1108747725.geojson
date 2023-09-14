@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039903,
-    "geom:area_square_m":379438147.479805,
+    "geom:area_square_m":379438395.508229,
     "geom:bbox":"124.475072,39.427082,124.769585,39.875412",
     "geom:latitude":39.734612,
     "geom:longitude":124.652003,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Cholwan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.768094,
     "lbl:longitude":124.653603,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Cholwan"
+    ],
     "name:fra_x_preferred":[
         "Cholwan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328244,
-    "wof:geomhash":"43aa1eeef6894e96797b6e4c5cb1468f",
+    "wof:geomhash":"ff3a9fbe683788c0ce883e5cf2d3795d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747725,
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1694498051,
     "wof:name":"Cholwan",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

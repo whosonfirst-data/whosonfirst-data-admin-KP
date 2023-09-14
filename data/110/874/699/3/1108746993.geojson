@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033483,
-    "geom:area_square_m":324410221.867593,
+    "geom:area_square_m":324410155.658447,
     "geom:bbox":"124.770363,38.27215,125.076708,38.594555",
     "geom:latitude":38.412594,
     "geom:longitude":124.969131,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kwail County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.362442,
     "lbl:longitude":124.967619,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kwail"
+    ],
     "name:fra_x_preferred":[
         "Kwail"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326315,
-    "wof:geomhash":"6ebc000f559acbab76c475f136d942ca",
+    "wof:geomhash":"db5aedf1cd704cde5b217e1013adee68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746993,
-    "wof:lastmodified":1627522292,
+    "wof:lastmodified":1694498054,
     "wof:name":"Kwail",
     "wof:parent_id":85676605,
     "wof:placetype":"county",

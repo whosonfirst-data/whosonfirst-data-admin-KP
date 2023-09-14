@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051873,
-    "geom:area_square_m":500746407.572156,
+    "geom:area_square_m":500746310.996418,
     "geom:bbox":"125.749534,38.590369,126.217527,38.80009",
     "geom:latitude":38.676705,
     "geom:longitude":125.970231,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Yonthan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.665535,
     "lbl:longitude":125.966676,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Yonthan"
+    ],
     "name:fra_x_preferred":[
         "Yonthan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328296,
-    "wof:geomhash":"242b6bf16454fe6f70c79f3820971af0",
+    "wof:geomhash":"333688b36c307d420dcc49a20c616e02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108748117,
-    "wof:lastmodified":1627522302,
+    "wof:lastmodified":1694498059,
     "wof:name":"Yonthan",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

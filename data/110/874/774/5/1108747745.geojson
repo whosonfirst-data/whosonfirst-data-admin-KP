@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057567,
-    "geom:area_square_m":545844889.508366,
+    "geom:area_square_m":545844889.508738,
     "geom:bbox":"127.462203,39.757889,127.773268,40.081847",
     "geom:latitude":39.930302,
     "geom:longitude":127.625838,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Hamhung City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.927756,
     "lbl:longitude":127.636435,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Hamhung"
+    ],
     "name:fra_x_preferred":[
         "Hamhung"
     ],
@@ -46,7 +55,7 @@
     ],
     "wof:country":"KP",
     "wof:created":1479328247,
-    "wof:geomhash":"eb2d8f3f188881d46e8220394c2578f1",
+    "wof:geomhash":"9adc0083af6ab41b5e2fb861bdb01cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1108747745,
-    "wof:lastmodified":1627522288,
+    "wof:lastmodified":1694498052,
     "wof:name":"Hamhung City",
     "wof:parent_id":85676629,
     "wof:placetype":"county",

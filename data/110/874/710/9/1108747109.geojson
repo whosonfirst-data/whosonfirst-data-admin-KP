@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027165,
-    "geom:area_square_m":263453755.813538,
+    "geom:area_square_m":263453642.489587,
     "geom:bbox":"125.176999,38.234073,125.364559,38.444412",
     "geom:latitude":38.342771,
     "geom:longitude":125.274541,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Samchon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.347296,
     "lbl:longitude":125.265157,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Samchon"
+    ],
     "name:fra_x_preferred":[
         "Samch'on"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326327,
-    "wof:geomhash":"9543d281e98585a7ef4447c44ff32bf1",
+    "wof:geomhash":"128a1a756947f3ff2f7954f93d9be3b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747109,
-    "wof:lastmodified":1627522297,
+    "wof:lastmodified":1694498057,
     "wof:name":"Samchon",
     "wof:parent_id":85676605,
     "wof:placetype":"county",

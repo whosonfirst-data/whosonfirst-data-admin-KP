@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073534,
-    "geom:area_square_m":697300774.420124,
+    "geom:area_square_m":697300780.294517,
     "geom:bbox":"125.860873,39.784962,126.370706,40.083234",
     "geom:latitude":39.924946,
     "geom:longitude":126.078832,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kujang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.954266,
     "lbl:longitude":126.032495,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Kujang"
+    ],
+    "name:eng_x_preferred":[
         "Kujang"
     ],
     "name:fra_x_preferred":[
@@ -55,7 +64,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326313,
-    "wof:geomhash":"84dc6842e01c4b92420e38fabc8f5f46",
+    "wof:geomhash":"cc5966966c94563c69ec8fa242f98b71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1108746979,
-    "wof:lastmodified":1627522292,
+    "wof:lastmodified":1694498054,
     "wof:name":"Kujang",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07078,
-    "geom:area_square_m":679419633.962377,
+    "geom:area_square_m":679419469.922077,
     "geom:bbox":"126.2394,38.905362,126.660478,39.241953",
     "geom:latitude":39.07733,
     "geom:longitude":126.439112,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Hoechang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.075051,
     "lbl:longitude":126.435925,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Hoechang"
+    ],
     "name:fra_x_preferred":[
         "Hoechang"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326303,
-    "wof:geomhash":"129a60186c35b7d62c8fdd219637b5e8",
+    "wof:geomhash":"9cdf2b1f0fc9f066145a433ffff04e19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746883,
-    "wof:lastmodified":1627522289,
+    "wof:lastmodified":1694498052,
     "wof:name":"Hoechang",
     "wof:parent_id":85676637,
     "wof:placetype":"county",

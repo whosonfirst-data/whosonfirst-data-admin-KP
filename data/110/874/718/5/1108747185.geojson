@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029683,
-    "geom:area_square_m":288606138.908543,
+    "geom:area_square_m":288605970.698556,
     "geom:bbox":"125.147207,38.0293,125.35614,38.25918",
     "geom:latitude":38.157777,
     "geom:longitude":125.251131,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Thaethan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.160824,
     "lbl:longitude":125.238688,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Thaethan"
+    ],
     "name:fra_x_preferred":[
         "Thaethan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326334,
-    "wof:geomhash":"0974c7341a629332e70bd22258fb1261",
+    "wof:geomhash":"79d45d36326be4f0af1e91cdec754b76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747185,
-    "wof:lastmodified":1627522300,
+    "wof:lastmodified":1694498058,
     "wof:name":"Thaethan",
     "wof:parent_id":85676605,
     "wof:placetype":"county",

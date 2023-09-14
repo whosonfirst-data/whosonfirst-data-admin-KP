@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054215,
-    "geom:area_square_m":514144244.158849,
+    "geom:area_square_m":514144199.33433,
     "geom:bbox":"124.651451,39.771311,125.010608,40.036866",
     "geom:latitude":39.919784,
     "geom:longitude":124.808435,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Tongrim County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.915506,
     "lbl:longitude":124.796188,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tongrim"
+    ],
     "name:fra_x_preferred":[
         "Tongrim"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326336,
-    "wof:geomhash":"ed42bbead7390ba0b3155949eff64c20",
+    "wof:geomhash":"12b87855d3dc6282b0e2925a228e730d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747199,
-    "wof:lastmodified":1627522300,
+    "wof:lastmodified":1694498058,
     "wof:name":"Tongrim",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

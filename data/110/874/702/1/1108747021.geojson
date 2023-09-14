@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026038,
-    "geom:area_square_m":251157007.839604,
+    "geom:area_square_m":251156782.062321,
     "geom:bbox":"125.163551,38.606794,125.629098,38.809215",
     "geom:latitude":38.733081,
     "geom:longitude":125.381247,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Nampho City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":38.769618,
     "lbl:longitude":125.358183,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Nampho"
+    ],
     "name:fra_x_preferred":[
         "Nampo"
     ],
@@ -44,7 +53,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326317,
-    "wof:geomhash":"c65a6970a3746707d3374fd69d9dd4a0",
+    "wof:geomhash":"9e95d02f95fd66ed34c9e55edf3b06c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1108747021,
-    "wof:lastmodified":1627522294,
+    "wof:lastmodified":1694498055,
     "wof:name":"Nampho City",
     "wof:parent_id":-1,
     "wof:placetype":"county",

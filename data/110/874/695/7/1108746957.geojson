@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084076,
-    "geom:area_square_m":787278777.901107,
+    "geom:area_square_m":787278873.970853,
     "geom:bbox":"128.932432,40.569365,129.353657,40.973416",
     "geom:latitude":40.774932,
     "geom:longitude":129.108556,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kim Chaek City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":40.770469,
     "lbl:longitude":129.111752,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kim Chaek"
+    ],
     "name:fra_x_preferred":[
         "Kimch'aek"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326310,
-    "wof:geomhash":"d027a72c39abd06a1194a28a9f148a59",
+    "wof:geomhash":"fba726b370071b8fc7ea3ec26c4f7eec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746957,
-    "wof:lastmodified":1627522291,
+    "wof:lastmodified":1694498053,
     "wof:name":"Kim Chaek City",
     "wof:parent_id":85676615,
     "wof:placetype":"county",

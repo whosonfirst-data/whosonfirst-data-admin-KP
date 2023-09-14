@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015077,
-    "geom:area_square_m":145154834.868557,
+    "geom:area_square_m":145154997.817808,
     "geom:bbox":"125.520837,38.782028,125.700235,38.951838",
     "geom:latitude":38.86561,
     "geom:longitude":125.609766,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kangnam County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.838369,
     "lbl:longitude":125.600932,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kangnam"
+    ],
     "name:fra_x_preferred":[
         "Kangnam"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328257,
-    "wof:geomhash":"3b17af2d8c71fdb526fdab23415f995f",
+    "wof:geomhash":"6e47b8516222a9906ae15ca34364839c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747815,
-    "wof:lastmodified":1627522291,
+    "wof:lastmodified":1694498054,
     "wof:name":"Kangnam",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

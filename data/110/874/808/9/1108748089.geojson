@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092143,
-    "geom:area_square_m":871535132.833332,
+    "geom:area_square_m":871535549.762568,
     "geom:bbox":"125.65264,39.898381,126.088939,40.274503",
     "geom:latitude":40.099463,
     "geom:longitude":125.827195,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Unsan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.095457,
     "lbl:longitude":125.827191,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Unsan"
+    ],
     "name:fra_x_preferred":[
         "\u016cnsan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328292,
-    "wof:geomhash":"ade07505c14d32de43d815e3d6ef4381",
+    "wof:geomhash":"bef9e6ff00b0c634b77de6b3c67cb4a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108748089,
-    "wof:lastmodified":1627522301,
+    "wof:lastmodified":1694498059,
     "wof:name":"Unsan",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

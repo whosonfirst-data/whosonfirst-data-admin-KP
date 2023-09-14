@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039371,
-    "geom:area_square_m":379714725.787953,
+    "geom:area_square_m":379714690.367804,
     "geom:bbox":"125.614644,38.60775,125.901689,38.842451",
     "geom:latitude":38.742271,
     "geom:longitude":125.738877,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Hwangju County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.75732,
     "lbl:longitude":125.736703,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Hwangju"
+    ],
     "name:fra_x_preferred":[
         "Hwangju"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328250,
-    "wof:geomhash":"5d2c2cd4c7816a10377f55ec1abd8e1e",
+    "wof:geomhash":"de2548799337c8be182d07f00422e323",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747765,
-    "wof:lastmodified":1627522289,
+    "wof:lastmodified":1694498052,
     "wof:name":"Hwangju",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

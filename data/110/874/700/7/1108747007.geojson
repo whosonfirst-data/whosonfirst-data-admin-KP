@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074405,
-    "geom:area_square_m":692446341.259223,
+    "geom:area_square_m":692446171.433488,
     "geom:bbox":"126.093759,40.952831,126.69199,41.372023",
     "geom:latitude":41.180952,
     "geom:longitude":126.3953,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Manpho City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":41.243237,
     "lbl:longitude":126.449469,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Manpho"
+    ],
     "name:fra_x_preferred":[
         "Manpho"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326316,
-    "wof:geomhash":"bf6c71da7796ce894616705b551adafa",
+    "wof:geomhash":"0b99b98d855305942d19511d5548487d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747007,
-    "wof:lastmodified":1627522293,
+    "wof:lastmodified":1694498055,
     "wof:name":"Manpho City",
     "wof:parent_id":85676623,
     "wof:placetype":"county",

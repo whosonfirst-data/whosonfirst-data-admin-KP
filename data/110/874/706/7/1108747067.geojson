@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180214,
-    "geom:area_square_m":1688169888.669669,
+    "geom:area_square_m":1688169770.634359,
     "geom:bbox":"127.396582,40.375856,127.795067,41.147064",
     "geom:latitude":40.748516,
     "geom:longitude":127.591345,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Pujon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.53243,
     "lbl:longitude":127.610923,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Pujon"
+    ],
     "name:fra_x_preferred":[
         "Pujon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326322,
-    "wof:geomhash":"d2c6473976976c375315e0bef0aa005c",
+    "wof:geomhash":"5c2a32730530bf493664a041e3a41608",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747067,
-    "wof:lastmodified":1627522295,
+    "wof:lastmodified":1694498056,
     "wof:name":"Pujon",
     "wof:parent_id":85676629,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046884,
-    "geom:area_square_m":452232354.790523,
+    "geom:area_square_m":452232406.866006,
     "geom:bbox":"126.511188,38.624903,126.874065,38.823606",
     "geom:latitude":38.732695,
     "geom:longitude":126.68921,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Koksan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.723283,
     "lbl:longitude":126.689204,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Koksan"
     ],
+    "name:eng_x_preferred":[
+        "Koksan"
+    ],
     "name:fra_x_preferred":[
         "Koksan"
     ],
@@ -52,7 +61,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326312,
-    "wof:geomhash":"9fbf3c44a57753dae12536b0a11a1262",
+    "wof:geomhash":"c1936ceb432c0f3c88dd2b52d246c219",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1108746969,
-    "wof:lastmodified":1627522292,
+    "wof:lastmodified":1694498054,
     "wof:name":"Koksan",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

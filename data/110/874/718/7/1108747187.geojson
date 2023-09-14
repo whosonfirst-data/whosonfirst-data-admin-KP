@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057072,
-    "geom:area_square_m":548853971.431441,
+    "geom:area_square_m":548853825.259756,
     "geom:bbox":"127.644934,38.762578,128.010287,39.13372",
     "geom:latitude":38.946563,
     "geom:longitude":127.812939,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Thongchon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.968874,
     "lbl:longitude":127.782452,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Thongchon"
+    ],
     "name:fra_x_preferred":[
         "Thongchon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326335,
-    "wof:geomhash":"d1219a32da4c45126bcd55301e49ace0",
+    "wof:geomhash":"628ef8a32b21fc41c75e7493c51da878",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747187,
-    "wof:lastmodified":1627522300,
+    "wof:lastmodified":1694498058,
     "wof:name":"Thongchon",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

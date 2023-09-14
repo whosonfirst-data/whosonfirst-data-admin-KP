@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037487,
-    "geom:area_square_m":359592672.932528,
+    "geom:area_square_m":359592590.959821,
     "geom:bbox":"127.198796,39.014235,127.527245,39.206314",
     "geom:latitude":39.126364,
     "geom:longitude":127.347098,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Wonsan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.119957,
     "lbl:longitude":127.33383,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Wonsan"
+    ],
     "name:fra_x_preferred":[
         "Wonsan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326339,
-    "wof:geomhash":"f3deb9ef0f2b05a1e7c246939a62b0ce",
+    "wof:geomhash":"90d638a9f75be1f11a040fe4908b0f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747229,
-    "wof:lastmodified":1627522301,
+    "wof:lastmodified":1694498059,
     "wof:name":"Wonsan City",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

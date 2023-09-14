@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128577,
-    "geom:area_square_m":1196994210.857168,
+    "geom:area_square_m":1196994519.90785,
     "geom:bbox":"129.088877,41.008166,129.738087,41.304597",
     "geom:latitude":41.158949,
     "geom:longitude":129.40937,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Myonggan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":41.154832,
     "lbl:longitude":129.370801,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Myonggan"
+    ],
     "name:fra_x_preferred":[
         "My\u014fnggan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326317,
-    "wof:geomhash":"eb0dcd542a94e056e279eb41922b7f41",
+    "wof:geomhash":"51f944a3378dd4a70c9db3a9c80aa775",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747019,
-    "wof:lastmodified":1627522293,
+    "wof:lastmodified":1694498055,
     "wof:name":"Myonggan",
     "wof:parent_id":85676615,
     "wof:placetype":"county",

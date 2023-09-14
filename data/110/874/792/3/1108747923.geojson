@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06199,
-    "geom:area_square_m":601167811.700794,
+    "geom:area_square_m":601167890.299629,
     "geom:bbox":"126.172455,38.179279,126.543544,38.493938",
     "geom:latitude":38.345673,
     "geom:longitude":126.362284,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Phyongsan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.328149,
     "lbl:longitude":126.334199,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Phyongsan"
+    ],
     "name:fra_x_preferred":[
         "Phyongsan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328271,
-    "wof:geomhash":"b781c0ce96c3eaa1a7b8f4a24cc75a82",
+    "wof:geomhash":"cfdc72bc0f094e9a7fd34b628da903a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747923,
-    "wof:lastmodified":1627522295,
+    "wof:lastmodified":1694498056,
     "wof:name":"Phyongsan",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

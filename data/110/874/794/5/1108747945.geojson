@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081612,
-    "geom:area_square_m":767124596.214674,
+    "geom:area_square_m":767124728.600147,
     "geom:bbox":"125.1286,40.345056,125.613574,40.656533",
     "geom:latitude":40.520435,
     "geom:longitude":125.39845,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Pyokdong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.510581,
     "lbl:longitude":125.422313,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Pyokdong"
+    ],
     "name:fra_x_preferred":[
         "Pyoktong"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328273,
-    "wof:geomhash":"08e9ad14aa8fc3fd253b9d385b7a8525",
+    "wof:geomhash":"25682f406defb28d93a61a9881074ef3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747945,
-    "wof:lastmodified":1627522296,
+    "wof:lastmodified":1694498056,
     "wof:name":"Pyokdong",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

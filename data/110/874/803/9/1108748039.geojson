@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022717,
-    "geom:area_square_m":217953603.019639,
+    "geom:area_square_m":217953627.840516,
     "geom:bbox":"125.466367,39.001325,125.665748,39.209164",
     "geom:latitude":39.111496,
     "geom:longitude":125.558705,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Taedong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.118473,
     "lbl:longitude":125.560214,
     "lbl:max_zoom":10.0,
@@ -118,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328284,
-    "wof:geomhash":"1d58e95ac379f02f8d3837f0955d5d70",
+    "wof:geomhash":"c994f15e0e605c140ebf31da46045d82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1108748039,
-    "wof:lastmodified":1636494981,
+    "wof:lastmodified":1694498096,
     "wof:name":"Taedong",
     "wof:parent_id":85676637,
     "wof:placetype":"county",

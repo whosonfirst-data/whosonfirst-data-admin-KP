@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041749,
-    "geom:area_square_m":398446178.209348,
+    "geom:area_square_m":398446303.49375,
     "geom:bbox":"125.774351,39.378834,126.098032,39.594164",
     "geom:latitude":39.48136,
     "geom:longitude":125.950135,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Sunchon City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.474912,
     "lbl:longitude":125.947055,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sunchon"
+    ],
     "name:fra_x_preferred":[
         "Sunchon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328284,
-    "wof:geomhash":"36901b922b546e700b62ba5cda6b0886",
+    "wof:geomhash":"656121735fae96693a048e7fbc82bf3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108748035,
-    "wof:lastmodified":1627522299,
+    "wof:lastmodified":1694498058,
     "wof:name":"Sunchon City",
     "wof:parent_id":85676637,
     "wof:placetype":"county",

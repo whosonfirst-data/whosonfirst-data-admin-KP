@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111196,
-    "geom:area_square_m":1047754584.210612,
+    "geom:area_square_m":1047754549.507604,
     "geom:bbox":"125.612784,40.216809,126.299688,40.529589",
     "geom:latitude":40.357132,
     "geom:longitude":125.924735,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Songwon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.345648,
     "lbl:longitude":125.929902,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Songwon"
+    ],
     "name:fra_x_preferred":[
         "Songwon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328283,
-    "wof:geomhash":"d7212b24837b773e93ff25712e9880e3",
+    "wof:geomhash":"9a2a1621883fdfdfcfaaad65668a9018",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108748027,
-    "wof:lastmodified":1627522299,
+    "wof:lastmodified":1694498058,
     "wof:name":"Songwon",
     "wof:parent_id":85676623,
     "wof:placetype":"county",

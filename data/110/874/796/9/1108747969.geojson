@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025431,
-    "geom:area_square_m":244943843.021776,
+    "geom:area_square_m":244943797.090605,
     "geom:bbox":"125.292834,38.701111,125.619509,38.923905",
     "geom:latitude":38.83568,
     "geom:longitude":125.424967,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Ryonggang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.864063,
     "lbl:longitude":125.395277,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ryonggang"
+    ],
     "name:fra_x_preferred":[
         "Ryonggang"
     ],
@@ -44,7 +53,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328276,
-    "wof:geomhash":"1c297c950aec2b39f26b45c746bcf848",
+    "wof:geomhash":"e42533bc9f1fe561d5efdea2d35384aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1108747969,
-    "wof:lastmodified":1627522297,
+    "wof:lastmodified":1694498057,
     "wof:name":"Ryonggang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

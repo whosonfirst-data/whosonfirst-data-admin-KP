@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.927817,
-    "geom:area_square_m":122170689819.240829,
+    "geom:area_square_m":122170689819.202255,
     "geom:bbox":"124.185387,37.676784,130.699451,43.01159",
     "geom:latitude":40.143512,
     "geom:longitude":127.173304,
@@ -14,6 +14,9 @@
     "iso:country":"KP",
     "itu:country_code":[
         "850"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "KP"
@@ -1327,7 +1330,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"850",
     "statoids:ds":"",
     "statoids:fifa":"PRK",
@@ -1386,7 +1390,7 @@
         "naturalearth",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"dcb41800e87fd6096488201080016682",
+    "wof:geomhash":"d045cd62ef684e2e35f970a61ea9c28b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1400,12 +1404,12 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1690938209,
+    "wof:lastmodified":1694639586,
     "wof:name":"North Korea",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":24895480,
-    "wof:population_rank":15,
+    "wof:population":25666161,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:shortcode":"KP",
     "wof:superseded_by":[],

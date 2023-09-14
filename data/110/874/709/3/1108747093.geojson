@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06046,
-    "geom:area_square_m":586728111.719037,
+    "geom:area_square_m":586728081.468484,
     "geom:bbox":"125.881123,38.168293,126.217145,38.462159",
     "geom:latitude":38.2967,
     "geom:longitude":126.039498,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Rinsan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.294213,
     "lbl:longitude":126.042676,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Rinsan"
+    ],
     "name:fra_x_preferred":[
         "Rinsan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326325,
-    "wof:geomhash":"4be2781198a05ba6c3aeaf6a5abf8361",
+    "wof:geomhash":"2c047269da60bef5261e7ec917d8bd9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747093,
-    "wof:lastmodified":1627522296,
+    "wof:lastmodified":1694498056,
     "wof:name":"Rinsan",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

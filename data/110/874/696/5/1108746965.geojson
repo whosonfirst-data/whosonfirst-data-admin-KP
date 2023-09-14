@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127278,
-    "geom:area_square_m":1180665284.453411,
+    "geom:area_square_m":1180665221.389897,
     "geom:bbox":"126.911261,41.112859,127.531915,41.656942",
     "geom:latitude":41.393132,
     "geom:longitude":127.193211,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kimh Yong Jik County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":41.389523,
     "lbl:longitude":127.172104,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kimh Yong Jik"
+    ],
     "name:fra_x_preferred":[
         "Kimh Hyong Jik"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326311,
-    "wof:geomhash":"303a76de41c4a01c66741d1955d2553f",
+    "wof:geomhash":"6ac6c00d5d7045b46da62165403f86eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746965,
-    "wof:lastmodified":1627522291,
+    "wof:lastmodified":1694498053,
     "wof:name":"Kimh Yong Jik",
     "wof:parent_id":85676641,
     "wof:placetype":"county",

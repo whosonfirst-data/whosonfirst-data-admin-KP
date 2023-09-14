@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034406,
-    "geom:area_square_m":325680128.922759,
+    "geom:area_square_m":325680182.635304,
     "geom:bbox":"124.421493,39.971774,124.742347,40.123687",
     "geom:latitude":40.04733,
     "geom:longitude":124.578617,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Phihyon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.057712,
     "lbl:longitude":124.591553,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Phihyon"
+    ],
     "name:fra_x_preferred":[
         "Phihyon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326320,
-    "wof:geomhash":"f4d5d68432bfeda2826e38919104190f",
+    "wof:geomhash":"b813b187a6f785fe14552c04f1c7c764",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747047,
-    "wof:lastmodified":1627522295,
+    "wof:lastmodified":1694498056,
     "wof:name":"Phihyon",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

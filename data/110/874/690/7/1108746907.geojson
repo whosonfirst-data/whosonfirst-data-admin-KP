@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040439,
-    "geom:area_square_m":391873798.245739,
+    "geom:area_square_m":391873857.020835,
     "geom:bbox":"125.562419,38.237129,125.76785,38.642752",
     "geom:latitude":38.400244,
     "geom:longitude":125.645635,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Jaeryong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.424092,
     "lbl:longitude":125.635534,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Jaeryong"
+    ],
     "name:fra_x_preferred":[
         "Jaeryong"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326305,
-    "wof:geomhash":"c733870eea085bbc4eafb32fa6e23357",
+    "wof:geomhash":"529ce201a55d674533386bff32e33021",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746907,
-    "wof:lastmodified":1627522290,
+    "wof:lastmodified":1694498052,
     "wof:name":"Jaeryong",
     "wof:parent_id":85676605,
     "wof:placetype":"county",

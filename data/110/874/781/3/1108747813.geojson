@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028988,
-    "geom:area_square_m":270777279.957624,
+    "geom:area_square_m":270777367.286952,
     "geom:bbox":"126.450029,40.847173,126.72856,41.046936",
     "geom:latitude":40.937034,
     "geom:longitude":126.59724,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kanggye City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":40.966903,
     "lbl:longitude":126.571917,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kanggye"
+    ],
     "name:fra_x_preferred":[
         "Kanggye"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328257,
-    "wof:geomhash":"30bd282228f0c7b1c65862a31fbd2c2a",
+    "wof:geomhash":"0a2b18686994dc4ab1c17a098fceb31c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747813,
-    "wof:lastmodified":1627522291,
+    "wof:lastmodified":1694498054,
     "wof:name":"Kanggye City",
     "wof:parent_id":85676623,
     "wof:placetype":"county",

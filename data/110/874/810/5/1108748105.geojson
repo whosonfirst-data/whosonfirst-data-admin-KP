@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035455,
-    "geom:area_square_m":336270461.534888,
+    "geom:area_square_m":336270371.338865,
     "geom:bbox":"124.329613,39.802944,124.682343,40.002823",
     "geom:latitude":39.913161,
     "geom:longitude":124.521483,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Yomju County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.922304,
     "lbl:longitude":124.526654,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Yomju"
+    ],
     "name:fra_x_preferred":[
         "Yomju"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328294,
-    "wof:geomhash":"5711a2ba8c5a96b3cf839a536949ec3b",
+    "wof:geomhash":"0d2ba0537a3c5288d51154cbf98bd209",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108748105,
-    "wof:lastmodified":1627522302,
+    "wof:lastmodified":1694498059,
     "wof:name":"Yomju",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061042,
-    "geom:area_square_m":576930880.86222,
+    "geom:area_square_m":576930640.995913,
     "geom:bbox":"125.97214,39.991331,126.471065,40.317007",
     "geom:latitude":40.150614,
     "geom:longitude":126.190814,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Huichon City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":40.127004,
     "lbl:longitude":126.207816,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Huichon"
+    ],
     "name:fra_x_preferred":[
         "Huichon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328249,
-    "wof:geomhash":"d48e8e077ae902524d429404abae8e9b",
+    "wof:geomhash":"9f4f512b5659c54638896912a6ac4fa6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747761,
-    "wof:lastmodified":1627522289,
+    "wof:lastmodified":1694498052,
     "wof:name":"Huichon City",
     "wof:parent_id":85676623,
     "wof:placetype":"county",

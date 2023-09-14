@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062971,
-    "geom:area_square_m":597288667.373957,
+    "geom:area_square_m":597288836.936295,
     "geom:bbox":"127.057492,39.712389,127.529214,40.083688",
     "geom:latitude":39.907208,
     "geom:longitude":127.277245,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Hamju County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.88364,
     "lbl:longitude":127.352334,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Hamju"
+    ],
     "name:fra_x_preferred":[
         "Hamju"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328247,
-    "wof:geomhash":"34100e546d5f2577d979b0ab0004e74d",
+    "wof:geomhash":"b7978978aa8580a00a6e0df00758071b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747747,
-    "wof:lastmodified":1627522288,
+    "wof:lastmodified":1694498052,
     "wof:name":"Hamju",
     "wof:parent_id":85676629,
     "wof:placetype":"county",

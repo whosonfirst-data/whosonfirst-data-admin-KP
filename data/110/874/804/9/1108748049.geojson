@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.206865,
-    "geom:area_square_m":1938765086.713361,
+    "geom:area_square_m":1938764598.036352,
     "geom:bbox":"128.469116,40.383943,129.15762,41.1782",
     "geom:latitude":40.716107,
     "geom:longitude":128.842022,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Tanchon City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":40.511462,
     "lbl:longitude":128.87573,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tanchon"
+    ],
     "name:fra_x_preferred":[
         "Tanchon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328288,
-    "wof:geomhash":"a4cc8f7abe375b236d45763a279679e6",
+    "wof:geomhash":"181294e5e22e5d21acb3831b041fa3b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108748049,
-    "wof:lastmodified":1627522299,
+    "wof:lastmodified":1694498058,
     "wof:name":"Tanchon City",
     "wof:parent_id":85676629,
     "wof:placetype":"county",

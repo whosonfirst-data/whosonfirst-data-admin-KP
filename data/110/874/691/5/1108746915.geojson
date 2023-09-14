@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060405,
-    "geom:area_square_m":587696828.996988,
+    "geom:area_square_m":587696209.938067,
     "geom:bbox":"126.553675,37.967373,126.969719,38.225405",
     "geom:latitude":38.110603,
     "geom:longitude":126.754694,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Jangphung County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.098249,
     "lbl:longitude":126.751568,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Jangphung"
+    ],
     "name:fra_x_preferred":[
         "Jangchung"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326306,
-    "wof:geomhash":"a96d3c463092f57394099da27916ca90",
+    "wof:geomhash":"e7315e4ed895939d705e415c38564ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746915,
-    "wof:lastmodified":1627522290,
+    "wof:lastmodified":1694498053,
     "wof:name":"Jangphung",
     "wof:parent_id":85676603,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065791,
-    "geom:area_square_m":619457300.761764,
+    "geom:area_square_m":619457305.926616,
     "geom:bbox":"125.001202,40.206021,125.439325,40.572865",
     "geom:latitude":40.40757,
     "geom:longitude":125.22414,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Changsong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":40.441713,
     "lbl:longitude":125.172705,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Changsong"
+    ],
     "name:fra_x_preferred":[
         "Changsong"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328243,
-    "wof:geomhash":"6b4852e5bae9d8bdf67d7f18742d72cb",
+    "wof:geomhash":"e1b26ca144e1b926ac36bc7e9056590c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747721,
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1694498051,
     "wof:name":"Changsong",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029084,
-    "geom:area_square_m":275409107.280661,
+    "geom:area_square_m":275409269.189007,
     "geom:bbox":"125.996877,39.935862,126.356526,40.131089",
     "geom:latitude":40.021119,
     "geom:longitude":126.183543,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Hyangsan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.991513,
     "lbl:longitude":126.201276,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Hyangsan"
+    ],
     "name:fra_x_preferred":[
         "Hyangsan"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326305,
-    "wof:geomhash":"1f1d645cee3b91cadd6902b40d12c92a",
+    "wof:geomhash":"3866f5e04fed39bc2cb21deaa245f7a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746901,
-    "wof:lastmodified":1627522289,
+    "wof:lastmodified":1694498052,
     "wof:name":"Hyangsan",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

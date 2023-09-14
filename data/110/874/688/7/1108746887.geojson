@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071678,
-    "geom:area_square_m":691060831.375436,
+    "geom:area_square_m":691060878.829684,
     "geom:bbox":"127.428328,38.584258,127.848375,38.924052",
     "geom:latitude":38.766411,
     "geom:longitude":127.638278,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Hoeyang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.765207,
     "lbl:longitude":127.638249,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Hoeyang"
+    ],
     "name:fra_x_preferred":[
         "Hoeyang"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326304,
-    "wof:geomhash":"f7003cbae1f81e5252d299740fff4cb8",
+    "wof:geomhash":"d2759b7cde9b24bbcdc5675633558cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108746887,
-    "wof:lastmodified":1627522289,
+    "wof:lastmodified":1694498052,
     "wof:name":"Hoeyang",
     "wof:parent_id":85676619,
     "wof:placetype":"county",

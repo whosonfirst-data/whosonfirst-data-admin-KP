@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055646,
-    "geom:area_square_m":527423741.053007,
+    "geom:area_square_m":527423678.424966,
     "geom:bbox":"125.0471,39.81206,125.356489,40.092722",
     "geom:latitude":39.957912,
     "geom:longitude":125.19018,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Kusong City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.95331,
     "lbl:longitude":125.202685,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kusong"
+    ],
     "name:fra_x_preferred":[
         "Kusong"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328263,
-    "wof:geomhash":"b5db1e467aab387c4893a49e341d0479",
+    "wof:geomhash":"bcd255580a6aa6d1deb3697e89897f40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747859,
-    "wof:lastmodified":1627522292,
+    "wof:lastmodified":1694498055,
     "wof:name":"Kusong City",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

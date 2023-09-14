@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046295,
-    "geom:area_square_m":450194097.085588,
+    "geom:area_square_m":450193791.216397,
     "geom:bbox":"124.652031,38.064529,125.176134,38.239613",
     "geom:latitude":38.146171,
     "geom:longitude":124.951376,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Ryongchon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":38.148961,
     "lbl:longitude":124.990913,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ryongchon"
+    ],
     "name:fra_x_preferred":[
         "Ryongchon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328276,
-    "wof:geomhash":"53529a570f20d7fb6069227b7ec28f11",
+    "wof:geomhash":"ecde4f4e5c0a0fba2319d73f08b1be56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747967,
-    "wof:lastmodified":1627522297,
+    "wof:lastmodified":1694498057,
     "wof:name":"Ryongchon",
     "wof:parent_id":85676605,
     "wof:placetype":"county",

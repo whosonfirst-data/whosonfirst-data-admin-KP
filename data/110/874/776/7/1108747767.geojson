@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146605,
-    "geom:area_square_m":1363681261.454621,
+    "geom:area_square_m":1363681403.848588,
     "geom:bbox":"126.711138,40.957057,127.191318,41.473557",
     "geom:latitude":41.214204,
     "geom:longitude":126.938203,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Hwaphyong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":41.221088,
     "lbl:longitude":126.942752,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Hwaphyong"
+    ],
     "name:fra_x_preferred":[
         "Hwaphyong"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328251,
-    "wof:geomhash":"f20a07d49730acfc77b4d167f1606aea",
+    "wof:geomhash":"564ebb226115d2415462519e2696d59b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747767,
-    "wof:lastmodified":1627522289,
+    "wof:lastmodified":1694498052,
     "wof:name":"Hwaphyong",
     "wof:parent_id":85676623,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209973,
-    "geom:area_square_m":1943235155.581934,
+    "geom:area_square_m":1943234934.690354,
     "geom:bbox":"128.49921,41.10171,129.057812,41.917823",
     "geom:latitude":41.543633,
     "geom:longitude":128.827826,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Paekam County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":41.524026,
     "lbl:longitude":128.832037,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Paekam"
+    ],
     "name:fra_x_preferred":[
         "Paekam-ri"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328269,
-    "wof:geomhash":"345a7f3a68ccf0d5f60c89484569e28d",
+    "wof:geomhash":"ec8635ba6e13c6a785fe6c8a231f3444",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747907,
-    "wof:lastmodified":1627522294,
+    "wof:lastmodified":1694498056,
     "wof:name":"Paekam",
     "wof:parent_id":85676641,
     "wof:placetype":"county",

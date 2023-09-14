@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039916,
-    "geom:area_square_m":379895055.498041,
+    "geom:area_square_m":379895205.929888,
     "geom:bbox":"125.294326,39.527108,125.566478,39.803891",
     "geom:latitude":39.673412,
     "geom:longitude":125.413879,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Unjon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":39.671438,
     "lbl:longitude":125.411796,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Unjon"
+    ],
     "name:fra_x_preferred":[
         "Unjon"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326337,
-    "wof:geomhash":"24ea92085b9cb3b94a0b1a109874dcc7",
+    "wof:geomhash":"586be30acb506c1d89f32e8fc5b8f1aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747213,
-    "wof:lastmodified":1627522301,
+    "wof:lastmodified":1694498059,
     "wof:name":"Unjon",
     "wof:parent_id":85676633,
     "wof:placetype":"county",

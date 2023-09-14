@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121697,
-    "geom:area_square_m":1168156200.253109,
+    "geom:area_square_m":1168156226.784585,
     "geom:bbox":"125.575918,38.894989,126.051127,39.283522",
     "geom:latitude":39.078287,
     "geom:longitude":125.802924,
     "iso:country":"KP",
+    "label:eng_x_preferred_longname":[
+        "Pyongyang City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.060448,
     "lbl:longitude":125.798405,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Pyongyang"
+    ],
     "name:fra_x_preferred":[
         "Ville de Pyongyang"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328274,
-    "wof:geomhash":"7a3b77acc7ec5d3e5c71e8c1becbc776",
+    "wof:geomhash":"97a2f15c856c1f52da97bad2504d3a08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108747951,
-    "wof:lastmodified":1627522301,
+    "wof:lastmodified":1694498059,
     "wof:name":"Pyongyang City",
     "wof:parent_id":85676611,
     "wof:placetype":"county",
