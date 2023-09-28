@@ -1369,6 +1369,7 @@
         "hasc:id":"KP",
         "icao:code":"P",
         "ioc:id":"PRK",
+        "iso:code":"KP",
         "itu:id":"KRE",
         "loc:id":"n81074720",
         "m49:code":"408",
@@ -1382,6 +1383,7 @@
         "wk:page":"North Korea",
         "wmo:id":"KR"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KP",
     "wof:country_alpha3":"PRK",
     "wof:geom_alt":[
@@ -1404,7 +1406,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1694639586,
+    "wof:lastmodified":1695881246,
     "wof:name":"North Korea",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
