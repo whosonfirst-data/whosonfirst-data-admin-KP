@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.962309,
-    "geom:area_square_m":18514179242.411831,
+    "geom:area_square_m":18514178872.714268,
     "geom:bbox":"126.669766,39.203505,129.15762,41.1782",
     "geom:latitude":40.266694,
     "geom:longitude":127.801295,
@@ -318,16 +318,18 @@
         "gn:id":1877450,
         "gp:id":2345951,
         "hasc:id":"KP.HN",
+        "iso:code":"KP-08",
         "iso:id":"KP-08",
         "qs_pg:id":235601,
         "wd:id":"Q109368",
         "wk:page":"South Hamgyong Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KP",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0adf84b4c13363005f4b65419dac8fcf",
+    "wof:geomhash":"7282cc65906c0b1650afbcf96ff4b416",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -342,7 +344,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1690938206,
+    "wof:lastmodified":1695884518,
     "wof:name":"Hamgy\u014fng-namdo",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.0678,
-    "geom:area_square_m":10326761336.801994,
+    "geom:area_square_m":10326760590.200655,
     "geom:bbox":"125.520837,37.771137,127.019449,39.172322",
     "geom:latitude":38.543889,
     "geom:longitude":126.328421,
@@ -302,16 +302,18 @@
         "gn:id":1876888,
         "gp:id":2345953,
         "hasc:id":"KP.WK",
+        "iso:code":"KP-06",
         "iso:id":"KP-06",
         "qs_pg:id":890081,
         "wd:id":"Q109342",
         "wk:page":"North Hwanghae Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KP",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b4a583b0986319013c4753b0711b9bdc",
+    "wof:geomhash":"95934d1822172ac69dfeff3845fec3f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -326,7 +328,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1690938204,
+    "wof:lastmodified":1695884784,
     "wof:name":"Hwanghae-bukto",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

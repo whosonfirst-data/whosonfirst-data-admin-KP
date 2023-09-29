@@ -207,10 +207,12 @@
     "wof:concordances":{
         "gn:id":2044245,
         "gp:id":2345958,
+        "iso:code":"KP-13",
         "qs_pg:id":894912,
         "wd:id":"Q109361",
         "wk:page":"North Hamgyong Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KP",
     "wof:geom_alt":[
         "quattroshapes"
@@ -230,7 +232,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1694493174,
+    "wof:lastmodified":1695884519,
     "wof:name":"Ras\u014fn",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

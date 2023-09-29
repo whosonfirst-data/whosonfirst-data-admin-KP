@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.720685,
-    "geom:area_square_m":15858219289.043646,
+    "geom:area_square_m":15858219694.433329,
     "geom:bbox":"128.806263,40.569365,130.437109,43.01159",
     "geom:latitude":41.808573,
     "geom:longitude":129.543079,
@@ -220,16 +220,18 @@
         "gn:id":2044245,
         "gp:id":2345958,
         "hasc:id":"KP.HG",
+        "iso:code":"KP-09",
         "iso:id":"KP-09",
         "qs_pg:id":894912,
         "wd:id":"Q109361",
         "wk:page":"North Hamgyong Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KP",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a9b8d7fb79ec754f42564a932d26a2f2",
+    "wof:geomhash":"3e66f64958e1d7bc1e5daf17a760d11c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -244,7 +246,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1690938208,
+    "wof:lastmodified":1695884332,
     "wof:name":"Hamgy\u014fng-bukto",
     "wof:parent_id":85632639,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.848372,
-    "geom:area_square_m":8245066288.925491,
+    "geom:area_square_m":8245065376.803502,
     "geom:bbox":"124.652031,37.677082,126.441955,38.717056",
     "geom:latitude":38.188801,
     "geom:longitude":125.539535,
@@ -302,16 +302,18 @@
         "gn:id":1876884,
         "gp:id":2345952,
         "hasc:id":"KP.WN",
+        "iso:code":"KP-05",
         "iso:id":"KP-05",
         "qs_pg:id":894910,
         "wd:id":"Q626052",
         "wk:page":"South Hwanghae Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KP",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7131d246ed076a7377c54475d3a1fb82",
+    "wof:geomhash":"1a6060b089bab7e8f4f006451f7d0671",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -326,7 +328,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1690938205,
+    "wof:lastmodified":1695884784,
     "wof:name":"Hwanghae-namdo",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
