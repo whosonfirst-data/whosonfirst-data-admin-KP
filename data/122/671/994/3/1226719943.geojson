@@ -10,6 +10,7 @@
     "geom:latitude":39.25806,
     "geom:longitude":125.40361,
     "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1871865",
     "gn:asciiname":"Chungo-ri",
     "gn:country_code":"KP",
     "gn:dem":30,
@@ -44,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1877822
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1889444
+        ]
+    },
     "wof:country":"KP",
     "wof:geomhash":"1c12df6edf621822ba96896128842605",
     "wof:hierarchy":[
@@ -56,13 +62,15 @@
         }
     ],
     "wof:id":1226719943,
-    "wof:lastmodified":1566585432,
+    "wof:lastmodified":1706240325,
     "wof:name":"Chungo-ri",
     "wof:parent_id":1108747925,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242747889
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"124.96222,39.76194,124.96222,39.76194",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\uc11c\uace8"
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":1327411309,
-    "wof:lastmodified":1566581876,
+    "wof:lastmodified":1706240326,
     "wof:name":"So-gol",
     "wof:parent_id":1108747147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259770625
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

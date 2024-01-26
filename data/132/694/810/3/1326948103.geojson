@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"124.54032,40.00975,124.54032,40.00975",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ud559\ud604\ub3d9"
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":1326948103,
-    "wof:lastmodified":1566581771,
+    "wof:lastmodified":1706240326,
     "wof:name":"Hakhyon-dong",
     "wof:parent_id":1108747047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293871089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

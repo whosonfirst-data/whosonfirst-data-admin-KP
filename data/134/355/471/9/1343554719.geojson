@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"125.69694,38.52667,125.69694,38.52667",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:kor_x_preferred":[
         "\ub3c4\ucd0c"
@@ -47,7 +49,7 @@
         "gn:id":6407479
     },
     "wof:country":"KP",
-    "wof:geomhash":"aec2ef97639f011bf76f1efa2ebd5ea1",
+    "wof:geomhash":"4b8e2144370bf34f1377abacd31987f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +60,22 @@
         }
     ],
     "wof:id":1343554719,
-    "wof:lastmodified":1566582117,
+    "wof:lastmodified":1706240326,
     "wof:name":"Toch'on",
     "wof:parent_id":1108747117,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1327419727
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    125.69693999999998,
+    125.69694,
     38.52667,
-    125.69693999999998,
+    125.69694,
     38.52667
 ],
-  "geometry": {"coordinates":[125.69693999999998,38.52667],"type":"Point"}
+  "geometry": {"coordinates":[125.69694,38.52667],"type":"Point"}
 }

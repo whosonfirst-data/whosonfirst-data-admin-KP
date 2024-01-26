@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:kor_x_preferred":[
+        "\ud68c\uc6d0\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "Hoew\u014fl-li"
+    ],
     "name:und_x_variant":[
         "Chungyang-ni",
         "Hoew\u014fl-li"
@@ -41,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1889696
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6366590
+        ]
+    },
     "wof:country":"KP",
     "wof:geomhash":"9478399c397afa5bfec13a91a9850ba1",
     "wof:hierarchy":[
@@ -50,13 +61,15 @@
         }
     ],
     "wof:id":1209076031,
-    "wof:lastmodified":1566583407,
+    "wof:lastmodified":1706240324,
     "wof:name":"Hoewol-li",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243536955
+    ],
     "wof:tags":[]
 },
   "bbox": [

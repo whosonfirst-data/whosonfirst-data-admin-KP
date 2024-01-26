@@ -10,6 +10,7 @@
     "geom:latitude":38.8575,
     "geom:longitude":127.98972,
     "gn:admin1_code":"9.0",
+    "gn:admin2_code":"Kos\u014fng-gun",
     "gn:asciiname":"Yomsong-ni",
     "gn:country_code":"KP",
     "gn:dem":14,
@@ -37,6 +38,11 @@
     "wof:concordances":{
         "gn:id":1988293
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1866581
+        ]
+    },
     "wof:country":"KP",
     "wof:geomhash":"cb5c02d5296bac3e7746affe751f0754",
     "wof:hierarchy":[
@@ -46,13 +52,15 @@
         }
     ],
     "wof:id":1209095529,
-    "wof:lastmodified":1566583392,
+    "wof:lastmodified":1706240324,
     "wof:name":"Yomsong-ni",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259973553
+    ],
     "wof:tags":[]
 },
   "bbox": [
