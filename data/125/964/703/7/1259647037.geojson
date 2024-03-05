@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":2041720
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6305667
+        ]
+    },
     "wof:country":"KP",
     "wof:geomhash":"d2788c4aa16d74d783403ea567ea0eb7",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1259647037,
-    "wof:lastmodified":1566585014,
+    "wof:lastmodified":1706240325,
     "wof:name":"P'ungso-ri",
     "wof:parent_id":1108747901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293255581
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1892325
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6274106
+        ]
+    },
     "wof:country":"KP",
     "wof:geomhash":"e809dc5ae1974614eaffd95ec9c2172e",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1242854997,
-    "wof:lastmodified":1566584874,
+    "wof:lastmodified":1706240325,
     "wof:name":"Chagundalgum",
     "wof:parent_id":1108747725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276313573
+    ],
     "wof:tags":[]
 },
   "bbox": [

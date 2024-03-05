@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"125.98444,38.93361,125.98444,38.93361",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\uc815\uc790\ub3d9",
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":1226128979,
-    "wof:lastmodified":1566585455,
+    "wof:lastmodified":1706240323,
     "wof:name":"Chongja-dong",
     "wof:parent_id":1108747115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193151397
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

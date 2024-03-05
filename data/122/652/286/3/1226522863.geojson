@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":2041459
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6281791
+        ]
+    },
     "wof:country":"KP",
     "wof:geomhash":"446c26f78cf8d9c1923b0d574caf7415",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226522863,
-    "wof:lastmodified":1566585482,
+    "wof:lastmodified":1706240325,
     "wof:name":"Sambong-ni",
     "wof:parent_id":1108747105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242861603
+    ],
     "wof:tags":[]
 },
   "bbox": [

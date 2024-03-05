@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1878406
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6363584
+        ]
+    },
     "wof:country":"KP",
     "wof:geomhash":"bb572dc4444de9086445d25dd4febc88",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1193151397,
-    "wof:lastmodified":1566583795,
+    "wof:lastmodified":1706240323,
     "wof:name":"Chongja-dong",
     "wof:parent_id":1108747115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226128979
+    ],
     "wof:tags":[]
 },
   "bbox": [

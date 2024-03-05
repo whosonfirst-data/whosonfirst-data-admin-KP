@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"129.92611,43.00389,129.92611,43.00389",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\ud48d\uc11c\ub9ac",
@@ -45,7 +47,7 @@
         "gn:id":6305667
     },
     "wof:country":"KP",
-    "wof:geomhash":"cd9a12380b884afdff30d9b7f23c7224",
+    "wof:geomhash":"20aede909fe9b1555826951041edb65b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +58,22 @@
         }
     ],
     "wof:id":1293255581,
-    "wof:lastmodified":1566582724,
+    "wof:lastmodified":1706240325,
     "wof:name":"P'ungso-ri",
     "wof:parent_id":1108747901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259647037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    129.92611000000002,
-    43.00389000000001,
-    129.92611000000002,
-    43.00389000000001
+    129.92611,
+    43.00389,
+    129.92611,
+    43.00389
 ],
-  "geometry": {"coordinates":[129.92611000000002,43.00389000000001],"type":"Point"}
+  "geometry": {"coordinates":[129.92610999999999,43.00389],"type":"Point"}
 }

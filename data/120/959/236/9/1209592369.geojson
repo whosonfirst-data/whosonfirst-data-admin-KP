@@ -42,6 +42,9 @@
     "name:swe_x_preferred":[
         "Namsan-dong"
     ],
+    "name:und_x_variant":[
+        "Namsandong"
+    ],
     "name:zho_x_preferred":[
         "\u5357\u5c71\u6d1e"
     ],
@@ -53,6 +56,11 @@
     "wof:concordances":{
         "gn:id":1950210
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1929260
+        ]
+    },
     "wof:country":"KP",
     "wof:geomhash":"cd8e71874992f9a1ef10e0d8205aa356",
     "wof:hierarchy":[
@@ -62,13 +70,15 @@
         }
     ],
     "wof:id":1209592369,
-    "wof:lastmodified":1566583595,
+    "wof:lastmodified":1706240324,
     "wof:name":"Namsan-dong",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327310493
+    ],
     "wof:tags":[]
 },
   "bbox": [

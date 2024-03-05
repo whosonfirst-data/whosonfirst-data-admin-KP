@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":2043758
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2056792
+        ]
+    },
     "wof:country":"KP",
     "wof:geomhash":"b50aab0e005412d676f0c97d729a657c",
     "wof:hierarchy":[
@@ -50,13 +55,15 @@
         }
     ],
     "wof:id":1209295007,
-    "wof:lastmodified":1566583652,
+    "wof:lastmodified":1706240324,
     "wof:name":"Imdo",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209492799
+    ],
     "wof:tags":[]
 },
   "bbox": [

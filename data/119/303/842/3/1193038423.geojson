@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":1948060
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1947874
+        ]
+    },
     "wof:country":"KP",
-    "wof:geomhash":"91ea8f8849be5acfed8fc09348add2fc",
+    "wof:geomhash":"ee3517a57283360016934e4b9061e868",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1193038423,
-    "wof:lastmodified":1566583828,
+    "wof:lastmodified":1706240323,
     "wof:name":"Kojae-gol",
     "wof:parent_id":1108747093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310487549
+    ],
     "wof:tags":[]
 },
   "bbox": [
     126.15083,
-    38.25389000000001,
+    38.25389,
     126.15083,
-    38.25389000000001
+    38.25389
 ],
-  "geometry": {"coordinates":[126.15083,38.25389000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.15083,38.25389],"type":"Point"}
 }

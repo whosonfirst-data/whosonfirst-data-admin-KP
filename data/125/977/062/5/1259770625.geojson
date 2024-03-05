@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1870113
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1870114
+        ]
+    },
     "wof:country":"KP",
     "wof:geomhash":"76d946eb626264a3374a680ee8d3241a",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1259770625,
-    "wof:lastmodified":1566585030,
+    "wof:lastmodified":1706240326,
     "wof:name":"So-gol",
     "wof:parent_id":1108747147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327411309
+    ],
     "wof:tags":[]
 },
   "bbox": [

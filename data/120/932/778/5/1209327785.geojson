@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":6282585
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2040410
+        ]
+    },
     "wof:country":"KP",
     "wof:geomhash":"1b4de9220827d692bfd98d8255ed8b19",
     "wof:hierarchy":[
@@ -50,13 +55,15 @@
         }
     ],
     "wof:id":1209327785,
-    "wof:lastmodified":1566583600,
+    "wof:lastmodified":1706240324,
     "wof:name":"Ssangbu-ri",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343574389
+    ],
     "wof:tags":[]
 },
   "bbox": [
