@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Songrim"
     ],
+    "name:eng_x_variant":[
+        "Songrim City"
+    ],
     "name:fra_x_preferred":[
         "Songrim"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328282,
-    "wof:geomhash":"cac99eb072cb78fa64772d34026e6dc0",
+    "wof:geomhash":"36b6ad9d9bd5c2992e6fc250eaddb13b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108748023,
-    "wof:lastmodified":1695886763,
-    "wof:name":"Songrim City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Songrim",
     "wof:parent_id":85676603,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

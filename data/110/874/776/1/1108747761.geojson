@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Huichon"
     ],
+    "name:eng_x_variant":[
+        "Huichon City"
+    ],
     "name:fra_x_preferred":[
         "Huichon"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328249,
-    "wof:geomhash":"9f4f512b5659c54638896912a6ac4fa6",
+    "wof:geomhash":"d48e8e077ae902524d429404abae8e9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747761,
-    "wof:lastmodified":1695886755,
-    "wof:name":"Huichon City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Huichon",
     "wof:parent_id":85676623,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

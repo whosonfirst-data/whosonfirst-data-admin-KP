@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Rason"
     ],
+    "name:eng_x_variant":[
+        "Rason City"
+    ],
     "name:fra_x_preferred":[
         "Rason"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326325,
-    "wof:geomhash":"9bf63ab9bc0aa00a1a77368d5d5a59e3",
+    "wof:geomhash":"3878d5290a90a42447d795e0b74ef060",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747091,
-    "wof:lastmodified":1695886760,
-    "wof:name":"Rason City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Rason",
     "wof:parent_id":85676647,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

@@ -29,6 +29,10 @@
         "Sir Hwangju"
     ],
     "name:eng_x_preferred":[
+        "Hwangju"
+    ],
+    "name:eng_x_variant":[
+        "Hwangju-\u016dp",
         "Hwangju County"
     ],
     "name:fas_x_preferred":[
@@ -76,8 +80,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676603,
-        1108748117
+        1108748117,
+        85676603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,8 +104,8 @@
         }
     ],
     "wof:id":890442497,
-    "wof:lastmodified":1690938225,
-    "wof:name":"Hwangju-\u016dp",
+    "wof:lastmodified":1730094962,
+    "wof:name":"Hwangju",
     "wof:parent_id":1108748117,
     "wof:placetype":"locality",
     "wof:population":35641,

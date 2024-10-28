@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Hyesan"
     ],
+    "name:eng_x_variant":[
+        "Hyesan City"
+    ],
     "name:fra_x_preferred":[
         "Hyesan"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326305,
-    "wof:geomhash":"b2dab396600665a02e76b75e346ae149",
+    "wof:geomhash":"00d9942d104fce8f0ffbd97ced30fbb6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108746903,
-    "wof:lastmodified":1695886755,
-    "wof:name":"Hyesan City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Hyesan",
     "wof:parent_id":85676641,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

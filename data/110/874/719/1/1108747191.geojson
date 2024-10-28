@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Tokchon"
     ],
+    "name:eng_x_variant":[
+        "Tokchon City"
+    ],
     "name:fra_x_preferred":[
         "Tokchon"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326335,
-    "wof:geomhash":"8aff36f72c0cc9029ffaf2de09bcbedf",
+    "wof:geomhash":"a7bf46f8eaa98e4361c1f4316605859d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747191,
-    "wof:lastmodified":1695886764,
-    "wof:name":"Tokchon City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Tokchon",
     "wof:parent_id":85676637,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

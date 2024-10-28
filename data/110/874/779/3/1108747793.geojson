@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Jongju"
     ],
+    "name:eng_x_variant":[
+        "Jongju City"
+    ],
     "name:fra_x_preferred":[
         "Jongju"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328254,
-    "wof:geomhash":"175cca259c5296ff28578322ff491f2d",
+    "wof:geomhash":"c4207d42bd4fc94dc0c453892a5e08ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747793,
-    "wof:lastmodified":1695886755,
-    "wof:name":"Jongju City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Jongju",
     "wof:parent_id":85676633,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

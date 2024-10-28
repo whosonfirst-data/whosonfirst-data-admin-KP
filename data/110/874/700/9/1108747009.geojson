@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Munchon"
     ],
+    "name:eng_x_variant":[
+        "Munchon City"
+    ],
     "name:fra_x_preferred":[
         "Munch\u014fn"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326316,
-    "wof:geomhash":"a3d1e0b263b4b1261f92418e4fce2dd3",
+    "wof:geomhash":"cb68fa190759d9bb6e4e036b212039aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747009,
-    "wof:lastmodified":1695886758,
-    "wof:name":"Munchon City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Munchon",
     "wof:parent_id":85676619,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

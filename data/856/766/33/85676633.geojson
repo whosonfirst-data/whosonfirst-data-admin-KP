@@ -74,6 +74,10 @@
         "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u03a0\u03b9\u03bf\u03bd\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
+        "North P'y\u014fngan"
+    ],
+    "name:eng_x_variant":[
+        "P'y\u014fngan-bukto",
         "P'yongan-bukto"
     ],
     "name:epo_x_preferred":[
@@ -332,7 +336,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1950f9616245a7772d3e12abb4f993e9",
+    "wof:geomhash":"3a55b0a67dd0abc0615f560dad500ed4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -347,8 +351,8 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1695884518,
-    "wof:name":"P'y\u014fngan-bukto",
+    "wof:lastmodified":1730094956,
+    "wof:name":"North P'y\u014fngan",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
     "wof:placetype_local":"province",

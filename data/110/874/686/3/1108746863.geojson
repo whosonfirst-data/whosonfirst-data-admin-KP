@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Chongjin"
     ],
+    "name:eng_x_variant":[
+        "Chongjin City"
+    ],
     "name:fra_x_preferred":[
         "Chongjin"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326296,
-    "wof:geomhash":"e38ab0f22638df618bb465ccb5444046",
+    "wof:geomhash":"d7241604bff3ed4ab3891cc616074e89",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108746863,
-    "wof:lastmodified":1695886753,
-    "wof:name":"Chongjin City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Chongjin",
     "wof:parent_id":85676615,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

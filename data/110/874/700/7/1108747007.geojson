@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Manpho"
     ],
+    "name:eng_x_variant":[
+        "Manpho City"
+    ],
     "name:fra_x_preferred":[
         "Manpho"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326316,
-    "wof:geomhash":"0b99b98d855305942d19511d5548487d",
+    "wof:geomhash":"bf6c71da7796ce894616705b551adafa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747007,
-    "wof:lastmodified":1695886758,
-    "wof:name":"Manpho City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Manpho",
     "wof:parent_id":85676623,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

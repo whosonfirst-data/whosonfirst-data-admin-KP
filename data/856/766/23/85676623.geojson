@@ -80,10 +80,11 @@
         "\u03a4\u03c3\u03b1\u03b3\u03ba\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
-        "Chagang-do"
+        "Chagang"
     ],
     "name:eng_x_variant":[
-        "Chagang Province"
+        "Chagang Province",
+        "Chagang-do"
     ],
     "name:epo_x_preferred":[
         "\u0108agang"
@@ -337,7 +338,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"413bda1443c2af3faaf30fb69f04d75d",
+    "wof:geomhash":"0627a64d55348b0d14e96a3461dd0ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -352,8 +353,8 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1695884785,
-    "wof:name":"Chagang-do",
+    "wof:lastmodified":1730094956,
+    "wof:name":"Chagang",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
     "wof:placetype_local":"province",

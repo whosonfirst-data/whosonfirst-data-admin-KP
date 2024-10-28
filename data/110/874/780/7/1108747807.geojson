@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Kaesong"
     ],
+    "name:eng_x_variant":[
+        "Kaesong City"
+    ],
     "name:fra_x_preferred":[
         "Kaesong"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328256,
-    "wof:geomhash":"61ea652f31f4debe61bb428a54da79c1",
+    "wof:geomhash":"b72910071c74807e7513e3fae3a4a35f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747807,
-    "wof:lastmodified":1695886756,
-    "wof:name":"Kaesong City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Kaesong",
     "wof:parent_id":85676603,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

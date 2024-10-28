@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Kusong"
     ],
+    "name:eng_x_variant":[
+        "Kusong City"
+    ],
     "name:fra_x_preferred":[
         "Kusong"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328263,
-    "wof:geomhash":"bcd255580a6aa6d1deb3697e89897f40",
+    "wof:geomhash":"b5db1e467aab387c4893a49e341d0479",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747859,
-    "wof:lastmodified":1695886757,
-    "wof:name":"Kusong City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Kusong",
     "wof:parent_id":85676633,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

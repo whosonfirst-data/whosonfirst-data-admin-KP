@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Pyongsong"
     ],
+    "name:eng_x_variant":[
+        "Pyongsong City"
+    ],
     "name:fra_x_preferred":[
         "Pyongsong"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328274,
-    "wof:geomhash":"2c31f9e1179f67c34d2870f7aa0b12a4",
+    "wof:geomhash":"ec3270f38b5b8f947b59898080b46d3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747949,
-    "wof:lastmodified":1695886760,
-    "wof:name":"Pyongsong City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Pyongsong",
     "wof:parent_id":85676637,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

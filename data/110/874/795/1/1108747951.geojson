@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Pyongyang"
     ],
+    "name:eng_x_variant":[
+        "Pyongyang City"
+    ],
     "name:fra_x_preferred":[
         "Ville de Pyongyang"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328274,
-    "wof:geomhash":"97a2f15c856c1f52da97bad2504d3a08",
+    "wof:geomhash":"7a3b77acc7ec5d3e5c71e8c1becbc776",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747951,
-    "wof:lastmodified":1695886766,
-    "wof:name":"Pyongyang City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Pyongyang",
     "wof:parent_id":85676611,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

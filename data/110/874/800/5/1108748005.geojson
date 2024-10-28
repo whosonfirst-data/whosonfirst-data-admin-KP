@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Sinuiju"
     ],
+    "name:eng_x_variant":[
+        "Sinuiju City"
+    ],
     "name:fra_x_preferred":[
         "Sinuiju"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328281,
-    "wof:geomhash":"8c878bf269c3aefb31ee32f8cb7151f4",
+    "wof:geomhash":"bef89c1926e01a48e481df2a02177efa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108748005,
-    "wof:lastmodified":1695886763,
-    "wof:name":"Sinuiju City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Sinuiju",
     "wof:parent_id":85676633,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

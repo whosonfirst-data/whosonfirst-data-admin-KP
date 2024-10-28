@@ -74,6 +74,10 @@
         "\u03a7\u03ac\u03bc\u03b3\u03ba\u03b9\u03bf\u03bd\u03b3\u03ba\u03bd\u03b1\u03bc-\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
+        "South Hamgy\u014fng"
+    ],
+    "name:eng_x_variant":[
+        "Hamgy\u014fng-namdo",
         "Hamgyong-namdo"
     ],
     "name:epo_x_preferred":[
@@ -329,7 +333,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7282cc65906c0b1650afbcf96ff4b416",
+    "wof:geomhash":"0adf84b4c13363005f4b65419dac8fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -344,8 +348,8 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1695884518,
-    "wof:name":"Hamgy\u014fng-namdo",
+    "wof:lastmodified":1730094956,
+    "wof:name":"South Hamgy\u014fng",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
