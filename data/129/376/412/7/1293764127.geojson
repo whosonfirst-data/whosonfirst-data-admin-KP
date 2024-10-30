@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ssanghang"
+    ],
+    "name:eng_x_variant":[
+        "Ssanghang-ni"
+    ],
     "name:und_x_variant":[
         "\uc30d\ud559\ub9ac",
         "Ssanghang-ni"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747965
+        1108747965,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293764127,
-    "wof:lastmodified":1566582684,
-    "wof:name":"Ssanghang-ni",
+    "wof:lastmodified":1730271436,
+    "wof:name":"Ssanghang",
     "wof:parent_id":1108747965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

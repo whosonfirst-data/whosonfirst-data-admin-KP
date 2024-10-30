@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Nodang"
+    ],
+    "name:eng_x_variant":[
+        "Nodang-ni"
+    ],
     "name:und_x_variant":[
         "\ub178\ub2f9\ub9ac",
         "Nodang-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747725
+        1108747725,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1873611
     },
     "wof:country":"KP",
-    "wof:geomhash":"96854a3ec917691edf210aaf02fcf620",
+    "wof:geomhash":"5da3be2b015e10621924346ed918f596",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1309983675,
-    "wof:lastmodified":1566584459,
-    "wof:name":"Nodang-ni",
+    "wof:lastmodified":1730271479,
+    "wof:name":"Nodang",
     "wof:parent_id":1108747725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     124.64722,
-    39.86389000000001,
+    39.86389,
     124.64722,
-    39.86389000000001
+    39.86389
 ],
-  "geometry": {"coordinates":[124.64722,39.86389000000001],"type":"Point"}
+  "geometry": {"coordinates":[124.64722,39.86389],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Oktong"
+    ],
+    "name:eng_x_variant":[
+        "Oktong-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc5b5\ub3d9\ub9ac"
     ],
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108747065
+        1108747065,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1873218
     },
     "wof:country":"KP",
-    "wof:geomhash":"98f005ad4ff8bb4be070a040a91228c3",
+    "wof:geomhash":"4a797595f194d92013cbb926e4c42498",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1276216149,
-    "wof:lastmodified":1566583069,
-    "wof:name":"Oktong-ni",
+    "wof:lastmodified":1730271444,
+    "wof:name":"Oktong",
     "wof:parent_id":1108747065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.18361000000002,
+    127.18361,
     39.10611,
-    127.18361000000002,
+    127.18361,
     39.10611
 ],
-  "geometry": {"coordinates":[127.18361000000002,39.10611],"type":"Point"}
+  "geometry": {"coordinates":[127.18361,39.10611],"type":"Point"}
 }

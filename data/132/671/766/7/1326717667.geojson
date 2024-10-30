@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tap"
+    ],
+    "name:eng_x_variant":[
+        "Tap-tong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747859
+        1108747859,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1892236
     },
     "wof:country":"KP",
-    "wof:geomhash":"3ed6b0f1810fa4b990e0aa15dc0fe311",
+    "wof:geomhash":"6790a799128bcade9e5a9a9c7ccfd965",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1326717667,
-    "wof:lastmodified":1566581944,
-    "wof:name":"Tap-tong",
+    "wof:lastmodified":1730271420,
+    "wof:name":"Tap",
     "wof:parent_id":1108747859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.17638999999998,
+    125.17639,
     39.9125,
-    125.17638999999998,
+    125.17639,
     39.9125
 ],
-  "geometry": {"coordinates":[125.17638999999998,39.9125],"type":"Point"}
+  "geometry": {"coordinates":[125.17639,39.9125],"type":"Point"}
 }

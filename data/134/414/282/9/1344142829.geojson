@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Karim"
+    ],
+    "name:eng_x_variant":[
+        "Karim-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676641,
-        1108747927
+        1108747927,
+        85676641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2043514
     },
     "wof:country":"KP",
-    "wof:geomhash":"fe2520c752b516cb5cea6274983287cb",
+    "wof:geomhash":"70da6004a1814bb481f1decfafb54ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1344142829,
-    "wof:lastmodified":1566582168,
-    "wof:name":"Karim-ni",
+    "wof:lastmodified":1730271425,
+    "wof:name":"Karim",
     "wof:parent_id":1108747927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.26138999999998,
+    128.26139,
     41.50778,
-    128.26138999999998,
+    128.26139,
     41.50778
 ],
-  "geometry": {"coordinates":[128.26138999999998,41.50778],"type":"Point"}
+  "geometry": {"coordinates":[128.26139000000001,41.50778],"type":"Point"}
 }

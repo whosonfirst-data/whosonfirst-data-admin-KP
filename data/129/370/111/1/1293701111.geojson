@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Turung"
+    ],
+    "name:eng_x_variant":[
+        "Turung-ni"
+    ],
     "name:kor_x_preferred":[
         "\ub450\ub8fd\ub9ac"
     ],
@@ -36,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
         1108747969,
+        85676637,
         421199693
     ],
     "wof:breaches":[],
@@ -63,8 +69,8 @@
         }
     ],
     "wof:id":1293701111,
-    "wof:lastmodified":1566582661,
-    "wof:name":"Turung-ni",
+    "wof:lastmodified":1730271436,
+    "wof:name":"Turung",
     "wof:parent_id":1108747969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Oung"
+    ],
+    "name:eng_x_variant":[
+        "Oung-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc624\uc751\ub9ac"
     ],
@@ -44,7 +50,7 @@
         "gn:id":1930981
     },
     "wof:country":"KP",
-    "wof:geomhash":"7d1468751d87b3abc09ae68fddfca9e4",
+    "wof:geomhash":"814ec0060d8a49a3ac094a1d4d348c47",
     "wof:hierarchy":[
         {
             "country_id":85632639,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1209211919,
-    "wof:lastmodified":1566583708,
-    "wof:name":"Oung-ni",
+    "wof:lastmodified":1730271461,
+    "wof:name":"Oung",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     125.17861,
-    38.25944000000001,
+    38.25944,
     125.17861,
-    38.25944000000001
+    38.25944
 ],
-  "geometry": {"coordinates":[125.17861000000001,38.25944000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.17861000000001,38.25944],"type":"Point"}
 }

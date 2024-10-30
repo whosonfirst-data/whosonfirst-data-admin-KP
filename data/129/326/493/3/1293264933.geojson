@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Oesong"
+    ],
+    "name:eng_x_variant":[
+        "Oesong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
-        1108747949
+        1108747949,
+        85676637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1889538
     },
     "wof:country":"KP",
-    "wof:geomhash":"1260df90cc2380ad1dbf632f5d2efb11",
+    "wof:geomhash":"99c1b147350596e08b8554c9614d187a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1293264933,
-    "wof:lastmodified":1566582958,
-    "wof:name":"Oesong-ni",
+    "wof:lastmodified":1730271442,
+    "wof:name":"Oesong",
     "wof:parent_id":1108747949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     125.96583,
-    39.26139000000001,
+    39.26139,
     125.96583,
-    39.26139000000001
+    39.26139
 ],
-  "geometry": {"coordinates":[125.96583,39.26139000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.96583,39.26139],"type":"Point"}
 }

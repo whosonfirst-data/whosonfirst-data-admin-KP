@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Pangch'ung"
+    ],
+    "name:eng_x_variant":[
+        "Pangch'ung-ni"
+    ],
     "name:und_x_variant":[
         "Pangch\u2019ung-ni",
         "\ubc29\ucd95\ub9ac"
@@ -38,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108746869
+        1108746869,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1243461421,
-    "wof:lastmodified":1566584742,
-    "wof:name":"Pangch'ung-ni",
+    "wof:lastmodified":1730271487,
+    "wof:name":"Pangch'ung",
     "wof:parent_id":1108746869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

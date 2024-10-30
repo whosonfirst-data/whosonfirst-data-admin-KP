@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Koum"
+    ],
+    "name:eng_x_variant":[
+        "Koum-ni"
+    ],
     "name:und_x_variant":[
         "Koy\u016b-ri",
         "Ko\u016dm-ni"
@@ -43,7 +49,7 @@
         "gn:id":2043295
     },
     "wof:country":"KP",
-    "wof:geomhash":"ec863e8b93306516580ee88f3ed72ac6",
+    "wof:geomhash":"3f8c424bc5485c904027b74cc45cea6d",
     "wof:hierarchy":[
         {
             "country_id":85632639,
@@ -51,8 +57,8 @@
         }
     ],
     "wof:id":1209112517,
-    "wof:lastmodified":1566583642,
-    "wof:name":"Koum-ni",
+    "wof:lastmodified":1730271459,
+    "wof:name":"Koum",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -61,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.83333000000002,
+    128.83333,
     40.48333,
-    128.83333000000002,
+    128.83333,
     40.48333
 ],
-  "geometry": {"coordinates":[128.83333000000002,40.48333],"type":"Point"}
+  "geometry": {"coordinates":[128.83332999999999,40.48333],"type":"Point"}
 }

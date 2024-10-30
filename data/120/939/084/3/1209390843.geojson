@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sadok"
+    ],
+    "name:eng_x_variant":[
+        "Sadok-tong"
+    ],
     "name:und_x_variant":[
         "Sadak-tong",
         "\uc0ac\ub355\ub3d9",
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1209390843,
-    "wof:lastmodified":1566583442,
-    "wof:name":"Sadok-tong",
+    "wof:lastmodified":1730271454,
+    "wof:name":"Sadok",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

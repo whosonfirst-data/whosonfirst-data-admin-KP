@@ -26,6 +26,9 @@
         "Sir Myonggan"
     ],
     "name:eng_x_preferred":[
+        "Myonggan"
+    ],
+    "name:eng_x_variant":[
         "Myonggan County"
     ],
     "name:hun_x_preferred":[
@@ -70,8 +73,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108747019
+        1108747019,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,8 +97,8 @@
         }
     ],
     "wof:id":890416391,
-    "wof:lastmodified":1690938224,
-    "wof:name":"Hau-ri",
+    "wof:lastmodified":1730273266,
+    "wof:name":"Myonggan",
     "wof:parent_id":1108747019,
     "wof:placetype":"locality",
     "wof:population":13581,

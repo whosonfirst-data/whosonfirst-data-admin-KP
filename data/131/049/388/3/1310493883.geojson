@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yongjong"
+    ],
+    "name:eng_x_variant":[
+        "Yongjong-ni"
+    ],
     "name:kor_x_preferred":[
         "Yongj\u014fng-ni"
     ],
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676605,
-        1108747967
+        1108747967,
+        85676605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1866232
     },
     "wof:country":"KP",
-    "wof:geomhash":"613409f6e4c1d33946ba40da704d99f7",
+    "wof:geomhash":"e4d7cf221fe3a86fc51c607148144610",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1310493883,
-    "wof:lastmodified":1566584111,
-    "wof:name":"Yongjong-ni",
+    "wof:lastmodified":1730271470,
+    "wof:name":"Yongjong",
     "wof:parent_id":1108747967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     125.01,
-    38.20444000000001,
+    38.20444,
     125.01,
-    38.20444000000001
+    38.20444
 ],
-  "geometry": {"coordinates":[125.01000000000001,38.20444000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.01000000000001,38.20444],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hoedong"
+    ],
+    "name:eng_x_variant":[
+        "Hoedong-ni"
+    ],
     "name:kor_x_preferred":[
         "\ud68c\ub3d9\ub9ac"
     ],
@@ -36,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108748031
+        1108748031,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1343859599,
-    "wof:lastmodified":1566582259,
-    "wof:name":"Hoedong-ni",
+    "wof:lastmodified":1730271428,
+    "wof:name":"Hoedong",
     "wof:parent_id":1108748031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

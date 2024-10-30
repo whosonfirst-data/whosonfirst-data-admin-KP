@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chungnam"
+    ],
+    "name:eng_x_variant":[
+        "Chungnam-ni"
+    ],
     "name:und_x_variant":[
         "\uc911\uc554\ub9ac",
         "Chungnam-ni"
@@ -50,8 +56,8 @@
         }
     ],
     "wof:id":1209616531,
-    "wof:lastmodified":1566583583,
-    "wof:name":"Chungnam-ni",
+    "wof:lastmodified":1730271457,
+    "wof:name":"Chungnam",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

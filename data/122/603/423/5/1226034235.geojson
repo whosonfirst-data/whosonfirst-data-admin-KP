@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Harimong"
+    ],
+    "name:eng_x_variant":[
+        "Harimong-ni"
+    ],
     "name:kor_x_preferred":[
         "\ud558\ub9ac\ubaa9\ub9ac"
     ],
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108747187
+        1108747187,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1226034235,
-    "wof:lastmodified":1566585352,
-    "wof:name":"Harimong-ni",
+    "wof:lastmodified":1730271506,
+    "wof:name":"Harimong",
     "wof:parent_id":1108747187,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

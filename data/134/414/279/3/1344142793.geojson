@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Totchap"
+    ],
+    "name:eng_x_variant":[
+        "Totchap-tong"
+    ],
     "name:kor_x_preferred":[
         "\ub3c4\uc9ed\ub3d9"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676603,
-        1108747923
+        1108747923,
+        85676603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6366228
     },
     "wof:country":"KP",
-    "wof:geomhash":"9fe41a92374c8d75790ff711fb19e37e",
+    "wof:geomhash":"4d18b0fc8d8199aa2a5ebb5e196a2490",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1344142793,
-    "wof:lastmodified":1566582166,
-    "wof:name":"Totchap-tong",
+    "wof:lastmodified":1730271425,
+    "wof:name":"Totchap",
     "wof:parent_id":1108747923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     126.41917,
-    38.46722000000001,
+    38.46722,
     126.41917,
-    38.46722000000001
+    38.46722
 ],
-  "geometry": {"coordinates":[126.41916999999999,38.46722000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.41916999999999,38.46722],"type":"Point"}
 }

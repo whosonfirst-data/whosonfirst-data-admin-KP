@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sangunhung"
+    ],
+    "name:eng_x_variant":[
+        "Sangunhung-ni"
+    ],
     "name:und_x_variant":[
         "\uc0c1\uc6b4\ud765\ub9ac",
         "Sangunh\u016dng-ni"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108747747
+        1108747747,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1226754723,
-    "wof:lastmodified":1566585240,
-    "wof:name":"Sangunhung-ni",
+    "wof:lastmodified":1730271502,
+    "wof:name":"Sangunhung",
     "wof:parent_id":1108747747,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

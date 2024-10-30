@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wonbong"
+    ],
+    "name:eng_x_variant":[
+        "Wonbong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
-        1108748035
+        1108748035,
+        85676637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6269804
     },
     "wof:country":"KP",
-    "wof:geomhash":"6df359d983f3b1c6af9a698467dfdcd5",
+    "wof:geomhash":"2592556cb7eece2340f17bfd5f6aff43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1242647071,
-    "wof:lastmodified":1566584898,
-    "wof:name":"Wonbong-ni",
+    "wof:lastmodified":1730271491,
+    "wof:name":"Wonbong",
     "wof:parent_id":1108748035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     125.84139,
-    39.48139000000001,
+    39.48139,
     125.84139,
-    39.48139000000001
+    39.48139
 ],
-  "geometry": {"coordinates":[125.84139,39.48139000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.84139,39.48139],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Muum"
+    ],
+    "name:eng_x_variant":[
+        "Muum-ni"
+    ],
     "name:kor_x_preferred":[
         "\ubb34\uc74d\ub9ac"
     ],
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1293875887,
-    "wof:lastmodified":1566582905,
-    "wof:name":"Muum-ni",
+    "wof:lastmodified":1730271441,
+    "wof:name":"Muum",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

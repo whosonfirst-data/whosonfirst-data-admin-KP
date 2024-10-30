@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chunghung"
+    ],
+    "name:eng_x_variant":[
+        "Chunghung-ni"
+    ],
     "name:und_x_variant":[
         "\uc911\ud765\ub9ac",
         "Chungh\u016dng-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108747745
+        1108747745,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6302458
     },
     "wof:country":"KP",
-    "wof:geomhash":"0a734324d5f144a0c0e1ea536d403e12",
+    "wof:geomhash":"530f9a588896f8234da50f9a6b574176",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1243173505,
-    "wof:lastmodified":1566584940,
-    "wof:name":"Chunghung-ni",
+    "wof:lastmodified":1730271493,
+    "wof:name":"Chunghung",
     "wof:parent_id":1108747745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.60611000000002,
+    127.60611,
     40.00639,
-    127.60611000000002,
+    127.60611,
     40.00639
 ],
-  "geometry": {"coordinates":[127.60611000000002,40.00639],"type":"Point"}
+  "geometry": {"coordinates":[127.60611,40.00639],"type":"Point"}
 }

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kallyong"
+    ],
+    "name:eng_x_variant":[
+        "Kallyong-ni"
+    ],
     "name:kor_x_preferred":[
         "\uac04\ub839\ub9ac"
     ],
@@ -43,8 +49,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676641,
-        1108747113
+        1108747113,
+        85676641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +68,8 @@
         }
     ],
     "wof:id":1293869793,
-    "wof:lastmodified":1566582977,
-    "wof:name":"Kallyong-ni",
+    "wof:lastmodified":1730271442,
+    "wof:name":"Kallyong",
     "wof:parent_id":1108747113,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

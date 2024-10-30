@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yongsong"
+    ],
+    "name:eng_x_variant":[
+        "Yongsong-ni"
+    ],
     "name:und_x_variant":[
         "\uc6a9\uc131\ub9ac",
         "Yongs\u014fng-ni"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108746955
+        1108746955,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1259650093,
-    "wof:lastmodified":1566584983,
-    "wof:name":"Yongsong-ni",
+    "wof:lastmodified":1730271494,
+    "wof:name":"Yongsong",
     "wof:parent_id":1108746955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

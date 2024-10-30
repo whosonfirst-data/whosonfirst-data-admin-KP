@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Soksadong"
+    ],
+    "name:eng_x_variant":[
+        "Soksadong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108746849
+        1108746849,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1931837
     },
     "wof:country":"KP",
-    "wof:geomhash":"dff4091da51326c119ef64f287e56519",
+    "wof:geomhash":"74ba279e62118c185b8768b0cff12273",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1326919525,
-    "wof:lastmodified":1566582002,
-    "wof:name":"Soksadong-ni",
+    "wof:lastmodified":1730271422,
+    "wof:name":"Soksadong",
     "wof:parent_id":1108746849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     127.83389,
-    38.61389000000001,
+    38.61389,
     127.83389,
-    38.61389000000001
+    38.61389
 ],
-  "geometry": {"coordinates":[127.83389,38.61389000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.83389,38.61389],"type":"Point"}
 }

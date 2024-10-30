@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chungp'yong"
+    ],
+    "name:eng_x_variant":[
+        "Chungp'yong-ni"
+    ],
     "name:und_x_variant":[
         "\uc911\ud3c9\ub9ac",
         "Chungp\u2019y\u014fng-ni"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108747015
+        1108747015,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1310168895,
-    "wof:lastmodified":1566584221,
-    "wof:name":"Chungp'yong-ni",
+    "wof:lastmodified":1730271473,
+    "wof:name":"Chungp'yong",
     "wof:parent_id":1108747015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

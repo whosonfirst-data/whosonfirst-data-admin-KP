@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Taerodong"
+    ],
+    "name:eng_x_variant":[
+        "Taerodong-ni"
+    ],
     "name:und_x_variant":[
         "Tairod\u014d-ri",
         "\ub300\ub85c\ub3d9\ub9ac",
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108747095
+        1108747095,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1259590273,
-    "wof:lastmodified":1566585127,
-    "wof:name":"Taerodong-ni",
+    "wof:lastmodified":1730271499,
+    "wof:name":"Taerodong",
     "wof:parent_id":1108747095,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

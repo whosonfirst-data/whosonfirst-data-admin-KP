@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tojik"
+    ],
+    "name:eng_x_variant":[
+        "Tojik-tong"
+    ],
     "name:und_x_variant":[
         "\ub3c4\uc9c1\ub3d9",
         "Tojik-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108747763
+        1108747763,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2039957
     },
     "wof:country":"KP",
-    "wof:geomhash":"a0f59b172bda26123f9e66519abb9510",
+    "wof:geomhash":"51dd69d0b8ab68d127df7c210b33a6ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1192985031,
-    "wof:lastmodified":1566583841,
-    "wof:name":"Tojik-tong",
+    "wof:lastmodified":1730271464,
+    "wof:name":"Tojik",
     "wof:parent_id":1108747763,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     129.53111,
-    40.89944000000001,
+    40.89944,
     129.53111,
-    40.89944000000001
+    40.89944
 ],
-  "geometry": {"coordinates":[129.53111000000001,40.89944000000001],"type":"Point"}
+  "geometry": {"coordinates":[129.53111000000001,40.89944],"type":"Point"}
 }

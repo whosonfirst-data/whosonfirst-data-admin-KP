@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Koejong"
+    ],
+    "name:eng_x_variant":[
+        "Koejong-ni"
+    ],
     "name:kor_x_preferred":[
         "\uad34\uc815\ub9ac"
     ],
@@ -42,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676605,
-        1108747109
+        1108747109,
+        85676605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":1242772531,
-    "wof:lastmodified":1566584850,
-    "wof:name":"Koejong-ni",
+    "wof:lastmodified":1730271490,
+    "wof:name":"Koejong",
     "wof:parent_id":1108747109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

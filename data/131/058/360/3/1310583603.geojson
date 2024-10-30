@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yongak"
+    ],
+    "name:eng_x_variant":[
+        "Yongak-tong"
+    ],
     "name:und_x_variant":[
         "Yongang-ni",
         "Yongak-tong"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
-        1108748035
+        1108748035,
+        85676637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1310583603,
-    "wof:lastmodified":1566584332,
-    "wof:name":"Yongak-tong",
+    "wof:lastmodified":1730271476,
+    "wof:name":"Yongak",
     "wof:parent_id":1108748035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kiyang"
+    ],
+    "name:eng_x_variant":[
+        "Kiyang-ni"
+    ],
     "name:und_x_variant":[
         "\uae30\uc591\ub9ac",
         "Kiyang-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108748109
+        1108748109,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6302491
     },
     "wof:country":"KP",
-    "wof:geomhash":"b915ded5e665e8ee77437abba38c69fc",
+    "wof:geomhash":"31099a9664d66fd22d97c1682a486392",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1226049599,
-    "wof:lastmodified":1566585346,
-    "wof:name":"Kiyang-ni",
+    "wof:lastmodified":1730271505,
+    "wof:name":"Kiyang",
     "wof:parent_id":1108748109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.50388999999998,
+    127.50389,
     40.00583,
-    127.50388999999998,
+    127.50389,
     40.00583
 ],
-  "geometry": {"coordinates":[127.50388999999998,40.00583],"type":"Point"}
+  "geometry": {"coordinates":[127.50389,40.00583],"type":"Point"}
 }

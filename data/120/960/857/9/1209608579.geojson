@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Koum"
+    ],
+    "name:eng_x_variant":[
+        "Koum-ni"
+    ],
     "name:kor_x_preferred":[
         "\uace0\uc74d\ub9ac"
     ],
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1209608579,
-    "wof:lastmodified":1566583616,
-    "wof:name":"Koum-ni",
+    "wof:lastmodified":1730271458,
+    "wof:name":"Koum",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

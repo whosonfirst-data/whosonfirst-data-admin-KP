@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wibang"
+    ],
+    "name:eng_x_variant":[
+        "Wibang-ni"
+    ],
     "name:und_x_variant":[
         "Wibu-ri",
         "Wibang-ni"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
-        1108748039
+        1108748039,
+        85676637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1344129549,
-    "wof:lastmodified":1566582178,
-    "wof:name":"Wibang-ni",
+    "wof:lastmodified":1730271426,
+    "wof:name":"Wibang",
     "wof:parent_id":1108748039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

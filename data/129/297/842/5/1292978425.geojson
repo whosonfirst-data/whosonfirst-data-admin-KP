@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Unbong"
+    ],
+    "name:eng_x_variant":[
+        "Unbong-ni"
+    ],
     "name:kor_x_preferred":[
         "\u016cnbong-ni"
     ],
@@ -42,15 +48,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747199
+        1108747199,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1867393
     },
     "wof:country":"KP",
-    "wof:geomhash":"d146187f357f4d2b05732fe452050ffa",
+    "wof:geomhash":"9502922b30b92f5b6197a21ec707c50f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":1292978425,
-    "wof:lastmodified":1566582838,
-    "wof:name":"Unbong-ni",
+    "wof:lastmodified":1730271439,
+    "wof:name":"Unbong",
     "wof:parent_id":1108747199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -72,9 +78,9 @@
 },
   "bbox": [
     124.86806,
-    39.92639000000001,
+    39.92639,
     124.86806,
-    39.92639000000001
+    39.92639
 ],
-  "geometry": {"coordinates":[124.86806,39.92639000000001],"type":"Point"}
+  "geometry": {"coordinates":[124.86806,39.92639],"type":"Point"}
 }

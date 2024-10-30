@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Koch'am"
+    ],
+    "name:eng_x_variant":[
+        "Koch'am-ni"
+    ],
     "name:und_x_variant":[
         "Kotan",
         "Koch\u2019am-dong",
@@ -40,15 +46,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108747019
+        1108747019,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2043437
     },
     "wof:country":"KP",
-    "wof:geomhash":"a78ba6ef6f9feea4f2f1bc25e16fdf92",
+    "wof:geomhash":"65003a2223bc9bab65a8a993f75c312a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":1326493635,
-    "wof:lastmodified":1566581934,
-    "wof:name":"Koch'am-ni",
+    "wof:lastmodified":1730271420,
+    "wof:name":"Koch'am",
     "wof:parent_id":1108747019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -69,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.38388999999998,
+    129.38389,
     41.09278,
-    129.38388999999998,
+    129.38389,
     41.09278
 ],
-  "geometry": {"coordinates":[129.38388999999998,41.09278],"type":"Point"}
+  "geometry": {"coordinates":[129.38389000000001,41.09278],"type":"Point"}
 }

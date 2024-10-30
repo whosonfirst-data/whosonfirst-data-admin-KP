@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yongdam"
+    ],
+    "name:eng_x_variant":[
+        "Yongdam-ni"
+    ],
     "name:kor_x_preferred":[
         "\ub8e1\ub2f4\ub9ac"
     ],
@@ -40,8 +46,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
-        1108747011
+        1108747011,
+        85676637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":1327002751,
-    "wof:lastmodified":1566581712,
-    "wof:name":"Yongdam-ni",
+    "wof:lastmodified":1730271415,
+    "wof:name":"Yongdam",
     "wof:parent_id":1108747011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

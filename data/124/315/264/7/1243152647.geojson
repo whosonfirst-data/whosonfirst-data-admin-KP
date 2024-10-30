@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hwap'yong"
+    ],
+    "name:eng_x_variant":[
+        "Hwap'yong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747183
+        1108747183,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1892056
     },
     "wof:country":"KP",
-    "wof:geomhash":"738e776329545c0eb24a09dc5a037279",
+    "wof:geomhash":"4670dc004d3c69f84f3dd5b2a490893f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1243152647,
-    "wof:lastmodified":1566584762,
-    "wof:name":"Hwap'yong-ni",
+    "wof:lastmodified":1730271488,
+    "wof:name":"Hwap'yong",
     "wof:parent_id":1108747183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.52443999999998,
+    125.52444,
     39.86917,
-    125.52443999999998,
+    125.52444,
     39.86917
 ],
-  "geometry": {"coordinates":[125.52443999999998,39.86917],"type":"Point"}
+  "geometry": {"coordinates":[125.52444,39.86917],"type":"Point"}
 }

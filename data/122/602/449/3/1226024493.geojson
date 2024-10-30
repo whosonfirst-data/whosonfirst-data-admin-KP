@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tongjong"
+    ],
+    "name:eng_x_variant":[
+        "Tongjong-ni"
+    ],
     "name:kor_x_preferred":[
         "\ub3d9\uc815\ub9ac"
     ],
@@ -40,15 +46,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676603,
-        1108747799
+        1108747799,
+        85676603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1867823
     },
     "wof:country":"KP",
-    "wof:geomhash":"cbbf501930ea58a9fd426ed0f5364379",
+    "wof:geomhash":"7d0628c83d6e9f1874e48f70fb0c42d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":1226024493,
-    "wof:lastmodified":1566585326,
-    "wof:name":"Tongjong-ni",
+    "wof:lastmodified":1730271505,
+    "wof:name":"Tongjong",
     "wof:parent_id":1108747799,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -70,9 +76,9 @@
 },
   "bbox": [
     125.64667,
-    38.87139000000001,
+    38.87139,
     125.64667,
-    38.87139000000001
+    38.87139
 ],
-  "geometry": {"coordinates":[125.64667,38.87139000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.64667,38.87139],"type":"Point"}
 }

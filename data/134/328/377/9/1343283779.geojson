@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yangjang"
+    ],
+    "name:eng_x_variant":[
+        "Yangjang-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676605,
-        1108747123
+        1108747123,
+        85676605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1926826
     },
     "wof:country":"KP",
-    "wof:geomhash":"4766265081f6d016827f3d71f9424591",
+    "wof:geomhash":"5695f72a56f88b73498184eb3e19fd5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1343283779,
-    "wof:lastmodified":1566582465,
-    "wof:name":"Yangjang-ni",
+    "wof:lastmodified":1730271432,
+    "wof:name":"Yangjang",
     "wof:parent_id":1108747123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     125.47861,
-    38.36389000000001,
+    38.36389,
     125.47861,
-    38.36389000000001
+    38.36389
 ],
-  "geometry": {"coordinates":[125.47861,38.36389000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.47861,38.36389],"type":"Point"}
 }

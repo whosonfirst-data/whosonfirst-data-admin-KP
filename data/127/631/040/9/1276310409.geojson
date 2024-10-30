@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Obong"
+    ],
+    "name:eng_x_variant":[
+        "Obong-ni"
+    ],
     "name:und_x_variant":[
         "\uc624\ubd09\ub9ac",
         "Tobong-ni",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747199
+        1108747199,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1868296
     },
     "wof:country":"KP",
-    "wof:geomhash":"c7eea0d24bd0722cf8341297d7133080",
+    "wof:geomhash":"9e84b8215c1822e82379e54a64796d90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1276310409,
-    "wof:lastmodified":1566583379,
-    "wof:name":"Obong-ni",
+    "wof:lastmodified":1730271452,
+    "wof:name":"Obong",
     "wof:parent_id":1108747199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     124.73694,
-    39.86389000000001,
+    39.86389,
     124.73694,
-    39.86389000000001
+    39.86389
 ],
-  "geometry": {"coordinates":[124.73694,39.86389000000001],"type":"Point"}
+  "geometry": {"coordinates":[124.73694,39.86389],"type":"Point"}
 }

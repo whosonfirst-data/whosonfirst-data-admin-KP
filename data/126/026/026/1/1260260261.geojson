@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wanp'ung"
+    ],
+    "name:eng_x_variant":[
+        "Wanp'ung-ni"
+    ],
     "name:und_x_variant":[
         "Wanp\u2019ung-dong",
         "\uc644\ud48d\ub9ac",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747945
+        1108747945,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2039473
     },
     "wof:country":"KP",
-    "wof:geomhash":"3ce04876da4e5e2b7df3d7d0008b6b52",
+    "wof:geomhash":"827b2536a8765197ab17884804cab322",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1260260261,
-    "wof:lastmodified":1566583989,
-    "wof:name":"Wanp'ung-ni",
+    "wof:lastmodified":1730271468,
+    "wof:name":"Wanp'ung",
     "wof:parent_id":1108747945,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     125.40833,
-    40.38417000000001,
+    40.38417,
     125.40833,
-    40.38417000000001
+    40.38417
 ],
-  "geometry": {"coordinates":[125.40833000000001,40.38417000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.40833000000001,40.38417],"type":"Point"}
 }

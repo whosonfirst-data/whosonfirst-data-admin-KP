@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ch'angsong"
+    ],
+    "name:eng_x_variant":[
+        "Ch'angsong-ni"
+    ],
     "name:und_x_variant":[
         "Ch\u2019angs\u014fngil-li",
         "\ucc3d\uc131\ub9ac",
@@ -39,15 +45,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108747193
+        1108747193,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2045037
     },
     "wof:country":"KP",
-    "wof:geomhash":"87a24c8943f08a83ee011857dcf75e78",
+    "wof:geomhash":"c67d6c36ff4539812100b517d385ee3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1226652375,
-    "wof:lastmodified":1566585527,
-    "wof:name":"Ch'angsong-ni",
+    "wof:lastmodified":1730271510,
+    "wof:name":"Ch'angsong",
     "wof:parent_id":1108747193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     128.41778,
-    40.52972000000001,
+    40.52972,
     128.41778,
-    40.52972000000001
+    40.52972
 ],
-  "geometry": {"coordinates":[128.41777999999999,40.52972000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.41777999999999,40.52972],"type":"Point"}
 }

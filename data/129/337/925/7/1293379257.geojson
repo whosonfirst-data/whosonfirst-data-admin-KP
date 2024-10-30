@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Mokkong"
+    ],
+    "name:eng_x_variant":[
+        "Mokkong-ni"
+    ],
     "name:und_x_variant":[
         "\ubaa9\uace1\ub9ac",
         "Mokkong-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108746887
+        1108746887,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6272794
     },
     "wof:country":"KP",
-    "wof:geomhash":"52392b78e9632ec9524da05078b928b5",
+    "wof:geomhash":"372d3f4238bfb426de8f0d72d2444754",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293379257,
-    "wof:lastmodified":1566582578,
-    "wof:name":"Mokkong-ni",
+    "wof:lastmodified":1730271434,
+    "wof:name":"Mokkong",
     "wof:parent_id":1108746887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.65139,
-    38.75917000000001,
+    38.75917,
     127.65139,
-    38.75917000000001
+    38.75917
 ],
-  "geometry": {"coordinates":[127.65139000000001,38.75917000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.65139000000001,38.75917],"type":"Point"}
 }

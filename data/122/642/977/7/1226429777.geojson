@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yunsang"
+    ],
+    "name:eng_x_variant":[
+        "Yunsang-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc724\uc0c1\ub9ac"
     ],
@@ -36,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108746867
+        1108746867,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1226429777,
-    "wof:lastmodified":1566585279,
-    "wof:name":"Yunsang-ni",
+    "wof:lastmodified":1730271503,
+    "wof:name":"Yunsang",
     "wof:parent_id":1108746867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

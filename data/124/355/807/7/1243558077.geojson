@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Samp'yong"
+    ],
+    "name:eng_x_variant":[
+        "Samp'yong-ni"
+    ],
     "name:und_x_variant":[
         "Samp\u2019y\u014fng-dong",
         "\uc0bc\ud3c9\ub9ac",
@@ -38,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676623,
-        1108747227
+        1108747227,
+        85676623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1243558077,
-    "wof:lastmodified":1566584645,
-    "wof:name":"Samp'yong-ni",
+    "wof:lastmodified":1730271484,
+    "wof:name":"Samp'yong",
     "wof:parent_id":1108747227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

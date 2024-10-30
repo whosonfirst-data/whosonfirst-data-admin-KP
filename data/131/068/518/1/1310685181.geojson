@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Orang"
+    ],
+    "name:eng_x_variant":[
+        "Orang-ni"
+    ],
     "name:und_x_variant":[
         "\uc624\ub791\ub9ac",
         "Orang-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108746887
+        1108746887,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1873133
     },
     "wof:country":"KP",
-    "wof:geomhash":"b904cb9915fa3af091a1649392e1c3fd",
+    "wof:geomhash":"5a21f924e13b567b15f6ce8356c2c6a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1310685181,
-    "wof:lastmodified":1566584295,
-    "wof:name":"Orang-ni",
+    "wof:lastmodified":1730271475,
+    "wof:name":"Orang",
     "wof:parent_id":1108746887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.66861000000002,
+    127.66861,
     38.8075,
-    127.66861000000002,
+    127.66861,
     38.8075
 ],
-  "geometry": {"coordinates":[127.66861000000002,38.8075],"type":"Point"}
+  "geometry": {"coordinates":[127.66861,38.8075],"type":"Point"}
 }

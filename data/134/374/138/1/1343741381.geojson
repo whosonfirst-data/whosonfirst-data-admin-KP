@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Konjang"
+    ],
+    "name:eng_x_variant":[
+        "Konjang-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676641,
-        1108746953
+        1108746953,
+        85676641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2054538
     },
     "wof:country":"KP",
-    "wof:geomhash":"b05d3d35a2ab5b71e26014dd3379f4c3",
+    "wof:geomhash":"c353f84d07161987340f0fc80dd84e43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1343741381,
-    "wof:lastmodified":1566582460,
-    "wof:name":"Konjang-ni",
+    "wof:lastmodified":1730271432,
+    "wof:name":"Konjang",
     "wof:parent_id":1108746953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.48861000000002,
+    128.48861,
     41.06917,
-    128.48861000000002,
+    128.48861,
     41.06917
 ],
-  "geometry": {"coordinates":[128.48861000000002,41.06917],"type":"Point"}
+  "geometry": {"coordinates":[128.48860999999999,41.06917],"type":"Point"}
 }

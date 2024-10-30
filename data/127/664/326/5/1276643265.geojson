@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ryusong"
+    ],
+    "name:eng_x_variant":[
+        "Ryusong-ni"
+    ],
     "name:kor_x_preferred":[
         "\ub958\uc131\ub9ac"
     ],
@@ -40,8 +46,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747859
+        1108747859,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":1276643265,
-    "wof:lastmodified":1566583318,
-    "wof:name":"Ryusong-ni",
+    "wof:lastmodified":1730271450,
+    "wof:name":"Ryusong",
     "wof:parent_id":1108747859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

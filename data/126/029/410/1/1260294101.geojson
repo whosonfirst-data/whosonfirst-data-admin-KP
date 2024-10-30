@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kuryong"
+    ],
+    "name:eng_x_variant":[
+        "Kuryong-ni"
+    ],
     "name:und_x_variant":[
         "\uad6c\ub8e1\ub9ac",
         "Kuryong-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676623,
-        1108747225
+        1108747225,
+        85676623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2043136
     },
     "wof:country":"KP",
-    "wof:geomhash":"88772c3341c4d7b39170fc2650fc6501",
+    "wof:geomhash":"7ba501d9ce8b7a2e18cfd1a6aa4b2cea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1260294101,
-    "wof:lastmodified":1566583969,
-    "wof:name":"Kuryong-ni",
+    "wof:lastmodified":1730271467,
+    "wof:name":"Kuryong",
     "wof:parent_id":1108747225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     125.65722,
-    40.43389000000001,
+    40.43389,
     125.65722,
-    40.43389000000001
+    40.43389
 ],
-  "geometry": {"coordinates":[125.65722,40.43389000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.65722,40.43389],"type":"Point"}
 }

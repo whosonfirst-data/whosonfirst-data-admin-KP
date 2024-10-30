@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Torang"
+    ],
+    "name:eng_x_variant":[
+        "Torang-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676605,
-        1108747123
+        1108747123,
+        85676605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1867643
     },
     "wof:country":"KP",
-    "wof:geomhash":"a469d9a704b44dfd4acef1ff4ec66ca6",
+    "wof:geomhash":"fd98d70b294a9a3df5ce8fd26e7a4ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1259475449,
-    "wof:lastmodified":1566585064,
-    "wof:name":"Torang-ni",
+    "wof:lastmodified":1730271496,
+    "wof:name":"Torang",
     "wof:parent_id":1108747123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.41861000000002,
+    125.41861,
     38.23528,
-    125.41861000000002,
+    125.41861,
     38.23528
 ],
-  "geometry": {"coordinates":[125.41861000000002,38.23528],"type":"Point"}
+  "geometry": {"coordinates":[125.41861,38.23528],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kanjijong"
+    ],
+    "name:eng_x_variant":[
+        "Kanjijong-ni"
+    ],
     "name:und_x_variant":[
         "\uac04\uc9c0\uc815\ub9ac",
         "Kanjij\u014fng-ni"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676603,
-        1108747115
+        1108747115,
+        85676603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1259663403,
-    "wof:lastmodified":1566585118,
-    "wof:name":"Kanjijong-ni",
+    "wof:lastmodified":1730271498,
+    "wof:name":"Kanjijong",
     "wof:parent_id":1108747115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

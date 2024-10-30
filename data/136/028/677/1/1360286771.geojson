@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kip'yong"
+    ],
+    "name:eng_x_variant":[
+        "Kip'yong-ni"
+    ],
     "name:und_x_variant":[
         "\uae30\ud3c9\ub9ac",
         "Kip\u2019y\u014fng-ni"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108748049
+        1108748049,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1360286771,
-    "wof:lastmodified":1566584431,
-    "wof:name":"Kip'yong-ni",
+    "wof:lastmodified":1730271479,
+    "wof:name":"Kip'yong",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

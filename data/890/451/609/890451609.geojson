@@ -26,6 +26,9 @@
         "Sir Ragwon"
     ],
     "name:eng_x_preferred":[
+        "Ragwon"
+    ],
+    "name:eng_x_variant":[
         "Ragwon County"
     ],
     "name:jpn_x_preferred":[
@@ -70,8 +73,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108747955
+        1108747955,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,8 +97,8 @@
         }
     ],
     "wof:id":890451609,
-    "wof:lastmodified":1690938226,
-    "wof:name":"Samho-rodongjagu",
+    "wof:lastmodified":1730273266,
+    "wof:name":"Ragwon",
     "wof:parent_id":1108747955,
     "wof:placetype":"locality",
     "wof:population":19025,

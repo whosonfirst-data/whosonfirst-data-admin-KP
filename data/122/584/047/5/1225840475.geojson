@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Songbung"
+    ],
+    "name:eng_x_variant":[
+        "Songbung-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc131\ubd81\ub9ac"
     ],
@@ -42,15 +48,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108746905
+        1108746905,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1869702
     },
     "wof:country":"KP",
-    "wof:geomhash":"89652f4fe0b110345246bda4eda32c57",
+    "wof:geomhash":"1400721753c2be2658dade5d4f12f35f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":1225840475,
-    "wof:lastmodified":1566585565,
-    "wof:name":"Songbung-ni",
+    "wof:lastmodified":1730271511,
+    "wof:name":"Songbung",
     "wof:parent_id":1108746905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -71,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.85193999999998,
+    126.85194,
     38.52889,
-    126.85193999999998,
+    126.85194,
     38.52889
 ],
-  "geometry": {"coordinates":[126.85193999999998,38.52889],"type":"Point"}
+  "geometry": {"coordinates":[126.85194,38.52889],"type":"Point"}
 }

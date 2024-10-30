@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "P'ungdok"
+    ],
+    "name:eng_x_variant":[
+        "P'ungdok-tong"
+    ],
     "name:und_x_variant":[
         "\ud48d\ub355\ub3d9",
         "P\u2019ungd\u014fk-tong"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676623,
-        1108746971
+        1108746971,
+        85676623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1209917593,
-    "wof:lastmodified":1566583428,
-    "wof:name":"P'ungdok-tong",
+    "wof:lastmodified":1730271453,
+    "wof:name":"P'ungdok",
     "wof:parent_id":1108746971,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

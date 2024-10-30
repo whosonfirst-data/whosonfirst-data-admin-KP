@@ -29,12 +29,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Namyang"
+    ],
+    "name:eng_x_variant":[
+        "Namyang-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
-        1108746883
+        1108746883,
+        85676637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1276461705,
-    "wof:lastmodified":1566583281,
-    "wof:name":"Namyang-ni",
+    "wof:lastmodified":1730271449,
+    "wof:name":"Namyang",
     "wof:parent_id":1108746883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

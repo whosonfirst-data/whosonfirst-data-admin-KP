@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kwandong"
+    ],
+    "name:eng_x_variant":[
+        "Kwandong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632639
@@ -38,7 +44,7 @@
         "gn:id":2043090
     },
     "wof:country":"KP",
-    "wof:geomhash":"28e4a284c1a6fefe92d708aab7c23e71",
+    "wof:geomhash":"030a426f7c42e6eb0ec61d5acfc2173c",
     "wof:hierarchy":[
         {
             "country_id":85632639,
@@ -46,8 +52,8 @@
         }
     ],
     "wof:id":1209085397,
-    "wof:lastmodified":1566583461,
-    "wof:name":"Kwandong-ni",
+    "wof:lastmodified":1730271454,
+    "wof:name":"Kwandong",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -56,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.02056000000002,
+    128.02056,
     41.26361,
-    128.02056000000002,
+    128.02056,
     41.26361
 ],
-  "geometry": {"coordinates":[128.02056000000002,41.26361],"type":"Point"}
+  "geometry": {"coordinates":[128.02055999999999,41.26361],"type":"Point"}
 }

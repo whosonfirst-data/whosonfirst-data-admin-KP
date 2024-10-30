@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sinhung"
+    ],
+    "name:eng_x_variant":[
+        "Sinhung-ni"
+    ],
     "name:und_x_variant":[
         "\uc2e0\ud765\ub9ac",
         "Sinh\u016dng-ni"
@@ -50,8 +56,8 @@
         }
     ],
     "wof:id":1209321661,
-    "wof:lastmodified":1566583597,
-    "wof:name":"Sinhung-ni",
+    "wof:lastmodified":1730271458,
+    "wof:name":"Sinhung",
     "wof:parent_id":85632639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
