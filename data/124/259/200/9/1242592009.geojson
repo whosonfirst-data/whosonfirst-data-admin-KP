@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kuch'on-il"
+    ],
+    "name:eng_x_variant":[
+        "Kuch'on-il-tong"
+    ],
     "name:kor_x_preferred":[
         "\uad6c\ucc9c1\ub3d9"
     ],
@@ -41,8 +47,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676603,
-        1108747063
+        1108747063,
+        85676603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1242592009,
-    "wof:lastmodified":1566584701,
-    "wof:name":"Kuch'on-il-tong",
+    "wof:lastmodified":1730271486,
+    "wof:name":"Kuch'on-il",
     "wof:parent_id":1108747063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

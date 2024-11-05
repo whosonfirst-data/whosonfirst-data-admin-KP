@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hakhung"
+    ],
+    "name:eng_x_variant":[
+        "Hakhung-ni"
+    ],
     "name:und_x_variant":[
         "\ud559\ud765\ub9ac",
         "Hakh\u016dng-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108748105
+        1108748105,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1877508
     },
     "wof:country":"KP",
-    "wof:geomhash":"5facd128759dfdef38e21279d90ce654",
+    "wof:geomhash":"b33a4e613c60f19bdba5d55fce8dd4fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1310488855,
-    "wof:lastmodified":1566584088,
-    "wof:name":"Hakhung-ni",
+    "wof:lastmodified":1730271469,
+    "wof:name":"Hakhung",
     "wof:parent_id":1108748105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.50943999999998,
+    124.50944,
     39.96917,
-    124.50943999999998,
+    124.50944,
     39.96917
 ],
-  "geometry": {"coordinates":[124.50943999999998,39.96917],"type":"Point"}
+  "geometry": {"coordinates":[124.50944,39.96917],"type":"Point"}
 }

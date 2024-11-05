@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ahyon"
+    ],
+    "name:eng_x_variant":[
+        "Ahyon-ni"
+    ],
     "name:und_x_variant":[
         "S\u014fa-ri",
         "Gaken-ri",
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":1242595509,
-    "wof:lastmodified":1566584697,
-    "wof:name":"Ahyon-ni",
+    "wof:lastmodified":1730271486,
+    "wof:name":"Ahyon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

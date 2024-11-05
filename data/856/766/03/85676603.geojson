@@ -71,6 +71,9 @@
         "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u03a7\u03bf\u03c5\u03b1\u03bd\u03b3\u03ba\u03ad"
     ],
     "name:eng_x_preferred":[
+        "North Hwanghae"
+    ],
+    "name:eng_x_variant":[
         "Hwanghae-bukto"
     ],
     "name:epo_x_preferred":[
@@ -313,7 +316,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95934d1822172ac69dfeff3845fec3f0",
+    "wof:geomhash":"b4a583b0986319013c4753b0711b9bdc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -328,8 +331,8 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1695884784,
-    "wof:name":"Hwanghae-bukto",
+    "wof:lastmodified":1730094956,
+    "wof:name":"North Hwanghae",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
     "wof:placetype_local":"province",

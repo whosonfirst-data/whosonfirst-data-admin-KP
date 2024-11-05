@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kuok"
+    ],
+    "name:eng_x_variant":[
+        "Kuok-tong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108747019
+        1108747019,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2049667
     },
     "wof:country":"KP",
-    "wof:geomhash":"af940489ccf041c2c3bc0d13cd2626ec",
+    "wof:geomhash":"f87ec61716f2e92c79c4bfb4a00ace35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1226309435,
-    "wof:lastmodified":1566585507,
-    "wof:name":"Kuok-tong",
+    "wof:lastmodified":1730271510,
+    "wof:name":"Kuok",
     "wof:parent_id":1108747019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.10693999999998,
+    129.10694,
     41.21972,
-    129.10693999999998,
+    129.10694,
     41.21972
 ],
-  "geometry": {"coordinates":[129.10693999999998,41.21972],"type":"Point"}
+  "geometry": {"coordinates":[129.10694000000001,41.21972],"type":"Point"}
 }

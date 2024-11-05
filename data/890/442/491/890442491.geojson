@@ -32,6 +32,9 @@
         "Ny\u014fngby\u014fn-gun"
     ],
     "name:eng_x_preferred":[
+        "Nyongbyon"
+    ],
+    "name:eng_x_variant":[
         "Nyongbyon County"
     ],
     "name:epo_x_preferred":[
@@ -94,8 +97,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747023
+        1108747023,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,8 +121,8 @@
         }
     ],
     "wof:id":890442491,
-    "wof:lastmodified":1690938225,
-    "wof:name":"Y\u014fngby\u014fn",
+    "wof:lastmodified":1730273266,
+    "wof:name":"Nyongbyon",
     "wof:parent_id":1108747023,
     "wof:placetype":"locality",
     "wof:population":9584,

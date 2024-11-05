@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Changim"
+    ],
+    "name:eng_x_variant":[
+        "Changim-ni"
+    ],
     "name:und_x_variant":[
         "\uc7a5\uc784\ub9ac",
         "Changim-ni"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
-        1108748047
+        1108748047,
+        85676637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293372329,
-    "wof:lastmodified":1566582574,
-    "wof:name":"Changim-ni",
+    "wof:lastmodified":1730271434,
+    "wof:name":"Changim",
     "wof:parent_id":1108748047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

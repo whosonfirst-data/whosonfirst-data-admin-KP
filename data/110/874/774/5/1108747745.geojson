@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Hamhung"
     ],
+    "name:eng_x_variant":[
+        "Hamhung City"
+    ],
     "name:fra_x_preferred":[
         "Hamhung"
     ],
@@ -55,7 +58,7 @@
     ],
     "wof:country":"KP",
     "wof:created":1479328247,
-    "wof:geomhash":"9adc0083af6ab41b5e2fb861bdb01cbe",
+    "wof:geomhash":"eb2d8f3f188881d46e8220394c2578f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,8 +68,8 @@
         }
     ],
     "wof:id":1108747745,
-    "wof:lastmodified":1695886754,
-    "wof:name":"Hamhung City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Hamhung",
     "wof:parent_id":85676629,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

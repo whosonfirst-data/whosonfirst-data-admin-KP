@@ -30,12 +30,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sangp'yong"
+    ],
+    "name:eng_x_variant":[
+        "Sangp'yong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
-        1108748033
+        1108748033,
+        85676637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +59,8 @@
         }
     ],
     "wof:id":1327316125,
-    "wof:lastmodified":1566581708,
-    "wof:name":"Sangp'yong-ni",
+    "wof:lastmodified":1730271415,
+    "wof:name":"Sangp'yong",
     "wof:parent_id":1108748033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

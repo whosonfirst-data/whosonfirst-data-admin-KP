@@ -29,12 +29,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sach'ong"
+    ],
+    "name:eng_x_variant":[
+        "Sach'ong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108746905
+        1108746905,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1226739103,
-    "wof:lastmodified":1566585297,
-    "wof:name":"Sach'ong-ni",
+    "wof:lastmodified":1730271504,
+    "wof:name":"Sach'ong",
     "wof:parent_id":1108746905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

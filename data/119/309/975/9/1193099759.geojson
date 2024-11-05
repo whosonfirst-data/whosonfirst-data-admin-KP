@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ch'onghak"
+    ],
+    "name:eng_x_variant":[
+        "Ch'onghak-tong"
+    ],
     "name:und_x_variant":[
         "Seikak\u016b-d\u014d",
         "\uccad\ud559\ub3d9",
@@ -40,15 +46,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676647,
-        1108747091
+        1108747091,
+        85676647
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2044765
     },
     "wof:country":"KP",
-    "wof:geomhash":"ba380d2e17f25d1113a91c48d06bb2bb",
+    "wof:geomhash":"8254b9fb39294ee7b7540e19e936af8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":1193099759,
-    "wof:lastmodified":1566583780,
-    "wof:name":"Ch'onghak-tong",
+    "wof:lastmodified":1730271463,
+    "wof:name":"Ch'onghak",
     "wof:parent_id":1108747091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -70,9 +76,9 @@
 },
   "bbox": [
     130.4525,
-    42.46944000000001,
+    42.46944,
     130.4525,
-    42.46944000000001
+    42.46944
 ],
-  "geometry": {"coordinates":[130.45249999999999,42.46944000000001],"type":"Point"}
+  "geometry": {"coordinates":[130.45249999999999,42.46944],"type":"Point"}
 }

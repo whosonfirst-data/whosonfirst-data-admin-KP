@@ -71,6 +71,10 @@
         "\u039d\u03cc\u03c4\u03b9\u03bf \u03a0\u03b3\u03b9\u03bf\u03bd\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
+        "South P'y\u014fngan"
+    ],
+    "name:eng_x_variant":[
+        "P'y\u014fngan-namdo",
         "P'yongan-namdo"
     ],
     "name:epo_x_preferred":[
@@ -326,7 +330,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f3d8d56d151044f3be9b96e8337ea069",
+    "wof:geomhash":"6bc0b090e862064b375d4385d6ff7712",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -341,8 +345,8 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1695884332,
-    "wof:name":"P'y\u014fngan-namdo",
+    "wof:lastmodified":1730094956,
+    "wof:name":"South P'y\u014fngan",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
     "wof:placetype_local":"province",

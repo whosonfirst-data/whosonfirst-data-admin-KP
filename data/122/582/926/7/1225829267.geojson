@@ -30,12 +30,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sun'gam"
+    ],
+    "name:eng_x_variant":[
+        "Sun'gam-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108747853
+        1108747853,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +59,8 @@
         }
     ],
     "wof:id":1225829267,
-    "wof:lastmodified":1566585556,
-    "wof:name":"Sun'gam-ni",
+    "wof:lastmodified":1730271511,
+    "wof:name":"Sun'gam",
     "wof:parent_id":1108747853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

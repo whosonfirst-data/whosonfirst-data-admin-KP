@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chongyangdong"
+    ],
+    "name:eng_x_variant":[
+        "Chongyangdong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108747853
+        1108747853,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1931690
     },
     "wof:country":"KP",
-    "wof:geomhash":"1e1c1c8c654d3f7949fc5b8c07775bee",
+    "wof:geomhash":"7632ad8d58ff83f948e3be7d0e87c5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1310394751,
-    "wof:lastmodified":1566584193,
-    "wof:name":"Chongyangdong-ni",
+    "wof:lastmodified":1730271472,
+    "wof:name":"Chongyangdong",
     "wof:parent_id":1108747853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.03916999999998,
+    128.03917,
     38.61917,
-    128.03916999999998,
+    128.03917,
     38.61917
 ],
-  "geometry": {"coordinates":[128.03916999999998,38.61917],"type":"Point"}
+  "geometry": {"coordinates":[128.03917000000001,38.61917],"type":"Point"}
 }

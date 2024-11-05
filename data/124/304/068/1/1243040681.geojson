@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sinhung"
+    ],
+    "name:eng_x_variant":[
+        "Sinhung-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
-        1108748035
+        1108748035,
+        85676637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1870485
     },
     "wof:country":"KP",
-    "wof:geomhash":"7e8124b4d4d444c9d6728c03812a38f4",
+    "wof:geomhash":"0e4920b424edd35410a7f328b49580e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1243040681,
-    "wof:lastmodified":1566584801,
-    "wof:name":"Sinhung-ni",
+    "wof:lastmodified":1730271489,
+    "wof:name":"Sinhung",
     "wof:parent_id":1108748035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     125.86167,
-    39.46194000000001,
+    39.46194,
     125.86167,
-    39.46194000000001
+    39.46194
 ],
-  "geometry": {"coordinates":[125.86167,39.46194000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.86167,39.46194],"type":"Point"}
 }

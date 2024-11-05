@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ch'unghung"
+    ],
+    "name:eng_x_variant":[
+        "Ch'unghung-ni"
+    ],
     "name:und_x_variant":[
         "Changh\u016dng-dong",
         "\ucda9\ud765\ub9ac",
@@ -38,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
         1108747969,
+        85676637,
         421199693
     ],
     "wof:breaches":[],
@@ -65,8 +71,8 @@
         }
     ],
     "wof:id":1309878435,
-    "wof:lastmodified":1566584544,
-    "wof:name":"Ch'unghung-ni",
+    "wof:lastmodified":1730271482,
+    "wof:name":"Ch'unghung",
     "wof:parent_id":1108747969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

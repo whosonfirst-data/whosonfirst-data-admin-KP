@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Anju"
     ],
+    "name:eng_x_variant":[
+        "Anju City"
+    ],
     "name:fra_x_preferred":[
         "Anju"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326295,
-    "wof:geomhash":"c6c94144f88783c32ae671dd3a0d57c7",
+    "wof:geomhash":"cc935ac0df5fb194f333f40c0b316293",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108746847,
-    "wof:lastmodified":1695886753,
-    "wof:name":"Anju City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Anju",
     "wof:parent_id":85676637,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

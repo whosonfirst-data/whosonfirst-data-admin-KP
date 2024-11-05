@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sangdongnijung"
+    ],
+    "name:eng_x_variant":[
+        "Sangdongnijung-ni"
+    ],
     "name:und_x_variant":[
         "\uc0c1\ub355\ub9ac\uc911\ub9ac",
         "Sangd\u014fngnijung-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108748049
+        1108748049,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6272362
     },
     "wof:country":"KP",
-    "wof:geomhash":"eff8b194a4e17f212598511d32627a85",
+    "wof:geomhash":"0bea689146295c6345191de89eb6fae4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1343268861,
-    "wof:lastmodified":1566582470,
-    "wof:name":"Sangdongnijung-ni",
+    "wof:lastmodified":1730271432,
+    "wof:name":"Sangdongnijung",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.98471999999998,
+    128.98472,
     40.56222,
-    128.98471999999998,
+    128.98472,
     40.56222
 ],
-  "geometry": {"coordinates":[128.98471999999998,40.56222],"type":"Point"}
+  "geometry": {"coordinates":[128.98472000000001,40.56222],"type":"Point"}
 }

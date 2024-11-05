@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tuhung"
+    ],
+    "name:eng_x_variant":[
+        "Tuhung-ni"
+    ],
     "name:kor_x_preferred":[
         "Tuh\u016dng-ni"
     ],
@@ -42,15 +48,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676623,
-        1108747813
+        1108747813,
+        85676623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2039689
     },
     "wof:country":"KP",
-    "wof:geomhash":"486523d11a2c04e0a394f933b78b35cc",
+    "wof:geomhash":"dd3cf6159d202d35392672c047e239a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":1259687545,
-    "wof:lastmodified":1566585105,
-    "wof:name":"Tuhung-ni",
+    "wof:lastmodified":1730271498,
+    "wof:name":"Tuhung",
     "wof:parent_id":1108747813,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -72,9 +78,9 @@
 },
   "bbox": [
     126.5325,
-    40.90969000000001,
+    40.90969,
     126.5325,
-    40.90969000000001
+    40.90969
 ],
-  "geometry": {"coordinates":[126.5325,40.90969000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.5325,40.90969],"type":"Point"}
 }

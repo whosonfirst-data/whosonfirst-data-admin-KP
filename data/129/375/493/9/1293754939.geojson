@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sangp'ohang"
+    ],
+    "name:eng_x_variant":[
+        "Sangp'ohang-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc0c1\ud3ec\ud56d\ub9ac"
     ],
@@ -41,15 +47,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676641,
-        1108746953
+        1108746953,
+        85676641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2041267
     },
     "wof:country":"KP",
-    "wof:geomhash":"ccfc183d78460f1a9bc07217b4004133",
+    "wof:geomhash":"4dd1a1a2ae6c97de93ef6463eb4bf182",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1293754939,
-    "wof:lastmodified":1566582969,
-    "wof:name":"Sangp'ohang-ni",
+    "wof:lastmodified":1730271442,
+    "wof:name":"Sangp'ohang",
     "wof:parent_id":1108746953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.25888999999998,
+    128.25889,
     41.19917,
-    128.25888999999998,
+    128.25889,
     41.19917
 ],
-  "geometry": {"coordinates":[128.25888999999998,41.19917],"type":"Point"}
+  "geometry": {"coordinates":[128.25889000000001,41.19917],"type":"Point"}
 }

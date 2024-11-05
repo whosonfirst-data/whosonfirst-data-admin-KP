@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Segil"
+    ],
+    "name:eng_x_variant":[
+        "Segil-tong"
+    ],
     "name:und_x_variant":[
         "Saegil-tong",
         "Segil-tong"
@@ -38,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108747229
+        1108747229,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1259677775,
-    "wof:lastmodified":1566585137,
-    "wof:name":"Segil-tong",
+    "wof:lastmodified":1730271499,
+    "wof:name":"Segil",
     "wof:parent_id":1108747229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

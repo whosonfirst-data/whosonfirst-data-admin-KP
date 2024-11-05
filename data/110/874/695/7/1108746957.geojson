@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Kim Chaek"
     ],
+    "name:eng_x_variant":[
+        "Kim Chaek City"
+    ],
     "name:fra_x_preferred":[
         "Kimch'aek"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326310,
-    "wof:geomhash":"fba726b370071b8fc7ea3ec26c4f7eec",
+    "wof:geomhash":"d027a72c39abd06a1194a28a9f148a59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108746957,
-    "wof:lastmodified":1695886756,
-    "wof:name":"Kim Chaek City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Kim Chaek",
     "wof:parent_id":85676615,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Panghak"
+    ],
+    "name:eng_x_variant":[
+        "Panghak-tong"
+    ],
     "name:kor_x_preferred":[
         "\ubc29\ud559\ub3d9"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108747727
+        1108747727,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1890001
     },
     "wof:country":"KP",
-    "wof:geomhash":"ba8769ccc4d472cfae5490b02256b84f",
+    "wof:geomhash":"a1ceb3f3a5a4fb394d6ccc12e1b6a2c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1309789851,
-    "wof:lastmodified":1566584504,
-    "wof:name":"Panghak-tong",
+    "wof:lastmodified":1730271481,
+    "wof:name":"Panghak",
     "wof:parent_id":1108747727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     126.91972,
-    38.21194000000001,
+    38.21194,
     126.91972,
-    38.21194000000001
+    38.21194
 ],
-  "geometry": {"coordinates":[126.91972,38.21194000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.91972,38.21194],"type":"Point"}
 }

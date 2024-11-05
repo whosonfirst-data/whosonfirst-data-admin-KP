@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sangnipsong"
+    ],
+    "name:eng_x_variant":[
+        "Sangnipsong-ni"
+    ],
     "name:und_x_variant":[
         "Sangips\u014fng-ni",
         "Sangnips\u014fng-ni"
@@ -38,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108747941
+        1108747941,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1327141379,
-    "wof:lastmodified":1566581838,
-    "wof:name":"Sangnipsong-ni",
+    "wof:lastmodified":1730271418,
+    "wof:name":"Sangnipsong",
     "wof:parent_id":1108747941,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

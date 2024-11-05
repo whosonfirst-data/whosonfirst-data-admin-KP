@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kumjung"
+    ],
+    "name:eng_x_variant":[
+        "Kumjung-ni"
+    ],
     "name:und_x_variant":[
         "K\u016dmjhung-ni",
         "\uae08\uc911\ub9ac",
@@ -38,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676623,
-        1108747225
+        1108747225,
+        85676623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1226659213,
-    "wof:lastmodified":1566585528,
-    "wof:name":"Kumjung-ni",
+    "wof:lastmodified":1730271510,
+    "wof:name":"Kumjung",
     "wof:parent_id":1108747225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

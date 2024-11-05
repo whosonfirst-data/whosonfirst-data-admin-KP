@@ -22,6 +22,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kapsan"
+    ],
+    "name:eng_x_variant":[
+        "Kapsan-\u016dp"
+    ],
     "name:kor_x_preferred":[
         "\uac11\uc0b0\uc74d"
     ],
@@ -48,8 +54,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676641,
-        1108746953
+        1108746953,
+        85676641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,8 +75,8 @@
         }
     ],
     "wof:id":1125868087,
-    "wof:lastmodified":1566584586,
-    "wof:name":"Kapsan-\u016dp",
+    "wof:lastmodified":1730094962,
+    "wof:name":"Kapsan",
     "wof:parent_id":1108746953,
     "wof:placetype":"locality",
     "wof:population":20406,

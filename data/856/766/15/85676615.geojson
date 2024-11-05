@@ -71,6 +71,10 @@
         "Hamgy\u014fng-pukto"
     ],
     "name:eng_x_preferred":[
+        "North Hamgy\u014fng"
+    ],
+    "name:eng_x_variant":[
+        "Hamgy\u014fng-bukto",
         "Hamgyong-bukto"
     ],
     "name:epo_x_preferred":[
@@ -231,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e66f64958e1d7bc1e5daf17a760d11c",
+    "wof:geomhash":"a9b8d7fb79ec754f42564a932d26a2f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -246,8 +250,8 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1695884332,
-    "wof:name":"Hamgy\u014fng-bukto",
+    "wof:lastmodified":1730094956,
+    "wof:name":"North Hamgy\u014fng",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
     "wof:placetype_local":"province",

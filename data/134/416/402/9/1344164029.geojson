@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Songmal"
+    ],
+    "name:eng_x_variant":[
+        "Songmal-tong"
+    ],
     "name:und_x_variant":[
         "\uc131\ub9d0\ub3d9",
         "S\u014fngmal-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108748103
+        1108748103,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1891911
     },
     "wof:country":"KP",
-    "wof:geomhash":"5d5817b692a30c02edf9978541d1449d",
+    "wof:geomhash":"a8eeb50c25796493db6b2fddba820628",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1344164029,
-    "wof:lastmodified":1566582398,
-    "wof:name":"Songmal-tong",
+    "wof:lastmodified":1730271430,
+    "wof:name":"Songmal",
     "wof:parent_id":1108748103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     126.83333,
-    39.77972000000001,
+    39.77972,
     126.83333,
-    39.77972000000001
+    39.77972
 ],
-  "geometry": {"coordinates":[126.83333,39.77972000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.83333,39.77972],"type":"Point"}
 }

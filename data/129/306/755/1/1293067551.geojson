@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sangdok"
+    ],
+    "name:eng_x_variant":[
+        "Sangdok-tong"
+    ],
     "name:und_x_variant":[
         "\uc0c1\ub3c5\ub3d9",
         "Sangdok-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108747015
+        1108747015,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2041343
     },
     "wof:country":"KP",
-    "wof:geomhash":"31fa3978e8740b05b23a3eadf491da62",
+    "wof:geomhash":"c37202d5beb34c5b944ec5e6c265b835",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293067551,
-    "wof:lastmodified":1566582594,
-    "wof:name":"Sangdok-tong",
+    "wof:lastmodified":1730271435,
+    "wof:name":"Sangdok",
     "wof:parent_id":1108747015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     129.41278,
-    40.88417000000001,
+    40.88417,
     129.41278,
-    40.88417000000001
+    40.88417
 ],
-  "geometry": {"coordinates":[129.41278,40.88417000000001],"type":"Point"}
+  "geometry": {"coordinates":[129.41278,40.88417],"type":"Point"}
 }

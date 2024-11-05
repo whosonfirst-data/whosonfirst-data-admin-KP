@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chungdong"
+    ],
+    "name:eng_x_variant":[
+        "Chungdong-ni"
+    ],
     "name:und_x_variant":[
         "\uc911\ub3d9\ub9ac"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108747193
+        1108747193,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2044499
     },
     "wof:country":"KP",
-    "wof:geomhash":"ec930907f9ed6515eefc240a713617cf",
+    "wof:geomhash":"59bae11037cd8cf72600d267095d135a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1209716893,
-    "wof:lastmodified":1566583547,
-    "wof:name":"Chungdong-ni",
+    "wof:lastmodified":1730271456,
+    "wof:name":"Chungdong",
     "wof:parent_id":1108747193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.30626999999998,
-    40.49404000000001,
-    128.30626999999998,
-    40.49404000000001
+    128.30627,
+    40.49404,
+    128.30627,
+    40.49404
 ],
-  "geometry": {"coordinates":[128.30626999999998,40.49404000000001],"type":"Point"}
+  "geometry": {"coordinates":[128.30627000000001,40.49404],"type":"Point"}
 }

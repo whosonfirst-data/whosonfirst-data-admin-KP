@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ching"
+    ],
+    "name:eng_x_variant":[
+        "Ching-ni"
+    ],
     "name:und_x_variant":[
         "\uc9c1\ub9ac",
         "Ching-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676641,
-        1108746959
+        1108746959,
+        85676641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2044911
     },
     "wof:country":"KP",
-    "wof:geomhash":"7fec38a9cef2aeeb4b3c4e7fa8556682",
+    "wof:geomhash":"9e2460ab9c728f4f76ba584a5a012366",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293361633,
-    "wof:lastmodified":1566582554,
-    "wof:name":"Ching-ni",
+    "wof:lastmodified":1730271434,
+    "wof:name":"Ching",
     "wof:parent_id":1108746959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.13138999999998,
+    128.13139,
     40.83722,
-    128.13138999999998,
+    128.13139,
     40.83722
 ],
-  "geometry": {"coordinates":[128.13138999999998,40.83722],"type":"Point"}
+  "geometry": {"coordinates":[128.13139000000001,40.83722],"type":"Point"}
 }

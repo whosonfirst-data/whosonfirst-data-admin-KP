@@ -74,12 +74,12 @@
         "\u039a\u03ac\u03bd\u03b3\u03ba\u03b3\u03bf\u03c5\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Kangwon-do"
+        "Kangw\u014fn"
     ],
     "name:eng_x_variant":[
         "Kangw\u014fn-do",
-        "Kangw\u014fn",
-        "Kangwon Province"
+        "Kangwon Province",
+        "Kangwon-do"
     ],
     "name:epo_x_preferred":[
         "Kang\u016don"
@@ -335,7 +335,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2c5b0f9889ec937ec48f17cf95fc16c4",
+    "wof:geomhash":"1bce538a1dc625744a600a740f796359",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -350,8 +350,8 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1695884332,
-    "wof:name":"Kangw\u014fn-do",
+    "wof:lastmodified":1730094956,
+    "wof:name":"Kangw\u014fn",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
     "wof:placetype_local":"province",

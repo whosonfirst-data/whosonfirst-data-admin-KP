@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Sinpo"
     ],
+    "name:eng_x_variant":[
+        "Sinpo City"
+    ],
     "name:fra_x_preferred":[
         "Sinpo"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328280,
-    "wof:geomhash":"91ba184eaa946594dd360d16eca08346",
+    "wof:geomhash":"45845c08918e0b11826d3ce4f4e51170",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108748003,
-    "wof:lastmodified":1695886763,
-    "wof:name":"Sinpo City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Sinpo",
     "wof:parent_id":85676629,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Togam"
+    ],
+    "name:eng_x_variant":[
+        "Togam-ni"
+    ],
     "name:kor_x_preferred":[
         "\ub355\uc554\ub9ac"
     ],
@@ -43,15 +49,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747213
+        1108747213,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1868254
     },
     "wof:country":"KP",
-    "wof:geomhash":"94feb9ccdd17b8c146316f38219e4c61",
+    "wof:geomhash":"4f7946224a052cfe200bedb1e1e3aa92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +68,8 @@
         }
     ],
     "wof:id":1243159435,
-    "wof:lastmodified":1566584765,
-    "wof:name":"Togam-ni",
+    "wof:lastmodified":1730271488,
+    "wof:name":"Togam",
     "wof:parent_id":1108747213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -73,9 +79,9 @@
 },
   "bbox": [
     125.36333,
-    39.57167000000001,
+    39.57167,
     125.36333,
-    39.57167000000001
+    39.57167
 ],
-  "geometry": {"coordinates":[125.36333,39.57167000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.36333,39.57167],"type":"Point"}
 }

@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Hoeryong"
     ],
+    "name:eng_x_variant":[
+        "Hoeryong City"
+    ],
     "name:fra_x_preferred":[
         "Hoeryong"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326303,
-    "wof:geomhash":"d9c71e832b97c857859bf837ad74997e",
+    "wof:geomhash":"7166650ea59b78bcbedf502c065e7cb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108746885,
-    "wof:lastmodified":1695886754,
-    "wof:name":"Hoeryong City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Hoeryong",
     "wof:parent_id":85676615,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

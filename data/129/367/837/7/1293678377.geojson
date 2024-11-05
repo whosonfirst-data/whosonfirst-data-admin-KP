@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Changjong"
+    ],
+    "name:eng_x_variant":[
+        "Changjong-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc7a5\uc815\ub9ac"
     ],
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108746975
+        1108746975,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1293678377,
-    "wof:lastmodified":1566582802,
-    "wof:name":"Changjong-ni",
+    "wof:lastmodified":1730271439,
+    "wof:name":"Changjong",
     "wof:parent_id":1108746975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Namsok"
+    ],
+    "name:eng_x_variant":[
+        "Namsok-tong"
+    ],
     "name:und_x_variant":[
         "\ub0a8\uc11d\ub3d9",
         "Nams\u014fk-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108746997
+        1108746997,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2048838
     },
     "wof:country":"KP",
-    "wof:geomhash":"fe89964b0bfe601bfd2a08cac32556ad",
+    "wof:geomhash":"6adee28a7fc61247fbb1a566c23758e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293759629,
-    "wof:lastmodified":1566582964,
-    "wof:name":"Namsok-tong",
+    "wof:lastmodified":1730271442,
+    "wof:name":"Namsok",
     "wof:parent_id":1108746997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.05333000000002,
+    130.05333,
     42.38389,
-    130.05333000000002,
+    130.05333,
     42.38389
 ],
-  "geometry": {"coordinates":[130.05333000000002,42.38389],"type":"Point"}
+  "geometry": {"coordinates":[130.05332999999999,42.38389],"type":"Point"}
 }

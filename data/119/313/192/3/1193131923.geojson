@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ch'ongdol"
+    ],
+    "name:eng_x_variant":[
+        "Ch'ongdol-tong"
+    ],
     "name:und_x_variant":[
         "\uccad\ub3cc\ub3d9",
         "Ch\u2019\u014fngdol-tong"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676605,
-        1108747967
+        1108747967,
+        85676605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1193131923,
-    "wof:lastmodified":1566583806,
-    "wof:name":"Ch'ongdol-tong",
+    "wof:lastmodified":1730271463,
+    "wof:name":"Ch'ongdol",
     "wof:parent_id":1108747967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

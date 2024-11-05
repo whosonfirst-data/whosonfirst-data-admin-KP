@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "T'arang"
+    ],
+    "name:eng_x_variant":[
+        "T'arang-ni"
+    ],
     "name:und_x_variant":[
         "\ud0c0\ub77d\ub9ac",
         "T\u2019arang-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747721
+        1108747721,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2040010
     },
     "wof:country":"KP",
-    "wof:geomhash":"98ff597008c5c82949b057a1c520148f",
+    "wof:geomhash":"bf4d34b7015758b267cdf9882437f9f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1326517383,
-    "wof:lastmodified":1566581760,
-    "wof:name":"T'arang-ni",
+    "wof:lastmodified":1730271416,
+    "wof:name":"T'arang",
     "wof:parent_id":1108747721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.25943999999998,
-    40.44667000000001,
-    125.25943999999998,
-    40.44667000000001
+    125.25944,
+    40.44667,
+    125.25944,
+    40.44667
 ],
-  "geometry": {"coordinates":[125.25943999999998,40.44667000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.25944,40.44667],"type":"Point"}
 }

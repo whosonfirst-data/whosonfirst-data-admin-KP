@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Unsong"
+    ],
+    "name:eng_x_variant":[
+        "Unsong-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
-        1108747191
+        1108747191,
+        85676637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1892448
     },
     "wof:country":"KP",
-    "wof:geomhash":"5fe0301fc29602bb449553fe034eebed",
+    "wof:geomhash":"d1e85259b9af64a12ffe5033580fdb55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1259365251,
-    "wof:lastmodified":1566584968,
-    "wof:name":"Unsong-ni",
+    "wof:lastmodified":1730271494,
+    "wof:name":"Unsong",
     "wof:parent_id":1108747191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.26111000000002,
-    39.76139000000001,
-    126.26111000000002,
-    39.76139000000001
+    126.26111,
+    39.76139,
+    126.26111,
+    39.76139
 ],
-  "geometry": {"coordinates":[126.26111000000002,39.76139000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.26111,39.76139],"type":"Point"}
 }

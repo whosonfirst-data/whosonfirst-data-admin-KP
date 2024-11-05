@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Sariwon"
     ],
+    "name:eng_x_variant":[
+        "Sariwon City"
+    ],
     "name:fra_x_preferred":[
         "Sariwon"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326328,
-    "wof:geomhash":"b6edde9f4753dd341785e57533a28571",
+    "wof:geomhash":"a4130e4f9d91a969172493f30128ed12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747117,
-    "wof:lastmodified":1695886761,
-    "wof:name":"Sariwon City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Sariwon",
     "wof:parent_id":85676603,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

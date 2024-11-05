@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sangjisong"
+    ],
+    "name:eng_x_variant":[
+        "Sangjisong-ni"
+    ],
     "name:und_x_variant":[
         "Chis\u014fng-ni",
         "Sang-chis\u014fng-ni",
@@ -40,8 +46,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108746849
+        1108746849,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":1243161453,
-    "wof:lastmodified":1566584917,
-    "wof:name":"Sangjisong-ni",
+    "wof:lastmodified":1730271492,
+    "wof:name":"Sangjisong",
     "wof:parent_id":1108746849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

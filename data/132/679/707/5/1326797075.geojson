@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tonghung"
+    ],
+    "name:eng_x_variant":[
+        "Tonghung-ni"
+    ],
     "name:und_x_variant":[
         "Tongh\u016dng-dong",
         "\ub3d9\ud765\ub9ac",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108747763
+        1108747763,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2039797
     },
     "wof:country":"KP",
-    "wof:geomhash":"3c510cc06d89c0c431debd100d066216",
+    "wof:geomhash":"3e5b8b758c8a3c1f0e6ba47fe2b8057b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1326797075,
-    "wof:lastmodified":1566581949,
-    "wof:name":"Tonghung-ni",
+    "wof:lastmodified":1730271420,
+    "wof:name":"Tonghung",
     "wof:parent_id":1108747763,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -68,9 +74,9 @@
 },
   "bbox": [
     129.36389,
-    40.76139000000001,
+    40.76139,
     129.36389,
-    40.76139000000001
+    40.76139
 ],
-  "geometry": {"coordinates":[129.36389,40.76139000000001],"type":"Point"}
+  "geometry": {"coordinates":[129.36389,40.76139],"type":"Point"}
 }

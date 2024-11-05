@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Ayang"
+    ],
+    "name:eng_x_variant":[
+        "Ayang-ni"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc591\ub9ac"
     ],
@@ -46,8 +52,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676605,
-        1108748009
+        1108748009,
+        85676605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +74,8 @@
         }
     ],
     "wof:id":421182723,
-    "wof:lastmodified":1566584578,
-    "wof:name":"Ayang-ni",
+    "wof:lastmodified":1730271483,
+    "wof:name":"Ayang",
     "wof:parent_id":1108748009,
     "wof:placetype":"locality",
     "wof:population":16104,

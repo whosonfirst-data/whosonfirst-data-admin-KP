@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Taptong"
+    ],
+    "name:eng_x_variant":[
+        "Taptong-ni"
+    ],
     "name:und_x_variant":[
         "Dend\u014d-ri",
         "Tod\u014dri",
@@ -40,15 +46,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108748049
+        1108748049,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2040013
     },
     "wof:country":"KP",
-    "wof:geomhash":"12efc35c6f0c682dca40ee17f5a13b69",
+    "wof:geomhash":"d4ed42be60dca044875fcf32d620c753",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":1276548541,
-    "wof:lastmodified":1566583374,
-    "wof:name":"Taptong-ni",
+    "wof:lastmodified":1730271452,
+    "wof:name":"Taptong",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -69,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.95306000000002,
+    128.95306,
     40.51111,
-    128.95306000000002,
+    128.95306,
     40.51111
 ],
-  "geometry": {"coordinates":[128.95306000000002,40.51111],"type":"Point"}
+  "geometry": {"coordinates":[128.95305999999999,40.51111],"type":"Point"}
 }

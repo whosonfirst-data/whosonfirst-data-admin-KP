@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sonhung"
+    ],
+    "name:eng_x_variant":[
+        "Sonhung-ni"
+    ],
     "name:und_x_variant":[
         "\uc120\ud765\ub9ac",
         "S\u014fnh\u016dng-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108747795
+        1108747795,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6273232
     },
     "wof:country":"KP",
-    "wof:geomhash":"9643d9bfdeca54e5fe02950cbae9a129",
+    "wof:geomhash":"588a6a93953a40b0d47abc6c0357aa7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1293007035,
-    "wof:lastmodified":1566582545,
-    "wof:name":"Sonhung-ni",
+    "wof:lastmodified":1730271433,
+    "wof:name":"Sonhung",
     "wof:parent_id":1108747795,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.32222,
-    39.75917000000001,
+    39.75917,
     127.32222,
-    39.75917000000001
+    39.75917
 ],
-  "geometry": {"coordinates":[127.32222,39.75917000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.32222,39.75917],"type":"Point"}
 }

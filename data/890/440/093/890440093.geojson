@@ -26,6 +26,10 @@
         "Sir Musan"
     ],
     "name:eng_x_preferred":[
+        "Musan"
+    ],
+    "name:eng_x_variant":[
+        "Musan-\u016dp",
         "Musan County"
     ],
     "name:fin_x_preferred":[
@@ -162,8 +166,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108747013
+        1108747013,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -186,8 +190,8 @@
         }
     ],
     "wof:id":890440093,
-    "wof:lastmodified":1690938222,
-    "wof:name":"Musan-\u016dp",
+    "wof:lastmodified":1730094961,
+    "wof:name":"Musan",
     "wof:parent_id":1108747013,
     "wof:placetype":"locality",
     "wof:population":21739,

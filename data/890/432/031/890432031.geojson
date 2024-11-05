@@ -29,6 +29,10 @@
         "Sir Kujang"
     ],
     "name:eng_x_preferred":[
+        "Kujang"
+    ],
+    "name:eng_x_variant":[
+        "Kujang-\u016dp",
         "Kujang County"
     ],
     "name:fra_x_preferred":[
@@ -79,8 +83,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108746979
+        1108746979,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,8 +107,8 @@
         }
     ],
     "wof:id":890432031,
-    "wof:lastmodified":1690938227,
-    "wof:name":"Kujang-\u016dp",
+    "wof:lastmodified":1730094962,
+    "wof:name":"Kujang",
     "wof:parent_id":1108746979,
     "wof:placetype":"locality",
     "wof:population":19522,

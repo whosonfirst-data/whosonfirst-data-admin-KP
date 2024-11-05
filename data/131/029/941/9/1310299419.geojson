@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Mabang"
+    ],
+    "name:eng_x_variant":[
+        "Mabang-ni"
+    ],
     "name:und_x_variant":[
         "Mabng-ni",
         "Mabang-ni"
@@ -38,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108747727
+        1108747727,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1310299419,
-    "wof:lastmodified":1566584226,
-    "wof:name":"Mabang-ni",
+    "wof:lastmodified":1730271473,
+    "wof:name":"Mabang",
     "wof:parent_id":1108747727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

@@ -30,19 +30,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kyok"
+    ],
+    "name:eng_x_variant":[
+        "Kyok-tong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676603,
-        1108747043
+        1108747043,
+        85676603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1951024
     },
     "wof:country":"KP",
-    "wof:geomhash":"bd160918fa54265ac934ed460645ad1f",
+    "wof:geomhash":"b53d0fc430600733530f3de9ab257192",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +59,8 @@
         }
     ],
     "wof:id":1226239693,
-    "wof:lastmodified":1566585442,
-    "wof:name":"Kyok-tong",
+    "wof:lastmodified":1730271508,
+    "wof:name":"Kyok",
     "wof:parent_id":1108747043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.61556000000002,
+    126.61556,
     37.80861,
-    126.61556000000002,
+    126.61556,
     37.80861
 ],
-  "geometry": {"coordinates":[126.61556000000002,37.80861],"type":"Point"}
+  "geometry": {"coordinates":[126.61556,37.80861],"type":"Point"}
 }

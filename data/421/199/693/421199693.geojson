@@ -27,6 +27,9 @@
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
+        "Namp\u00b4o"
+    ],
+    "name:eng_x_variant":[
         "Namp\u00b4o-si"
     ],
     "name:fra_x_preferred":[
@@ -78,7 +81,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"020e62c97ba380aa1fb1fc67f33edef9",
+    "wof:geomhash":"e2ef782734dbd8e38aa6430769c8876a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,8 +96,8 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1695884754,
-    "wof:name":"Namp\u00b4o-si",
+    "wof:lastmodified":1730094961,
+    "wof:name":"Namp\u00b4o",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-kp",

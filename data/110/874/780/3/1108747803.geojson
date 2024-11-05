@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Kaechon"
     ],
+    "name:eng_x_variant":[
+        "Kaechon City"
+    ],
     "name:fra_x_preferred":[
         "Kaechon"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328256,
-    "wof:geomhash":"8c4b113d6a4df1c77152b3612a8d8abb",
+    "wof:geomhash":"554917425f44f7ccb8a9b5887247abdf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747803,
-    "wof:lastmodified":1695886756,
-    "wof:name":"Kaechon City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Kaechon",
     "wof:parent_id":85676637,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

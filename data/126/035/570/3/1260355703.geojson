@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tonggwan"
+    ],
+    "name:eng_x_variant":[
+        "Tonggwan-ni"
+    ],
     "name:und_x_variant":[
         "Tonggwan-dong",
         "Tonggwan-ni"
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108747901
+        1108747901,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2039813
     },
     "wof:country":"KP",
-    "wof:geomhash":"3f4d0e9041094606e3dba391c79d3d11",
+    "wof:geomhash":"450bf5dd1a41d4bbfafce58733939130",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1260355703,
-    "wof:lastmodified":1566584002,
-    "wof:name":"Tonggwan-ni",
+    "wof:lastmodified":1730271468,
+    "wof:name":"Tonggwan",
     "wof:parent_id":1108747901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.82806000000002,
+    129.82806,
     42.82778,
-    129.82806000000002,
+    129.82806,
     42.82778
 ],
-  "geometry": {"coordinates":[129.82806000000002,42.82778],"type":"Point"}
+  "geometry": {"coordinates":[129.82805999999999,42.82778],"type":"Point"}
 }

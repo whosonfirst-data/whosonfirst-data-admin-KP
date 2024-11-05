@@ -29,6 +29,9 @@
         "Sir Chonchon"
     ],
     "name:eng_x_preferred":[
+        "Chonchon"
+    ],
+    "name:eng_x_variant":[
         "Chonchon County"
     ],
     "name:fas_x_preferred":[
@@ -82,8 +85,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676623,
-        1108748019
+        1108748019,
+        85676623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,8 +109,8 @@
         }
     ],
     "wof:id":890455229,
-    "wof:lastmodified":1690938223,
-    "wof:name":"Ch\u014fnch\u2019\u014fn",
+    "wof:lastmodified":1730273266,
+    "wof:name":"Chonchon",
     "wof:parent_id":1108748019,
     "wof:placetype":"locality",
     "wof:population":4,

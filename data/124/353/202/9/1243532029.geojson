@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hongbuk"
+    ],
+    "name:eng_x_variant":[
+        "Hongbuk-tong"
+    ],
     "name:und_x_variant":[
         "\ud64d\ubd81\ub3d9",
         "Hongbuk-tong"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747205
+        1108747205,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6281603
     },
     "wof:country":"KP",
-    "wof:geomhash":"2f32186e45a3bd578ae575a453012175",
+    "wof:geomhash":"d770ecc8be5a33aef45435a3aea26daf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1243532029,
-    "wof:lastmodified":1566584614,
-    "wof:name":"Hongbuk-tong",
+    "wof:lastmodified":1730271483,
+    "wof:name":"Hongbuk",
     "wof:parent_id":1108747205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.53806000000002,
+    124.53806,
     40.175,
-    124.53806000000002,
+    124.53806,
     40.175
 ],
-  "geometry": {"coordinates":[124.53806000000002,40.175],"type":"Point"}
+  "geometry": {"coordinates":[124.53806,40.175],"type":"Point"}
 }

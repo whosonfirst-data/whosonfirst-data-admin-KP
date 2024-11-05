@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kwangsok"
+    ],
+    "name:eng_x_variant":[
+        "Kwangsok-tong"
+    ],
     "name:und_x_variant":[
         "Kwangs\u014fk-tong",
         "\uad11\uc11d\ub3d9"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108747229
+        1108747229,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1874937
     },
     "wof:country":"KP",
-    "wof:geomhash":"0407dff1ec5b2f9c4dcb29fac8ebaf21",
+    "wof:geomhash":"3deb1368516c41bbde108764259467b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1343556953,
-    "wof:lastmodified":1566582118,
-    "wof:name":"Kwangsok-tong",
+    "wof:lastmodified":1730271424,
+    "wof:name":"Kwangsok",
     "wof:parent_id":1108747229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.43198999999998,
+    127.43199,
     39.14871,
-    127.43198999999998,
+    127.43199,
     39.14871
 ],
-  "geometry": {"coordinates":[127.43198999999998,39.14871],"type":"Point"}
+  "geometry": {"coordinates":[127.43199,39.14871],"type":"Point"}
 }

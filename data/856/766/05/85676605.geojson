@@ -71,6 +71,9 @@
         "\u039d\u03cc\u03c4\u03b9\u03bf \u03a7\u03bf\u03c5\u03ac\u03bd\u03b3\u03ba\u03c7\u03b5"
     ],
     "name:eng_x_preferred":[
+        "South Hwanghae"
+    ],
+    "name:eng_x_variant":[
         "Hwanghae-namdo"
     ],
     "name:epo_x_preferred":[
@@ -313,7 +316,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1a6060b089bab7e8f4f006451f7d0671",
+    "wof:geomhash":"7131d246ed076a7377c54475d3a1fb82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -328,8 +331,8 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1695884784,
-    "wof:name":"Hwanghae-namdo",
+    "wof:lastmodified":1730094956,
+    "wof:name":"South Hwanghae",
     "wof:parent_id":85632639,
     "wof:placetype":"region",
     "wof:placetype_local":"province",

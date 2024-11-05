@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kombuk"
+    ],
+    "name:eng_x_variant":[
+        "Kombuk-tong"
+    ],
     "name:kor_x_preferred":[
         "K\u014fmbuk-tong"
     ],
@@ -40,8 +46,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676605,
-        1108746907
+        1108746907,
+        85676605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":1293681433,
-    "wof:lastmodified":1566582754,
-    "wof:name":"Kombuk-tong",
+    "wof:lastmodified":1730271438,
+    "wof:name":"Kombuk",
     "wof:parent_id":1108746907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Woltang"
+    ],
+    "name:eng_x_variant":[
+        "Woltang-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676605,
-        1108748009
+        1108748009,
+        85676605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1867035
     },
     "wof:country":"KP",
-    "wof:geomhash":"a4bdec9d98900088d66b032e1de41eec",
+    "wof:geomhash":"df3f22d72358ef772908081ff6af47d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1326452145,
-    "wof:lastmodified":1566581738,
-    "wof:name":"Woltang-ni",
+    "wof:lastmodified":1730271415,
+    "wof:name":"Woltang",
     "wof:parent_id":1108748009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.81638999999998,
+    125.81639,
     38.24139,
-    125.81638999999998,
+    125.81639,
     38.24139
 ],
-  "geometry": {"coordinates":[125.81638999999998,38.24139],"type":"Point"}
+  "geometry": {"coordinates":[125.81639,38.24139],"type":"Point"}
 }

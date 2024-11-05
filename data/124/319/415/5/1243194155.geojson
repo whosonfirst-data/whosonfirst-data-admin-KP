@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Naedong"
+    ],
+    "name:eng_x_variant":[
+        "Naedong-ni"
+    ],
     "name:und_x_variant":[
         "\ub0b4\ub3d9\ub9ac",
         "Naedong-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676605,
-        1108747817
+        1108747817,
+        85676605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1874002
     },
     "wof:country":"KP",
-    "wof:geomhash":"ae820a6076c1da25e0e6f7ba5dd9dc53",
+    "wof:geomhash":"6aa52be22889c79eb6b42dd8b03da013",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1243194155,
-    "wof:lastmodified":1566584941,
-    "wof:name":"Naedong-ni",
+    "wof:lastmodified":1730271493,
+    "wof:name":"Naedong",
     "wof:parent_id":1108747817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.49611000000002,
+    125.49611,
     37.92889,
-    125.49611000000002,
+    125.49611,
     37.92889
 ],
-  "geometry": {"coordinates":[125.49611000000002,37.92889],"type":"Point"}
+  "geometry": {"coordinates":[125.49611,37.92889],"type":"Point"}
 }

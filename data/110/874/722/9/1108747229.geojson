@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Wonsan"
     ],
+    "name:eng_x_variant":[
+        "Wonsan City"
+    ],
     "name:fra_x_preferred":[
         "Wonsan"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479326339,
-    "wof:geomhash":"90d638a9f75be1f11a040fe4908b0f0d",
+    "wof:geomhash":"f3deb9ef0f2b05a1e7c246939a62b0ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747229,
-    "wof:lastmodified":1695886766,
-    "wof:name":"Wonsan City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Wonsan",
     "wof:parent_id":85676619,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

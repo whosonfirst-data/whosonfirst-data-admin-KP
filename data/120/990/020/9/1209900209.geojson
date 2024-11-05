@@ -29,19 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sangsogon"
+    ],
+    "name:eng_x_variant":[
+        "Sangsogon-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632639,
-        85676619,
-        1108747853
+        1108747853,
+        85676619
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1888136
     },
     "wof:country":"KP",
-    "wof:geomhash":"85012a546995061c1fdcaae8729a3439",
+    "wof:geomhash":"7af18a1338e9e05a9645d1af308f8f39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +58,8 @@
         }
     ],
     "wof:id":1209900209,
-    "wof:lastmodified":1566583477,
-    "wof:name":"Sangsogon-ni",
+    "wof:lastmodified":1730271454,
+    "wof:name":"Sangsogon",
     "wof:parent_id":1108747853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.00943999999998,
+    128.00944,
     38.46417,
-    128.00943999999998,
+    128.00944,
     38.46417
 ],
-  "geometry": {"coordinates":[128.00943999999998,38.46417],"type":"Point"}
+  "geometry": {"coordinates":[128.00944000000001,38.46417],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wonp'ung"
+    ],
+    "name:eng_x_variant":[
+        "Wonp'ung-ni"
+    ],
     "name:und_x_variant":[
         "\uc6d0\ud48d\ub9ac",
         "W\u014fnp\u2019ung-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108747129
+        1108747129,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6302438
     },
     "wof:country":"KP",
-    "wof:geomhash":"049d024c8ec6c9f7bac0cd743639aea9",
+    "wof:geomhash":"1d3d94b51cefc839f71d02cf26f894ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1343465003,
-    "wof:lastmodified":1566582217,
-    "wof:name":"Wonp'ung-ni",
+    "wof:lastmodified":1730271427,
+    "wof:name":"Wonp'ung",
     "wof:parent_id":1108747129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -67,9 +73,9 @@
 },
   "bbox": [
     127.67417,
-    40.31444000000001,
+    40.31444,
     127.67417,
-    40.31444000000001
+    40.31444
 ],
-  "geometry": {"coordinates":[127.67417,40.31444000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.67417,40.31444],"type":"Point"}
 }

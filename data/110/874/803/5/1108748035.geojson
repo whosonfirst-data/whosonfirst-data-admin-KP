@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Sunchon"
     ],
+    "name:eng_x_variant":[
+        "Sunchon City"
+    ],
     "name:fra_x_preferred":[
         "Sunchon"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328284,
-    "wof:geomhash":"656121735fae96693a048e7fbc82bf3f",
+    "wof:geomhash":"36901b922b546e700b62ba5cda6b0886",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108748035,
-    "wof:lastmodified":1695886763,
-    "wof:name":"Sunchon City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Sunchon",
     "wof:parent_id":85676637,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

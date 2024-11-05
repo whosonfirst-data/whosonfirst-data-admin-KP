@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Unsung"
+    ],
+    "name:eng_x_variant":[
+        "Unsung-ni"
+    ],
     "name:und_x_variant":[
         "Hauns\u016dng-ni",
         "\uc6b4\uc2b9\ub9ac",
@@ -38,15 +44,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676629,
-        1108748049
+        1108748049,
+        85676629
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2044150
     },
     "wof:country":"KP",
-    "wof:geomhash":"0e49901597bc4adbec6368f17e51c5aa",
+    "wof:geomhash":"20ea59d2c2a90798173e6cbab5822edd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1210022783,
-    "wof:lastmodified":1566583771,
-    "wof:name":"Unsung-ni",
+    "wof:lastmodified":1730271462,
+    "wof:name":"Unsung",
     "wof:parent_id":1108748049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.81888999999998,
+    128.81889,
     40.59194,
-    128.81888999999998,
+    128.81889,
     40.59194
 ],
-  "geometry": {"coordinates":[128.81888999999998,40.59194],"type":"Point"}
+  "geometry": {"coordinates":[128.81889000000001,40.59194],"type":"Point"}
 }

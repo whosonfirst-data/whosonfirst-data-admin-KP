@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Haeju"
     ],
+    "name:eng_x_variant":[
+        "Haeju City"
+    ],
     "name:fra_x_preferred":[
         "Haeju"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328247,
-    "wof:geomhash":"3e17fd2fdd0821a12d4187cc907b85d0",
+    "wof:geomhash":"60c4e8ace7d49178ec356a1d23a8c4d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747743,
-    "wof:lastmodified":1695886754,
-    "wof:name":"Haeju City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Haeju",
     "wof:parent_id":85676605,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

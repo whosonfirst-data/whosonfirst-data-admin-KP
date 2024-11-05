@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Taep'ung"
+    ],
+    "name:eng_x_variant":[
+        "Taep'ung-ni"
+    ],
     "name:und_x_variant":[
         "\ub300\ud48d\ub9ac",
         "Taep\u2019ung-ni"
@@ -37,15 +43,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108746979
+        1108746979,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1868663
     },
     "wof:country":"KP",
-    "wof:geomhash":"b071023b2f7324dcae8211e919dc580f",
+    "wof:geomhash":"d86eb1441a4ccb2efb44494b63bd5ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1242764921,
-    "wof:lastmodified":1566584870,
-    "wof:name":"Taep'ung-ni",
+    "wof:lastmodified":1730271491,
+    "wof:name":"Taep'ung",
     "wof:parent_id":1108746979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    126.24056000000002,
+    126.24056,
     39.90139,
-    126.24056000000002,
+    126.24056,
     39.90139
 ],
-  "geometry": {"coordinates":[126.24056000000002,39.90139],"type":"Point"}
+  "geometry": {"coordinates":[126.24056,39.90139],"type":"Point"}
 }

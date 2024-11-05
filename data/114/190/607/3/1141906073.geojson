@@ -31,6 +31,9 @@
         "\u03a3\u03b9\u03bd-\u039d\u03b9"
     ],
     "name:eng_x_preferred":[
+        "Sin"
+    ],
+    "name:eng_x_variant":[
         "Sin-Ni"
     ],
     "name:fas_x_preferred":[
@@ -195,8 +198,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676637,
-        1108746865
+        1108746865,
+        85676637
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -213,8 +216,8 @@
         }
     ],
     "wof:id":1141906073,
-    "wof:lastmodified":1636494985,
-    "wof:name":"Sin-Ni",
+    "wof:lastmodified":1730271511,
+    "wof:name":"Sin",
     "wof:parent_id":1108746865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

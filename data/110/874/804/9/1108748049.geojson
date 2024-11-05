@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Tanchon"
     ],
+    "name:eng_x_variant":[
+        "Tanchon City"
+    ],
     "name:fra_x_preferred":[
         "Tanchon"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328288,
-    "wof:geomhash":"181294e5e22e5d21acb3831b041fa3b7",
+    "wof:geomhash":"a4cc8f7abe375b236d45763a279679e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108748049,
-    "wof:lastmodified":1695886764,
-    "wof:name":"Tanchon City",
+    "wof:lastmodified":1730094958,
+    "wof:name":"Tanchon",
     "wof:parent_id":85676629,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tagal"
+    ],
+    "name:eng_x_variant":[
+        "Tagal-tong"
+    ],
     "name:und_x_variant":[
         "\ub2e4\uac08\ub3d9",
         "Tagal-tong"
@@ -37,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676615,
-        1108747943
+        1108747943,
+        85676615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":1259749607,
-    "wof:lastmodified":1566585176,
-    "wof:name":"Tagal-tong",
+    "wof:lastmodified":1730271500,
+    "wof:name":"Tagal",
     "wof:parent_id":1108747943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

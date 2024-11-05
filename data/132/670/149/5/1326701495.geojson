@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hwaryong"
+    ],
+    "name:eng_x_variant":[
+        "Hwaryong-ni"
+    ],
     "name:kor_x_preferred":[
         "\ud654\ub8e1\ub9ac"
     ],
@@ -36,15 +42,15 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676641,
-        1108746961
+        1108746961,
+        85676641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2043874
     },
     "wof:country":"KP",
-    "wof:geomhash":"bb9b0d0366b52b73d55d8c1c9a7d936f",
+    "wof:geomhash":"eea40da4905951ed44fc86c923d34268",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1326701495,
-    "wof:lastmodified":1566581957,
-    "wof:name":"Hwaryong-ni",
+    "wof:lastmodified":1730271420,
+    "wof:name":"Hwaryong",
     "wof:parent_id":1108746961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     127.70861,
-    41.32167000000001,
+    41.32167,
     127.70861,
-    41.32167000000001
+    41.32167
 ],
-  "geometry": {"coordinates":[127.70860999999999,41.32167000000001],"type":"Point"}
+  "geometry": {"coordinates":[127.70860999999999,41.32167],"type":"Point"}
 }

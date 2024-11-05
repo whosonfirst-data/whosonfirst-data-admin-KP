@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Kanggye"
     ],
+    "name:eng_x_variant":[
+        "Kanggye City"
+    ],
     "name:fra_x_preferred":[
         "Kanggye"
     ],
@@ -52,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1479328257,
-    "wof:geomhash":"0a2b18686994dc4ab1c17a098fceb31c",
+    "wof:geomhash":"30bd282228f0c7b1c65862a31fbd2c2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +65,8 @@
         }
     ],
     "wof:id":1108747813,
-    "wof:lastmodified":1695886756,
-    "wof:name":"Kanggye City",
+    "wof:lastmodified":1730094959,
+    "wof:name":"Kanggye",
     "wof:parent_id":85676623,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-kp",

@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chuhang"
+    ],
+    "name:eng_x_variant":[
+        "Chuhang-ni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -47,8 +53,8 @@
         }
     ],
     "wof:id":1309696235,
-    "wof:lastmodified":1566584538,
-    "wof:name":"Chuhang-ni",
+    "wof:lastmodified":1730271482,
+    "wof:name":"Chuhang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",

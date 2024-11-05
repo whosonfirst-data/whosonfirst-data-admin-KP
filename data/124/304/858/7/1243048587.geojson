@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sokkong"
+    ],
+    "name:eng_x_variant":[
+        "Sokkong-ni"
+    ],
     "name:und_x_variant":[
         "\uc11d\uace1\ub9ac",
         "S\u014fkkong-ni"
@@ -38,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632639,
-        85676633,
-        1108747105
+        1108747105,
+        85676633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1243048587,
-    "wof:lastmodified":1566584799,
-    "wof:name":"Sokkong-ni",
+    "wof:lastmodified":1730271489,
+    "wof:name":"Sokkong",
     "wof:parent_id":1108747105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kp",
